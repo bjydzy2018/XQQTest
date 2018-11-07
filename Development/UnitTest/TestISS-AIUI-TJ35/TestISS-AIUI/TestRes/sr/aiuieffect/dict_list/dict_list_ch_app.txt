@@ -1,0 +1,8 @@
+{
+	"dictname": "app",
+	"dictcontant": [
+		{ "name": "王者农药"},
+		{ "name": "愤怒的小鸟"},
+		{ "name": "神庙逃亡"}
+	]
+}

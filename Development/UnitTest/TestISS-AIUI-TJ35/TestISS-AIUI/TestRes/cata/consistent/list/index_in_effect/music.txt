@@ -1,0 +1,1340 @@
+Title||1	Artist||1	Album||1	Genre||1	Filename|【MTV俱乐部大奖】Zedd - Stay The Night(Feat. Hayley Williams).mp3|1	add	music.bin
+Title|Graduation (Friends Forever) (LP Version)|1	Artist|Vitamin C|1	Album|Vitamin C|1	Genre|Other|1	Filename|Vitamin C - Friends Forever.mp3|1	add	music.bin
+Title|??? ??|1	Artist|Roy Kim|1	Album|SUPER STAR K4 TOP12 Part.1|1	Genre||1	Filename|Roy Kim、郑俊英 - 化为尘埃.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第二期】齐秦 - 思念是一种病.mp3|1	add	music.bin
+Title|02.离开地球表面|1	Artist|五月天|1	Album|离开地球表面 Jump！|1	Genre||1	Filename|【第四期】五月天 - 离开地球表面.mp3|1	add	music.bin
+Title|2AM진운&Jr.&김지수&강소라---B급인생|1	Artist||1	Album|Dream High2 OST Part6|1	Genre|jazz|1	Filename|Jr.、姜素拉、郑珍云、金智秀 - B级人生.mp3|1	add	music.bin
+Title|9 Crimes|1	Artist|Damien Rice|1	Album|9|1	Genre|jazz|1	Filename|Damien Rice - 9 Crimes.mp3|1	add	music.bin
+Title|无辜|1	Artist|曹格|1	Album|Super Sunshine (影音安可版)|1	Genre|Other|1	Filename|【第六期】曹格 - 无辜.mp3|1	add	music.bin
+Title|999朵玫瑰|1	Artist|群星|1	Album|999朵玫瑰|1	Genre|jazz|1	Filename|群星-999朵玫瑰.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|流行歌曲|1	Filename|【第二期】熊天平 - 火柴天堂.mp3|1	add	music.bin
+Title|All About You|1	Artist|邓紫棋|1	Album|LOVE 10 情歌集|1	Genre|jazz|1	Filename|邓紫棋 - All About U.mp3|1	add	music.bin
+Title|All Day|1	Artist|Cody Simpson|1	Album|4 U EP|1	Genre|jazz|1	Filename|Cody Simpson - All Day.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第二期】张学友 - 我等到花儿也谢了.mp3|1	add	music.bin
+Title|all fired up|1	Artist|The Saturdays|1	Album|On Your Radar|1	Genre|jazz|1	Filename|The Saturdays - All Fired Up.mp3|1	add	music.bin
+Title|All For You|1	Artist|郑恩地&徐仁国|1	Album||1	Genre|jazz|1	Filename|徐仁国、郑恩地 - All For You.mp3|1	add	music.bin
+Title|Almost Lover (Album Version)|1	Artist|A Fine Frenzy|1	Album|Almost Lover|1	Genre|jazz|1	Filename|A Fine Frenzy - Almost Lover.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第六期】霍尊 - 卷珠帘.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第六期】静婷 - 我的心里没有他.mp3|1	add	music.bin
+Title|Are You Gonna Be My Girl|1	Artist|Jet|1	Album|公告榜前100单曲(2004)|1	Genre|jazz|1	Filename|Jet - Are You Gonna Be My Girl.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第六期】宋冬野 - 斑马,斑马.mp3|1	add	music.bin
+Title|Automatic|1	Artist|Nicki Minaj|1	Album|Pink Friday: Roman Reloaded|1	Genre|jazz|1	Filename|Nicki Minaj - Automatic.mp3|1	add	music.bin
+Title|Bao He|1	Artist|Karen Mok|1	Album|Without You|1	Genre|摇滚|1	Filename|莫文蔚 - 薄荷.mp3|1	add	music.bin
+Title|Be Happy MIX 1203|1	Artist||1	Album||1	Genre|摇滚|1	Filename|群星 - 快乐送.mp3|1	add	music.bin
+Title|Beautiful Days|1	Artist|吴智敏|1	Album|学校2013(KBS月火剧) Part.2|1	Genre|摇滚|1	Filename|J-Min - Beautiful Days.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第三期】戴佩妮 - 你要的爱.mp3|1	add	music.bin
+Title|Beauty And A Beat|1	Artist|Justin Bieber、Nicki Minaj|1	Album|Believe(Deluxe Edition)|1	Genre|摇滚|1	Filename|Justin Bieber、Nicki Minaj - Beauty And A Beat.mp3|1	add	music.bin
+Title|Because Of You|1	Artist|Kelly Clarkson|1	Album||1	Genre||1	Filename|Kelly Clarkson - Because Of You.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第三期】齐秦 - 痛并快乐着.mp3|1	add	music.bin
+Title|甜甜的|1	Artist|周杰伦|1	Album|我很忙 搜啦EP - 全球华语Demo音乐网 www.sosolala.com|1	Genre|Other|1	Filename|周杰伦 - 甜甜的.mp3|1	add	music.bin
+Title|对你爱不完|1	Artist|郭富城|1	Album|尝碔-癸稲ぃЧ|1	Genre|genre|1	Filename|【第四期】郭富城 - 对你爱不完.mp3|1	add	music.bin
+Title|陀飞轮|1	Artist|陈奕迅|1	Album|Time Files EP|1	Genre|Pop|1	Filename|陈奕迅 - 陀飞轮.mp3|1	add	music.bin
+Title|绒花|1	Artist|群星|1	Album|中国电影百年歌曲精萃 Vol.6|1	Genre|Other|1	Filename|【第一期】李谷一 - 绒花.mp3|1	add	music.bin
+Title|Big Bang Theory Theme|1	Artist|Barenaked Ladies|1	Album|Hits From Yesterday & The Day Before|1	Genre||1	Filename|【最佳喜剧男主角：Jim Parsons（生活大爆炸）】Barenaked Ladies - Big Bang Theory Theme.mp3|1	add	music.bin
+Title|Blow|1	Artist|Ke$ha|1	Album|Blow - Single|1	Genre||1	Filename|Ke$ha - Blow.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第四期】Joan Jett & the Blackhearts - I Love Rock N' Roll.mp3|1	add	music.bin
+Title|Blow Me (One Last Kiss)|1	Artist|P!nk|1	Album|Blow Me(One Last Kiss)|1	Genre||1	Filename|P!nk - Blow Me (One Last Kiss).mp3|1	add	music.bin
+Title|Born This Way（生而如此）|1	Artist|Lady GaGa|1	Album|Born This Way|1	Genre||1	Filename|Lady GaGa - Born This Way.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第四期】崔健 - 新长征路上的摇滚.mp3|1	add	music.bin
+Title|Lark in the clear air|1	Artist|Cara Dillon卡拉·迪伦|1	Album|Cara Dillon《卡兰.迪伦》|1	Genre|Other|1	Filename|Cara Dillon - Lark In The Clear Air.mp3|1	add	music.bin
+Title|Breathless|1	Artist|Shayne Ward|1	Album|Breathless|1	Genre||1	Filename|Shayne Ward - Breathless.mp3|1	add	music.bin
+Title|build on 2015/4/13 with Mp3tag v2.65a - the universal Tag Editor www.mp3tag.de|1	Artist||1	Album||1	Genre||1	Filename||1	add	music.bin
+Title||1	Artist|苏打绿|1	Album||1	Genre||1	Filename|【第四期】苏打绿 - 我	想你.mp3|1	add	music.bin
+Title|Bye Bye Bye|1	Artist|Lovestoned|1	Album|Rising Love|1	Genre||1	Filename|Lovestoned - Bye Bye Bye.mp3|1	add	music.bin
+Title|C U When U Get There (feat. 40 thevz)|1	Artist|Coolio|1	Album|Highlites: The Collection|1	Genre||1	Filename|Coolio - C U When U Get There(Feat. 40 Thevz).mp3|1	add	music.bin
+Title|Cadillac, Cadillac|1	Artist|Train|1	Album|Cadillac, Cadillac|1	Genre||1	Filename|Train - Cadillac,Cadillac.mp3|1	add	music.bin
+Title|Call You Tonight|1	Artist|johnta austin|1	Album||1	Genre||1	Filename|Whitney Houston - Call You Tonight.mp3|1	add	music.bin
+Title|我要快乐|1	Artist|张惠妹|1	Album|幸福的天空 1 有你真	|1	Genre|Other|1	Filename|张惠妹 - 我要快乐_.mp3|1	add	music.bin
+Title|我们都寂寞|1	Artist|陈奕迅|1	Album|陈奕迅-黑白灰|1	Genre|.|1	Filename|【第五期】陈奕迅 - 我们都寂寞.mp3|1	add	music.bin
+Title|Catch My Breath|1	Artist|Kelly Clarkson|1	Album||1	Genre||1	Filename|Kelly Clarkson - Catch My Breath.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第四期】张靓颖 - 光芒.mp3|1	add	music.bin
+Title|你微笑时	美|1	Artist|谢霆锋|1	Album|释放|1	Genre|Other|1	Filename|谢霆锋 - 你微笑时	add	music.bin
+Title|Craigie Hill|1	Artist|Cara Dillon|1	Album|Cara Dillon|1	Genre||1	Filename|Cara Dillon - Craigie Hill.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第五期】陈奕迅 - 爱是怀疑.mp3|1	add	music.bin
+Title|Crazy Kids|1	Artist|Ke$ha|1	Album|Warrior (Deluxe Version)|1	Genre||1	Filename|Ke$ha - Crazy Kids.mp3|1	add	music.bin
+Title|梁静茹 - 丝路 01.丝路|1	Artist|梁静茹|1	Album|丝路 通往爱的路途|1	Genre|华语流行音乐【Chinese Pop Music】|1	Filename|梁静茹 - 丝路.mp3|1	add	music.bin
+Title|Dance With My Father|1	Artist|Celine Dion|1	Album|My Love Ultimate Essential Collection|1	Genre||1	Filename|Céline Dion - Dance With My Father.mp3|1	add	music.bin
+Title|Lonely Alcoholic|1	Artist|mika|1	Album|Songs for Sorrow (EP)|1	Genre|Other|1	Filename|Mika - Lonely Alcoholic.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第五期】贰佰 - 玫瑰.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第五期】范晓萱 - 那种女孩.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第五期】黄仲昆 - 有多少爱可以重来.mp3|1	add	music.bin
+Title|Dear Darkness|1	Artist|PJ Harvey|1	Album|White Chalk|1	Genre||1	Filename|PJ Harvey - Dear Darkness.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第五期】朴树 - 平凡之路.mp3|1	add	music.bin
+Title|发如雪|1	Artist|周杰伦|1	Album|十一月的萧邦|1	Genre|流行歌曲|1	Filename|周杰伦 - 发如雪.mp3|1	add	music.bin
+Title|Die Young|1	Artist|Ke$ha|1	Album|Die Young|1	Genre||1	Filename|Ke$ha - Die Young.mp3|1	add	music.bin
+Title|My Immortal_Evanescence|1	Artist|格莱美|1	Album||1	Genre|Other|1	Filename|Evanescence - My Immortal.mp3|1	add	music.bin
+Title|Dirty Little Secret|1	Artist|The All-American Rejects|1	Album|Move Along|1	Genre||1	Filename|The All-American Rejects - Dirty Little Secret.mp3|1	add	music.bin
+Title|Don't Matter|1	Artist|Akon|1	Album|绯闻女孩 第一季|1	Genre||1	Filename|Akon - Don't Matter.mp3|1	add	music.bin
+Title|Letting Go|1	Artist|Jo De La Rosa|1	Album|Unscripted|1	Genre|Other|1	Filename|Jo De La Rosa - Letting Go.mp3|1	add	music.bin
+Title|Take A Bow|1	Artist|Rihanna|1	Album|Power Hits 3(冠军全击3)|1	Genre|Other|1	Filename|Rihanna - Take A Bow.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【第五期】指南针乐队 - 爱着谁.mp3|1	add	music.bin
+Title|17.Do Somethin'|1	Artist|Britney Spears|1	Album|My Prerogative|1	Genre|Other|1	Filename|Britney Spears - Do Somethin'.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|genre|1	Filename|【第五期】周璇 - 凤凰于飞.mp3|1	add	music.bin
+Title|每天|1	Artist|纪佳松|1	Album|Blue J|1	Genre|Other|1	Filename|纪佳松 - 每天.mp3|1	add	music.bin
+Title|谢谢侬|1	Artist|陈奕迅|1	Album|special thanks to|1	Genre|Pop|1	Filename|【第四期】陈奕迅 - 谢谢侬.mp3|1	add	music.bin
+Title|Don't Stop The Party|1	Artist|Black Eyed Peas|1	Album|The Beginning (Deluxe Edition)|1	Genre||1	Filename|Black Eyed Peas - Don't Stop The Party.mp3|1	add	music.bin
+Title|Drinking from the Bottle (feat. Tinie Tempah)|1	Artist|Calvin Harris|1	Album|18 Months (Deluxe Edition)|1	Genre||1	Filename|Calvin Harris - Drinking From The Bottle.mp3|1	add	music.bin
+Title|Dying in the sun|1	Artist|The Cranberries|1	Album|天下足球音乐全纪录|1	Genre||1	Filename|The Cranberries - Dying In The Sun.mp3|1	add	music.bin
+Title|E1Kim Taylor I am you|1	Artist|群星|1	Album|闪点行动|1	Genre||1	Filename|Kim Taylor - I Am You.mp3|1	add	music.bin
+Title|Elephant|1	Artist|Alexandra Burke|1	Album|Elephant|1	Genre||1	Filename|Alexandra Burke - Elephant(Feat. Erick Morillo).mp3|1	add	music.bin
+Title|Engel|1	Artist|Rammstein|1	Album|Sehnsucht|1	Genre||1	Filename|Rammstein - Engel.mp3|1	add	music.bin
+Title|Dare Foe More_周杰伦&F4&蔡依林(2004百事广告曲)|1	Artist|周杰伦|1	Album|百事音乐风云榜|1	Genre|Other|1	Filename|群星 - Dare For More.mp3|1	add	music.bin
+Title|再说|1	Artist|范逸臣|1	Album|无乐不作 (新歌+精选)|1	Genre|Other|1	Filename|范逸臣 - 再说.mp3|1	add	music.bin
+Title|	马不吃回头草|1	Artist|夏天Alex|1	Album|果果推荐QQ：512837743|1	Genre|Blues|1	Filename|夏天Alex - 	add	music.bin
+Title|Eternity|1	Artist|Kelly Sweet|1	Album||1	Genre||1	Filename|Kelly Sweet - Eternity.mp3|1	add	music.bin
+Title|Everytime We Touch|1	Artist|实况足球|1	Album|实况足球2010 V2.0 原声音乐|1	Genre||1	Filename|Cascada - Everytime We Touch.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳编剧：Moira Walley-Beckett （绝命毒师）】Keziah Jones - Beautiful Emilie.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳编舞】Sia - Chandelier.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳导演：Cary Joji Fukunaga（真探）】The Hat - The Angry River(Feat. Father John Misty、S.I.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳导演】DJ Snake、Lil Jon - Turn Down For What.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳歌词录影带】5 Seconds of Summer - Don't Stop.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳剪辑】Eminem - Rap God.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳剧集：绝命毒师】Breaking Bad - Breaking Bad Main Title Theme.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳流行录影带】Ariana Grande - Problem(Feat. Iggy Azalea).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳迷你剧：冰血暴】Jeff Russo - Bemidji,MN(Feat. The Prague FILMharmonic Orchestra).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳迷你剧编辑：Steven Moffat（神探夏洛克）】David Arnold - Potential Clients.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳迷你剧导演：Colin Bucksey（冰血暴）】Jeff Russo - Wrench And Numbers(Feat. The Prague FILMh.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳迷你剧男配角：Martin Freeman（神探夏洛克）】David Arnold、Michael Price - John Is Quite A Guy.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳迷你剧男主角：Benedict Cumberbatch（神探夏洛克）】David Arnold - Opening Titles.mp3|1	add	music.bin
+Title|Fairy Tale|1	Artist|Toni Braxton|1	Album|Heat|1	Genre||1	Filename|Toni Braxton - Fairy Tale.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳迷你剧女主角：Jessica Lange（美国恐怖故事）】Raffertie - Last Train Home.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳男歌手录影带】Ed Sheeran - Sing.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳男配角：Aaron Paul（绝命毒师）】Mick Harvey - Out Of Time Man.mp3|1	add	music.bin
+Title|Fall In Lie|1	Artist|Inna|1	Album|Party Never Ends (Standard Edition)|1	Genre||1	Filename|Inna - Fall In Lie.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳女歌手录影带】Katy Perry - Dark Horse(Feat. Juicy J).mp3|1	add	music.bin
+Title|落叶归根|1	Artist|王力宏|1	Album|改变自己|1	Genre|Other|1	Filename|【第四期】王力宏 - 落叶归根.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳女主角：Julianna Margulies（傲骨贤妻）】Tiffany - I Luv How You Feel.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳视觉特效】OK Go - The Writing's On The Wall.mp3|1	add	music.bin
+Title|Finally|1	Artist|Fergie|1	Album|The Dutchess|1	Genre||1	Filename|Fergie - Finally.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳喜剧导演：Gail Mancuso（摩登家庭）】JAY Z - Big Pimpin'.mp3|1	add	music.bin
+Title|Fingers|1	Artist|Pink|1	Album|Best of MP3 人气超强西洋总冠军|1	Genre||1	Filename|P!nk - Fingers.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳喜剧男配角：Ty Burrell（摩登家庭）】Amos Lee - Sweet Pea.mp3|1	add	music.bin
+Title|暗恋|1	Artist|张智成|1	Album|暗恋(台湾版)|1	Genre|Pop|1	Filename|张智成 - 暗恋.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳新人】Fifth Harmony - Miss Movin' On.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳摇滚录影带】Lorde - Royals.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳艺术指导】Arcade Fire - Reflektor.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最佳组合录影带】Beyonce - Drunk In Love(Feat. Jay Z).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|【最具启发性录影带、最佳摄影】Beyonce - Pretty Hurts.mp3|1	add	music.bin
+Title|Forever & Always|1	Artist|Taylor Swift|1	Album|Fearless|1	Genre||1	Filename|Taylor Swift - Forever & Always(Piano Ver.).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|5 Seconds of Summer - She Looks So Perfect.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|7!! - バイバイ.mp3|1	add	music.bin
+Title|If I Die Young|1	Artist|The Band Perry|1	Album||1	Genre|Other|1	Filename|The Band Perry - If I Die Young.mp3|1	add	music.bin
+Title|爱上她|1	Artist|光良|1	Album|光芒|1	Genre|Pop|1	Filename|光良 - 爱上她.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Adam Levine - Lost Stars.mp3|1	add	music.bin
+Title|当爱再靠近|1	Artist|脕玫脠么脫垄|1	Album|Love And City|1	Genre|Pop|1	Filename|刘若英 - 当爱在靠近.mp3|1	add	music.bin
+Title|Four Leaf Clover|1	Artist|Diana Vickers|1	Album|Songs From The Tainted Cherry Tree|1	Genre||1	Filename|Diana Vickers - Four Leaf Clover.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Adele - Rolling In The Deep(Remix).mp3|1	add	music.bin
+Title|Get Low|1	Artist|Stat Quo|1	Album|Eminem Presents The Re-Up|1	Genre||1	Filename|【最佳男主角：Bryan Cranston（绝命毒师）】Stat Quo - Get Low.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Afrojack - As Your Friend(Feat. Chris Brown).mp3|1	add	music.bin
+Title|Break Your Heart|1	Artist|Taio Cruz|1	Album|欧美2009年9月最新单曲|1	Genre|Other|1	Filename|Taio Cruz - Break Your Heart.mp3|1	add	music.bin
+Title||1	Artist|对面Bar-李莎Lisa [QQ-10535357]|1	Album|定座电话：13071232777 & 139712|1	Genre|Other|1	Filename|Akia - I Still Miss You.mp3|1	add	music.bin
+Title|Celebration|1	Artist|英文群星|1	Album|欧美2009年8月最新单曲|1	Genre|Other|1	Filename|Madonna - Celebration.mp3|1	add	music.bin
+Title|鱼|1	Artist|陈绮贞|1	Album|太阳|1	Genre|Pop|1	Filename|陈绮贞 - 鱼.mp3|1	add	music.bin
+Title|Come & Get It|1	Artist|Krewella|1	Album|Get Wet|1	Genre|Dance|1	Filename|Krewella - Come & Get It.mp3|1	add	music.bin
+Title|Girl Gone Wild|1	Artist|Madonna|1	Album|Girl Gone Wild|1	Genre||1	Filename|Madonna - Girl Gone Wild.mp3|1	add	music.bin
+Title|Girl On Fire|1	Artist|Alicia Keys|1	Album|Girl On Fire - Single|1	Genre||1	Filename|【第一期】Alicia Keys - Girl On Fire.mp3|1	add	music.bin
+Title|每天想你一遍|1	Artist|林志炫|1	Album|狶в-TRUE LIVE|1	Genre|Minimal/Noise|1	Filename|林志炫 - 每天想你一遍.mp3|1	add	music.bin
+Title|Glitter In The Air|1	Artist|Pink|1	Album|Funhouse|1	Genre||1	Filename|P!nk - Glitter In The Air.mp3|1	add	music.bin
+Title|Good Time|1	Artist|Owl City & Carly Rae Jepsen|1	Album|Good Time - Single|1	Genre||1	Filename|Carly Rae Jepsen、Owl City - Good Time.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|A-Lin - 温柔累了.mp3|1	add	music.bin
+Title|Graduation (Friends Forever)|1	Artist|Vitamin C|1	Album|Vitamin C|1	Genre||1	Filename|Vitamin C - Graduation(Friends Forever).mp3|1	add	music.bin
+Title|hands on the radio|1	Artist|Chris Garneau|1	Album|El Radio|1	Genre||1	Filename|Chris Garneau - Hands On The Radio.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Ariana Grande - Snow In California.mp3|1	add	music.bin
+Title|Happy Day|1	Artist|曹格|1	Album|超级4th场|1	Genre||1	Filename|曹格 - Happy Day.mp3|1	add	music.bin
+Title|Happy Now|1	Artist|Will Young|1	Album|Echoes|1	Genre||1	Filename|Will Young - Happy Now.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|A-Teens - Floorfiller (Extended Version).mp3|1	add	music.bin
+Title|Heart Attack|1	Artist|Demi Lovato|1	Album|Heart Attack - Single|1	Genre||1	Filename|Demi Lovato - Heart Attack.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Avril Lavigne - Girlfriend.mp3|1	add	music.bin
+Title|Heartbeats|1	Artist|Amy Diamond|1	Album|wings And Roundabouts|1	Genre||1	Filename|Amy Diamond - Heartbeats.mp3|1	add	music.bin
+Title|Heartbreak On Hold|1	Artist|Alexandra Burke|1	Album|Heartbreak On Hold|1	Genre||1	Filename|Alexandra Burke - Heartbreak On Hold.mp3|1	add	music.bin
+Title|少年游|1	Artist|魏晨|1	Album|13|1	Genre|Other|1	Filename|魏晨 - 少年游.mp3|1	add	music.bin
+Title|Here We Go Again|1	Artist|Demi Lovato|1	Album|Here We Go Again|1	Genre||1	Filename|Demi Lovato - Here We Go Again.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Babyface - Drama, Love & 'Lationships.mp3|1	add	music.bin
+Title|自由|1	Artist|张学友|1	Album|想和你去吹吹风|1	Genre|Other|1	Filename|张学友 - 自由.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Basshunter - Dota.mp3|1	add	music.bin
+Title|你的样子|1	Artist|林志炫|1	Album|一个人的样子|1	Genre|Other|1	Filename|林志炫 - 你的样子.mp3|1	add	music.bin
+Title|Hold My Hand|1	Artist|Michael Jackson|1	Album|Michael|1	Genre||1	Filename|Akon、Michael Jackson - Hold My Hand.mp3|1	add	music.bin
+Title||1	Artist|Beyond（黄家驹）|1	Album|音乐殿堂MusicPalace|1	Genre||1	Filename|Beyond - 海阔天空.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Beyond - 喜欢你.mp3|1	add	music.bin
+Title|Hold On, We're Going Home (feat. Majid Jordan)|1	Artist|Drake|1	Album|Hold On, We're Going Home (feat. Majid Jordan) - Single|1	Genre||1	Filename|【最佳嘻哈录影带】Drake - Hold On, We're Going Home(Feat. Majid Jordan).mp3|1	add	music.bin
+Title|How Far We've Come|1	Artist|matchbox twenty|1	Album|CEM主流音乐月刊 Vol.7 2007|1	Genre||1	Filename|Matchbox Twenty - How Far We've Come.mp3|1	add	music.bin
+Title|她说|1	Artist|林俊杰|1	Album|她说|1	Genre|Other|1	Filename|【第二期】林俊杰 - 她说.mp3|1	add	music.bin
+Title|喜帖街|1	Artist|谢安琪|1	Album|xuei.com 星光音乐厅|1	Genre|Other|1	Filename|谢安琪 - 喜帖街.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Block B - HER.mp3|1	add	music.bin
+Title|Enjoy the Ride|1	Artist|Krewella|1	Album|Get Wet|1	Genre|Dance|1	Filename|Krewella - Enjoy The Ride.mp3|1	add	music.bin
+Title|Hurt|1	Artist|Leona Lewis|1	Album|Hurt: The EP|1	Genre||1	Filename|Leona Lewis - Hurt.mp3|1	add	music.bin
+Title|I Belive I Can Fly(R.KELLY)|1	Artist|群星|1	Album||1	Genre||1	Filename|【第六期】R. Kelly - I Believe I Can Fly.mp3|1	add	music.bin
+Title|深信不疑|1	Artist|蔡健雅|1	Album|T-time 蔡健雅 新歌+精选|1	Genre|Blues|1	Filename|蔡健雅 - 深信不疑.mp3|1	add	music.bin
+Title|三秒钟|1	Artist|陈慧琳|1	Album|情不自禁|1	Genre|Pop|1	Filename|陈慧琳 - 三秒钟.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Britney Spears - Circus(Twister Rave Remix).mp3|1	add	music.bin
+Title|俺たちの青春|1	Artist|Hey!Say!JUMP|1	Album|Dreams come true|1	Genre|Other|1	Filename|Hey! Say! JUMP - 俺たちの青春.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Britney Spears - Work Bitch.mp3|1	add	music.bin
+Title|I Need You vs. I Need You|1	Artist|Groove Coverage|1	Album|7 Years.and.50 Days|1	Genre||1	Filename|Groove Coverage - I Need You Vs. I Need.mp3|1	add	music.bin
+Title|I Remember|1	Artist|Mocca|1	Album|曾经的歌 民谣系列|1	Genre||1	Filename|Mocca - I Remember.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Bruno Mars - When I Was Your Man.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|BTOB、龙俊亨 - 随着时间流逝.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Busker Busker - 樱花结局.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Busker Busker - 最初 所谓爱情.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|By2 - 没理由.mp3|1	add	music.bin
+Title|I Saw Her Standing There|1	Artist|Paul McCartney|1	Album|Amoeba's Secret|1	Genre||1	Filename|Paul McCartney - I Saw Her Standing There(Live).mp3|1	add	music.bin
+Title|I Wasn‘t Over You|1	Artist|98°|1	Album|98 Degrees|1	Genre||1	Filename||1	add	music.bin
+Title|I Wish You Well|1	Artist|Mariah Carey(玛利亚.凯莉)|1	Album|E=MC2|1	Genre||1	Filename|Mariah Carey - I Wish You Well.mp3|1	add	music.bin
+Title|If I Were A Boy|1	Artist|Beyonce Knowles|1	Album|I Am...Sasha Fierce|1	Genre||1	Filename|Beyonce - If I Were A Boy.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Cascada - Bad Boy.mp3|1	add	music.bin
+Title|In Control|1	Artist|孟楠|1	Album|我只有我|1	Genre||1	Filename|孟楠 - In Control.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Céline Dion - Because You Loved Me.mp3|1	add	music.bin
+Title|寂寞堂口|1	Artist|谢霆锋|1	Album||1	Genre|Other|1	Filename|谢霆锋 - 寂寞堂口.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Charli XCX - Break The Rules.mp3|1	add	music.bin
+Title||1	Artist|傲世孤星|1	Album||1	Genre||1	Filename|Charlotte Perrelli - Hero.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Cher - Woman's World.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Chris Brown - X.mp3|1	add	music.bin
+Title|In The Dark|1	Artist|Dev|1	Album|mp3.zing.vn|1	Genre||1	Filename|DEV - In The Dark.mp3|1	add	music.bin
+Title|Indescribable Flavor|1	Artist|Cyndi Wang|1	Album|The 10th Cyndi Wang|1	Genre||1	Filename|王心凌 - 说不出的味道.mp3|1	add	music.bin
+Title|两个恰恰	|1	Artist|旺福|1	Album|???|1	Genre|Other|1	Filename|旺福 - 两个恰恰	add	music.bin
+Title|International Love|1	Artist|Pitbull|1	Album|Planet Pit (Deluxe Edition)|1	Genre||1	Filename|Chris Brown、Pitbull - International Love.mp3|1	add	music.bin
+Title|Into a Fantasy|1	Artist|Alexander Rybak|1	Album|Into a Fantasy|1	Genre||1	Filename|Alexander Rybak - Into A Fantasy【驯龙高手2主题歌】.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Christy Nockels - By Our Love.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|CNBLUE - Go Your Way.mp3|1	add	music.bin
+Title|王妃|1	Artist|萧敬腾|1	Album|王妃|1	Genre|Other|1	Filename|萧敬腾 - 王妃.mp3|1	add	music.bin
+Title|Super Star|1	Artist|S.H.E|1	Album|Super Star|1	Genre|Other|1	Filename|【第四期】S.H.E - Super Star.mp3|1	add	music.bin
+Title|It's Time|1	Artist|Imagine Dragons|1	Album|Continued Silence|1	Genre||1	Filename|Imagine Dragons - It's Time.mp3|1	add	music.bin
+Title|Journey|1	Artist|Corrinne May|1	Album|Fly Away 首张创作专辑|1	Genre||1	Filename|Corrinne May - Journey.mp3|1	add	music.bin
+Title|點一把火炬|1	Artist|林俊傑|1	Album|陸|1	Genre|Pop|1	Filename|林俊杰 - 点一把火炬.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Dada Life - Born To Rage(Feat. Sebastian Bach)(Radio Edit).mp3|1	add	music.bin
+Title|下个，路口，见|1	Artist|李宇春|1	Album|李宇春|1	Genre|Other|1	Filename|【第一期】李宇春 - 下个,路口,见.mp3|1	add	music.bin
+Title|just one last dance|1	Artist|Sarah Connor|1	Album|曾经的歌系列 9|1	Genre||1	Filename|Sarah Connor - Just One Last Dance(Feat. Natural).mp3|1	add	music.bin
+Title||1	Artist|Daniel Powter|1	Album|dp|1	Genre||1	Filename|Daniel Powter - Free Loop.mp3|1	add	music.bin
+Title|Kiss You (Prod. by Rami Yacoub & Written by Shellback)|1	Artist|One Direction|1	Album|Take Me Home|1	Genre||1	Filename|One Direction - Kiss You.mp3|1	add	music.bin
+Title|爱情的海洋|1	Artist|she|1	Album||1	Genre|Acid|1	Filename|S.H.E - 爱情的海洋.mp3|1	add	music.bin
+Title|La Isla Bonita|1	Artist|Madonna|1	Album|The Immaculate Collection|1	Genre||1	Filename|Madonna - La Isla Bonita.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|David Guetta - Without You (Feat. Usher).mp3|1	add	music.bin
+Title|Landslide [Orchestra Version] [Live From Soundstage]|1	Artist|Stevie Nicks|1	Album|The Soundstage Sessions|1	Genre||1	Filename|【最佳迷你剧女配角：Kathy Bates（美国恐怖故事）】Stevie Nicks - Landslide.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|David Guetta、Rihanna - Who's That Chick.mp3|1	add	music.bin
+Title|棉花糖|1	Artist|至上励合|1	Album|降临|1	Genre|Other|1	Filename|至上励合 - 棉花糖.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|David Pop - Don't Give Up(The Fight)(XTM Radio Mix).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|David Pop - So Happy(Radio Edit).mp3|1	add	music.bin
+Title|Let Her Go|1	Artist|Passenger|1	Album|538 Hitzone - Best of 2012|1	Genre||1	Filename|Passenger - Let Her Go.mp3|1	add	music.bin
+Title|Let It Go|1	Artist|Alexandra Burke|1	Album|Let It Go|1	Genre||1	Filename|Alexandra Burke - Let It Go.mp3|1	add	music.bin
+Title|我不爱你了|1	Artist|张芸京|1	Album|相反的我|1	Genre|Other|1	Filename|张芸京 - 我不爱你了.mp3|1	add	music.bin
+Title|Tonight|1	Artist|Ludacris Enrique Iglesias|1	Album|2010年11月欧美新歌速递4|1	Genre|Other|1	Filename|Enrique Iglesias - Tonight(Feat. Ludacris、Frank E).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|DEV、JLS - She Makes Me Wanna.mp3|1	add	music.bin
+Title|Life For Rent|1	Artist|Dido|1	Album|Life For Rent|1	Genre||1	Filename|Dido - Life For Rent.mp3|1	add	music.bin
+Title|young for you|1	Artist|the gala|1	Album|young for you|1	Genre|Other|1	Filename|GALA - Young For You.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Donna Lewis - I Could Be The One.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Eddy Kim - 你的使用法(Love Guide Of You).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Eddy Kim、金艺林 - Roommate.mp3|1	add	music.bin
+Title|Live for the Night|1	Artist|Krewella|1	Album|Live for the Night - Single|1	Genre||1	Filename|Krewella - Live For The Night.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Elliott Yamin - Wait For You.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Emeli Sandé - Read All About It, Part. III.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Eminem - Guts Over Fear(Feat. Sia).mp3|1	add	music.bin
+Title|Live It Up (feat. Pitbull)|1	Artist|Jennifer Lopez;Pitbull|1	Album|Live It Up (feat. Pitbull) - S|1	Genre||1	Filename|Jennifer Lopez - Live It Up(Feat. Pitbull).mp3|1	add	music.bin
+Title|Live My Life|1	Artist|Justin Bieber Far East Movement|1	Album|Live My Life|1	Genre||1	Filename|Far East Movement、Justin Bieber - Live My Life.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Eternity - Love.mp3|1	add	music.bin
+Title|失踪|1	Artist|林忆莲|1	Album|林忆莲's|1	Genre|Other|1	Filename|林忆莲 - 失踪.mp3|1	add	music.bin
+Title|Lollipop|1	Artist|BigBang|1	Album|ASIA BEST 2006-2009|1	Genre||1	Filename|2NE1、Bigbang - Lollipop.mp3|1	add	music.bin
+Title|Lonely Carnival|1	Artist|Cyndi Wang|1	Album|The 10th Cyndi Wang|1	Genre||1	Filename|王心凌 - 孤独的嘉年华会.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|EXILE TRIBE - THE REVOLUTION.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|EXO - 咆哮(Growl).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|F.I.R. - 爱过.mp3|1	add	music.bin
+Title|如果你是李白|1	Artist|莫文蔚|1	Album|[ i ]|1	Genre|Pop|1	Filename|莫文蔚 - 如果你是李白.mp3|1	add	music.bin
+Title|Love is Color-Blind|1	Artist|Sarah Connor、TQ|1	Album|Sarah Connor|1	Genre||1	Filename|Sarah Connor - Love Is Color Blind.mp3|1	add	music.bin
+Title|Love mail|1	Artist|Nico|1	Album|2010年7月欧美新歌快递|1	Genre||1	Filename|Nicoleta Matei - Love Mail.mp3|1	add	music.bin
+Title|Love Me|1	Artist|Justin Bieber|1	Album|My Worlds - The Collection (Disc2)|1	Genre||1	Filename|Justin Bieber - Love Me.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Fifth Harmony - Them Girls Be Like.mp3|1	add	music.bin
+Title|Love You Like a Love Song|1	Artist|Selena Gomez the Scene|1	Album|When The Sun Goes Down(Deluxe Edition)|1	Genre||1	Filename|Selena Gomez - Love You Like A Love Song.mp3|1	add	music.bin
+Title|百年孤寂|1	Artist|王菲|1	Album|BoxUp Music|1	Genre|Goa|1	Filename|王菲 - 百年孤寂.mp3|1	add	music.bin
+Title|love+the+way+you+lie|1	Artist|Eminem&Rihanna|1	Album||1	Genre||1	Filename|Eminem、Rihanna - Love The Way You Lie.mp3|1	add	music.bin
+Title|燃烧吧！小宇宙 (摩托罗拉L7手机广告歌)|1	Artist|牛奶@咖啡|1	Album|燃烧吧！小宇宙|1	Genre|Other|1	Filename|牛奶咖啡 - 燃烧吧!小宇宙.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|G-Dragon - 狂放(Crooked).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Glennis Grace - Royals(Lorde).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|GReeeeN - オレンジ.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Green Day - Minority.mp3|1	add	music.bin
+Title|Lullaby|1	Artist|Bond(古典辣妹)|1	Album|Classified|1	Genre||1	Filename|Bond - Lullaby.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Groove Coverage - All That Matters.mp3|1	add	music.bin
+Title|M|1	Artist|Hamasaki Ayumi|1	Album||1	Genre||1	Filename|浜崎あゆみ - M.mp3|1	add	music.bin
+Title|Mad|1	Artist|Ne-Yo|1	Album|Year Of The Gentleman|1	Genre||1	Filename|Ne-Yo - Mad.mp3|1	add	music.bin
+Title|Makes Me Wonder|1	Artist|Maroon 5|1	Album|Makes Me Wonder (AU CDS)|1	Genre||1	Filename|Maroon 5 - Makes Me Wonder.mp3|1	add	music.bin
+Title|恋人啊|1	Artist|辛晓琪|1	Album|恋人啊|1	Genre|Pop|1	Filename|辛晓琪 - 恋人啊!.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Henry - Fantastic.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Henry - Need You Now (Feat. Hoya Of Infinite).mp3|1	add	music.bin
+Title|Melt The Snow|1	Artist|Shayne Ward|1	Album|Breathless|1	Genre||1	Filename|Shayne Ward - Melt The Snow.mp3|1	add	music.bin
+Title|雾中机场|1	Artist|张信哲|1	Album|我	想|1	Genre|Pop|1	Filename|张信哲 - 雾中机场.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|High4、IU - 除了春天爱情和樱花.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|High4、金艺林 - A Little Close.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Hilary Duff - All About You.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Hope组合 - 给我一个理由.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Hyper Crush - WTF.mp3|1	add	music.bin
+Title|Missing You|1	Artist|Bobby Tinsley|1	Album|What About Bob|1	Genre||1	Filename|Bobby Tinsley - Missing You.mp3|1	add	music.bin
+Title|Morning|1	Artist|卫兰|1	Album|Morning|1	Genre||1	Filename|卫兰 - Morning.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Inna - Take Me Higher.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|IU、Ulala Session - 焦急的心.mp3|1	add	music.bin
+Title|I Can't Give You Anything But|1	Artist|Tony Bennett & Lady Gaga|1	Album|Cheek to Cheek (Deluxe Version|1	Genre|Pop|1	Filename|Lady GaGa、Tony Bennett - I Can't Give You Anything But Love.mp3|1	add	music.bin
+Title|Moves Like Jagger(Studio Recording from the Voice Performance)|1	Artist|Maroon 5|1	Album|Moves Like Jagger (The Voice Performance)|1	Genre||1	Filename|Christina Aguilera、Maroon 5 - Moves Like Jagger.mp3|1	add	music.bin
+Title|期待|1	Artist|张敬轩|1	Album|Hins my way（港版）|1	Genre|Pop|1	Filename|张敬轩 - 期待.mp3|1	add	music.bin
+Title|愛 轉角|1	Artist|羅志祥|1	Album|Speshow|1	Genre|Other|1	Filename|罗志祥 - 爱转角.mp3|1	add	music.bin
+Title|Mr. moon|1	Artist|熊天平|1	Album|一个人流浪|1	Genre||1	Filename|熊天平 - Mr. Moon.mp3|1	add	music.bin
+Title|Must Be a Reason Why... (feat. J. Pearl)|1	Artist||1	Album|Obsession|1	Genre||1	Filename|Shayne Ward - Must Be A Reason Why.mp3|1	add	music.bin
+Title|My Bloody Valentine|1	Artist|Tata Young|1	Album|Ready For Love|1	Genre||1	Filename|Tata Young - My Bloody Valentine.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Jem - You Will Make It(Feat. Vusi Mahlasela).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Jennifer Lopez - Booty(Feat. Iggy Azalea).mp3|1	add	music.bin
+Title|习惯了寂寞|1	Artist|牛奶@咖啡|1	Album|习惯了寂寞|1	Genre|Other|1	Filename|牛奶咖啡 - 习惯了寂寞.mp3|1	add	music.bin
+Title|1|1	Artist|Britney Spears|1	Album|欧美2009年10月最新单曲|1	Genre|Other|1	Filename|Britney Spears - 3.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Jessie J - Love Letter.mp3|1	add	music.bin
+Title|月半小夜曲|1	Artist|李克勤|1	Album|留住这一刻-李克勤1|1	Genre|genre|1	Filename|【第三期】李克勤 - 月半小夜曲.mp3|1	add	music.bin
+Title|My Generation|1	Artist|The Who|1	Album|My Generation|1	Genre||1	Filename|The Who - My Generation.mp3|1	add	music.bin
+Title|My Love|1	Artist|Justin Timberlake|1	Album|My Love|1	Genre||1	Filename|Justin Timberlake - My Love(Feat. T.I.)(Paul Oakenfold Radio Edit).mp3|1	add	music.bin
+Title|my love|1	Artist|WestLife|1	Album||1	Genre||1	Filename|Westlife - My Love.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|John Legend - All Of Me.mp3|1	add	music.bin
+Title|My Love|1	Artist|Hebe|1	Album|My Love EP|1	Genre||1	Filename|田馥甄 - My Love.mp3|1	add	music.bin
+Title|Neon Light|1	Artist|Blake Shelton|1	Album|Neon Light|1	Genre||1	Filename|Blake Shelton - Neon Light.mp3|1	add	music.bin
+Title|Never Know|1	Artist|Jack Johnson|1	Album|In Between Dreams|1	Genre||1	Filename|Jack Johnson - Never Know.mp3|1	add	music.bin
+Title|信乐团 - 离歌（十大伤感情歌-01）|1	Artist|信乐团|1	Album|新歌|1	Genre|新歌|1	Filename|信乐团 - 离歌.mp3|1	add	music.bin
+Title|Never Say Never|1	Artist|Justin Bieber、Jaden Smith|1	Album|Never Say Never (The Remixes)|1	Genre||1	Filename|Jaden Smith、Justin Bieber - Never Say Never.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Justin Bieber - Heartbreaker.mp3|1	add	music.bin
+Title|Are You The One|1	Artist|Timo Tolkki|1	Album|Hymn To Life|1	Genre|Hard Rock|1	Filename|Timo Tolkki - Are You The One.mp3|1	add	music.bin
+Title|频率|1	Artist|苏打绿|1	Album|苏打绿(Sodagreen) 同名专辑|1	Genre|Other|1	Filename|苏打绿 - 频率.mp3|1	add	music.bin
+Title|Nothing Like Us (Bonus Tracks)|1	Artist|justin bieber|1	Album|believe acoustic|1	Genre||1	Filename|Justin Bieber - Nothing Like Us.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Justin Garner - Lights Go Down.mp3|1	add	music.bin
+Title|Notorious|1	Artist|The Saturdays|1	Album|Notorious - Single|1	Genre||1	Filename|The Saturdays - Notorious.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Justin Timberlake - SexyBack(Feat. Timbaland).mp3|1	add	music.bin
+Title|Oceanside|1	Artist|Lainey Lou|1	Album|Melody Lane|1	Genre||1	Filename|Lainey Lou - Oceanside.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Kat Graham - Wanna Say.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Katy Perry - E.T..mp3|1	add	music.bin
+Title|On The Floor|1	Artist|Jennifer Lopez、Pitbull|1	Album|(What Is) Love|1	Genre||1	Filename|Jennifer Lopez - On The Floor(Feat. Pibull).mp3|1	add	music.bin
+Title|Party In The USA|1	Artist|Miley Cyrus|1	Album|New Song 2009|1	Genre|Other|1	Filename|Miley Cyrus - Party In The U.S.A..mp3|1	add	music.bin
+Title|one love|1	Artist|blue|1	Album|one love|1	Genre||1	Filename||1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Kazaky - In The Middle.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Kazaky - Touch Me.mp3|1	add	music.bin
+Title|One More Night|1	Artist|Maroon 5|1	Album|Overexposed (Deluxe Version)|1	Genre||1	Filename|Maroon 5 - One More Night.mp3|1	add	music.bin
+Title|Party Rock Anthem（feat. Lauren Bennett & Goonrock）|1	Artist|LMFAO|1	Album|Sorry For Party Rocking|1	Genre||1	Filename|LMFAO - Party Rock Anthem(Feat. Lauren Bennett、GoonRock).mp3|1	add	music.bin
+Title|Poison|1	Artist|Groove Coverage|1	Album|7 Years.and.50 Days|1	Genre||1	Filename|Groove Coverage - Poison.mp3|1	add	music.bin
+Title|Radioman [EDX's 5un5hine Remix]|1	Artist|Afrojack|1	Album|Defected In The House Ibiza 09|1	Genre||1	Filename|Afrojack - Radioman(EDX's 5un5hine Remix).mp3|1	add	music.bin
+Title|Rain And Tears|1	Artist|Aphrodite's Child|1	Album|Universal Masters|1	Genre||1	Filename|Aphrodite's Child - Rain And Tears.mp3|1	add	music.bin
+Title|相见恨晚|1	Artist|彭佳慧|1	Album|彭游恋歌 最爱精选|1	Genre|Other|1	Filename|彭佳慧 - 相见恨晚.mp3|1	add	music.bin
+Title|Raining In Paradise|1	Artist|Tamar Mardirossian|1	Album|Sinner Or A Saint|1	Genre||1	Filename|tamar kaprelian - Raining In Paradise.mp3|1	add	music.bin
+Title|Ride The Lightning|1	Artist|Metallica|1	Album|Ride The Lightning|1	Genre||1	Filename|【最佳喜剧剧集：摩登家庭】Metallica - Ride The Lightning.mp3|1	add	music.bin
+Title|Life Is Cool|1	Artist|sweetbox（糖果盒子)|1	Album|糖果盒子45超精选Sweetbox Complete Best|1	Genre|Other|1	Filename|Sweetbox - Life Is Cool.mp3|1	add	music.bin
+Title|会痛的石头|1	Artist|萧敬腾|1	Album|王妃|1	Genre|Other|1	Filename|【第四期】萧敬腾 - 会痛的石头.mp3|1	add	music.bin
+Title|回忆的沙漏|1	Artist|邓紫棋|1	Album|G.E.M.|1	Genre|Other|1	Filename|邓紫棋 - 回忆的沙漏.mp3|1	add	music.bin
+Title|春風吹|1	Artist|方大同|1	Album|Soul Boy - 方大同首張國語專輯|1	Genre|Other|1	Filename|方大同 - 春风吹.mp3|1	add	music.bin
+Title|船|1	Artist|那英|1	Album|我不是天使|1	Genre|Pop|1	Filename|那英 - 船.mp3|1	add	music.bin
+Title|Right Now|1	Artist|Rihanna|1	Album|Unapologetic|1	Genre||1	Filename|Rihanna - Right Now(Feat. David Guetta).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Kris Allen - To Make You Feel My Love.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Ladies' Code - So Wonderful.mp3|1	add	music.bin
+Title|04.咕叽咕叽|1	Artist|孙燕姿|1	Album|逆光|1	Genre|Blues|1	Filename|【第一期】孙燕姿 - 咕叽咕叽.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lady GaGa - Applause.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lady GaGa - Bad Romance.mp3|1	add	music.bin
+Title|Yeah 3X|1	Artist|Chris Brown|1	Album|Yeah 3X - Single|1	Genre|R&B/Soul|1	Filename|Chris Brown - Yeah 3X.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lady GaGa - G.U.Y.(KDrew Remix).mp3|1	add	music.bin
+Title|Rock N Roll|1	Artist|Avril Lavigne|1	Album||1	Genre||1	Filename|Avril Lavigne - Rock N Roll.mp3|1	add	music.bin
+Title|S&M|1	Artist|Rihanna|1	Album|Loud|1	Genre||1	Filename|Rihanna - S&M.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lasse Lindh - C'Mon Through.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lem - Give Me Your Body.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lenka - Everything At Once.mp3|1	add	music.bin
+Title|风雨无阻|1	Artist|群星|1	Album|国语老歌经典 - Chinese Favourites|1	Genre|Other|1	Filename|周华健 - 风雨无阻.mp3|1	add	music.bin
+Title|回到过去|1	Artist|周杰伦|1	Album|八度空间|1	Genre|Pop|1	Filename|周杰伦 - 回到过去.mp3|1	add	music.bin
+Title|Sanctus II|1	Artist|天使之翼合唱团|1	Album|Welcome to Libera's World|1	Genre||1	Filename|Libera - Sanctus II.mp3|1	add	music.bin
+Title||1	Artist|Leona Lewis|1	Album|Spirit|1	Genre|Pop|1	Filename|Leona Lewis - Better In Time.mp3|1	add	music.bin
+Title|Sexy and I Know It|1	Artist|LMFAO|1	Album|Sorry For Party Rocking|1	Genre||1	Filename|LMFAO - Sexy And I Know It.mp3|1	add	music.bin
+Title|错的人|1	Artist|萧亚轩|1	Album|潇洒小姐|1	Genre|Other|1	Filename|萧亚轩 - 错的人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lily Allen - LDN.mp3|1	add	music.bin
+Title|五月天-倔强|1	Artist||1	Album||1	Genre|Other|1	Filename|五月天 - 倔强.mp3|1	add	music.bin
+Title|Shake Your Body(2014百事群星广告)|1	Artist|郭富城|1	Album|Shake Your Body|1	Genre||1	Filename|吴莫愁、罗志祥、蔡依林、郭富城 - Shake Your Body.mp3|1	add	music.bin
+Title|Si Seulement|1	Artist|Lynnsha|1	Album|Elle Et Moi|1	Genre||1	Filename|Lynnsha - Si Seulement.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|LOCO、孝敏 - Nice Body.mp3|1	add	music.bin
+Title|水手公园|1	Artist|Gala|1	Album|张亚东自选集|1	Genre|Other|1	Filename|GALA - 水手公园.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Lucky Twice - Me And You.mp3|1	add	music.bin
+Title|Mad Sexy Cool|1	Artist|Babyface|1	Album||1	Genre|Other|1	Filename|Babyface - Mad, Sexy, Cool.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|m.o.v.e - Lookin On The Sunny Side.mp3|1	add	music.bin
+Title|Skinny Love|1	Artist|Birdy|1	Album|2011年4月欧美新歌速递1|1	Genre||1	Filename|Birdy - Skinny Love.mp3|1	add	music.bin
+Title|Someone Like You|1	Artist|Adele|1	Album|21|1	Genre||1	Filename|Adele - Someone Like You.mp3|1	add	music.bin
+Title|Somewhere Only We Know|1	Artist|Keane|1	Album|Somewhere Only We Know|1	Genre||1	Filename|Keane - Somewhere Only We Know.mp3|1	add	music.bin
+Title|爱是对的|1	Artist|蔡旻佑|1	Album|寂寞，	了|1	Genre|Other|1	Filename|蔡旻佑 - 爱是对的.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Mariah Carey - Touch My Body.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Mario - I Choose You.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Maroon 5 - Animals.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Maroon 5 - It Was Always You.mp3|1	add	music.bin
+Title|Stand|1	Artist|Jewel|1	Album|www.tingoh.com|1	Genre||1	Filename|Jewel - Stand.mp3|1	add	music.bin
+Title|Stay (feat. Mikky Ekko)|1	Artist|Rihanna|1	Album|Unapologetic (Deluxe Version)|1	Genre||1	Filename|Rihanna - Stay(Feat. Mikky Ekko).mp3|1	add	music.bin
+Title|Stay Awake (feat. Madeon)|1	Artist|Ellie Goulding|1	Album|Halcyon Days (Deluxe Edition)|1	Genre||1	Filename|Ellie Goulding - Stay Awake(Feat. Madeon).mp3|1	add	music.bin
+Title|Streets Of London|1	Artist|Ralph McTell|1	Album|Streets Of London - Best Of|1	Genre||1	Filename|Ralph McTell - Streets Of London.mp3|1	add	music.bin
+Title|恋爱ing|1	Artist|五月天|1	Album||1	Genre|Other|1	Filename|五月天 - 恋爱ing.mp3|1	add	music.bin
+Title|你就是我最想要的人|1	Artist||1	Album|你就是我最想要的人|1	Genre|Pop|1	Filename|老猫 - 你就是我最想要的人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Mika - Happy Ending.mp3|1	add	music.bin
+Title|Suit & Tie featuring JAY Z|1	Artist|Justin Timberlake|1	Album|Suit & Tie featuring JAY Z|1	Genre||1	Filename|Justin Timberlake - Suit & Tie(Feat.JAY Z).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Mika - Stuck In The Middle.mp3|1	add	music.bin
+Title|Summertrain|1	Artist|Greyson Chance|1	Album|Hold On ‘Til the Night|1	Genre||1	Filename|Greyson Chance - Summertrain.mp3|1	add	music.bin
+Title|Sunshine Girl|1	Artist|moumoon|1	Album||1	Genre||1	Filename|moumoon - Sunshine Girl.mp3|1	add	music.bin
+Title|Sweat|1	Artist|David Guetta|1	Album|Nothing But the Beat|1	Genre||1	Filename|David Guetta、Snoop Lion - Sweat.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Mondialito - Notre Echec.mp3|1	add	music.bin
+Title|Sweet Dream|1	Artist|Red Sox|1	Album||1	Genre||1	Filename|Red Sox - Sweet Dream.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|MP魔幻力量 - 我还是爱着你.mp3|1	add	music.bin
+Title|Take It Off|1	Artist|Ke$ha|1	Album|Animal|1	Genre||1	Filename|Ke$ha - Take It Off.mp3|1	add	music.bin
+Title|Take+My+Heart|1	Artist|Soko|1	Album||1	Genre||1	Filename|SoKo - Take My Heart.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Naturally 7 - Pachelbel's Canon In D.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|N-Dubz - We Dance On(Feat. Bodyrox).mp3|1	add	music.bin
+Title|Talking to the Moon|1	Artist|Bruno Mars|1	Album|Songs for Japan|1	Genre||1	Filename|Bruno Mars - Talking To The Moon.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Nick Carter - Burning Up(feat. Briton _Briddy_ Shaw).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Nick Jonas - Chains.mp3|1	add	music.bin
+Title|矜持|1	Artist|王菲|1	Album|我们的主打歌|1	Genre|Other|1	Filename|王菲 - 矜持.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Nicki Minaj - Starships.mp3|1	add	music.bin
+Title|Teach Me How To Be Loved|1	Artist|Rebecca Ferguson|1	Album|Heaven|1	Genre||1	Filename|Rebecca Ferguson - Teach Me How To Be Loved.mp3|1	add	music.bin
+Title|We Can Work It Out|1	Artist|糖果盒子|1	Album|The Next Generation|1	Genre|Other|1	Filename|Sweetbox - We Can Work It Out.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Olivia Ong - 等等.mp3|1	add	music.bin
+Title|唱这歌(粤)|1	Artist|郭富城|1	Album|粤语-郭富城-爱情大舞台|1	Genre|Alt-Folk|1	Filename|郭富城 - 唱这歌.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Orange Caramel - 像我一样做做看.mp3|1	add	music.bin
+Title|Teenage Dream|1	Artist|Katy Perry|1	Album|Teenage Dream|1	Genre||1	Filename|Katy Perry - Teenage Dream(Kaskade Club Remix).mp3|1	add	music.bin
+Title|故乡的云|1	Artist|费翔|1	Album|title|1	Genre|genre|1	Filename|费翔 - 故乡的云.mp3|1	add	music.bin
+Title|TEENAGE LIFE|1	Artist|群星|1	Album|苏荷酒吧|1	Genre||1	Filename|Daz Sampson - Teenage Life.mp3|1	add	music.bin
+Title|Thank you my girl|1	Artist|东方神起|1	Album|TONE|1	Genre||1	Filename|东方神起 - Thank You My Girl.mp3|1	add	music.bin
+Title|童梦|1	Artist|光良 卫兰|1	Album|不会分离|1	Genre|Other|1	Filename|光良、卫兰 - 童梦.mp3|1	add	music.bin
+Title|The Other Side|1	Artist|Jason Derulo|1	Album|The Other Side - Single|1	Genre||1	Filename|Jason Derulo - The Other Side.mp3|1	add	music.bin
+Title|The Way You Look At Me|1	Artist|Christian Bautista|1	Album|Christian Bautista - Int'l Edition|1	Genre||1	Filename|christian bautista - The Way You Look At Me.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Pchy - 还	遇见你.mp3|1	add	music.bin
+Title|Titanium|1	Artist|David Guetta|1	Album|Nothing But The Beat (US Edition)|1	Genre||1	Filename|David Guetta - Titanium.mp3|1	add	music.bin
+Title|Waking Up In Vegas|1	Artist|凯蒂派瑞 Katy Perry|1	Album|One Of The Boys|1	Genre|Other|1	Filename|Katy Perry - Waking Up In Vegas.mp3|1	add	music.bin
+Title|爱(国语合唱版) 阿Sa/蔡卓妍|1	Artist|谢霆锋|1	Album|更多音乐请访问：www.6621.com|1	Genre|Other|1	Filename|蔡卓妍、谢霆锋 - 爱.mp3|1	add	music.bin
+Title|TOUCH MY HEART|1	Artist|罗志祥|1	Album|独一无二|1	Genre||1	Filename|罗志祥 - Touch My Heart.mp3|1	add	music.bin
+Title|下个星期去英国|1	Artist|陈绮贞|1	Album|太阳|1	Genre|Other|1	Filename|陈绮贞 - 下个星期去英国.mp3|1	add	music.bin
+Title|Trap(Feat. ??, ??)|1	Artist|Henry;曺圭贤;泰民(SHINee)|1	Album|The 1st Mini Album 'Trap'|1	Genre||1	Filename|Henry、圭贤、泰民 - Trap.mp3|1	add	music.bin
+Title|想做你的男朋友|1	Artist|张政|1	Album|2008年张政最新单曲《想做你男朋|1	Genre|R&B|1	Filename|张政 - 想做你男朋友.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Rihanna - Love The Way You Lie(Piano Ver.).mp3|1	add	music.bin
+Title|Trouble|1	Artist|Pink|1	Album|Greatest Hits...So Far!!! (Deluxe Version)|1	Genre||1	Filename|【最佳女配角：Anna Gunn（绝命毒师）】P!nk - Trouble.mp3|1	add	music.bin
+Title|Trouble Is A Friend|1	Artist|Lenka|1	Album|Lenka|1	Genre||1	Filename|Lenka - Trouble Is A Friend.mp3|1	add	music.bin
+Title|Turn Around (5,4,3,2,1)|1	Artist|Flo Rida|1	Album|Only One Flo [Part 1]|1	Genre||1	Filename|Flo Rida - Turn Around (5,4,3,2,1).mp3|1	add	music.bin
+Title|Turn Me On|1	Artist|David Guetta Nicki Minaj|1	Album|2011年8月欧美新歌速递|1	Genre||1	Filename|David Guetta、Nicki Minaj - Turn Me On.mp3|1	add	music.bin
+Title|原諒我|1	Artist|萧敬腾|1	Album|同名专辑|1	Genre|Other|1	Filename|萧敬腾 - 原谅我.mp3|1	add	music.bin
+Title|Turn Up The Love|1	Artist|Far East Movement&Cover Drive|1	Album||1	Genre||1	Filename|Far East Movement - Turn Up The Love(Feat. Cover Drive).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Rita Ora - I Will Never Let You Down(R3hab Remix).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Roy Kim - Bom Bom Bom.mp3|1	add	music.bin
+Title|Liekkas|1	Artist|Sofia Jannok|1	Album|欧美2009年12月最新单曲|1	Genre|Other|1	Filename|Sofia Jannok - Liekkas.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|RuPaul - Sissy That Walk.mp3|1	add	music.bin
+Title|Two Beds And A Coffee Machine 两张床与一台咖啡机|1	Artist|savage garden|1	Album|Affirmation 认定|1	Genre||1	Filename|Savage Garden - Two Beds And A Coffee Machine.mp3|1	add	music.bin
+Title|你快乐我内伤|1	Artist|蔡依林|1	Album|花蝴蝶（预购版）|1	Genre|Other|1	Filename|蔡依林 - 你快乐我内伤.mp3|1	add	music.bin
+Title|U + Ur Hand|1	Artist|P!nk|1	Album|I'm Not Dead|1	Genre||1	Filename|P!nk - U + Ur Hand.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Sarah Connor - Every Moment Of My Life.mp3|1	add	music.bin
+Title|Waiting For You|1	Artist|胡彦斌|1	Album|Music混合体|1	Genre||1	Filename|胡彦斌 - Waiting For You.mp3|1	add	music.bin
+Title|管他什么音乐|1	Artist|范晓萱|1	Album|一起|1	Genre|Other|1	Filename|范晓萱 - 管他什么音乐.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Sarah McLachlan - Angel.mp3|1	add	music.bin
+Title|We Are One|1	Artist|Kelly Sweet|1	Album|We Are One|1	Genre||1	Filename|Kelly Sweet - We Are One.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Sebastian Castro - S.E.B.mp3|1	add	music.bin
+Title|We Found Love|1	Artist|Rihanna|1	Album|We Found Love|1	Genre||1	Filename|Rihanna - We Found Love(Feat. Calvin Harris).mp3|1	add	music.bin
+Title|We Run The Night|1	Artist|Havana Brown&Pitbull|1	Album||1	Genre||1	Filename|Havana Brown - We Run The Night(Feat. Pitbull).mp3|1	add	music.bin
+Title|当时的月亮|1	Artist|王菲|1	Album|只爱陌生人|1	Genre|Pop|1	Filename|王菲 - 当时的月亮.mp3|1	add	music.bin
+Title|大惊小怪|1	Artist|信乐团|1	Album|天高地厚|1	Genre|Pop|1	Filename|【第二期】信乐团 - 大惊小怪.mp3|1	add	music.bin
+Title|What Now (Guy Scheiman Club Mix)|1	Artist|Rihanna|1	Album|What Now (Remix)|1	Genre||1	Filename|Rihanna - What Now(Guy Scheiman Club Mix).mp3|1	add	music.bin
+Title|Where Them Girls At|1	Artist|David Guetta|1	Album|Nothing But the Beat|1	Genre||1	Filename|David Guetta - Where Them Girls At.mp3|1	add	music.bin
+Title|White Noise / Red Meat|1	Artist|Dada Life|1	Album|White Noise / Red Meat|1	Genre||1	Filename|Dada Life - White Noise - Red Meat.mp3|1	add	music.bin
+Title|献世|1	Artist|陈小春|1	Album|陈小春-36算你狠|1	Genre|Pop|1	Filename|陈小春 - 献世.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Simple Plan - Welcome To My Life.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|SISTAR - I Swear.mp3|1	add	music.bin
+Title|Who Says|1	Artist|Selena Gomez&The Scene|1	Album||1	Genre||1	Filename|Selena Gomez - Who Says.mp3|1	add	music.bin
+Title|只是朋友|1	Artist|张震岳|1	Album|等我有一天|1	Genre|Pop|1	Filename|张震岳 - 只是朋友.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Stevie Hoang - All Night Long.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Sugababes - Get Sexy.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Sunny Hill - Monday Blues.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Super Junior - MAMACITA.mp3|1	add	music.bin
+Title|Wide Awake|1	Artist|Katy Perry|1	Album|Teenage Dream - The Complete Confection|1	Genre||1	Filename|Katy Perry - Wide Awake.mp3|1	add	music.bin
+Title|Wish You Were Here|1	Artist|Avril Lavigne|1	Album|Goodbye Lullaby|1	Genre||1	Filename|Avril Lavigne - Wish You Were Here.mp3|1	add	music.bin
+Title|背叛|1	Artist|曹格|1	Album|Superman|1	Genre|Mop[Q:68748942]|1	Filename|曹格 - 背叛.mp3|1	add	music.bin
+Title|Wonderful World|1	Artist|Eternity|1	Album||1	Genre||1	Filename|Eternity - Wonderful World.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Taio Cruz - Dynamite.mp3|1	add	music.bin
+Title|Won't Go Home Without You(Radio Mix)|1	Artist|Maroon 5|1	Album|Won't Go Home Without You|1	Genre||1	Filename|Maroon 5 - Won't Go Home Without You.mp3|1	add	music.bin
+Title|寂寞先生|1	Artist|曹格|1	Album|超级4场|1	Genre|Pop|1	Filename|曹格 - 寂寞先生.mp3|1	add	music.bin
+Title|Wrecking Ball|1	Artist|Miley Cyrus|1	Album|Bangerz (Deluxe Version)|1	Genre||1	Filename|【年度最佳录影带】Miley Cyrus - Wrecking Ball.mp3|1	add	music.bin
+Title|Yellow|1	Artist|Coldplay|1	Album||1	Genre||1	Filename|Coldplay - Yellow.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Taylor Swift - I Knew You Were Trouble.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|TFBOYS - 青春修炼手册.mp3|1	add	music.bin
+Title|我是真的爱你|1	Artist|张信哲|1	Album|我们的主打歌3|1	Genre|Other|1	Filename|【第六期】张信哲 - 我是真的爱你.mp3|1	add	music.bin
+Title|You Belong To Me|1	Artist|Jason Wade|1	Album|Shrek|1	Genre||1	Filename|Jason Wade - You Belong To Me.mp3|1	add	music.bin
+Title|Bounce|1	Artist|Sarah Connor|1	Album|Unbelievable|1	Genre|Other|1	Filename|Sarah Connor - Bounce.mp3|1	add	music.bin
+Title|I Need A Girl (Feat. G-dragon)|1	Artist|怕剧|1	Album|1笼 Solar|1	Genre|韩国MTV网 KRMTV.COM|1	Filename|太阳 - I Need A Girl(Feat. G-Dragon).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|The Innocence Mission - 500 Miles.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|The Innocence Mission - Over The Rainbow.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|The One、孙胜妍 - 只是看着.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|The Saturdays - 808.mp3|1	add	music.bin
+Title|You Raise Me Up|1	Artist|WestLife|1	Album|iTunes Essentials|1	Genre||1	Filename|【第一期】Westlife - You Raise Me Up.mp3|1	add	music.bin
+Title|You Smile|1	Artist|Eternity ∞|1	Album||1	Genre||1	Filename|Eternity - You Smile.mp3|1	add	music.bin
+Title|This Love|1	Artist|群星|1	Album||1	Genre|Other|1	Filename|Maroon 5 - This Love.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|The Ting Tings - That's Not My Name.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|The Vamps - Can We Dance.mp3|1	add	music.bin
+Title|You Yi Dian Dong Xin|1	Artist|Jeff Chang|1	Album|The Essential Jeff Chang|1	Genre||1	Filename|刘嘉玲、张信哲 - 有一点动心.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Timbaland - Apologize(Feat. OneRepublic).mp3|1	add	music.bin
+Title|最爱之后|1	Artist|谢霆锋|1	Album|wifedelove.51.com|1	Genre|Other|1	Filename|谢霆锋 - 最爱之后.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|TINT - 狼们不知道(Feat. 天地 Of Teen Top).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|TK from 凛として時雨 - Fantastic Magic.mp3|1	add	music.bin
+Title|Zui Tong Wu Sheng|1	Artist|Eric Suen|1	Album|Zui Tong Wu Sheng|1	Genre||1	Filename|孙耀威 - 最痛无声.mp3|1	add	music.bin
+Title|半杯鸳鸯|1	Artist|同恩|1	Album|??? (???)|1	Genre|Other|1	Filename|同恩 - 半杯鸳鸯.mp3|1	add	music.bin
+Title|ヒカリへ|1	Artist|Miwa|1	Album|ヒカリへ|1	Genre||1	Filename|miwa - ヒカリへ.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Train - Wonder What You're Doing For The Rest Of Your Life(Feat. Marsha Ambrosius).mp3|1	add	music.bin
+Title|ワット?ザ?ヘル|1	Artist|Avril Lavigne|1	Album|What The Hell|1	Genre||1	Filename|Avril Lavigne - What The Hell.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Twins - 女校男生.mp3|1	add	music.bin
+Title|唉唷喂呀(Ai Yo Wei Ya)|1	Artist|张震岳|1	Album|我是海雅谷慕|1	Genre|嘻哈|1	Filename|张震岳 - 唉唷喂呀.mp3|1	add	music.bin
+Title|爱的海洋|1	Artist|曲婉婷|1	Album|Say The Words 我为你歌唱|1	Genre||1	Filename|曲婉婷 - 爱的海洋.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Union J - Tonight (We Live Forever).mp3|1	add	music.bin
+Title|爱疯了|1	Artist|戴佩妮|1	Album|爱疯了|1	Genre||1	Filename|【第六期】戴佩妮 - 爱疯了.mp3|1	add	music.bin
+Title|爱很美|1	Artist|Sara|1	Album|拜拜，爱过|1	Genre||1	Filename|Sara、刘佳 - 爱很美.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|Westlife - Beautiful In White.mp3|1	add	music.bin
+Title|爱情木瓜|1	Artist|1983|1	Album|1\2|1	Genre||1	Filename|1983组合 - 爱情木瓜.mp3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |1	add	music.bin
+Title|为你写诗|1	Artist|吴克群|1	Album||1	Genre|Other|1	Filename|吴克羣 - 为你写诗.mp3|1	add	music.bin
+Title|爱情专属权|1	Artist|龙梅子,老猫|1	Album||1	Genre||1	Filename|老猫、龙梅子 - 爱情专属权.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|WINNER - Don't Flirt.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|WINNER - Empty.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|WINNER - I'm Him.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|WINNER - Love Is A Lie.mp3|1	add	music.bin
+Title|爱如潮水|1	Artist|张信哲|1	Album||1	Genre||1	Filename|张信哲 - 爱如潮水.mp3|1	add	music.bin
+Title|爱是一颗幸福的子弹|1	Artist|汪峰|1	Album|爱是一颗幸福的子弹|1	Genre||1	Filename|【第二期】汪峰 - 爱是一颗幸福的子弹.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|カノン - キセキ Song Of Love.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|阿牛 - 你没有哭.mp3|1	add	music.bin
+Title||1	Artist|梁静茹|1	Album||1	Genre||1	Filename|阿桑 - 一直很安静.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|阿肆 - 别告诉妈妈我失恋了.mp3|1	add	music.bin
+Title|爱夏|1	Artist|胡夏|1	Album|胡 爱夏|1	Genre||1	Filename|胡夏 - 爱夏.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|爱朵女孩 - 花开半夏.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|白安 - 若你真的有想过.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|白举纲 - 乘着破船回家.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|白鳥英美子 - THIS SONG FOR YOU.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|白雅言 - Morning Of Canon.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|白雅言 - 爱情学概论.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|白雅言 - 你留给我的三件事.mp3|1	add	music.bin
+Title|爱要坦荡荡|1	Artist|萧潇|1	Album|Beautiful Angel|1	Genre|青春|1	Filename|萧潇 - 爱要坦荡荡.mp3|1	add	music.bin
+Title|爱在被爱之前|1	Artist|戴佩妮|1	Album|回家路上|1	Genre||1	Filename|戴佩妮 - 爱在被爱之前.mp3|1	add	music.bin
+Title|爱着爱着就永远|1	Artist|田馥甄|1	Album|渺小|1	Genre||1	Filename|田馥甄 - 爱着爱着就永远.mp3|1	add	music.bin
+Title|‵舮|1	Artist|吵|1	Album|吵-DAVID TAO|1	Genre|General Blues|1	Filename|陶喆 - 沙滩.mp3|1	add	music.bin
+Title|爱转了一圈 金海心|1	Artist|www.popyy.cn流行音乐网|1	Album|www.popyy.cn流行音乐网|1	Genre||1	Filename|金海心 - 爱转了一圈.mp3|1	add	music.bin
+Title|愛情蒲公英-潘越雲-我是不是你最疼愛的人|1	Artist||1	Album||1	Genre||1	Filename|潘越云 - 我是不是你最疼爱的人.mp3|1	add	music.bin
+Title|白头到老|1	Artist|蔡卓妍|1	Album|白头到老|1	Genre||1	Filename|蔡卓妍 - 白头到老.mp3|1	add	music.bin
+Title|报应|1	Artist|高慧君|1	Album|点播女人心|1	Genre||1	Filename|高慧君 - 报应.mp3|1	add	music.bin
+Title|北戴河之歌|1	Artist|Gala|1	Album|追梦痴子心|1	Genre||1	Filename|GALA - 北戴河之歌.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|蔡健雅 - 周三的情书(Feat. 周三).mp3|1	add	music.bin
+Title|北京北京|1	Artist|汪峰|1	Album|勇敢的心|1	Genre||1	Filename|汪峰 - 北京北京.mp3|1	add	music.bin
+Title|背对背拥抱|1	Artist|林俊杰&萧亚轩|1	Album||1	Genre||1	Filename|林俊杰 - 背对背拥抱.mp3|1	add	music.bin
+Title|笨小孩|1	Artist|刘德华|1	Album||1	Genre||1	Filename|【第五期】刘德华 - 笨小孩.mp3|1	add	music.bin
+Title|笨小孩|1	Artist|刘德华|1	Album||1	Genre||1	Filename|刘德华 - 笨小孩.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|蔡依林 - 大艺术家.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|蔡依林 - 渴望就一块.mp3|1	add	music.bin
+Title|ハナノイロ|1	Artist|nano.RIPE|1	Album|花开物语|1	Genre|Other|1	Filename|nano.RIPE - ハナノイロ.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|蔡依林 - 柠檬草的味道.mp3|1	add	music.bin
+Title|比我幸福|1	Artist|陈晓东|1	Album|幸福男子|1	Genre||1	Filename|陈晓东 - 比我幸福.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|蔡依林 - 妥协.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|蔡依林 - 万花瞳.mp3|1	add	music.bin
+Title|边走边爱 （粤语）|1	Artist|谢霆锋|1	Album|英皇冠军精选NO.1|1	Genre|粤语歌曲|1	Filename|谢霆锋 - 边走边爱.mp3|1	add	music.bin
+Title|别说没有	男人|1	Artist|大哲|1	Album|不想回家的女人|1	Genre||1	Filename|大哲 - 别说没有	add	music.bin
+Title|别再惊动爱情|1	Artist|张栋梁|1	Album|别再惊动爱情|1	Genre||1	Filename|张栋梁 - 别再惊动爱情.mp3|1	add	music.bin
+Title|不，完美|1	Artist|李玖哲|1	Album|2009年五月热搜歌一|1	Genre||1	Filename|李玖哲 - 不,完美.mp3|1	add	music.bin
+Title|不能跟情人說的話|1	Artist|劉若英|1	Album|《我很	》|1	Genre||1	Filename|刘若英、范玮琪 - 不能跟情人说的话.mp3|1	add	music.bin
+Title|不是你的错(偶像剧《真爱找麻烦》插曲)|1	Artist|丁当|1	Album|	，难得|1	Genre||1	Filename|丁当 - 不是你的错.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|倉木麻衣 - 無敵なハート.mp3|1	add	music.bin
+Title|不忘初心|1	Artist|李行亮|1	Album|不忘初心|1	Genre||1	Filename|李行亮 - 不忘初心.mp3|1	add	music.bin
+Title|不想去远方|1	Artist|卢广仲|1	Album|慢灵魂|1	Genre||1	Filename|卢广仲 - 不想去远方.mp3|1	add	music.bin
+Title|All Right|1	Artist|??? (???)|1	Album|A Voice|1	Genre|Folk|1	Filename|金艺林 - All Right.mp3|1	add	music.bin
+Title|不要说话|1	Artist|陈奕迅|1	Album|不想放手|1	Genre|粤语歌曲|1	Filename|陈奕迅 - 不要说话.mp3|1	add	music.bin
+Title|彩虹天堂|1	Artist|刘畊宏|1	Album|彩虹天堂|1	Genre||1	Filename|【第六期】刘畊宏 - 彩虹天堂.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|曹越 - 你是潘金莲我是西门庆.mp3|1	add	music.bin
+Title|相对的失去(钢琴版)|1	Artist|江美琪|1	Album|朋友的朋友|1	Genre|Other|1	Filename|江美琪 - 相对的失去(钢琴版)【Intro】.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|侧田、刘浩龙 - 行者.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|曾静玟、范玮琪 - 千年.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|曾沛慈 - 一个人想着一个人.mp3|1	add	music.bin
+Title|彩虹天堂|1	Artist|刘畊宏|1	Album|彩虹天堂|1	Genre||1	Filename|刘畊宏 - 彩虹天堂.mp3|1	add	music.bin
+Title|彩云追月|1	Artist|李云迪|1	Album|红色钢琴|1	Genre|中国风|1	Filename|李云迪 - 彩云追月.mp3|1	add	music.bin
+Title|认命（清晰版）|1	Artist|陈柏宇|1	Album|First Experience|1	Genre|Other|1	Filename|陈柏宇 - 认命.mp3|1	add	music.bin
+Title|遇见我|1	Artist|曹方|1	Album||1	Genre|Other|1	Filename|曹方 - 遇见我.mp3|1	add	music.bin
+Title|蔡依林 我知道你很难过|1	Artist|欢迎加盟:13726892898|1	Album|弦音下载连锁欢迎加盟:137268928|1	Genre||1	Filename|【第三期】蔡依林 - 我知道你很难过.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈柏宇 - 尊严.mp3|1	add	music.bin
+Title|琍笴贾堕|1	Artist|Twins|1	Album|ǎ策稲|1	Genre|Other|1	Filename|Twins - 星光游乐园.mp3|1	add	music.bin
+Title|茶汤|1	Artist|郁可唯|1	Album|2011年10月新歌速递|1	Genre||1	Filename|郁可唯 - 茶汤.mp3|1	add	music.bin
+Title|情非得以(流星花园片头主题曲)|1	Artist|庾澄庆|1	Album|海啸|1	Genre|Pop|1	Filename|庾澄庆 - 情非得已.mp3|1	add	music.bin
+Title||1	Artist|Ella(陈嘉桦)|1	Album||1	Genre||1	Filename|陈嘉桦 - 坏女孩.mp3|1	add	music.bin
+Title|光之翼|1	Artist|王菲|1	Album|王菲|1	Genre|Pop|1	Filename|王菲 - 光之翼.mp3|1	add	music.bin
+Title|唱的是寂寞|1	Artist|爱戴|1	Album||1	Genre||1	Filename|爱戴 - 唱的是寂寞.mp3|1	add	music.bin
+Title|终身美丽|1	Artist|郑秀文|1	Album|Shocking Pink|1	Genre|Other|1	Filename|郑秀文 - 终身美丽.mp3|1	add	music.bin
+Title|倩女幽魂|1	Artist|张国荣|1	Album|张国荣	精选|1	Genre|Pop|1	Filename|张国荣 - 倩女幽魂.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈淑桦 - 梦醒时分.mp3|1	add	music.bin
+Title|Be a Man|1	Artist|卫诗|1	Album|Hit Me|1	Genre|Other|1	Filename|卫诗 - Be A Man(单曲版).mp3|1	add	music.bin
+Title|沉默是金 - `粤语经典老歌`|1	Artist|经典老歌|1	Album|张国荣-所有DISC1|1	Genre|粤语歌曲|1	Filename|张国荣 - 沉默是金.mp3|1	add	music.bin
+Title|香水|1	Artist|谢霆锋|1	Album|世纪预言|1	Genre|Pop|1	Filename|谢霆锋 - 香水.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈晓东 - 突然心动.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈学冬 - 不再见.mp3|1	add	music.bin
+Title|趁你还年轻|1	Artist|华晨宇|1	Album|趁你还年轻|1	Genre||1	Filename|华晨宇 - 趁你还年轻.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈奕迅 - 浮夸.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈奕迅 - 富士山下.mp3|1	add	music.bin
+Title|趁早|1	Artist|张惠妹|1	Album||1	Genre||1	Filename|张惠妹 - 趁早.mp3|1	add	music.bin
+Title|趁早|1	Artist|张宇|1	Album|男人的	 (新歌 精选)|1	Genre||1	Filename|张宇 - 趁早.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈奕迅 - 可以了.mp3|1	add	music.bin
+Title|定律|1	Artist|谢霆锋|1	Album|谅綹網-秆(弘杆紇禬眏)|1	Genre|Avant Rock|1	Filename|谢霆锋 - 定律.mp3|1	add	music.bin
+Title|人来人往|1	Artist|陈奕迅|1	Album|粤语-THE LINE-UP|1	Genre|genre|1	Filename|陈奕迅 - 人来人往.mp3|1	add	music.bin
+Title|当你|1	Artist|王心凌|1	Album|王心凌-Cyndi Begin|1	Genre|Pop|1	Filename|王心凌 - 当你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|陈奕迅 - 稳稳的幸福.mp3|1	add	music.bin
+Title|你还要我做什么|1	Artist|谢霆锋|1	Album|one inch closer|1	Genre|流行音乐|1	Filename|谢霆锋 - 你还要我做什么.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|春奈るな - Startear.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|春奈るな - Startear【刀剑神域第二季ED】.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|纯音乐 - Canon In D Major.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|崔天琪 - 你拿什么来爱我.mp3|1	add	music.bin
+Title|朋友仔|1	Artist|Twins|1	Album|AMAZING|1	Genre|Other|1	Filename|Twins - 朋友仔.mp3|1	add	music.bin
+Title|Make You Feel My Love|1	Artist|Adele|1	Album|19|1	Genre|Other|1	Filename|Adele - Make You Feel My Love.mp3|1	add	music.bin
+Title|香格里拉|1	Artist|娃娃/黄玠|1	Album|春悦 春乐[6621.com]|1	Genre|6621|1	Filename|魏如萱 - 香格里拉.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|殆死悲爱 - 我的爱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|戴爱玲 - 对的人.mp3|1	add	music.bin
+Title|火|1	Artist|张惠妹|1	Album|www.zongting.com(总听DJ：最	的dj音乐分享网站)|1	Genre|Other|1	Filename|张惠妹 - 火.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|戴佩妮 - 懒人漫游.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|戴佩妮 - 你要的爱.mp3|1	add	music.bin
+Title|黑夜尽头|1	Artist|黄立行|1	Album|最后只	躺下来|1	Genre|Other|1	Filename|黄立行 - 黑夜尽头.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|戴佩妮 - 无赖.mp3|1	add	music.bin
+Title|偁側偨偑偄傟偽|1	Artist|壺尨 朁旤|1	Album|偁側偨偑偄傟偽|1	Genre||1	Filename|华原朋美 - あなたがいれば.mp3|1	add	music.bin
+Title|给我一个理由忘记|1	Artist|A-LIN|1	Album|B^ [|1	Genre|Pop|1	Filename|A-Lin - 给我一个理由忘记.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|单色凌 - 你最	别想我.mp3|1	add	music.bin
+Title|成者为王|1	Artist|谢霆锋|1	Album|毋忘我 （香港版）|1	Genre||1	Filename|谢霆锋 - 成者为王.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|邓丽君 - 我只在乎你.mp3|1	add	music.bin
+Title|二十二|1	Artist|陶喆|1	Album|黑色柳丁|1	Genre|Pop|1	Filename|陶喆 - 二十二.mp3|1	add	music.bin
+Title|承认|1	Artist|曲婉婷|1	Album|我的歌声里|1	Genre||1	Filename|曲婉婷 - 承认.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|邓紫棋 - 后会无期.mp3|1	add	music.bin
+Title|逞强|1	Artist|萧亚轩|1	Album|我爱我|1	Genre||1	Filename|萧亚轩 - 逞强.mp3|1	add	music.bin
+Title|Come With Me|1	Artist|Ricky Martin|1	Album|Come With Me - Single|1	Genre|Pop|1	Filename|Ricky Martin - Come With Me.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|邓紫棋 - 我的秘密.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|邓紫棋 - 喜欢你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|低苦艾乐队 - 兰州 兰州.mp3|1	add	music.bin
+Title|词不达意|1	Artist|林忆莲|1	Album|呼吸|1	Genre||1	Filename|林忆莲 - 词不达意.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|丁当 - 不要问.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|丁当 - 	难得.mp3|1	add	music.bin
+Title|打错了|1	Artist|王菲|1	Album|王菲 2001同名专辑|1	Genre||1	Filename|王菲 - 打错了.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|丁当 - 我没那么爱你.mp3|1	add	music.bin
+Title|那件疯狂的小事叫爱情|1	Artist|袁泉|1	Album|?????|1	Genre|Other|1	Filename|袁泉 - 那件疯狂的小事叫爱情.mp3|1	add	music.bin
+Title|别碰我|1	Artist|DJ--Sweetbox|1	Album||1	Genre|Blues|1	Filename|Sweetbox - Don'T Push Me.mp3|1	add	music.bin
+Title|天亮了|1	Artist|韩红|1	Album|韩红最红|1	Genre|流行音乐|1	Filename|韩红 - 天亮了.mp3|1	add	music.bin
+Title|大过天|1	Artist|Twins|1	Album|大过天|1	Genre||1	Filename|Twins - 大过天.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|丁祥威 - 优雅的遇见你.mp3|1	add	music.bin
+Title|一个像夏天一个像秋天|1	Artist|范玮琪|1	Album|未知|1	Genre|Blues|1	Filename|范玮琪 - 一个像夏天一个像秋天.mp3|1	add	music.bin
+Title|大龄文艺女青年之歌 (A Cappella特别版)|1	Artist|邵夷贝|1	Album|过家家|1	Genre||1	Filename|邵夷贝 - 大龄文艺女青年之歌.mp3|1	add	music.bin
+Title|单恋高校|1	Artist|陈冠希|1	Album|Hits Or Misses|1	Genre||1	Filename|陈冠希 - 单恋高校.mp3|1	add	music.bin
+Title|不能说的秘密|1	Artist|周杰伦|1	Album|不能说的秘密 （电影原声音乐）|1	Genre|Other|1	Filename|周杰伦 - 不能说的秘密.mp3|1	add	music.bin
+Title|当我唱起这首歌|1	Artist|小贱&星弟|1	Album|我是小贱|1	Genre||1	Filename|小贱、星弟 - 当我唱起这首歌.mp3|1	add	music.bin
+Title|当我遇上你|1	Artist|刘德华|1	Album|心蓝|1	Genre||1	Filename|刘德华 - 当我遇上你.mp3|1	add	music.bin
+Title|挡不住的太阳(《就是要你爱上我》片尾曲)|1	Artist|炎亚纶|1	Album|梦游私台北|1	Genre||1	Filename|炎亚纶 - 挡不住的太阳.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|范玮琪 - 可不可以不勇敢.mp3|1	add	music.bin
+Title|等地球爆炸|1	Artist|棉花糖|1	Album|等地球爆炸|1	Genre||1	Filename|棉花糖 - 等地球爆炸.mp3|1	add	music.bin
+Title|等你等到我心痛|1	Artist|张学友|1	Album|等你等到我心痛|1	Genre||1	Filename|张学友 - 等你等到我心痛.mp3|1	add	music.bin
+Title|滴答滴北京爱情故事|1	Artist|侃侃|1	Album||1	Genre|民谣|1	Filename|侃侃 - 滴答.mp3|1	add	music.bin
+Title|地球人都知道我爱你|1	Artist|彭清|1	Album|纯真|1	Genre||1	Filename|彭清 - 地球人都知道我爱你.mp3|1	add	music.bin
+Title|第一天|1	Artist|孙燕姿|1	Album|完美的一天|1	Genre||1	Filename|孙燕姿 - 第一天.mp3|1	add	music.bin
+Title|爱的初体验(Live in Taipei 出发|1	Artist|纵贯线|1	Album|Live in Taipei／出发|1	Genre|Rock|1	Filename|纵贯线 - 爱的初体验(2009台北出发演唱会Live).mp3|1	add	music.bin
+Title|蝶恋花|1	Artist|牛奶咖啡|1	Album|越长大越孤单|1	Genre||1	Filename|牛奶咖啡 - 蝶恋花.mp3|1	add	music.bin
+Title|祝我生日快乐|1	Artist|温岚|1	Album|温式效应|1	Genre|Goa|1	Filename|【第二期】温岚 - 祝我生日快乐.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|范玮琪 - 双双.mp3|1	add	music.bin
+Title|独照|1	Artist|容祖儿|1	Album|独照|1	Genre||1	Filename|容祖儿 - 独照.mp3|1	add	music.bin
+Title|多希望你在|1	Artist|萧敬腾|1	Album|萧敬腾 同名专辑(终极收藏版)|1	Genre||1	Filename|萧敬腾 - 多希望你在.mp3|1	add	music.bin
+Title|08. 思路|1	Artist|洪卓立|1	Album|愛．無膽[WwW.ME-FaNtAsY.CoM]|1	Genre|Pop|1	Filename|洪卓立 - 思路.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|范玮琪 - 小亲亲(Feat. 神秘失控).mp3|1	add	music.bin
+Title|盛夏的果实|1	Artist|(北方时空)莫文蔚|1	Album|全精选辑|1	Genre|Pop|1	Filename|莫文蔚 - 盛夏的果实.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|范玮琪 - 一比一.mp3|1	add	music.bin
+Title|发光的简讯|1	Artist|蔡旻佑|1	Album|寂寞，	了（完全拥佑终极限定盘）|1	Genre||1	Filename|蔡旻佑 - 发光的简讯.mp3|1	add	music.bin
+Title|舧肅|1	Artist||1	Album||1	Genre||1	Filename|齐豫 - 欢颜.mp3|1	add	music.bin
+Title|舧肅|1	Artist||1	Album||1	Genre||1	Filename|【第二期】齐豫 - 欢颜.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|范玮琪 - 与爱为邻.mp3|1	add	music.bin
+Title|类似爱情|1	Artist|萧亚轩|1	Album|93音乐网[www.93yy.cn]|1	Genre|93音乐网[www.93yy.cn]|1	Filename|萧亚轩 - 类似爱情.mp3|1	add	music.bin
+Title|放弃你|1	Artist|郭书瑶|1	Album|爱的抱抱|1	Genre||1	Filename|郭书瑶 - 放弃你.mp3|1	add	music.bin
+Title|Never Again (Radio Edit)|1	Artist|Kelly Clarkson|1	Album|〖新感官世界〗博客版：http://blog.sina.com.cn/derek|1	Genre|Rock|1	Filename|Kelly Clarkson - Never Again.mp3|1	add	music.bin
+Title|飞机场的10：30|1	Artist|陶喆|1	Album|Ultrasound 乐之路1997-2003(新曲加精选) (Disc 1)|1	Genre||1	Filename|【第五期】陶喆 - 飞机场的10_30.mp3|1	add	music.bin
+Title|非主流时尚dj舞曲|1	Artist|DJ舞曲|1	Album||1	Genre|DJ舞曲|1	Filename|Darin - B What U Wanna B.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|范晓萱 - 那种女孩.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|范晓萱 - 我要我们在一起.mp3|1	add	music.bin
+Title|风从海面吹过来|1	Artist|	妹妹乐队|1	Album|南北|1	Genre||1	Filename|	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|范晓萱 - 氧气.mp3|1	add	music.bin
+Title|风起来的时光|1	Artist|周子琰|1	Album|风起来的时光|1	Genre||1	Filename|周子琰 - 风起来的时光.mp3|1	add	music.bin
+Title|281公里|1	Artist|谢霆锋|1	Album|了解|1	Genre|Pop|1	Filename|谢霆锋 - 281公里.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|方大同 - 爱爱爱.mp3|1	add	music.bin
+Title|风筝|1	Artist|孙燕姿|1	Album|赤沙印记 四叶草2|1	Genre||1	Filename|【第四期】孙燕姿 - 风筝.mp3|1	add	music.bin
+Title|封面恋人 Secret Lover|1	Artist|魏晨|1	Album|登封造极|1	Genre||1	Filename|魏晨 - 封面恋人.mp3|1	add	music.bin
+Title|사실은 말야|1	Artist|이종현(씨엔블루) & 멜로디데이 (JongHyun (CNBLUE) & Melody Day)|1	Album|사실은 말야|1	Genre|Pop|1	Filename|Melody Day、李宗泫 - 其实啊.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|方炯镔 - 遗憾.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|方力申 - 双生花.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|方糖泡泡 - 真开心,我们去旅游了!.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|防弹少年团 - Danger.mp3|1	add	music.bin
+Title|眼泪成诗|1	Artist|孙燕姿|1	Album||1	Genre|Other|1	Filename|孙燕姿 - 眼泪成诗.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|冯允谦 - 我	想你.mp3|1	add	music.bin
+Title|Ne T'en Va Pas|1	Artist|英文群星2|1	Album|欧美12月最新单曲|1	Genre|Other|1	Filename|Sheryfa Luna - Ne T'en Va Pas.mp3|1	add	music.bin
+Title|感激遇到你|1	Artist|黄宗泽胡杏儿|1	Album||1	Genre||1	Filename|胡杏儿、黄宗泽 - 感激遇到你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|隔壁团 - 路.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|宫本笑里 - Break.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|古巨基 - 初初.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|古巨基 - 致少年时代.mp3|1	add	music.bin
+Title|Halo|1	Artist|碧昂丝诺斯|1	Album|I Am...Sasha Fierce|1	Genre|Other|1	Filename|【迈克尔杰克逊先锋终生成就奖】Beyonce - Halo.mp3|1	add	music.bin
+Title|感觉不一样|1	Artist|陈晓东|1	Album|So Hot|1	Genre||1	Filename|陈晓东 - 感觉不一样.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|关诗敏 - 时间煮雨.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|关喆 - 如果分开我也爱你(白色情人节版).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|关喆 - 重度寂寞.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|官恩娜 - 共勉之.mp3|1	add	music.bin
+Title|哥已经爱上你啦|1	Artist|老猫（刘原龙）|1	Album|哥已经爱上你啦|1	Genre||1	Filename|老猫 - 哥已经爱上你啦.mp3|1	add	music.bin
+Title|孤独患者|1	Artist|陈奕迅|1	Album|?|1	Genre||1	Filename|陈奕迅 - 孤独患者.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|光良 - 约定.mp3|1	add	music.bin
+Title|关不掉的月光|1	Artist|庾澄庆|1	Album|关不掉的月光|1	Genre||1	Filename|庾澄庆 - 关不掉的月光.mp3|1	add	music.bin
+Title|归来|1	Artist|纵贯线|1	Album|南下专线|1	Genre||1	Filename|纵贯线 - 归来.mp3|1	add	music.bin
+Title|过不去|1	Artist|张惠妹|1	Album|爱的力量 10年情歌最精选|1	Genre||1	Filename|【第四期】张惠妹 - 过不去.mp3|1	add	music.bin
+Title|还是	朋友|1	Artist|王心凌|1	Album|Fly Cyndi|1	Genre||1	Filename|王心凌 - 还是	add	music.bin
+Title|还是要幸福|1	Artist|Hebe|1	Album|My Love|1	Genre||1	Filename|田馥甄 - 还是要幸福.mp3|1	add	music.bin
+Title|海角七号|1	Artist|东来东往|1	Album||1	Genre||1	Filename|东来东往 - 海角七号.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郭静 - 不还.mp3|1	add	music.bin
+Title|	的事情(《醉后决定爱上你》电视剧片尾曲)|1	Artist|严爵|1	Album|不孤独|1	Genre||1	Filename|严爵 - 	add	music.bin
+Title|	久不见|1	Artist|陈奕迅|1	Album|1997-2007跨世纪国语精选|1	Genre||1	Filename|陈奕迅 - 	add	music.bin
+Title|你不会了解|1	Artist|谢霆锋|1	Album|无形的他全精选|1	Genre|Pop|1	Filename|谢霆锋 - 你不会了解.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郭静 - 最精彩的艳遇.mp3|1	add	music.bin
+Title|爱我别走|1	Artist|华语群星|1	Album|情歌101|1	Genre|Other|1	Filename|【第三期】张震岳 - 爱我别走.mp3|1	add	music.bin
+Title|凌晨三点钟|1	Artist|张智成|1	Album|张智成-凌晨三点钟|1	Genre|Rap/R&B|1	Filename|张智成 - 凌晨三点钟.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|海龟先生 - 男孩别哭.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|韩庚 - 那个女孩.mp3|1	add	music.bin
+Title|	男人都死哪儿去了|1	Artist|崔子格|1	Album||1	Genre||1	Filename|崔子格 - 	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|韩庚 - 谁Control.mp3|1	add	music.bin
+Title|	想家|1	Artist|曹轩宾|1	Album|	想家 EP|1	Genre||1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|韩红 - 天下平安.mp3|1	add	music.bin
+Title|	心分手|1	Artist|叶文辉、方皓玟|1	Album||1	Genre||1	Filename|叶文辉、方皓玟 - 	add	music.bin
+Title|号码|1	Artist|周笔畅|1	Album|谁动了我的琴弦|1	Genre||1	Filename|周笔畅 - 号码.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|	妹妹乐队 - 你曾是少年.mp3|1	add	music.bin
+Title|黑白配|1	Artist|范玮琪|1	Album|幸福·情歌|1	Genre||1	Filename|范玮琪 - 黑白配.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郝云 - 活着.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郝云 - 去大理.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|贺世哲 - 你的心事我不猜.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|黑龙 - 我就是最爱你的人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|洪大光 - I Feel You.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|洪大光 - 没有回答.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|洪大光 - 你和我.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|洪卓立 - 渴睡症.mp3|1	add	music.bin
+Title|恨你恨到骨头里|1	Artist|高山林|1	Album|乘风破浪|1	Genre|DJ舞曲|1	Filename|高山林 - 恨你恨到骨头里.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|侯湘婷 - 心想飞.mp3|1	add	music.bin
+Title|你的眼睛|1	Artist|熊天平|1	Album|一个人流浪|1	Genre|A Cappella|1	Filename|【第三期】熊天平、许茹芸 - 你的眼睛.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|后弦 - 黑板情书.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|后弦 - 情书不包邮.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|胡海泉 - 爱人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|胡鸿钧 - 我们继续演下去.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|胡清蓝 - 两个世界.mp3|1	add	music.bin
+Title|红色高跟鞋|1	Artist|蔡健雅|1	Album|若你碰到他|1	Genre||1	Filename|蔡健雅 - 红色高跟鞋.mp3|1	add	music.bin
+Title|虹|1	Artist|手嶌葵|1	Album|虹の歌集|1	Genre||1	Filename|手嶌葵 - 虹.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|胡夏 - 同桌的你.mp3|1	add	music.bin
+Title|后弦 - 海口|1	Artist||1	Album|KuGou|1	Genre||1	Filename|后弦 - 海口.mp3|1	add	music.bin
+Title|花火|1	Artist|丁当、阿信|1	Album|Fu Good|1	Genre||1	Filename|丁当、阿信 - 花火.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|胡彦斌、钟欣潼 - 在一起.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|戸松遥 - Motto☆派手にね!.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|花粥 - 老中医.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|花粥 - 我们总是在寻找.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|华晨宇 - Why Nobody Fights.mp3|1	add	music.bin
+Title|怀旧|1	Artist|潘裕文|1	Album|Listen to clock 听克拉克说|1	Genre||1	Filename|潘裕文 - 怀旧.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|华晨宇 - 我和我.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|华晨宇 - 烟火里的尘埃.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|华晨宇、左立、张阳阳、白举纲 - 青春再见.mp3|1	add	music.bin
+Title|下个，路口，见|1	Artist|李宇春|1	Album|李宇春|1	Genre|Other|1	Filename|李宇春 - 下个,路口,见.mp3|1	add	music.bin
+Title|三人游|1	Artist|方大同|1	Album|橙月 ORANGE MOON|1	Genre|Other|1	Filename|方大同 - 三人游.mp3|1	add	music.bin
+Title|她说|1	Artist|林俊杰|1	Album|她说|1	Genre|Other|1	Filename|林俊杰 - 她说.mp3|1	add	music.bin
+Title|荒唐|1	Artist|A-Lin|1	Album|爱 请问怎么走|1	Genre||1	Filename|A-Lin - 荒唐.mp3|1	add	music.bin
+Title|Valder Fields|1	Artist|Tamas Wells|1	Album|A Plea en Vendredi|1	Genre|Other|1	Filename|Tamas Wells - Valder Fields.mp3|1	add	music.bin
+Title|lonely|1	Artist|NANA|1	Album||1	Genre|Other|1	Filename|Nana - Lonely.mp3|1	add	music.bin
+Title|黄大炜-你把我灌醉(原)|1	Artist||1	Album||1	Genre||1	Filename|黄大炜 - 你把我灌醉.mp3|1	add	music.bin
+Title|回不去了吗|1	Artist|萧亚轩|1	Album|我爱我|1	Genre||1	Filename|萧亚轩 - 回不去了吗.mp3|1	add	music.bin
+Title|折子戏|1	Artist|黄阅|1	Album|黄阅-凡间+魔戒+折子戏|1	Genre|Other|1	Filename|黄阅 - 折子戏.mp3|1	add	music.bin
+Title|千里之外|1	Artist|易桀齐|1	Album|一整片天空|1	Genre|pop|1	Filename|易桀齐 - 千里之外.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|霍尊 - 卷珠帘.mp3|1	add	music.bin
+Title|回家|1	Artist|顺子|1	Album|昨日·唯一·更多|1	Genre||1	Filename|顺子 - 回家.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|加藤ミリヤ - Love Is....mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|佳仁、赵型宇 - Brunch.mp3|1	add	music.bin
+Title|ホタルノヒカリ|1	Artist|いきものがかり|1	Album|ホタルノヒカリ|1	Genre|Jpop|1	Filename|いきものがかり - ホタルノヒカリ.mp3|1	add	music.bin
+Title|回头太难|1	Artist|张学友|1	Album||1	Genre||1	Filename|张学友 - 回头太难.mp3|1	add	music.bin
+Title|Ρヘ 8|1	Artist|ゼ|1	Album|ゼ㏑ - 06-11-09|1	Genre|ゼ|1	Filename|品冠 - 枫叶红面馆.mp3|1	add	music.bin
+Title|青春不老|1	Artist|Cookies|1	Album|Cookies-Merry X`mas|1	Genre|Pop|1	Filename|Cookies - 青春不老.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|姜胜允、宋闵浩、尹钟信 - Wild Boy.mp3|1	add	music.bin
+Title|会过去的|1	Artist|梁静茹|1	Album|爱久见人心|1	Genre||1	Filename|梁静茹 - 会过去的.mp3|1	add	music.bin
+Title|记得|1	Artist|张惠妹|1	Album|情歌101|1	Genre||1	Filename|张惠妹 - 记得.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|金贤重 - HIS HABIT(Feat. 金艺林 Of 两个月、Kanto).mp3|1	add	music.bin
+Title|没有寄的信|1	Artist|萧潇|1	Album|Beautiful Angel|1	Genre|Pop|1	Filename|萧潇 - 没有寄的信.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|金在中 - Butterfly.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|井柏然 - 爱情掉在哪里.mp3|1	add	music.bin
+Title|记得（《爱情睡醒了》插曲）|1	Artist|林俊杰|1	Album|爱情睡醒了|1	Genre||1	Filename|林俊杰 - 记得.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|筷子兄弟 - 父亲.mp3|1	add	music.bin
+Title|寂寞,	了|1	Artist|蔡旻佑|1	Album|寂寞,	了|1	Genre||1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|筷子兄弟 - 小苹果.mp3|1	add	music.bin
+Title|爱情白皮书-启程|1	Artist|(范玮琪)|1	Album|稲薄フブ筿跌羘盿|1	Genre|Other|1	Filename|范玮琪 - 启程.mp3|1	add	music.bin
+Title|寂寞花火|1	Artist|顾莉雅|1	Album|顾氏情歌|1	Genre||1	Filename|顾莉雅 - 寂寞花火.mp3|1	add	music.bin
+Title|寂寞有罪|1	Artist|张智成|1	Album|你爱上的...|1	Genre||1	Filename|张智成 - 寂寞有罪.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|老猫 - 你是我的妞.mp3|1	add	music.bin
+Title|残爱|1	Artist|徐佳莹|1	Album|极限|1	Genre|Other|1	Filename|徐佳莹 - 残爱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|乐童音乐家 - 200%.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|乐童音乐家 - Give Love.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|乐童音乐家 - 冰块们.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|乐童音乐家 - 小星星.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|冷漠 - 分手了别来打扰我.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|冷漠 - 你是我最爱的女人.mp3|1	add	music.bin
+Title|煎熬|1	Artist|群星|1	Album|Hitfm Single Top100|1	Genre||1	Filename|李佳薇 - 煎熬.mp3|1	add	music.bin
+Title|渐渐|1	Artist|赵薇|1	Album|飘|1	Genre||1	Filename|赵薇 - 渐渐(Feat. 余荃斌).mp3|1	add	music.bin
+Title|德国下雪了|1	Artist|许哲佩|1	Album||1	Genre|Other|1	Filename|许哲佩 - 德国下雪了.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李行亮 - 梦想自行车.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李慧珍 - 习惯.mp3|1	add	music.bin
+Title|You are so beautiful to me|1	Artist|Joe Cocker|1	Album|The Best Of Joe Cocker|1	Genre|Blues|1	Filename|【第三期】Joe Cocker - You Are So Beautiful.mp3|1	add	music.bin
+Title|姐姐|1	Artist|贾盛强|1	Album|快乐男声2013 第2期|1	Genre||1	Filename|贾盛强 - 姐姐.mp3|1	add	music.bin
+Title||1	Artist|蓝天下载中心|1	Album|长期出售下载系统（1000G）|1	Genre||1	Filename|李玖哲 - 解脱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李玖哲 - 夏天.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李玟 - 自己.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李琦 - 我知道.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李泉 - 走钢索的人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李夏怡 - 1,2,3,4.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李夏怡 - It's Over.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李夏怡 - Rose.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李易峰 - 记得我爱你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李易峰 - 剑伤.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李易峰 - 温柔心愿.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李易峰 - 永远不分开.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李佑晨 - 粤游记.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李宇春 - 1987我不知会遇见你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李宇春 - 丝萝【云中歌主题曲】.mp3|1	add	music.bin
+Title|解脱|1	Artist|张惠妹|1	Album|A-mei Acoustic Best|1	Genre||1	Filename|张惠妹 - 解脱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|李宇春 - 再不疯狂我们就老了.mp3|1	add	music.bin
+Title|就是你|1	Artist|范玮琪|1	Album|一比一|1	Genre||1	Filename|范玮琪 - 就是你.mp3|1	add	music.bin
+Title|爱你不是两三天|1	Artist|梁静茹|1	Album|勇气|1	Genre|Pop|1	Filename|梁静茹 - 爱你不是两三天.mp3|1	add	music.bin
+Title|就现在|1	Artist|吴莫愁|1	Album||1	Genre||1	Filename|吴莫愁 - 就现在.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|梁博 - 不知去向.mp3|1	add	music.bin
+Title|菊花台（《满城尽带黄金甲》片尾曲）|1	Artist|周杰伦|1	Album|依然范特西|1	Genre|中国风|1	Filename|周杰伦 - 菊花台.mp3|1	add	music.bin
+Title|二缺一（粤语）|1	Artist|蔡卓妍|1	Album|2009年2月新歌速递|1	Genre|Other|1	Filename|蔡卓妍 - 二缺一.mp3|1	add	music.bin
+Title|菊花台（《满城尽带黄金甲》片尾曲）|1	Artist|周杰伦|1	Album|依然范特西|1	Genre|中国风|1	Filename|【第五期】周杰伦 - 菊花台.mp3|1	add	music.bin
+Title|靠近一点点|1	Artist|梁心颐|1	Album|下雨天|1	Genre||1	Filename|梁心颐 - 靠近一点点.mp3|1	add	music.bin
+Title|原来你也在这里|1	Artist|刘若英|1	Album|刘若英|1	Genre|Other|1	Filename|刘若英 - 原来你也在这里.mp3|1	add	music.bin
+Title|Boom Boom Pow (club version)|1	Artist|英文群星|1	Album|欧美2009年2月最新单曲|1	Genre|Other|1	Filename|Black Eyed Peas - Boom Boom Pow.mp3|1	add	music.bin
+Title|老男孩|1	Artist|筷子兄弟|1	Album|2010年11月新歌速递|1	Genre|Other|1	Filename|【第四期】筷子兄弟 - 老男孩.mp3|1	add	music.bin
+Title|可不可以爱我|1	Artist|卢学叡|1	Album|Hitto!!超人气偶像剧主题曲精选|1	Genre||1	Filename|卢学睿 - 可不可以爱我.mp3|1	add	music.bin
+Title|可惜不是你|1	Artist|梁静茹|1	Album|现在开始我爱你(Disc1)|1	Genre||1	Filename|梁静茹 - 可惜不是你.mp3|1	add	music.bin
+Title|可遇|1	Artist|杨钰莹|1	Album|遇江南|1	Genre||1	Filename|杨钰莹 - 可遇.mp3|1	add	music.bin
+Title|渴望无限 Ask For More|1	Artist|郭富城|1	Album|城意三部曲|1	Genre||1	Filename|郭富城 - 渴望无限 Ask For More.mp3|1	add	music.bin
+Title|空港|1	Artist|戴爱玲|1	Album|K情歌 8(Disc1)|1	Genre||1	Filename|【第五期】戴爱玲 - 空港.mp3|1	add	music.bin
+Title|苦瓜|1	Artist|陈奕迅|1	Album|Stranger Under My Skin|1	Genre||1	Filename|陈奕迅 - 苦瓜.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|梁咏琪 - 短发.mp3|1	add	music.bin
+Title|蓝莲花|1	Artist|许巍|1	Album|许巍-时光.漫步|1	Genre|摇滚|1	Filename|许巍 - 蓝莲花.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|林凡 - 艳遇.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|林峯 - 守卫.mp3|1	add	music.bin
+Title|离家出走|1	Artist|卫兰|1	Album|wish新曲+精选|1	Genre||1	Filename|卫兰 - 离家出走.mp3|1	add	music.bin
+Title|mavish0202.mp3|1	Artist|王菲|1	Album|梦中|1	Genre|Other|1	Filename|许美静 - 蔓延.mp3|1	add	music.bin
+Title|离开你那天|1	Artist|井柏然&郭书瑶|1	Album||1	Genre||1	Filename|郭书瑶 - 离开你那天.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|林俊杰 - 期待爱(Feat. 金莎).mp3|1	add	music.bin
+Title|要我怎么忘了她|1	Artist|谢霆峰|1	Album||1	Genre|Other|1	Filename|谢霆锋 - 要我怎么忘了他.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|林俊杰 - 学不会.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|林俊杰 - 因你而在.mp3|1	add	music.bin
+Title|两小无猜|1	Artist|牛奶咖啡|1	Album|习惯了寂寞|1	Genre||1	Filename|牛奶咖啡 - 两小无猜.mp3|1	add	music.bin
+Title|留香|1	Artist|吴奇隆|1	Album|新白发魔女 电视原声带|1	Genre||1	Filename|吴奇隆 - 留香.mp3|1	add	music.bin
+Title|流浪地图|1	Artist|萧贺硕|1	Album|硕一硕的流浪地图|1	Genre||1	Filename|萧贺硕 - 流浪地图.mp3|1	add	music.bin
+Title|因为爱所以爱|1	Artist|谢霆锋|1	Album|你不会了解|1	Genre|Pop|1	Filename|谢霆锋 - 因为爱所以爱.mp3|1	add	music.bin
+Title|流星|1	Artist|郑钧|1	Album|ZJ|1	Genre||1	Filename|【第五期】郑钧 - 流星.mp3|1	add	music.bin
+Title|我不爱|1	Artist|孙燕姿|1	Album||1	Genre|Other|1	Filename|孙燕姿 - 我不爱.mp3|1	add	music.bin
+Title|没离开过(I Surrender 中文版)|1	Artist|林志炫|1	Album|擦声而过 2|1	Genre||1	Filename|林志炫 - 没离开过.mp3|1	add	music.bin
+Title|没那么爱他|1	Artist|范玮琪|1	Album|2006KTV点唱精选国语总排行|1	Genre||1	Filename|范玮琪 - 没那么爱他.mp3|1	add	music.bin
+Title|没那么简单|1	Artist|黄小琥|1	Album|简单/不简单|1	Genre||1	Filename|黄小琥 - 没那么简单.mp3|1	add	music.bin
+Title|小酒窝|1	Artist|林俊杰|1	Album|Always Online EP|1	Genre|Other|1	Filename|林俊杰、蔡卓妍 - 小酒窝.mp3|1	add	music.bin
+Title|没时间后悔（Regret）|1	Artist|陈奂仁|1	Album|谁是陈奂仁|1	Genre||1	Filename|【第五期】陈奂仁 - 没时间后悔.mp3|1	add	music.bin
+Title|每一颗星辰|1	Artist|左立|1	Album|每一颗星辰|1	Genre||1	Filename|左立 - 每一颗星辰.mp3|1	add	music.bin
+Title|美丽之最|1	Artist|侧田|1	Album|From JUSTIN-Collection of His First 3 Years|1	Genre||1	Filename|侧田 - 美丽之最.mp3|1	add	music.bin
+Title|梦田|1	Artist|张靓颖|1	Album|倾听 张靓颖|1	Genre||1	Filename|张靓颖 - 梦田.mp3|1	add	music.bin
+Title|醚嘎篮巴贸烦|1	Artist|归瘤康|1	Album|7笼 Sensibility|1	Genre||1	Filename|白智英 - 像中枪一样.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|零点乐队 - 相信我.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|刘承宇 - 讨厌嘴唇.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|刘承宇 - 因为夜晚是如此珍贵.mp3|1	add	music.bin
+Title|渺小|1	Artist|Hebe|1	Album|渺小|1	Genre||1	Filename|田馥甄 - 渺小.mp3|1	add	music.bin
+Title|明明|1	Artist|蔡卓妍|1	Album|2012年05月新歌速递|1	Genre||1	Filename|蔡卓妍 - 明明.mp3|1	add	music.bin
+Title|明天,你	|1	Artist|牛奶咖啡|1	Album|Lost&Found去寻找|1	Genre||1	Filename|牛奶咖啡 - 明天,你	add	music.bin
+Title|5|1	Artist|1|1	Album|1|1	Genre|genre|1	Filename|【第五期】陶喆 - 普通朋友.mp3|1	add	music.bin
+Title|传奇|1	Artist|王菲|1	Album|2010年中央电视台春节联欢晚会曲|1	Genre|Pop|1	Filename|王菲 - 传奇.mp3|1	add	music.bin
+Title|從未到過的地方|1	Artist|王心凌|1	Album|從未到過的地方 - Single|1	Genre|Pop|1	Filename|王心凌 - 从未到过的地方.mp3|1	add	music.bin
+Title|明天是否还是爱我|1	Artist|童安格|1	Album|一人一首成名曲第二辑(港台版)|1	Genre||1	Filename|童安格 - 明天你是否依然爱我.mp3|1	add	music.bin
+Title|明天是晴天|1	Artist|热门单曲-明天是晴天|1	Album|Js|1	Genre||1	Filename|JS - 明天是晴天.mp3|1	add	music.bin
+Title|狠狠哭|1	Artist|郭采洁|1	Album|爱异想|1	Genre|Other|1	Filename|郭采洁 - 狠狠哭.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|刘思涵 - 侥幸者.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|刘思涵 - 拥抱你.mp3|1	add	music.bin
+Title|单恋曲|1	Artist|蔡健雅|1	Album|天使与魔鬼的对话|1	Genre|华语流行乐|1	Filename|蔡健雅 - 单恋曲.mp3|1	add	music.bin
+Title|末班车 - 萧煌奇|1	Artist|星少上传|1	Album||1	Genre||1	Filename|萧煌奇 - 末班车.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|刘忻 - 残忍的缠绵.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|柳岩、灿盛 - 一见钟情.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|柳重言 - 空白的缘分.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|龙梅子 - 爱就要爆灯.mp3|1	add	music.bin
+Title|那就是我|1	Artist|群星|1	Album|歌声飘过30年(1979-2009)|1	Genre||1	Filename|【第三期】朱逢博 - 那就是我.mp3|1	add	music.bin
+Title|那些花儿|1	Artist|朴树|1	Album|我去2000年|1	Genre|青春|1	Filename|朴树 - 那些花儿.mp3|1	add	music.bin
+Title|那些花儿|1	Artist|范玮琪|1	Album|Faces Of FanFan 新歌＋精选32首全纪录|1	Genre|青春|1	Filename|范玮琪 - 那些花儿.mp3|1	add	music.bin
+Title|比想像更想你|1	Artist|黄品冠|1	Album|一切为了爱 新歌+精选|1	Genre|Other|1	Filename|品冠 - 比想象更想你.mp3|1	add	music.bin
+Title|那些年|1	Artist|胡夏|1	Album|那些年，我们一起追的女孩|1	Genre|青春|1	Filename|胡夏 - 那些年.mp3|1	add	music.bin
+Title|男人不坏女人不爱|1	Artist|张冬玲|1	Album|说	的一辈子|1	Genre||1	Filename|张冬玲 - 男人不坏女人不爱.mp3|1	add	music.bin
+Title|你爱上的我|1	Artist|张智成|1	Album|你爱上的...|1	Genre||1	Filename|张智成 - 你爱上的我.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|马頔 - 孤鸟的歌.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|马頔 - 南山南.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|麦家瑜 - 杀死我的温柔.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|梅艳芳 - 女人花.mp3|1	add	music.bin
+Title|你把第一次给了谁|1	Artist|秀才|1	Album||1	Genre||1	Filename|秀才 - 你把第一次给了谁.mp3|1	add	music.bin
+Title|你被写在我的歌里|1	Artist|苏打绿、Ella|1	Album|你在烦恼什么|1	Genre||1	Filename|苏打绿、陈嘉桦 - 你被写在我的歌里.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|棉花糖 - 东京下雨了.mp3|1	add	music.bin
+Title|你不是真正的快乐|1	Artist|五月天|1	Album|后青春期的诗|1	Genre||1	Filename|五月天 - 你不是真正的快乐.mp3|1	add	music.bin
+Title|七友|1	Artist|梁汉文|1	Album|梁汉文-10号|1	Genre|Pop|1	Filename|梁汉文 - 七友.mp3|1	add	music.bin
+Title|你不知道的事|1	Artist|王力宏|1	Album|火力全开|1	Genre||1	Filename|【第一期】王力宏 - 你不知道的事.mp3|1	add	music.bin
+Title|Hometown Glory|1	Artist|Adele|1	Album|19|1	Genre|Pop|1	Filename|Adele - Hometown Glory.mp3|1	add	music.bin
+Title|你不知道的事|1	Artist|王力宏|1	Album|火力全开|1	Genre||1	Filename|王力宏 - 你不知道的事.mp3|1	add	music.bin
+Title|你的微笑|1	Artist|F.I.R.|1	Album|我要飞 寻梦之途全纪录|1	Genre||1	Filename|F.I.R. - 你的微笑.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|莫文蔚 - 他不爱我.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|莫西子诗 - 要死就一定要死在你手里.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|慕容晓晓 - 伤害女人是有罪的.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|那我懂你意思了 - 很幼稚吗.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|那我懂你意思了 - 原谅我不明白你的悲伤.mp3|1	add	music.bin
+Title|你的我的|1	Artist|梁博|1	Album|你的我的|1	Genre||1	Filename|梁博 - 你的我的.mp3|1	add	music.bin
+Title|Track 01|1	Artist|artist|1	Album|title|1	Genre|genre|1	Filename|张智霖 - 十指紧扣.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|南拳妈妈 - 橘子汽水.mp3|1	add	music.bin
+Title|你没有	结果|1	Artist|黄耀明|1	Album|人山人海|1	Genre||1	Filename|黄耀明 - 你没有	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|牛奶咖啡 - 何必怀念.mp3|1	add	music.bin
+Title|无可救药|1	Artist|黄品冠|1	Album|爱到无可救药[www.needpop.com]?|1	Genre|Pop|1	Filename|品冠 - 无可救药.mp3|1	add	music.bin
+Title|你若无情休怪我无义(抢听版)|1	Artist|张冬玲|1	Album||1	Genre||1	Filename|张冬玲 - 你若无情休怪我无义.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|牛奶咖啡 - 偶尔还是会想起你.mp3|1	add	music.bin
+Title|06.漂洋过海来看你|1	Artist|丁当|1	Album||1	Genre|Pop|1	Filename|丁当 - 漂洋过海来看你.mp3|1	add	music.bin
+Title|你是答案|1	Artist|范玮琪|1	Album|搜啦EP - 全球华语Demo音乐网 www.sosolala.com|1	Genre||1	Filename|范玮琪 - 你是答案.mp3|1	add	music.bin
+Title|Rollin In The Deep (Prod. By JulKeyz)|1	Artist|John Legend|1	Album|MixRnb|1	Genre|MixRnb|1	Filename|John Legend - Rollin In The Deep.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|欧豪 - 假动作.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|欧豪 - 在一起.mp3|1	add	music.bin
+Title|你是我的菜|1	Artist|王麟|1	Album|你是我的菜|1	Genre||1	Filename|王麟 - 你是我的菜.mp3|1	add	music.bin
+Title|你是我的眼|1	Artist|林宥嘉|1	Album|昨天 今天 明天|1	Genre||1	Filename|林宥嘉 - 你是我的眼.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|彭佳慧 - 喜欢两个人.mp3|1	add	music.bin
+Title|你是我心内的一首歌|1	Artist|王力宏、Selina|1	Album|改变自己|1	Genre||1	Filename|任家萱、王力宏 - 你是我心内的一首歌.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|彭羚 - 囚鸟.mp3|1	add	music.bin
+Title|Winter|1	Artist|Tori Amos|1	Album||1	Genre|Other|1	Filename|Tori Amos - Winter.mp3|1	add	music.bin
+Title|你怎么舍得我难过|1	Artist|黄品源|1	Album|滚石字典(国语部)|1	Genre||1	Filename|【第三期】黄品源 - 你怎么舍得我难过.mp3|1	add	music.bin
+Title|看见什么吃什么|1	Artist|林宥嘉|1	Album|感官/世界|1	Genre|Other|1	Filename|【第一期】林宥嘉 - 看见什么吃什么.mp3|1	add	music.bin
+Title|钮弧稲薄ㄓ筁|1	Artist|狶拘浆|1	Album||1	Genre||1	Filename|【第一期】林忆莲 - 听说爱情回来过.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|品冠 - 那些女孩教我的事.mp3|1	add	music.bin
+Title|钮弧稲薄ㄓ筁|1	Artist|狶拘浆|1	Album||1	Genre||1	Filename|林忆莲 - 听说爱情回来过.mp3|1	add	music.bin
+Title|暖暖|1	Artist|梁静茹|1	Album|亲亲|1	Genre||1	Filename|梁静茹 - 暖暖.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|朴宝蓝 - 变漂亮了(Feat. ZICO Of Block B).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|朴世焕 - 那时我们的爱情.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|朴世焕 - 辗转反侧.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|朴世焕 - 只有你.mp3|1	add	music.bin
+Title|女儿情|1	Artist|万晓利|1	Album|你在红楼 我在西游|1	Genre||1	Filename|万晓利 - 女儿情.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|朴树 - 平凡之路.mp3|1	add	music.bin
+Title|Alejandro|1	Artist|Lady GaGa|1	Album|The Fame Monster (Deluxe Edition)|1	Genre|Other|1	Filename|Lady GaGa - Alejandro.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|戚薇、杨宗纬 - 为了遇见你.mp3|1	add	music.bin
+Title|给天使看的戏|1	Artist|谢霆锋|1	Album||1	Genre|Other|1	Filename|谢霆锋 - 给天使看的戏.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|齐秦 - 夜夜夜夜.mp3|1	add	music.bin
+Title|You’ll Be Mine (feat. R3hab)|1	Artist|Havana Brown|1	Album|Flashing Lights (Deluxe Version)|1	Genre|Pop|1	Filename|Havana Brown - You'll Be Mine(Feat. R3hab).mp3|1	add	music.bin
+Title|偶阵雨|1	Artist|梁静茹|1	Album|爱久见人心|1	Genre||1	Filename|梁静茹 - 偶阵雨.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|乔任梁 - 强迫症.mp3|1	add	music.bin
+Title|等你爱我|1	Artist|陈明|1	Album||1	Genre|Pop|1	Filename|陈明 - 等你爱我.mp3|1	add	music.bin
+Title|Just The Way You Are|1	Artist|Bruno Mars|1	Album||1	Genre|R&B|1	Filename|Bruno Mars - Just The Way You Are.mp3|1	add	music.bin
+Title|泡沫|1	Artist|邓紫棋|1	Album|Xposed|1	Genre||1	Filename|【第五期】邓紫棋 - 泡沫.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|曲婉婷 - 爱的勇气.mp3|1	add	music.bin
+Title|泡沫|1	Artist|邓紫棋|1	Album|Xposed|1	Genre||1	Filename|邓紫棋 - 泡沫.mp3|1	add	music.bin
+Title|陪我歌唱|1	Artist|苏打绿|1	Album|小巨蛋演唱会 LIVE 陪我歌唱|1	Genre||1	Filename|苏打绿 - 陪我歌唱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|全孝盛 - Good-night Kiss.mp3|1	add	music.bin
+Title|对的人|1	Artist|范玮琪|1	Album|太阳|1	Genre|Pop|1	Filename|范玮琪 - 对的人.mp3|1	add	music.bin
+Title|漂洋過海來看你|1	Artist|娃娃|1	Album|90'娃娃精選|1	Genre||1	Filename|【第五期】娃娃 - 漂洋过海来看你.mp3|1	add	music.bin
+Title|漂洋過海來看你|1	Artist|娃娃|1	Album|90'娃娃精選|1	Genre||1	Filename|娃娃 - 漂洋过海来看你.mp3|1	add	music.bin
+Title|破吉他|1	Artist|张震岳|1	Album|破吉他|1	Genre||1	Filename|张震岳 - 破吉他.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|任家萱 - 值得为你.mp3|1	add	music.bin
+Title|黑裙子|1	Artist|华语群星|1	Album|2009年5月新歌速递|1	Genre|Other|1	Filename|张芸京 - 黑裙子.mp3|1	add	music.bin
+Title|破天荒|1	Artist|张芸京|1	Album|破天荒|1	Genre||1	Filename|张芸京 - 破天荒.mp3|1	add	music.bin
+Title|我们的纪念日|1	Artist|范玮琪|1	Album||1	Genre|Other|1	Filename|范玮琪 - 我们的纪念日.mp3|1	add	music.bin
+Title|蒲公英(电视剧《幸福蒲公英》主题曲)|1	Artist|范玮琪|1	Album|幸福蒲公英 电视原声带|1	Genre||1	Filename|范玮琪 - 蒲公英.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|容祖儿 - 让我们走下去(Feat. 谢霆锋).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|沙宝亮 - 你快回来.mp3|1	add	music.bin
+Title|普通朋友的朋友|1	Artist|我可能不会爱你|1	Album||1	Genre||1	Filename|蔡昌宪 - 普通朋友的朋友.mp3|1	add	music.bin
+Title|其实不快乐|1	Artist|岳夏|1	Album|其实不快乐|1	Genre||1	Filename|岳夏 - 其实不快乐.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|石康钧 - 不完美的完美.mp3|1	add	music.bin
+Title|气球|1	Artist|许哲佩|1	Album|气球|1	Genre||1	Filename|许哲佩 - 气球.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|瘦人 - 流浪狗.mp3|1	add	music.bin
+Title|夏蝉|1	Artist|熊木杏里|1	Album|無から出た錆|1	Genre|genre|1	Filename|熊木杏里 - 夏蝉.mp3|1	add	music.bin
+Title|悄悄告诉你（电影《被偷走的那五年》主题曲）|1	Artist|范玮琪|1	Album|悄悄告诉你|1	Genre||1	Filename|范玮琪 - 悄悄告诉你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|宋冬野 - 斑马,斑马.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|宋冬野 - 董小姐.mp3|1	add	music.bin
+Title|亲亲|1	Artist|梁静茹|1	Album|亲亲|1	Genre|青春|1	Filename|梁静茹 - 亲亲.mp3|1	add	music.bin
+Title|青城山下白素贞|1	Artist|	妹妹乐队|1	Album|春生|1	Genre||1	Filename|	add	music.bin
+Title||1	Artist|苏打绿|1	Album||1	Genre||1	Filename|苏打绿 - 我	想你.mp3|1	add	music.bin
+Title|青春舞曲|1	Artist|韩庚|1	Album||1	Genre||1	Filename|韩庚 - 青春梦想.mp3|1	add	music.bin
+Title|还你门匙|1	Artist|余文乐|1	Album|余文乐-Private Room|1	Genre|Other|1	Filename|余文乐 - 还你门匙.mp3|1	add	music.bin
+Title|摸|1	Artist|甝縋?|1	Album|Stefanie|1	Genre|Rock/Pop|1	Filename|孙燕姿 - 同类.mp3|1	add	music.bin
+Title|Goodbye My Lover|1	Artist|James Blunt|1	Album|Back To Bedlam|1	Genre|Other|1	Filename|James Blunt - Goodbye My Lover.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|苏永康 - 爱一个人	难.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|孙盛希 - 没有理由伪装成理由.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|孙盛希 - 想想你也	.mp3|1	add	music.bin
+Title|忍不住原谅|1	Artist|温岚|1	Album|2012年01月新歌速递|1	Genre||1	Filename|温岚 - 忍不住原谅.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|孙燕姿 - 比较幸福.mp3|1	add	music.bin
+Title|如果(《快刀洪吉童》韩剧插曲)|1	Artist|金泰妍|1	Album||1	Genre||1	Filename|泰妍 - 如果.mp3|1	add	music.bin
+Title|如果没有感觉|1	Artist|谢霆锋|1	Album|Listen Up|1	Genre||1	Filename|谢霆锋 - 如果没有感觉.mp3|1	add	music.bin
+Title|如果没有你|1	Artist|莫文蔚|1	Album|2006来电答铃国语歌曲排行总冠军|1	Genre||1	Filename|莫文蔚 - 如果没有你.mp3|1	add	music.bin
+Title|如果有来生|1	Artist|谭维维|1	Album||1	Genre||1	Filename|谭维维 - 如果有来生.mp3|1	add	music.bin
+Title|如果有如果|1	Artist|邓福如|1	Album|原来如此|1	Genre||1	Filename|邓福如 - 如果有如果.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|孙燕姿 - 无限大.mp3|1	add	music.bin
+Title|人海中遇见你（那些年，我们一起追的女孩）|1	Artist|林育群|1	Album|丛林驿站论坛|1	Genre|12|1	Filename|林育群 - 人海中遇见你.mp3|1	add	music.bin
+Title|如果云知道|1	Artist|许茹云|1	Album|三味书屋——龙音|1	Genre||1	Filename|许茹芸 - 如果云知道.mp3|1	add	music.bin
+Title|如果这就是爱情|1	Artist|张靓颖|1	Album|我相信|1	Genre||1	Filename|张靓颖 - 如果这就是爱情.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|孙子涵、李潇潇 - 全世界宣布爱你.mp3|1	add	music.bin
+Title|Got It Good|1	Artist|Jem|1	Album|Down To Earth|1	Genre|Other|1	Filename|Jem - Got It Good.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|太阳 - 眼鼻嘴(EYES,NOSE,LIPS).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|泰民 - Pretty Boy(Feat. Kai Of EXO).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|泰民 - 怪盗(Danger).mp3|1	add	music.bin
+Title|星晴|1	Artist|周杰伦|1	Album|寂寞边境 月光爱人 情歌精选|1	Genre|Other|1	Filename|周杰伦 - 星晴.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|覃桢 - 把我的思念悄悄磨成伤口.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谭杰希 - 快乐的时光.mp3|1	add	music.bin
+Title|月亮说|1	Artist|王菀之|1	Album|On Wings Of Time|1	Genre|Pop|1	Filename|王菀之 - 月亮说.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谭维维 - 与爱情无关.mp3|1	add	music.bin
+Title|男生围|1	Artist|Boy'z|1	Album|中成连锁 全心为您|1	Genre|Other|1	Filename|Boy'z - 男生围.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|陶晶莹 - 走路去纽约.mp3|1	add	music.bin
+Title|少来|1	Artist|炎亚纶|1	Album|纪念日|1	Genre||1	Filename|炎亚纶 - 少来.mp3|1	add	music.bin
+Title|少年|1	Artist|光良&曹格|1	Album|童话|1	Genre||1	Filename|光良、曹格 - 少年.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|陶喆 - 似曾相识.mp3|1	add	music.bin
+Title|Fire|1	Artist|Augustana 小锩压制|1	Album|小锩压制|1	Genre|Rock|1	Filename|Augustana - Fire.mp3|1	add	music.bin
+Title|again|1	Artist|YUI|1	Album|Again|1	Genre|Other|1	Filename|YUI - Again.mp3|1	add	music.bin
+Title|舍不得（弦子）|1	Artist|群星|1	Album|女人又一次哭泣CD2|1	Genre||1	Filename|弦子 - 舍不得.mp3|1	add	music.bin
+Title|什么都可以|1	Artist|黄晓明|1	Album|It's Ming|1	Genre||1	Filename|黄晓明 - 什么都可以.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|田馥甄 - 寂寞寂寞就	.mp3|1	add	music.bin
+Title|让全世界都看到|1	Artist|周彦宏|1	Album|让全世界都看到-周彦宏全新奥运单曲|1	Genre|流行|1	Filename|周艳泓 - 让全世界都看到.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|田馥甄 - 热情.mp3|1	add	music.bin
+Title|唱歌|1	Artist|AT17|1	Album|Threesome+at17 2002-2007 ??+??|1	Genre|Other|1	Filename|at17 - 唱歌.mp3|1	add	music.bin
+Title|周杰伦-黑色幽默|1	Artist|周杰伦|1	Album|JAY|1	Genre|Pop|1	Filename|周杰伦 - 黑色幽默.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|佟大为、邓超、黄晓明 - 光阴的故事.mp3|1	add	music.bin
+Title|生如夏花|1	Artist|朴树|1	Album|生如夏花|1	Genre||1	Filename|朴树 - 生如夏花.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|童圆喻 - 故事 Have Not Been To Me.mp3|1	add	music.bin
+Title|火柴天堂|1	Artist|尚雯婕|1	Album||1	Genre|Other|1	Filename|尚雯婕 - 火柴天堂(Live).mp3|1	add	music.bin
+Title|07.还能孩子多久|1	Artist|曾轶可|1	Album|FOREVER ROAD|1	Genre|Other|1	Filename|曾轶可 - 还能孩子多久.mp3|1	add	music.bin
+Title|盛夏光年|1	Artist|五月天|1	Album|盛夏光年 电影主题曲概念专辑|1	Genre|青春|1	Filename|【第三期】五月天 - 盛夏光年.mp3|1	add	music.bin
+Title|盛夏光年|1	Artist|五月天|1	Album|盛夏光年 电影主题曲概念专辑|1	Genre|青春|1	Filename|五月天 - 盛夏光年.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|汪峰 - 一起摇摆.mp3|1	add	music.bin
+Title|Dance Tonight|1	Artist|英文群星2|1	Album|2008葛莱美的喝采(50周年纪念盘)(2008 Grammy Nominees)|1	Genre|Other|1	Filename|Paul McCartney - Dance Tonight.mp3|1	add	music.bin
+Title|狮子座|1	Artist|曾轶可|1	Album|Forever Road（勇敢孩子气版）|1	Genre|青春|1	Filename|曾轶可 - 狮子座.mp3|1	add	music.bin
+Title|一个人的精彩|1	Artist|萧亚轩|1	Album|爱上爱 CD2|1	Genre|Other|1	Filename|萧亚轩 - 一个人的精彩.mp3|1	add	music.bin
+Title|十七岁的北极星|1	Artist|范玮琪|1	Album|爱，在一起Together|1	Genre|青春|1	Filename|范玮琪 - 十七岁的北极星.mp3|1	add	music.bin
+Title|时间开的玩笑|1	Artist|连诗雅|1	Album|时间开的玩笑|1	Genre||1	Filename|连诗雅 - 时间开的玩笑.mp3|1	add	music.bin
+Title|是非题|1	Artist|范玮琪|1	Album|哲学家|1	Genre||1	Filename|范玮琪 - 是非题.mp3|1	add	music.bin
+Title|收信快乐|1	Artist|万芳|1	Album|相爱的运气|1	Genre||1	Filename|万芳 - 收信快乐.mp3|1	add	music.bin
+Title|手|1	Artist|莫文蔚|1	Album|如果没有你|1	Genre||1	Filename|莫文蔚 - 手.mp3|1	add	music.bin
+Title|双城故事|1	Artist|莫文蔚|1	Album|恋恋情歌|1	Genre||1	Filename|莫文蔚 - 双城故事.mp3|1	add	music.bin
+Title|小手拉大手|1	Artist|梁静茹|1	Album|亲亲|1	Genre|Blues|1	Filename|梁静茹 - 小手拉大手.mp3|1	add	music.bin
+Title|说爱你|1	Artist|蔡依林|1	Album|我们都爱这个伦|1	Genre||1	Filename|蔡依林 - 说爱你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王俊凯 - 红尘客栈.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王俊凯 - 那些花儿.mp3|1	add	music.bin
+Title|无乐不作|1	Artist|范逸臣|1	Album|无乐不作 (新歌+精选)|1	Genre|Other|1	Filename|范逸臣 - 无乐不作.mp3|1	add	music.bin
+Title|拒绝孤独|1	Artist|谢霆锋|1	Album||1	Genre|Other|1	Filename|谢霆锋 - 拒绝孤独.mp3|1	add	music.bin
+Title|私奔|1	Artist|郑钧|1	Album|私奔(宣传单曲)|1	Genre|摇滚|1	Filename|【第一期】郑钧 - 私奔.mp3|1	add	music.bin
+Title|Waka Waka (This Time For Afric)（哇咔哇咔(非洲时刻)）|1	Artist|Shakira|1	Album|2010世界杯主题曲|1	Genre|Other|1	Filename|Shakira - Waka Waka.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王菀之 - 	时辰.mp3|1	add	music.bin
+Title|私奔到月球|1	Artist|五月天&陈绮贞|1	Album|离开地球表面 Jump!(内地版)|1	Genre||1	Filename|五月天、陈绮贞 - 私奔到月球.mp3|1	add	music.bin
+Title|Shut Up and Let Me Go|1	Artist|The Ting Tings|1	Album|We Started Nothing|1	Genre|Other|1	Filename|The Ting Tings - Shut Up And Let Me Go.mp3|1	add	music.bin
+Title|旅行（清晰版）|1	Artist|许巍|1	Album|曾经的你|1	Genre|Other|1	Filename|许巍 - 旅行.mp3|1	add	music.bin
+Title|爱上你的笑容|1	Artist|向天真女生投降|1	Album|妮妮佳族 - Www.ShenJiaNi.Net|1	Genre|Blues|1	Filename|任泉 - 爱上你的笑容.mp3|1	add	music.bin
+Title|矜持|1	Artist|王菲|1	Album|我们的主打歌|1	Genre|Other|1	Filename|【第一期】王菲 - 矜持.mp3|1	add	music.bin
+Title|思念是一种病|1	Artist|张震岳、蔡健雅|1	Album|四个男人 四把吉他|1	Genre||1	Filename|张震岳、蔡健雅 - 思念是一种病.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王源 - 龙卷风.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王铮亮 - 时间都去哪儿了.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王铮亮 - 我想和你走下去.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王筝 - 越单纯越幸福.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|王祖蓝 - 再见葫芦娃.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|网络歌手 - 2年2个月.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|网络歌手 - Sing A Song.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|网络歌手 - So Wie Ich.mp3|1	add	music.bin
+Title|08长头发|1	Artist|范玮琪|1	Album|太阳|1	Genre|Pop|1	Filename|范玮琪 - 长头发.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|韦礼安 - 有没有.mp3|1	add	music.bin
+Title|死了都要爱|1	Artist|信乐团|1	Album|SHIN 同名专辑|1	Genre||1	Filename|信乐团 - 死了都要爱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|卫兰 - 错过你.mp3|1	add	music.bin
+Title|祝你百事可乐|1	Artist|周渝民|1	Album||1	Genre|Other|1	Filename|周渝民 - Just For You.mp3|1	add	music.bin
+Title|她 他|1	Artist|徐若瑄|1	Album|假扮的天使|1	Genre||1	Filename|【第六期】徐若瑄 - 她 他.mp3|1	add	music.bin
+Title|你不在|1	Artist|王力宏|1	Album|Dream Again (??+??)|1	Genre|Other|1	Filename|王力宏 - 你不在.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|魏晨 - 花开那年.mp3|1	add	music.bin
+Title|天黑黑|1	Artist|孙燕姿|1	Album|My Story，Your Song 经典全纪录（2010香港特别版）(Disc1)|1	Genre||1	Filename|孙燕姿 - 天黑黑.mp3|1	add	music.bin
+Title|天使的翅膀|1	Artist|范玮琪|1	Album|中成连锁 全心为您|1	Genre||1	Filename|范玮琪 - 天使的翅膀.mp3|1	add	music.bin
+Title|天涯|1	Artist|任贤齐|1	Album|为爱走天涯|1	Genre||1	Filename|任贤齐 - 天涯.mp3|1	add	music.bin
+Title|天真|1	Artist|玄子|1	Album|)|1	Genre||1	Filename|弦子 - 天真.mp3|1	add	music.bin
+Title|05.美丽世界的孤儿|1	Artist|汪峰与鲍家街43号|1	Album|花火|1	Genre|Rock|1	Filename|【第三期】汪峰 - 美丽世界的孤儿.mp3|1	add	music.bin
+Title|听见下雨的声音(电影《听见下雨的声音》主题曲)|1	Artist|魏如昀|1	Album|听见下雨的声音 电影原声带|1	Genre||1	Filename|魏如昀 - 听见下雨的声音.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|无印良品 - 想见你.mp3|1	add	music.bin
+Title|听说|1	Artist|刘若英|1	Album|Rene|1	Genre||1	Filename|刘若英 - 听说.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|吴莫愁 - Super MO.mp3|1	add	music.bin
+Title|头发湿的|1	Artist|汪佩蓉|1	Album|请你 Cha Cha|1	Genre||1	Filename|【第五期】汪佩蓉 - 头发湿的.mp3|1	add	music.bin
+Title|头号甜心|1	Artist|张韶涵|1	Album|Ang 5.0|1	Genre||1	Filename|张韶涵 - 头号甜心.mp3|1	add	music.bin
+Title|爱情证书|1	Artist|孙燕姿|1	Album||1	Genre|Other|1	Filename|孙燕姿 - 爱情证书.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|吴奇隆 - 如果缘只到遇见.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|吴青峰 - 跟着你到天边.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|吴若希 - 越难越爱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|吴亦凡 - 时间煮雨.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|吴雨霏 - 没有花收的日子.mp3|1	add	music.bin
+Title|外面的世界(清晰版)|1	Artist|齐秦|1	Album|齐秦精选|1	Genre||1	Filename|齐秦 - 外面的世界.mp3|1	add	music.bin
+Title|玩音乐 最新最	听的音乐 www.pl|1	Artist|玩音乐 最新最	听的音乐 www.pl|1	Album|玩音乐 最新最	听的音乐 www.pl|1	add	music.bin
+Title|把你含在我嘴里|1	Artist|杨青|1	Album|把你含在我嘴里|1	Genre|流行|1	Filename|杨青 - 把你含在我嘴里.mp3|1	add	music.bin
+Title|往前飞|1	Artist|戴佩妮|1	Album|爱疯了|1	Genre||1	Filename|戴佩妮 - 往前飞.mp3|1	add	music.bin
+Title|忘不了|1	Artist|陶喆|1	Album|太美丽|1	Genre||1	Filename|【第四期】陶喆 - 忘不了.mp3|1	add	music.bin
+Title|微笑的起点|1	Artist|范玮琪|1	Album|我们在一起|1	Genre||1	Filename|张韶涵、范玮琪、郭静 - 微笑的起点.mp3|1	add	music.bin
+Title|解High人|1	Artist|林宥嘉|1	Album|感官/世界（预购版）|1	Genre|Other|1	Filename|林宥嘉 - 解High人.mp3|1	add	music.bin
+Title|妈妈宝贝|1	Artist|李冰冰|1	Album||1	Genre|Pop|1	Filename|李冰冰 - 妈妈宝贝.mp3|1	add	music.bin
+Title|飘洋过海来看你|1	Artist|李宗盛|1	Album|理性与感性|1	Genre|Blues|1	Filename|李宗盛 - 飘洋过海来看你.mp3|1	add	music.bin
+Title|用情|1	Artist|张信哲|1	Album|从开始到现在 (Disc 2)|1	Genre|Pop|1	Filename|张信哲 - 用情.mp3|1	add	music.bin
+Title|微笑阳光(《微笑在我心》插曲)|1	Artist|张嘉倪|1	Album||1	Genre||1	Filename|张嘉倪 - 微笑阳光.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|五月天、孙燕姿 - 王子面.mp3|1	add	music.bin
+Title|未拆的礼物|1	Artist|品冠|1	Album|未拆的礼物|1	Genre||1	Filename|品冠 - 未拆的礼物.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|武艺 - 微甜.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|武艺 - 许愿.mp3|1	add	music.bin
+Title|温柔|1	Artist|五月天|1	Album|有时想念|1	Genre||1	Filename|五月天 - 温柔.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|弦子 - 明天我要嫁给你.mp3|1	add	music.bin
+Title|问|1	Artist|梁静茹|1	Album|李宗盛的理性与感性 作品音乐会|1	Genre||1	Filename|梁静茹 - 问.mp3|1	add	music.bin
+Title|蜗牛|1	Artist|周杰伦|1	Album|Fantasy Plus|1	Genre||1	Filename|【第三期】周杰伦 - 蜗牛.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|弦子 - 弦內之音.mp3|1	add	music.bin
+Title|Loves|1	Artist|Michael Wong|1	Album|Dating|1	Genre|Pop|1	Filename|光良 - 我等你.mp3|1	add	music.bin
+Title|我不爱了|1	Artist|范玮琪|1	Album|Love&FanFan|1	Genre||1	Filename|范玮琪 - 我不爱了.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|萧煌奇 - 只能勇敢.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|萧敬腾 - 到不了的地方.mp3|1	add	music.bin
+Title|我不会唱歌|1	Artist|罗志祥|1	Album|舞所不在|1	Genre||1	Filename|罗志祥 - 我不会唱歌.mp3|1	add	music.bin
+Title|我不会喜欢你(《我可能不会爱...|1	Artist|陈柏霖|1	Album||1	Genre||1	Filename|陈柏霖 - 我不会喜欢你.mp3|1	add	music.bin
+Title|我不需要 [新编版]|1	Artist|邱振哲|1	Album|中国	歌曲 第8期|1	Genre||1	Filename|邱振哲 - 我不需要.mp3|1	add	music.bin
+Title|空白格|1	Artist|蔡健雅|1	Album|Goodbye & Hello|1	Genre|Other|1	Filename|蔡健雅 - 空白格.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|萧敬腾 - 这首歌.mp3|1	add	music.bin
+Title|我不愿,让你一个人|1	Artist|五月天|1	Album||1	Genre||1	Filename|五月天 - 我不愿让你一个人.mp3|1	add	music.bin
+Title|他的故事|1	Artist|张敬轩|1	Album|Urban Emotions|1	Genre|Other|1	Filename|张敬轩 - 他的故事.mp3|1	add	music.bin
+Title|我的歌声里|1	Artist|曲婉婷|1	Album|春娇与志明|1	Genre||1	Filename|曲婉婷 - 我的歌声里.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|萧亚轩 - 不解释亲吻.mp3|1	add	music.bin
+Title|我的	兄弟|1	Artist|高进|1	Album|拿得起放不下|1	Genre||1	Filename|小沈阳、高进 - 我的	add	music.bin
+Title|我的主题曲|1	Artist|江语晨|1	Album|晴天娃娃|1	Genre||1	Filename|江语晨 - 我的主题曲.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|萧亚轩 - 敢伤.mp3|1	add	music.bin
+Title|Skipalong|1	Artist|Lenka|1	Album|www.7hcp.cn.|1	Genre|Other|1	Filename|Lenka - Skipalong.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|萧亚轩 - 浪漫来袭【16个夏天主题曲】.mp3|1	add	music.bin
+Title|我很	|1	Artist|刘若英|1	Album|我很	|1	Genre||1	add	music.bin
+Title|我绝对不说我爱你|1	Artist|许茹芸|1	Album|北纬66度|1	Genre||1	Filename|许茹芸 - 我绝对不说我爱你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|萧亚轩 - 拥抱自己.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|小贱 - 我做不到不想你.mp3|1	add	music.bin
+Title|Life is Like a Boat|1	Artist|Rie fu|1	Album|BLEACH|1	Genre|Anime|1	Filename|Rie fu - Life Is Like A Boat.mp3|1	add	music.bin
+Title|我们都能幸福着|1	Artist|郭静|1	Album|我们都能幸福着|1	Genre||1	Filename|郭静 - 我们都能幸福着.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|孝琳 - 让他疯了.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|孝琳 - 再见.mp3|1	add	music.bin
+Title|いちょう|1	Artist|游助|1	Album|いちょう|1	Genre|Other|1	Filename|遊助 - いちょう.mp3|1	add	music.bin
+Title|我们都傻（《醉后决定爱上你》插曲）|1	Artist|杨丞琳|1	Album|2011年7月新歌速递|1	Genre||1	Filename|杨丞琳 - 我们都傻.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谢霆锋 - 爱后余生.mp3|1	add	music.bin
+Title|我们说	的|1	Artist|张靓颖|1	Album||1	Genre||1	Filename|张靓颖 - 我们说	add	music.bin
+Title|我的依赖|1	Artist|蔡依林|1	Album|花蝴蝶（预购版）|1	Genre|Other|1	Filename|蔡依林 - 我的依赖.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谢霆锋 - 穿越火线.mp3|1	add	music.bin
+Title|我们终究会牵手旅行|1	Artist|许飞|1	Album|我们终究会牵手旅行 EP|1	Genre||1	Filename|许飞 - 我们终究会牵手旅行.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谢霆锋 - 锋味.mp3|1	add	music.bin
+Title|我期待|1	Artist|张雨生|1	Album|卡拉OK·台北·我|1	Genre||1	Filename|【第四期】张雨生 - 我期待.mp3|1	add	music.bin
+Title|我太难被感动|1	Artist|蓝奕邦|1	Album|无非想快乐|1	Genre||1	Filename|蓝奕邦 - 我太难被感动.mp3|1	add	music.bin
+Title|我忘了|1	Artist|Nova|1	Album|小猪博雅，推荐。|1	Genre||1	Filename|Nova - 我忘了.mp3|1	add	music.bin
+Title|我也不想这样|1	Artist|王菲|1	Album|滇-滇┮и滇|1	Genre||1	Filename|王菲 - 我也不想这样.mp3|1	add	music.bin
+Title|我愿意|1	Artist|王菲|1	Album||1	Genre||1	Filename|王菲 - 我愿意.mp3|1	add	music.bin
+Title|我最亲爱的|1	Artist|阿妹|1	Album||1	Genre||1	Filename|张惠妹 - 我最亲爱的.mp3|1	add	music.bin
+Title|我最亲爱的|1	Artist|阿妹|1	Album||1	Genre||1	Filename|【第四期】张惠妹 - 我最亲爱的.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谢霆锋 - 如果只得一星期.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谢霆锋 - 我没有.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谢霆锋 - 无声仿有声.mp3|1	add	music.bin
+Title|无事生非|1	Artist|田馥甄|1	Album|My Love|1	Genre||1	Filename|田馥甄 - 无事生非.mp3|1	add	music.bin
+Title|我很快乐|1	Artist|刘惜君|1	Album|爱情花园|1	Genre|Other|1	Filename|刘惜君 - 我很快乐.mp3|1	add	music.bin
+Title|五月天-终结孤单|1	Artist|wap.3g.net.cn|1	Album||1	Genre||1	Filename|五月天 - 终结孤单.mp3|1	add	music.bin
+Title|狶古 - 玧眏┋褐 (i Radio 筿冀) - YouTube|1	Artist||1	Album||1	Genre||1	Filename|林宥嘉 - 勉强幸福.mp3|1	add	music.bin
+Title|喜欢寂寞|1	Artist|苏打绿|1	Album|你在烦恼什么|1	Genre||1	Filename|苏打绿 - 喜欢寂寞.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|谢霆锋 - 只要为你活一天.mp3|1	add	music.bin
+Title|下一个天亮|1	Artist|郭静|1	Album||1	Genre||1	Filename|郭静 - 下一个天亮.mp3|1	add	music.bin
+Title|相对的失去(吉他版)|1	Artist|江美琪|1	Album|朋友的朋友|1	Genre||1	Filename|江美琪 - 相对的失去(吉他版)【Outro】.mp3|1	add	music.bin
+Title|相亲相爱一家人|1	Artist|群星|1	Album|《浓情对唱》|1	Genre||1	Filename|群星 - 相亲相爱一家人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|辛晓琪 - 领悟.mp3|1	add	music.bin
+Title|想得到得不到|1	Artist|谢霆锋|1	Album|Listen Up(YH)|1	Genre||1	Filename|谢霆锋 - 想得到的得不到.mp3|1	add	music.bin
+Title|想念|1	Artist|凡人二重唱|1	Album|你不知道的我|1	Genre||1	Filename|袁惟仁、黄淑惠 - 想念.mp3|1	add	music.bin
+Title|火|1	Artist|张惠妹|1	Album|www.zongting.com(总听DJ：最	的dj音乐分享网站)|1	Genre|Other|1	Filename|【第二期】张惠妹 - 火.mp3|1	add	music.bin
+Title|想念|1	Artist|林宥嘉|1	Album|美妙生活|1	Genre||1	Filename|林宥嘉 - 想念.mp3|1	add	music.bin
+Title|想起|1	Artist|韩雪|1	Album|飘|1	Genre||1	Filename|韩雪 - 想起.mp3|1	add	music.bin
+Title|想原谅|1	Artist|丁当|1	Album|未来的情人|1	Genre||1	Filename|丁当 - 想原谅.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐菲 - 热气球要去往哪里.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐菲 - 小苹果.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐海星 - 我是海棠.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐佳莹 - 不难.mp3|1	add	music.bin
+Title|消失的光年|1	Artist|大乔小乔|1	Album|消失的光年|1	Genre||1	Filename|大乔小乔 - 消失的光年.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐佳莹 - 明天的事情.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐佳莹 - 潜规则.mp3|1	add	music.bin
+Title|小情歌|1	Artist|苏打绿|1	Album|小宇宙|1	Genre||1	Filename|苏打绿 - 小情歌.mp3|1	add	music.bin
+Title|不是我不明白|1	Artist|梁静茹|1	Album|亲亲|1	Genre|Pop|1	Filename|卢广仲、梁静茹 - 不是我不明白.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐洁儿 - 后悔了吧.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐仁国 - Bomtanaba.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐仁国 - Finding Myself.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|徐仁国 - 无所畏惧.mp3|1	add	music.bin
+Title|小伤口 小鬼首发|1	Artist|蔡依林 小鬼首发|1	Album||1	Genre||1	Filename|蔡依林 - 小伤口.mp3|1	add	music.bin
+Title|让每个人都心碎|1	Artist|黄大炜|1	Album|让每个人都心碎|1	Genre|Other|1	Filename|黄大炜 - 让每个人都心碎.mp3|1	add	music.bin
+Title|告诉我|1	Artist|陈绮贞|1	Album|滚石香港黄金十年.精选|1	Genre|Pop|1	Filename|陈绮贞 - 告诉我.mp3|1	add	music.bin
+Title|Who Knows|1	Artist|Avril Lavigne|1	Album|Under My Skin|1	Genre|Blues|1	Filename|Avril Lavigne - Who Knows.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|许阁 - 像今天一样的眼泪.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|许阁、郑恩地 - 短发.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|许阁、郑恩地 - 现在停止争吵.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|许美静 - 城里的月光.mp3|1	add	music.bin
+Title|小王子|1	Artist|范玮琪|1	Album|Love&FanFan|1	Genre||1	Filename|范玮琪 - 小王子.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|许美静 - 遗憾.mp3|1	add	music.bin
+Title|小镇姑娘|1	Artist|陶喆|1	Album|I'm ok|1	Genre||1	Filename|陶喆 - 小镇姑娘.mp3|1	add	music.bin
+Title|笑忘歌|1	Artist|五月天|1	Album|后青春期的诗|1	Genre||1	Filename|五月天 - 笑忘歌.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|许茹芸 - 最难的是相遇.mp3|1	add	music.bin
+Title|亲爱的|1	Artist|徐若瑄|1	Album|Vivi and|1	Genre|Pop|1	Filename|徐若瑄 - 亲爱的.mp3|1	add	music.bin
+Title|谢谢你的爱1999|1	Artist|谢霆锋|1	Album|无形的他全精选|1	Genre||1	Filename|谢霆锋 - 谢谢你的爱1999.mp3|1	add	music.bin
+Title|心墙|1	Artist|郭静|1	Album|在树上唱歌|1	Genre||1	Filename|郭静 - 心墙.mp3|1	add	music.bin
+Title|心愿便利贴|1	Artist|元若蓝 吴忠明|1	Album|2008年四月热搜歌|1	Genre||1	Filename|元若蓝、吴忠明 - 心愿便利贴.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|许志安 - 新天地(MV版).mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|薛凯琪 - Better Me.mp3|1	add	music.bin
+Title||1	Artist||1	Album|[ MZ遊樂場 www.mz-on.com ]|1	Genre||1	Filename|薛凯琪 - 甜蜜蜜.mp3|1	add	music.bin
+Title|神通|1	Artist|曾一鸣|1	Album|神通|1	Genre|Pop|1	Filename|曾一鸣 - 神通.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|薛之谦 - 你还要我怎样.mp3|1	add	music.bin
+Title|幸德瑞拉|1	Artist|戴佩妮|1	Album||1	Genre||1	Filename|【第二期】戴佩妮 - 辛德瑞拉.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|岩田さゆり - ホントの笑颜.mp3|1	add	music.bin
+Title|04.A.I.N.Y. (爱你)|1	Artist|邓紫棋|1	Album|18 Plus|1	Genre|Pop|1	Filename|邓紫棋 - A.I.N.Y.(爱你).mp3|1	add	music.bin
+Title|幸福摩天轮|1	Artist|陈奕迅|1	Album|幸福|1	Genre||1	Filename|陈奕迅 - 幸福摩天轮.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|炎亚纶 - 这不是我.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨丞琳 - 暧昧.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨丞琳 - 带我走.mp3|1	add	music.bin
+Title|旋木|1	Artist|王菲|1	Album|K情歌|1	Genre||1	Filename|王菲 - 旋木.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨丞琳 - 我想爱.mp3|1	add	music.bin
+Title|Down (Main Version)|1	Artist|Jay Sean Ft. Lil' Wayne|1	Album|Summer Tracklists IV|1	Genre|TOP 30|1	Filename|Jay Sean - Down(Feat. Lil Wayne).mp3|1	add	music.bin
+Title|我想你不是真的爱我|1	Artist|128孙燕姿|1	Album||1	Genre|Blues|1	Filename|孙燕姿 - 不是真的爱我.mp3|1	add	music.bin
+Title||1	Artist|杨丞琳|1	Album||1	Genre||1	Filename|杨丞琳 - 遇上爱.mp3|1	add	music.bin
+Title|眼泪|1	Artist|范晓萱|1	Album|国语经典101|1	Genre||1	Filename|范晓萱 - 眼泪.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨坤 - 你走后.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨坤 - 一万个女人.mp3|1	add	music.bin
+Title|羊角花又开|1	Artist|刘惜君|1	Album|拂晓|1	Genre||1	Filename|刘惜君 - 羊角花又开.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨千嬅、林峯 - 初见.mp3|1	add	music.bin
+Title|洋葱|1	Artist|杨宗纬|1	Album|鸽子|1	Genre||1	Filename|杨宗纬 - 洋葱.mp3|1	add	music.bin
+Title|仰望|1	Artist|杨丞琳|1	Album|仰望|1	Genre||1	Filename|杨丞琳 - 仰望.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨梓 - 散就散.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|杨宗纬 - 其实都没有.mp3|1	add	music.bin
+Title|夜空中最亮的星|1	Artist|逃跑计划|1	Album|世界|1	Genre||1	Filename|逃跑计划 - 夜空中最亮的星.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|姚晨 - 别让爱迷路【离婚律师主题曲】.mp3|1	add	music.bin
+Title|一个人的行李|1	Artist|戴佩妮|1	Album|iPenny|1	Genre||1	Filename|戴佩妮 - 一个人的行李.mp3|1	add	music.bin
+Title|一个人回家|1	Artist|卢凯彤|1	Album|2011年11月新歌速递|1	Genre||1	Filename|卢凯彤 - 一个人回家.mp3|1	add	music.bin
+Title|一个人寂寞|1	Artist|邬祯琳|1	Album|邬祯琳|1	Genre||1	Filename|邬祯琳 - 一个人寂寞.mp3|1	add	music.bin
+Title|花花宇宙|1	Artist|陈慧琳|1	Album|陈慧琳-闪亮每一天|1	Genre|genre|1	Filename|陈慧琳 - 花花宇宙.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|有里知花 - Little Angel.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|有里知花 - 涙の物語.mp3|1	add	music.bin
+Title|左右手|1	Artist|张国荣|1	Album|BoxUp Music|1	Genre|Goa|1	Filename|张国荣 - 左右手.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|宇珩 - 遗失的翅膀.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|羽泉 - 唤醒时空.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|雨宮天 - Skyreach.mp3|1	add	music.bin
+Title|一个人流浪|1	Artist|熊天平|1	Album|一个人流浪|1	Genre||1	Filename|熊天平 - 一个人流浪.mp3|1	add	music.bin
+Title|寂静的天空|1	Artist|HAYA HAYA|1	Album||1	Genre|Blues|1	Filename|【第五期】黛青塔娜 - 寂静的天空.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|庾澄庆 - 缺口.mp3|1	add	music.bin
+Title|一肩之隔（电视剧《非缘勿扰》主题曲）|1	Artist|秦岚|1	Album|非缘勿扰 电视原声带|1	Genre||1	Filename|秦岚 - 一肩之隔.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郁可唯 - 	朋友只是朋友.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郁可唯 - 暖心.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郁可唯 - 最爱的人.mp3|1	add	music.bin
+Title|一江水|1	Artist|韩红|1	Album|韩红-红|1	Genre||1	Filename|【第四期】韩红 - 一江水.mp3|1	add	music.bin
+Title|一颗心的距离|1	Artist|范玮琪|1	Album|Faces Of FanFan 新歌＋精选32首全纪录|1	Genre||1	Filename|范玮琪 - 一颗心的距离.mp3|1	add	music.bin
+Title|Mary Jane|1	Artist|The Click Five|1	Album|Modern Minds And Pastimes|1	Genre|Rock|1	Filename|The Click Five - Mary Jane.mp3|1	add	music.bin
+Title|一脸清秀|1	Artist|蔡诗芸|1	Album|紫外线|1	Genre||1	Filename|蔡诗芸 - 一脸清秀.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张冬玲 - 别说爱你是我一厢情愿.mp3|1	add	music.bin
+Title|一千零一夜|1	Artist|李克勤|1	Album|一千零一夜|1	Genre|古典|1	Filename|李克勤-一千零一夜.mp3|1	add	music.bin
+Title|愚人码头|1	Artist|熊天平|1	Album|十年全记录|1	Genre|Other|1	Filename|【第二期】熊天平 - 愚人码头.mp3|1	add	music.bin
+Title|Halo|1	Artist|碧昂丝诺斯|1	Album|I Am...Sasha Fierce|1	Genre|Other|1	Filename|Beyonce - Halo.mp3|1	add	music.bin
+Title|一样的月光|1	Artist|徐佳莹|1	Album|LaLa首张创作专辑|1	Genre||1	Filename|徐佳莹 - 一样的月光.mp3|1	add	music.bin
+Title|依然爱你|1	Artist|王力宏|1	Album|火力全开 新歌+精选|1	Genre||1	Filename|王力宏 - 依然爱你.mp3|1	add	music.bin
+Title|拥抱|1	Artist|五月天|1	Album||1	Genre||1	Filename|五月天 - 拥抱.mp3|1	add	music.bin
+Title|勇敢的唱|1	Artist|范玮琪|1	Album|Love&FanFan|1	Genre||1	Filename|范玮琪 - 勇敢的唱.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张皓宸、杨杨 - 你是最	的自己.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张惠妹 - 不要乱说.mp3|1	add	music.bin
+Title|Bring Night|1	Artist|Sia|1	Album|We Are Born|1	Genre|Pop|1	Filename|Sia - Bring Night.mp3|1	add	music.bin
+Title|游牧民族|1	Artist|梁咏琪|1	Album|顺时针（新歌+精选）|1	Genre||1	Filename|梁咏琪 - 游牧民族.mp3|1	add	music.bin
+Title|有点甜|1	Artist|by2 / 汪苏泷|1	Album||1	Genre||1	Filename||1	add	music.bin
+Title|有你真	|1	Artist|范玮琪|1	Album|幸福·情歌|1	Genre||1	Filename|杨丞琳、范玮琪 - 有你真	add	music.bin
+Title||1	Artist|蓝天下载中心|1	Album|长期出售下载系统（1000G）|1	Genre||1	Filename|张惠妹 - 如果你也听说.mp3|1	add	music.bin
+Title|雨爱|1	Artist|杨丞琳|1	Album|Rainie & Love ....？|1	Genre||1	Filename|杨丞琳 - 雨爱.mp3|1	add	music.bin
+Title|雨人|1	Artist|周华健|1	Album|雨人|1	Genre||1	Filename|周华健 - 雨人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张惠妹 - 这样你还要爱我吗.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张惠妹 - 自虐.mp3|1	add	music.bin
+Title|遇见|1	Artist|孙燕姿|1	Album|经典全纪录(主打精华版)|1	Genre||1	Filename|孙燕姿 - 遇见.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张杰 - 何必在一起.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张杰 - 剑心.mp3|1	add	music.bin
+Title|	想你|1	Artist|徐若瑄|1	Album|最爱是V (新歌+精选)》|1	Genre|Other|1	Filename|徐若瑄 - 	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张杰、张靓颖、金秀贤 - 点亮未来(Feat. 噶丽娅).mp3|1	add	music.bin
+Title|原谅|1	Artist|张玉华|1	Album|张玉华-同名专辑|1	Genre||1	Filename|张玉华 - 原谅.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张敬轩 - 青春常驻.mp3|1	add	music.bin
+Title|纸飞机|1	Artist|谢霆锋|1	Album|谢霆锋-REBORN|1	Genre|Pop|1	Filename|谢霆锋 - 纸飞机.mp3|1	add	music.bin
+Title|越长大越孤独|1	Artist|牛奶咖啡|1	Album||1	Genre||1	Filename|牛奶咖啡 - 越长大越孤单.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张可儿 - 爱你一百岁.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张可儿 - 偶遇情缘.mp3|1	add	music.bin
+Title|到不了|1	Artist|范玮琪|1	Album|范范的世界|1	Genre|Pop|1	Filename|范玮琪 - 到不了.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张靓颖 - 陪你走到底.mp3|1	add	music.bin
+Title|相逢在雨中|1	Artist|黎明|1	Album|留住这一刻-黎明2|1	Genre|genre|1	Filename|黎明 - 相逢在雨中.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Other|1	Filename|张靓颖 - 天下无双.mp3|1	add	music.bin
+Title|再见|1	Artist|张震岳|1	Album|Ok|1	Genre||1	Filename|【第五期】张震岳 - 再见.mp3|1	add	music.bin
+Title|The Show|1	Artist|Lenka|1	Album|Lenka|1	Genre|Pop|1	Filename|Lenka - The Show.mp3|1	add	music.bin
+Title|刀剑如梦|1	Artist|周华健|1	Album|㏄地胺-獴礚|1	Genre|genre|1	Filename|周华健 - 刀剑如梦.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张韶涵 - 为爱而活.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张韶涵、范玮琪 - 如果的事.mp3|1	add	music.bin
+Title|再见二丁目|1	Artist|杨千嬅|1	Album|千嬅盛放|1	Genre||1	Filename|杨千嬅 - 再见二丁目.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张松涛 - 关于青春和梦想的歌.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张松涛 - 有没有.mp3|1	add	music.bin
+Title|刺猬|1	Artist|温岚|1	Album|Dancing Queen|1	Genre|Other|1	Filename|温岚 - 刺猬.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre|Sound Clip|1	Filename|张信哲 - 宽容.mp3|1	add	music.bin
+Title|一半|1	Artist|丁当|1	Album||1	Genre|Pop|1	Filename|丁当 - 一半.mp3|1	add	music.bin
+Title|白吃白喝|1	Artist|萧潇|1	Album|Beautiful Angel|1	Genre|Pop|1	Filename|萧潇 - 白吃白喝.mp3|1	add	music.bin
+Title|怎样|1	Artist|戴佩妮|1	Album||1	Genre|Pop|1	Filename|戴佩妮 - 怎样.mp3|1	add	music.bin
+Title|再见青春|1	Artist|北京爱情故事插曲|1	Album||1	Genre||1	Filename|汪峰 - 再见青春.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张学友 - 离人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张学友 - 秋意浓.mp3|1	add	music.bin
+Title|标准情人|1	Artist|金城武|1	Album||1	Genre|Other|1	Filename|金城武 - 标准情人.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张阳阳 - 回家路上.mp3|1	add	music.bin
+Title|早点回家|1	Artist|苏打绿|1	Album|春 日光|1	Genre||1	Filename|苏打绿 - 早点回家.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张宇 - 给你们.mp3|1	add	music.bin
+Title|you give love a bad name|1	Artist|Bon Jovi|1	Album|Crossroad|1	Genre|Other|1	Filename|Bon Jovi - You Give Love A Bad Name.mp3|1	add	music.bin
+Title|早开的晚霞|1	Artist|林宥嘉|1	Album|美妙生活|1	Genre||1	Filename|林宥嘉 - 早开的晚霞.mp3|1	add	music.bin
+Title|怎么说我不爱你|1	Artist|萧敬腾|1	Album||1	Genre||1	Filename|萧敬腾 - 怎么说我不爱你.mp3|1	add	music.bin
+Title|长腿叔叔 (清潭洞爱丽丝 OST Part.3)|1	Artist|白雅言|1	Album||1	Genre||1	Filename|白雅言 - 长腿叔叔.mp3|1	add	music.bin
+Title|只有你|1	Artist|黄绮珊|1	Album|只有你|1	Genre|Other|1	Filename|黄绮珊 - 只有你.mp3|1	add	music.bin
+Title|突然	想你|1	Artist|五月天|1	Album|後青春期的詩|1	Genre|Other|1	Filename|五月天 - 突然	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张震岳 - 思念是一种病(Feat. 蔡健雅).mp3|1	add	music.bin
+Title|找到天使了|1	Artist|薛凯琪|1	Album|It's My Day lvtou.net|1	Genre||1	Filename|薛凯琪 - 找到天使了.mp3|1	add	music.bin
+Title|复刻回忆|1	Artist|薛凯琪|1	Album|It's My Day|1	Genre|Pop|1	Filename|方大同、薛凯琪 - 复刻回忆.mp3|1	add	music.bin
+Title|lanseyuanfen|1	Artist|古天乐|1	Album|百事|1	Genre|Blues|1	Filename|古天乐 - 蓝色的缘分.mp3|1	add	music.bin
+Title|照顾自己|1	Artist|张含韵|1	Album|照顾自己|1	Genre||1	Filename|张含韵 - 照顾自己.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张智成 - 换日线.mp3|1	add	music.bin
+Title|Imagine|1	Artist|约翰·列侬John Lennon|1	Album||1	Genre|Other|1	Filename|John Lennon - Imagine.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张智成 - 金玉良言.mp3|1	add	music.bin
+Title|想你的笑|1	Artist|田亮 叶一茜|1	Album|想你的笑|1	Genre|Pop|1	Filename|叶一茜、田亮 - 想你的笑.mp3|1	add	music.bin
+Title|老男孩|1	Artist|筷子兄弟|1	Album|2010年11月新歌速递|1	Genre|Other|1	Filename|筷子兄弟 - 老男孩.mp3|1	add	music.bin
+Title|这边 那边|1	Artist|伍思凯|1	Album|爱的钢琴手|1	Genre||1	Filename|伍思凯 - 这边 那边.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|张智霖 - 未婚妻.mp3|1	add	music.bin
+Title|这个夏天|1	Artist|范世琪|1	Album|梦境|1	Genre||1	Filename|范世琪 - 这个夏天.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|赵雷 - 南方姑娘.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|赵露 - 绿光.mp3|1	add	music.bin
+Title|这样的一个麻烦|1	Artist|陈奕迅|1	Album||1	Genre||1	Filename|【第一期】陈奕迅 - 这样的一个麻烦.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|赵照 - 当你老了.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郑俊弘 - 熊猫.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郑俊英 - TEENAGER.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郑俊英 - 离别10分前.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郑俊英、Younha - 一同另类.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郑希怡 - 花球寄语.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郑秀文 - Bang Bang Bang.mp3|1	add	music.bin
+Title|这一次我绝不放手|1	Artist|齐秦|1	Album|旷世情歌全记录|1	Genre||1	Filename|【第二期】齐秦 - 这一次我绝不放手.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|郑伊健 - 友情岁月.mp3|1	add	music.bin
+Title|着迷|1	Artist|郭富城|1	Album|着迷(1)|1	Genre||1	Filename|郭富城 - 着迷.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|智妍 - 1分1秒.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|钟舒漫 - 不理你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|钟欣潼 - 一辈子.mp3|1	add	music.bin
+Title|征服|1	Artist|那英|1	Album||1	Genre||1	Filename|那英 - 征服.mp3|1	add	music.bin
+Title|Numb|1	Artist|Linkin Park|1	Album|meteora|1	Genre|Other|1	Filename|Linkin Park - Numb.mp3|1	add	music.bin
+Title|只是会可惜|1	Artist|梁晓雪|1	Album|只是会可惜|1	Genre||1	Filename|梁晓雪 - 只是会可惜.mp3|1	add	music.bin
+Title|只是太爱你|1	Artist|张敬轩|1	Album|2011年6月新歌速递|1	Genre||1	Filename|张敬轩 - 只是太爱你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|周慧敏 - 咖啡在等一个人.mp3|1	add	music.bin
+Title|Tattooed Heart|1	Artist|Ariana Grande|1	Album|Yours Truly|1	Genre|Pop|1	Filename|Ariana Grande - Tattooed Heart.mp3|1	add	music.bin
+Title|至少还有你|1	Artist|林忆莲|1	Album|林忆莲's|1	Genre||1	Filename|林忆莲 - 至少还有你.mp3|1	add	music.bin
+Title|致青春（电影《致我们终将逝去的青春》主题曲）（电影《致我们终将逝去的青春》主题曲）|1	Artist|王菲|1	Album|致我们终将逝去的青春 电影原声带|1	Genre|青春|1	Filename|【第五期】王菲 - 致青春.mp3|1	add	music.bin
+Title|中国dj疯吧[WWW.DJF8.COM]|1	Artist|男人就要狠 - 司文_陈蒙|1	Album|中国dj疯吧[WWW.DJF8.COM]|1	Genre|dj|1	Filename|司文 - 男人就要狠.mp3|1	add	music.bin
+Title|精彩|1	Artist|王菲|1	Album|BoxUp Music|1	Genre|Goa|1	Filename|王菲 - 精彩.mp3|1	add	music.bin
+Title|终于等到你|1	Artist|张靓颖|1	Album|终于等到你|1	Genre||1	Filename|张靓颖 - 终于等到你.mp3|1	add	music.bin
+Title|主题曲|1	Artist|dream high|1	Album||1	Genre||1	Filename|群星 - Dream High.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|周杰伦、梁心颐 - 珊瑚海.mp3|1	add	music.bin
+Title|我是一只小小鸟|1	Artist|赵传|1	Album|老歌精选|1	Genre|Pop|1	Filename|赵传 - 我是一只小小鸟.mp3|1	add	music.bin
+Title|转角的夏天|1	Artist|彭于晏|1	Album|非爱不可 EP|1	Genre||1	Filename|彭于晏 - 转角的夏天.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|周子琰 - The World Is Love.mp3|1	add	music.bin
+Title|Yellow|1	Artist|蔡健雅|1	Album|蔡健雅-星球|1	Genre|Celtic|1	Filename|蔡健雅 - Yellow.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|周子琰 - 平凡之路.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|庄心妍 - 爱你就要嫁给你.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|庄心妍 - 我以为.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|庄心妍 - 我知道.mp3|1	add	music.bin
+Title||1	Artist||1	Album||1	Genre||1	Filename|自然卷 - 坐在巷口的那对男女.mp3|1	add	music.bin
+Title|自然醒|1	Artist|林宥嘉|1	Album|美妙生活|1	Genre||1	Filename|林宥嘉 - 自然醒.mp3|1	add	music.bin
+Title|自以为|1	Artist|方大同 徐佳莹|1	Album|15|1	Genre||1	Filename|徐佳莹、方大同 - 自以为.mp3|1	add	music.bin
+Title|08.??? - www.6621.com|1	Artist|??? - 6621.com|1	Album|???????:www.6621.com/www.tuzhan.com|1	Genre|6621|1	Filename|黄淑惠 - 热气球.mp3|1	add	music.bin
+Title|唐古拉|1	Artist|王麟,完玛三智|1	Album|草原相恋对唱|1	Genre|流行歌曲|1	Filename|唐古拉.mp3|1	add	music.bin
+Title|唐古拉Dj版 |1	Artist|王麟,完玛三智; |1	Album|草原相恋对唱|1	Genre|DJ|1	Filename|唐古拉Dj版 -  - 王麟,完玛三智.mp3|1	add	music.bin
+Title|你不是我|1	Artist|徐良|1	Album|犯贱remix|1	Genre|DJ|1	Filename|你不是我（DJ版） - 犯贱remix - 徐良.mp3|1	add	music.bin
+Title|你不是我|1	Artist|品冠|1	Album|随时都在|1	Genre|流行歌曲|1	Filename|你不是我.mp3|1	add	music.bin
+Title|最初的梦想|1	Artist|范玮琪|1	Album|最初的梦想|1	Genre||1	Filename|范玮琪 - 最初的梦想.mp3|1	add	music.bin
+Title|最	的未来(奥迪"童梦圆"公益之旅主题曲)|1	Artist|刘若英|1	Album||1	Genre||1	Filename|乔木楠、刘若英 - 最	add	music.bin
+Title|最后倒数|1	Artist|JS|1	Album|The Js Moments JS的创作故事集|1	Genre||1	Filename|JS - 最后倒数.mp3|1	add	music.bin
+Title|最美的太阳|1	Artist|张杰|1	Album|最美的太阳Ep|1	Genre||1	Filename|张杰 - 最美的太阳.mp3|1	add	music.bin
+Title|最亲爱的你|1	Artist|范玮琪|1	Album|爱，在一起Together|1	Genre||1	Filename|范玮琪 - 最亲爱的你.mp3|1	add	music.bin
+Title|最重要的决定|1	Artist|范玮琪|1	Album|Love&FanFan|1	Genre||1	Filename|范玮琪 - 最重要的决定.mp3|1	add	music.bin
+Title|我爱的人和爱我的人|1	Artist|游鸿明|1	Album|恋上一个人|1	Genre||1	Filename|游鸿明 - 恋上一个人.mp3|1	add	music.bin
+Title|808|1	Artist|郑秀文|1	Album|舍得|1	Genre||1	Filename|郑秀文-808.mp3|1	add	music.bin
+Title|我难过|1	Artist|5566|1	Album|最棒冠军精选|1	Genre||1	Filename|5566-我难过.mp3|1	add	music.bin
+Title|1987|1	Artist|张尧|1	Album||1	Genre||1	Filename|张尧-1987.mp3|1	add	music.bin
+Title|你是我的人间四月天|1	Artist|倪中砚|1	Album|爱你如诗|1	Genre||1	Filename|倪中砚-你是我的人间四月天.mp3|1	add	music.bin
+Title|一亿光年|1	Artist|毅光年|1	Album||1	Genre||1	Filename|一亿光年.mp3|	add	music.bin
+Title|2013|1	Artist|毅光年|1	Album||1	Genre||1	Filename|一亿光年.mp3|	add	music.bin
+Title|两千零十三|1	Artist|毅光年|1	Album||1	Genre||1	Filename|一亿光年.mp3|	add	music.bin
+Title|今天是2013年|1	Artist|毅光年|1	Album||1	Genre||1	Filename|一亿光年.mp3|	add	music.bin
+Title|今天是两千零十三年|1	Artist|毅光年|1	Album||1	Genre||1	Filename|一亿光年.mp3|	add	music.bin

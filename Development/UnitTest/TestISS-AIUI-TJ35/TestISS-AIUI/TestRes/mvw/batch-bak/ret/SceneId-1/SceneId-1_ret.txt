@@ -1,0 +1,2 @@
+\\10.5.22.77\套件测试集\唤醒\MVWTestSuite\MVWTestEffect_WithTime\SceneId-1\X1\F002_013-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwScore:1780,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":1780, "wakeup":1, "nStartBytes":18560, "nEndBytes":64960, "nKeyword":"你好语音助理", "PowerValue":11108295376896.000000}	262
+vwLabel：scene(1), 尝试唤醒次数：1, 唤醒成功次数：1，成功率：100%，平均唤醒响应时间：262

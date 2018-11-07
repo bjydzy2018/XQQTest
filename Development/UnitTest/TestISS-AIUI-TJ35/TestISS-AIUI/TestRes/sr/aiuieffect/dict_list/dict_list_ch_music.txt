@@ -1,0 +1,8 @@
+{
+	"dictname": "music",
+	"dictcontant": [
+		{ "artist": "周杰伦", "song": "菊花台", "album": "菊花台album" },
+		{ "artist": "李玉刚", "song": "稻香", "album": "稻香album" },
+		{ "artist": "林俊杰", "song": "十年", "album": "十年album" }
+	]
+}

@@ -1,0 +1,1000 @@
+navi_SR_00001	(field=Title,query=陶笛奇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00002	(field=Title,query=Sorry,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00003	(field=Album,query=校园,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00004	(field=Title,query=卷珠帘 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00005	(field=Title,query=断剑,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00006	(field=Album,query=50 An,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00007	(field=Artist,query=The C,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00008	(field=Artist,query=Tam,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00009	(field=Album,query=氙,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00010	(field=Title,query=Steal,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00011	(field=Artist,query=兰陵王 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00012	(field=Album,query=动力,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00013	(field=Artist,query=我很,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00014	(field=Title,query=这个冬天,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00015	(field=Artist,query=东来,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00016	(field=Album,query=昂令油,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00017	(field=Artist,query=黄晓明,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00018	(field=Title,query=To W,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00019	(field=Title,query=於れ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00020	(field=Artist,query=T-ar,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00021	(field=Title,query=UK,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00022	(field=Artist,query=相逢在雨,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00023	(field=Title,query=DN,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00024	(field=Artist,query=我要,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00025	(field=Artist,query=背,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00026	(field=Title,query=Gravi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00027	(field=Title,query=狠,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00028	(field=Artist,query=相爱分开都,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00029	(field=Title,query=Esc,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00030	(field=Album,query=南拳妈,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00031	(field=Artist,query=Bach,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00032	(field=Artist,query=剑,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00033	(field=Album,query=寐加岛,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00034	(field=Album,query=Rain,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00035	(field=Title,query=So Fr,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00036	(field=Artist,query=你的电,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00037	(field=Title,query=Set ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00038	(field=Album,query=星弟,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00039	(field=Title,query=In,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00040	(field=Title,query=TiK T,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00041	(field=Artist,query=旅行的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00042	(field=Title,query=For,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00043	(field=Title,query=Glit,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00044	(field=Artist,query=入,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00045	(field=Album,query=在树上唱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00046	(field=Artist,query=戸松遥,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00047	(field=Title,query=爱的勇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00048	(field=Artist,query=1.Ce,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00049	(field=Title,query=完全感覚D,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00050	(field=Artist,query=Ul,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00051	(field=Title,query=温暖 - ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00052	(field=Artist,query=Nyhav,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00053	(field=Album,query=信者得,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00054	(field=Title,query=红星闪闪,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00055	(field=Title,query=天堂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00056	(field=Album,query=Aabra,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00057	(field=Artist,query=留不下,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00058	(field=Title,query=Wild ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00059	(field=Album,query=国语真经,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00060	(field=Artist,query=老板难当,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00061	(field=Album,query=Arm,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00062	(field=Album,query=Brass,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00063	(field=Title,query=谢,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00064	(field=Artist,query=鞝勲秬 瓯,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00065	(field=Title,query=12,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00066	(field=Artist,query=秋意,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00067	(field=Title,query=井上昌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00068	(field=Album,query=明明白白我,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00069	(field=Title,query=从头再来,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00070	(field=Title,query=青青,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00071	(field=Album,query=今生难,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00072	(field=Artist,query=没有你,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00073	(field=Album,query=MTV ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00074	(field=Album,query=小虎队,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00075	(field=Artist,query=红色高跟,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00076	(field=Title,query=原创?烽火,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00077	(field=Artist,query=A-Te,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00078	(field=Title,query=在线,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00079	(field=Artist,query=郭德纲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00080	(field=Artist,query=郁,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00081	(field=Album,query=跨,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00082	(field=Album,query=Bro,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00083	(field=Artist,query=网易云音,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00084	(field=Title,query=Stage,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00085	(field=Album,query=新贵,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00086	(field=Title,query=No An,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00087	(field=Album,query=Die H,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00088	(field=Title,query=秦皇岛 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00089	(field=Album,query=ゆら,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00090	(field=Artist,query=花火,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00091	(field=Album,query=Som,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00092	(field=Album,query=万岁20,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00093	(field=Artist,query=Mi Li,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00094	(field=Title,query=谢—安琪,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00095	(field=Title,query=onel,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00096	(field=Artist,query=Es,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00097	(field=Artist,query=Hair ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00098	(field=Title,query=为爱痴,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00099	(field=Album,query=Yo,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00100	(field=Artist,query=day,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00101	(field=Title,query=se,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00102	(field=Album,query=乐,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00103	(field=Title,query=想,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00104	(field=Album,query=新鸳鸯,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00105	(field=Album,query=Fuc,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00106	(field=Album,query=许愿 -,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00107	(field=Artist,query=难念的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00108	(field=Title,query=预谋邂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00109	(field=Artist,query=寐,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00110	(field=Artist,query=comed,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00111	(field=Title,query=Colli,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00112	(field=Artist,query=尚,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00113	(field=Artist,query=祁隆原创合,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00114	(field=Album,query=Voice,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00115	(field=Title,query=同桌的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00116	(field=Title,query=Ph,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00117	(field=Title,query=因为爱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00118	(field=Artist,query=秦皇岛 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00119	(field=Artist,query=唱着,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00120	(field=Album,query=Jar ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00121	(field=Title,query=菲比寻常 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00122	(field=Title,query=七,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00123	(field=Album,query=In ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00124	(field=Artist,query=佐香,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00125	(field=Title,query=Por,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00126	(field=Title,query=Ama,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00127	(field=Album,query=嘻哈帮,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00128	(field=Album,query=春晓 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00129	(field=Title,query=Mc,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00130	(field=Artist,query=春.夏.,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00131	(field=Artist,query=轮回,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00132	(field=Artist,query=Ver,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00133	(field=Album,query=黄淑,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00134	(field=Album,query=Inst,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00135	(field=Artist,query=Tai,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00136	(field=Artist,query=Just,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00137	(field=Album,query=Da Si,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00138	(field=Title,query=Pion,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00139	(field=Album,query=Prom,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00140	(field=Title,query=醉梦千,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00141	(field=Artist,query=依,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00142	(field=Title,query=七十,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00143	(field=Title,query=你的承,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00144	(field=Album,query=因为爱情,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00145	(field=Album,query=孤单,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00146	(field=Album,query=原来你也,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00147	(field=Album,query=忘记你,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00148	(field=Artist,query=为爱走天,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00149	(field=Album,query=北京的冬,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00150	(field=Album,query=Nig,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00151	(field=Artist,query=Ea,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00152	(field=Title,query=Musi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00153	(field=Album,query=菲比,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00154	(field=Artist,query=3月网,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00155	(field=Artist,query=乐作剧,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00156	(field=Artist,query=小城大事,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00157	(field=Artist,query=Sak,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00158	(field=Album,query=伍,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00159	(field=Album,query=一,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00160	(field=Title,query=作品李宗盛,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00161	(field=Title,query=追忆似水芳,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00162	(field=Album,query=老式情歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00163	(field=Title,query=Shou,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00164	(field=Album,query=不如不,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00165	(field=Title,query=21,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00166	(field=Title,query=Deja,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00167	(field=Title,query=Ten,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00168	(field=Artist,query=Ipar,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00169	(field=Album,query=戸松遥,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00170	(field=Title,query=偶尔还是,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00171	(field=Album,query=Dre,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00172	(field=Title,query=下雨,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00173	(field=Artist,query=Nemm ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00174	(field=Artist,query=Lille,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00175	(field=Artist,query=崇拜,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00176	(field=Album,query=下雨天,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00177	(field=Artist,query=时代全,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00178	(field=Artist,query=异,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00179	(field=Title,query=一起走,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00180	(field=Artist,query=num,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00181	(field=Album,query=十二新,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00182	(field=Title,query=Hhn,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00183	(field=Album,query=It M,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00184	(field=Album,query=天,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00185	(field=Artist,query=小妖,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00186	(field=Title,query=李文琦,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00187	(field=Title,query=邓丽欣,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00188	(field=Artist,query=一个备胎,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00189	(field=Title,query=It Wa,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00190	(field=Album,query=心,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00191	(field=Artist,query=Up,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00192	(field=Artist,query=爱的创可贴,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00193	(field=Title,query=烟火,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00194	(field=Title,query=群,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00195	(field=Album,query=你一定,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00196	(field=Album,query=玫瑰花的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00197	(field=Album,query=onl,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00198	(field=Title,query=梁静茹,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00199	(field=Artist,query=Wax,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00200	(field=Title,query=味道,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00201	(field=Artist,query=胭脂扣,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00202	(field=Title,query=Lov,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00203	(field=Artist,query=S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00204	(field=Title,query=打起手鼓唱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00205	(field=Artist,query=单曲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00206	(field=Artist,query=爱的勇气,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00207	(field=Title,query=威,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00208	(field=Title,query=Cou,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00209	(field=Artist,query=有多少,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00210	(field=Artist,query=Spra,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00211	(field=Album,query=Futur,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00212	(field=Title,query=完,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00213	(field=Album,query=有我在,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00214	(field=Artist,query=江涛,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00215	(field=Title,query=Jou,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00216	(field=Title,query=Bli,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00217	(field=Title,query=弦上春雪,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00218	(field=Album,query=贝多芬的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00219	(field=Artist,query=Iparh,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00220	(field=Album,query=Embra,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00221	(field=Artist,query=O S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00222	(field=Album,query=於曧晿頃_,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00223	(field=Album,query=带我到山,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00224	(field=Title,query=漫步人生,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00225	(field=Album,query=Da S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00226	(field=Album,query=脚步声在靠,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00227	(field=Title,query=未来へ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00228	(field=Album,query=少司命,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00229	(field=Artist,query=军歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00230	(field=Artist,query=アイドル,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00231	(field=Album,query=私房,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00232	(field=Title,query=アイシテ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00233	(field=Title,query=我很快乐,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00234	(field=Artist,query=ひと,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00235	(field=Album,query=Lar,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00236	(field=Album,query=何以,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00237	(field=Album,query=月光倾城,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00238	(field=Title,query=不如不,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00239	(field=Title,query=奔跑,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00240	(field=Album,query=华晨宇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00241	(field=Album,query=一个人,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00242	(field=Album,query=男人哭吧,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00243	(field=Title,query=曹,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00244	(field=Title,query=爱如甲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00245	(field=Title,query=滚,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00246	(field=Album,query=老男孩之,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00247	(field=Artist,query=雱堨棎,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00248	(field=Title,query=新鸳鸯,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00249	(field=Title,query=醇经典,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00250	(field=Album,query=Aliv,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00251	(field=Artist,query=Sis p,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00252	(field=Album,query=魔法少,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00253	(field=Title,query=好汉,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00254	(field=Title,query=Ec,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00255	(field=Artist,query=好汉歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00256	(field=Artist,query=斯,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00257	(field=Album,query=你一定会成,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00258	(field=Album,query=追梦敢不敢,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00259	(field=Album,query=爱情,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00260	(field=Album,query=Face ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00261	(field=Album,query=对不起,,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00262	(field=Artist,query=九月的高跟,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00263	(field=Album,query=长城随想,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00264	(field=Artist,query=Make,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00265	(field=Title,query=不想和,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00266	(field=Album,query=岳云鹏相声,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00267	(field=Artist,query=XOXO ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00268	(field=Album,query=相逢,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00269	(field=Artist,query=安心亚,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00270	(field=Artist,query=Almo,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00271	(field=Title,query=Blac,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00272	(field=Title,query=别让我,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00273	(field=Title,query=时间都,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00274	(field=Artist,query=逃跑计,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00275	(field=Album,query=X.,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00276	(field=Artist,query=不要,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00277	(field=Title,query=特务迷,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00278	(field=Album,query=不想懂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00279	(field=Title,query=且听,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00280	(field=Title,query=Iparh,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00281	(field=Album,query=Saman,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00282	(field=Album,query=小岁月太着,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00283	(field=Title,query=张国,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00284	(field=Album,query=Ste,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00285	(field=Album,query=Hot,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00286	(field=Artist,query=Cas,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00287	(field=Artist,query=Inno,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00288	(field=Album,query=恋しさ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00289	(field=Album,query=靷瀾頃,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00290	(field=Album,query=2008年,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00291	(field=Album,query=Get ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00292	(field=Title,query=Ride,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00293	(field=Title,query=今夜二十,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00294	(field=Album,query=超时,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00295	(field=Title,query=樱花树下 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00296	(field=Title,query=Think,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00297	(field=Title,query=光荣,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00298	(field=Title,query=Viva,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00299	(field=Title,query=二,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00300	(field=Album,query=醉相思,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00301	(field=Artist,query=不会消失,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00302	(field=Artist,query=NO.,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00303	(field=Title,query=世,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00304	(field=Title,query=Duk,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00305	(field=Album,query=离不,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00306	(field=Album,query=罗大佑北京,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00307	(field=Title,query=You L,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00308	(field=Album,query=犯贱r,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00309	(field=Album,query=狼,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00310	(field=Artist,query=心如,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00311	(field=Artist,query=れをる 作,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00312	(field=Album,query=Beau,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00313	(field=Album,query=华散里 /,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00314	(field=Artist,query=胭脂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00315	(field=Title,query=红豆红,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00316	(field=Album,query=冲动的惩罚,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00317	(field=Title,query=南拳妈,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00318	(field=Album,query=Oppos,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00319	(field=Album,query=Come ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00320	(field=Album,query=我在,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00321	(field=Title,query=春晓 E,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00322	(field=Artist,query=ゴムゴム,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00323	(field=Artist,query=陶笛奇遇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00324	(field=Title,query=舞动奇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00325	(field=Album,query=F.I,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00326	(field=Album,query=好汉歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00327	(field=Album,query=爷就是,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00328	(field=Artist,query=在你,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00329	(field=Artist,query=对不起,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00330	(field=Album,query=尝,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00331	(field=Album,query=江涛/,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00332	(field=Title,query=小虎,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00333	(field=Title,query=Bea,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00334	(field=Title,query=鞚搓矊 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00335	(field=Artist,query=Q,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00336	(field=Title,query=Let',fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00337	(field=Artist,query=小先,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00338	(field=Artist,query=交,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00339	(field=Title,query=Ser,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00340	(field=Album,query=无与伦比,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00341	(field=Artist,query=Ris,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00342	(field=Album,query=So F,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00343	(field=Album,query=Of ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00344	(field=Album,query=色は匂へ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00345	(field=Album,query=Fines,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00346	(field=Artist,query=Slav,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00347	(field=Album,query=Penet,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00348	(field=Artist,query=写一首歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00349	(field=Artist,query=Fou,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00350	(field=Album,query=网,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00351	(field=Title,query=史茵,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00352	(field=Title,query=Them,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00353	(field=Album,query=明明白白,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00354	(field=Album,query=岩田さ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00355	(field=Album,query=金莎,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00356	(field=Title,query=春晓 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00357	(field=Album,query=Push,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00358	(field=Artist,query=Fest,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00359	(field=Title,query=给自己,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00360	(field=Artist,query=Any,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00361	(field=Album,query=頄囲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00362	(field=Artist,query=INV,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00363	(field=Artist,query=一生何,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00364	(field=Title,query=Tiren,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00365	(field=Album,query=央视,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00366	(field=Title,query=Tit,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00367	(field=Title,query=Bra,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00368	(field=Title,query=爸爸去哪,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00369	(field=Artist,query=挪威的森林,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00370	(field=Album,query=Ligh,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00371	(field=Album,query=执著,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00372	(field=Title,query=陈粒,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00373	(field=Album,query=Anyt,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00374	(field=Artist,query=孤星.英雄,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00375	(field=Album,query=红,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00376	(field=Title,query=觳偓霝_,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00377	(field=Album,query=其实都没,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00378	(field=Album,query=傻子,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00379	(field=Artist,query=於曧晿,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00380	(field=Album,query=Yes,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00381	(field=Album,query=街角 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00382	(field=Title,query=鞕鸽…歆€,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00383	(field=Album,query=天下,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00384	(field=Album,query=韩,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00385	(field=Title,query=Every,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00386	(field=Title,query=难念的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00387	(field=Album,query=脚步声,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00388	(field=Artist,query=30,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00389	(field=Artist,query=最新热歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00390	(field=Artist,query=Lan,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00391	(field=Album,query=爱死你,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00392	(field=Title,query=海鸣威,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00393	(field=Artist,query=Non,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00394	(field=Title,query=Cl,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00395	(field=Artist,query=ゆ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00396	(field=Title,query=Cant,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00397	(field=Title,query=情歌对,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00398	(field=Artist,query=Ibiz,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00399	(field=Artist,query=Fr e,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00400	(field=Album,query=Vzdál,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00401	(field=Title,query=Gran,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00402	(field=Album,query=ツキアカ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00403	(field=Artist,query=我在乎,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00404	(field=Artist,query=Colo,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00405	(field=Album,query=张学友,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00406	(field=Album,query=森永真,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00407	(field=Album,query=斯德哥尔摩,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00408	(field=Title,query=野百,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00409	(field=Title,query=Sou,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00410	(field=Title,query=Blow ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00411	(field=Album,query=以剑之,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00412	(field=Album,query=一拍两散,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00413	(field=Artist,query=其实,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00414	(field=Artist,query=后青,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00415	(field=Album,query=真的不容易,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00416	(field=Album,query=Min,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00417	(field=Album,query=一个人的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00418	(field=Title,query=Dead,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00419	(field=Album,query=一生何求,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00420	(field=Artist,query=Furi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00421	(field=Album,query=你的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00422	(field=Artist,query=如果没有你,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00423	(field=Album,query=敢爱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00424	(field=Album,query=His,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00425	(field=Title,query=早上,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00426	(field=Album,query=Oppo,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00427	(field=Title,query=脱ディ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00428	(field=Album,query=Gl,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00429	(field=Artist,query=爸爸去哪儿,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00430	(field=Album,query=涵剧,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00431	(field=Artist,query=爷就,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00432	(field=Title,query=Cambi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00433	(field=Title,query=一起,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00434	(field=Artist,query=Journ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00435	(field=Title,query=旅の途,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00436	(field=Artist,query=Ka,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00437	(field=Artist,query=Pow,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00438	(field=Album,query=海鸣威,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00439	(field=Title,query=?,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00440	(field=Album,query=Par,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00441	(field=Title,query=霹雳英雄,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00442	(field=Title,query=COOL,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00443	(field=Artist,query=月,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00444	(field=Title,query=逆光,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00445	(field=Album,query=Fou,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00446	(field=Artist,query=Dem,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00447	(field=Album,query=野中,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00448	(field=Artist,query=校园民,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00449	(field=Title,query=J ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00450	(field=Title,query=无与伦比,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00451	(field=Artist,query=戴佩,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00452	(field=Artist,query=王铮亮,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00453	(field=Album,query=对你爱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00454	(field=Album,query=秋,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00455	(field=Album,query=爱如甲骨文,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00456	(field=Artist,query=Wavin,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00457	(field=Album,query=时间都去哪,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00458	(field=Title,query=NO.1,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00459	(field=Title,query=春晓 EP,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00460	(field=Album,query=Go,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00461	(field=Album,query=篠原涼,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00462	(field=Title,query=Roc,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00463	(field=Artist,query=青青河边草,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00464	(field=Title,query=观音灵感真,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00465	(field=Title,query=My Li,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00466	(field=Album,query=Kit,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00467	(field=Title,query=郭峰,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00468	(field=Artist,query=乌兰托,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00469	(field=Album,query=阿肆,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00470	(field=Album,query=Musi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00471	(field=Title,query=骆驼,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00472	(field=Artist,query=谢天笑,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00473	(field=Artist,query=I\'m,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00474	(field=Album,query=?? ?,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00475	(field=Title,query=中国最,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00476	(field=Album,query=雱堨棎瓴岆,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00477	(field=Album,query=Aud,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00478	(field=Album,query=曾经的歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00479	(field=Title,query=Razo,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00480	(field=Album,query=卷珠帘 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00481	(field=Album,query=羽泉,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00482	(field=Artist,query=ポケモ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00483	(field=Title,query=听说爱情,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00484	(field=Album,query=Tai,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00485	(field=Artist,query=茶小姐和熊,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00486	(field=Album,query=After,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00487	(field=Album,query=敢爱敢,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00488	(field=Artist,query=Zombi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00489	(field=Artist,query=Rob,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00490	(field=Artist,query=放手,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00491	(field=Title,query=方糖泡,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00492	(field=Artist,query=什,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00493	(field=Album,query=No Ga,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00494	(field=Title,query=醉相思,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00495	(field=Artist,query=All A,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00496	(field=Title,query=Hall ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00497	(field=Album,query=做,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00498	(field=Album,query=90,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00499	(field=Album,query=下一,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00500	(field=Artist,query=Tur,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00501	(field=Album,query=装,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00502	(field=Artist,query=何以奇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00503	(field=Artist,query=Hele,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00504	(field=Title,query=爱的创可,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00505	(field=Artist,query=爱如甲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00506	(field=Artist,query=剧场版 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00507	(field=Title,query=台北万,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00508	(field=Title,query=Alive,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00509	(field=Album,query=我们结婚,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00510	(field=Album,query=斑马, ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00511	(field=Title,query=新歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00512	(field=Artist,query=犬,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00513	(field=Artist,query=花又开好了,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00514	(field=Album,query=Ball,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00515	(field=Album,query=Sea O,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00516	(field=Title,query=A Li,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00517	(field=Album,query=几分伤心几,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00518	(field=Album,query=男女对,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00519	(field=Album,query=精,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00520	(field=Title,query=Halcy,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00521	(field=Album,query=天使,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00522	(field=Title,query=Mr Pe,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00523	(field=Artist,query=昂令油,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00524	(field=Title,query=傻,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00525	(field=Artist,query=0,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00526	(field=Album,query=圆谎 - ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00527	(field=Artist,query=不想和,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00528	(field=Title,query=高橋,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00529	(field=Artist,query=Revol,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00530	(field=Title,query=Acou,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00531	(field=Album,query=逐梦令,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00532	(field=Artist,query=装糊涂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00533	(field=Title,query=R,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00534	(field=Artist,query=I Nee,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00535	(field=Album,query=Il ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00536	(field=Album,query=我想牵,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00537	(field=Artist,query=Lim,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00538	(field=Title,query=Len,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00539	(field=Artist,query=朵儿,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00540	(field=Artist,query=畅,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00541	(field=Album,query=No ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00542	(field=Title,query=剧情杀青,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00543	(field=Title,query=Amaz,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00544	(field=Title,query=漂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00545	(field=Album,query=学不会,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00546	(field=Title,query=Here ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00547	(field=Title,query=拥抱的理由,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00548	(field=Artist,query=CHUCK,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00549	(field=Album,query=Wart,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00550	(field=Album,query=中国好,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00551	(field=Album,query=漫步人生,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00552	(field=Album,query=超级奥特,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00553	(field=Album,query=9,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00554	(field=Artist,query=后青春期,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00555	(field=Album,query=夜三里,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00556	(field=Album,query=VIP D,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00557	(field=Title,query=You ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00558	(field=Artist,query=梁邦彦,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00559	(field=Title,query=Minis,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00560	(field=Artist,query=学友,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00561	(field=Album,query=男人哭吧不,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00562	(field=Album,query=Brav,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00563	(field=Title,query=孤鸾疗伤版,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00564	(field=Artist,query=Littl,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00565	(field=Album,query=不想做朋,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00566	(field=Title,query=Inn,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00567	(field=Artist,query=刘若,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00568	(field=Album,query=Bar,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00569	(field=Title,query=十二幻梦曲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00570	(field=Artist,query=步步,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00571	(field=Album,query=Yest,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00572	(field=Title,query=秋意浓,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00573	(field=Artist,query=清,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00574	(field=Title,query=许嵩,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00575	(field=Artist,query=逞强,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00576	(field=Artist,query=竹海桑田,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00577	(field=Artist,query=小虎,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00578	(field=Title,query=月光倾城 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00579	(field=Title,query=真的不容,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00580	(field=Artist,query=让我想一想,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00581	(field=Album,query=杜雯,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00582	(field=Artist,query=EX,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00583	(field=Title,query=在你面,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00584	(field=Artist,query=林海,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00585	(field=Artist,query=Fren,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00586	(field=Artist,query=渔舟唱晚,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00587	(field=Title,query=李克勤,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00588	(field=Album,query=Han,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00589	(field=Title,query=平淡日子里,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00590	(field=Artist,query=Kitsu,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00591	(field=Artist,query=宋冬野,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00592	(field=Album,query=岁月这,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00593	(field=Title,query=三つ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00594	(field=Album,query=骆,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00595	(field=Album,query=爱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00596	(field=Title,query=那个人,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00597	(field=Album,query=Sui,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00598	(field=Title,query=Alm,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00599	(field=Artist,query=Nie ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00600	(field=Artist,query=DIGI,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00601	(field=Title,query=剧情,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00602	(field=Album,query=day ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00603	(field=Title,query=彭佳,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00604	(field=Title,query=伤心的不只,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00605	(field=Album,query=ラメのパン,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00606	(field=Title,query=The O,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00607	(field=Album,query=怒放的生,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00608	(field=Album,query=21,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00609	(field=Title,query=棒,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00610	(field=Title,query=I Do,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00611	(field=Title,query=Over,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00612	(field=Album,query=Wan,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00613	(field=Title,query=结巴论(,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00614	(field=Artist,query=Cus,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00615	(field=Artist,query=Kron,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00616	(field=Artist,query=Wan,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00617	(field=Album,query=She ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00618	(field=Title,query=Rid,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00619	(field=Title,query=曾经的歌系,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00620	(field=Artist,query=We Ow,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00621	(field=Artist,query=Diam,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00622	(field=Artist,query=热门,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00623	(field=Artist,query=山野,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00624	(field=Title,query=CHUCK,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00625	(field=Title,query=Be,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00626	(field=Album,query=Ya N,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00627	(field=Artist,query=罗大佑自选,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00628	(field=Title,query=Voice,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00629	(field=Album,query=九,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00630	(field=Artist,query=日不落 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00631	(field=Title,query=Sabr,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00632	(field=Title,query=玫瑰,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00633	(field=Title,query=Wart,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00634	(field=Album,query=十二幻梦,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00635	(field=Artist,query=姜育恒,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00636	(field=Artist,query=Don T,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00637	(field=Album,query=潘玮,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00638	(field=Title,query=Fines,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00639	(field=Album,query=鞕鸽…,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00640	(field=Artist,query=写一,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00641	(field=Album,query=怀旧动漫歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00642	(field=Title,query=林俊,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00643	(field=Title,query=Shre,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00644	(field=Title,query=舞曲超HI,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00645	(field=Title,query=I Wi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00646	(field=Album,query=张惠,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00647	(field=Album,query=突然,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00648	(field=Artist,query=月光边境,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00649	(field=Artist,query=ayu,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00650	(field=Album,query=敢为,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00651	(field=Title,query=斑马, ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00652	(field=Album,query=559,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00653	(field=Artist,query=TiK,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00654	(field=Artist,query=NRJ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00655	(field=Title,query=每次和,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00656	(field=Album,query=山水之间,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00657	(field=Title,query=Orig,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00658	(field=Album,query=一样的月光,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00659	(field=Artist,query=骆驼·飞鸟,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00660	(field=Album,query=网络情,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00661	(field=Artist,query=成龙,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00662	(field=Album,query=装糊,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00663	(field=Title,query=XO,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00664	(field=Album,query=E,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00665	(field=Title,query=Er,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00666	(field=Title,query=舞动奇迹,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00667	(field=Artist,query=天使与魔鬼,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00668	(field=Title,query=Cra,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00669	(field=Album,query=Ha,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00670	(field=Artist,query=Sov,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00671	(field=Artist,query=End ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00672	(field=Artist,query=日不落 -,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00673	(field=Album,query=伤,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00674	(field=Title,query=Hop,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00675	(field=Artist,query=致青春系列,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00676	(field=Artist,query=梦魇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00677	(field=Album,query=冲动,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00678	(field=Title,query=再次寻,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00679	(field=Artist,query=Coun,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00680	(field=Album,query=北,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00681	(field=Title,query=写,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00682	(field=Artist,query=父亲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00683	(field=Title,query=长城随想,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00684	(field=Artist,query=明明白白,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00685	(field=Artist,query=暗,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00686	(field=Title,query=Hide,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00687	(field=Artist,query=Ten,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00688	(field=Artist,query=曾经,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00689	(field=Title,query=路过幸,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00690	(field=Album,query=孤单北半球,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00691	(field=Album,query=执,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00692	(field=Title,query=か,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00693	(field=Title,query=Nosf,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00694	(field=Title,query=陪我,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00695	(field=Artist,query=9,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00696	(field=Artist,query=明明白,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00697	(field=Artist,query=小三你好贱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00698	(field=Artist,query=就算世界无,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00699	(field=Title,query=Your ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00700	(field=Album,query=生生,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00701	(field=Title,query=蓝,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00702	(field=Title,query=国语老,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00703	(field=Album,query=秦皇,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00704	(field=Title,query=情人的眼,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00705	(field=Album,query=Voc,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00706	(field=Title,query=Guar,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00707	(field=Album,query=Fest,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00708	(field=Album,query=Play ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00709	(field=Album,query=Pasan,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00710	(field=Title,query=为了爱梦一,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00711	(field=Title,query=张悦,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00712	(field=Album,query=木玛,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00713	(field=Album,query=Hango,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00714	(field=Album,query=且听风吟,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00715	(field=Artist,query=After,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00716	(field=Album,query=Gw,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00717	(field=Title,query=不想懂得,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00718	(field=Title,query=明天的明,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00719	(field=Title,query=も,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00720	(field=Title,query=发现目,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00721	(field=Artist,query=Anot,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00722	(field=Artist,query=90's,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00723	(field=Artist,query=信者,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00724	(field=Title,query=Marr,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00725	(field=Title,query=在一起,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00726	(field=Album,query=好歌献,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00727	(field=Title,query=Can',fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00728	(field=Title,query=St,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00729	(field=Artist,query=天空之城,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00730	(field=Title,query=胭脂扣,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00731	(field=Title,query=J,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00732	(field=Title,query=乐,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00733	(field=Album,query=5 S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00734	(field=Artist,query=れをる ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00735	(field=Title,query=风飞,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00736	(field=Album,query=想要,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00737	(field=Title,query=心的节奏,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00738	(field=Title,query=黄晓,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00739	(field=Title,query=泪海,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00740	(field=Album,query=爱的世,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00741	(field=Artist,query=鞚搓矊,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00742	(field=Title,query=V.,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00743	(field=Album,query=天路(,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00744	(field=Album,query=Here ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00745	(field=Title,query=会,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00746	(field=Album,query=轮,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00747	(field=Title,query=大圈,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00748	(field=Artist,query=不哭,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00749	(field=Artist,query=CAL,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00750	(field=Album,query=Pus,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00751	(field=Artist,query=Eif,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00752	(field=Album,query=Janic,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00753	(field=Album,query=那个女,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00754	(field=Title,query=Almo,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00755	(field=Title,query=古巨基05,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00756	(field=Album,query=A S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00757	(field=Album,query=POI,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00758	(field=Artist,query=For ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00759	(field=Album,query=nul,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00760	(field=Album,query=null,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00761	(field=Album,query=当你听我说,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00762	(field=Album,query=El P,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00763	(field=Artist,query=失,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00764	(field=Title,query=郑秀,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00765	(field=Title,query=新歌+,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00766	(field=Artist,query=Trut,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00767	(field=Artist,query=Relig,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00768	(field=Artist,query=1053,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00769	(field=Title,query=Ridin,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00770	(field=Artist,query=陀,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00771	(field=Album,query=O S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00772	(field=Artist,query=20 S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00773	(field=Title,query=Let ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00774	(field=Album,query=陪我,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00775	(field=Artist,query=月半小,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00776	(field=Title,query=Craw,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00777	(field=Album,query=Ce,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00778	(field=Album,query=慢,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00779	(field=Artist,query=情调,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00780	(field=Title,query=BALDR,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00781	(field=Artist,query=Alm,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00782	(field=Album,query=Canta,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00783	(field=Artist,query=Hi歌 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00784	(field=Album,query=色は匂へど,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00785	(field=Artist,query=Hig,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00786	(field=Title,query=NRJ ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00787	(field=Title,query=Ast,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00788	(field=Title,query=Ay! ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00789	(field=Title,query=Non,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00790	(field=Artist,query=Go(A,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00791	(field=Title,query=胡彦斌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00792	(field=Album,query=Big ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00793	(field=Title,query=Ever,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00794	(field=Artist,query=夜空中,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00795	(field=Title,query=蝴蝶,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00796	(field=Album,query=曾经的歌系,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00797	(field=Artist,query=杜雯媞,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00798	(field=Artist,query=真的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00799	(field=Artist,query=天空之,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00800	(field=Title,query=岳云鹏相声,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00801	(field=Title,query=Dilem,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00802	(field=Title,query=步步,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00803	(field=Title,query=不如不见,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00804	(field=Title,query=Vis,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00805	(field=Title,query=Dim,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00806	(field=Title,query=小城大事,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00807	(field=Album,query=天空之,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00808	(field=Artist,query=Opp,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00809	(field=Artist,query=Gi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00810	(field=Title,query=你看,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00811	(field=Title,query=Wond,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00812	(field=Title,query=林俊杰,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00813	(field=Album,query=中国最强音,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00814	(field=Title,query=岳云,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00815	(field=Title,query=Res,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00816	(field=Artist,query=宋祖,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00817	(field=Album,query=时代,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00818	(field=Album,query=Suga,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00819	(field=Artist,query=电视剧武,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00820	(field=Title,query=雱堨潣 霋,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00821	(field=Title,query=One W,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00822	(field=Artist,query=潘玮,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00823	(field=Title,query=Nei,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00824	(field=Title,query=十二新,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00825	(field=Artist,query=漂洋过海来,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00826	(field=Album,query=颜小,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00827	(field=Album,query=守护,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00828	(field=Title,query=篠原,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00829	(field=Album,query=发现,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00830	(field=Album,query=I Ne,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00831	(field=Artist,query=2008,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00832	(field=Album,query=Wasti,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00833	(field=Title,query=吹一,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00834	(field=Artist,query=苏芮,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00835	(field=Title,query=Stat,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00836	(field=Artist,query=蓝心,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00837	(field=Title,query=几分伤心几,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00838	(field=Title,query=站,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00839	(field=Artist,query=侃,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00840	(field=Album,query=十二幻梦曲,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00841	(field=Title,query=色は,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00842	(field=Title,query=单色凌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00843	(field=Title,query=反,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00844	(field=Album,query=You A,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00845	(field=Artist,query=带泪的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00846	(field=Artist,query=VIP,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00847	(field=Artist,query=Vers,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00848	(field=Title,query=Run,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00849	(field=Title,query=最,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00850	(field=Artist,query=10538,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00851	(field=Title,query=West,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00852	(field=Title,query=sec,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00853	(field=Artist,query=红尘客,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00854	(field=Artist,query=Proje,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00855	(field=Artist,query=Po,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00856	(field=Title,query=黑撒,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00857	(field=Artist,query=Ci,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00858	(field=Album,query=花,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00859	(field=Title,query=就算世,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00860	(field=Title,query=一天一天,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00861	(field=Album,query=Q,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00862	(field=Artist,query=不要在我,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00863	(field=Title,query=少女的祈,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00864	(field=Album,query=男女,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00865	(field=Album,query=Ang 5,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00866	(field=Artist,query=Dea,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00867	(field=Title,query=萧亚,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00868	(field=Artist,query=小先生,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00869	(field=Artist,query=See,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00870	(field=Album,query=I,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00871	(field=Artist,query=Per,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00872	(field=Album,query=Nic,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00873	(field=Title,query=六,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00874	(field=Title,query=登“封”造,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00875	(field=Artist,query=El Ma,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00876	(field=Artist,query=我曾爱,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00877	(field=Title,query=从未这样,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00878	(field=Artist,query=氅,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00879	(field=Album,query=谢安,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00880	(field=Artist,query=Fac,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00881	(field=Title,query=瓿犽,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00882	(field=Album,query=Zom,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00883	(field=Title,query=万岁2,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00884	(field=Artist,query=About,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00885	(field=Album,query=侃,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00886	(field=Album,query=宿,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00887	(field=Artist,query=4TE,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00888	(field=Title,query=电,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00889	(field=Artist,query=童年,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00890	(field=Title,query=今生难得有,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00891	(field=Artist,query=脉脉声情 ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00892	(field=Title,query=Nie ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00893	(field=Title,query=Kno,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00894	(field=Artist,query=李易,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00895	(field=Title,query=Witho,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00896	(field=Artist,query=Fift,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00897	(field=Album,query=青青,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00898	(field=Artist,query=郝云,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00899	(field=Artist,query=Er h,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00900	(field=Artist,query=Carcr,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00901	(field=Artist,query=The M,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00902	(field=Album,query=Joui,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00903	(field=Title,query=糊涂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00904	(field=Title,query=带,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00905	(field=Album,query=Fr e,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00906	(field=Title,query=Lu,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00907	(field=Title,query=Cu,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00908	(field=Album,query=Lege,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00909	(field=Title,query=童话,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00910	(field=Title,query=Roll,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00911	(field=Title,query=明明白,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00912	(field=Title,query=周慧敏,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00913	(field=Artist,query=2015中,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00914	(field=Album,query=习惯了寂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00915	(field=Album,query=经典,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00916	(field=Title,query=流动的城市,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00917	(field=Artist,query=怀旧动,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00918	(field=Album,query=Pri,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00919	(field=Artist,query=神游,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00920	(field=Artist,query=玄觞,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00921	(field=Title,query=棒棒棒,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00922	(field=Artist,query=let’,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00923	(field=Title,query=Din,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00924	(field=Album,query=原创?烽火,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00925	(field=Title,query=90's ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00926	(field=Album,query=Bo,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00927	(field=Album,query=Win,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00928	(field=Artist,query=带我,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00929	(field=Artist,query=谢容儿,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00930	(field=Album,query=Bi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00931	(field=Album,query=学友,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00932	(field=Artist,query=Herbi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00933	(field=Artist,query=无愧于心,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00934	(field=Album,query=成龙,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00935	(field=Album,query=40 Gr,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00936	(field=Title,query=陶钰,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00937	(field=Artist,query=Voi,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00938	(field=Artist,query=牧,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00939	(field=Artist,query=Mer,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00940	(field=Title,query=我们结婚吧,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00941	(field=Artist,query=何以,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00942	(field=Album,query=我们都,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00943	(field=Album,query=Hate ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00944	(field=Artist,query=Gr,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00945	(field=Album,query=Big,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00946	(field=Artist,query=Es ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00947	(field=Album,query=纪念,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00948	(field=Album,query=Vocal,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00949	(field=Artist,query=茉,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00950	(field=Album,query=Cu,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00951	(field=Album,query=Stag,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00952	(field=Artist,query=I K,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00953	(field=Album,query=一生守候,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00954	(field=Artist,query=LET`S,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00955	(field=Album,query=No An,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00956	(field=Artist,query=#a,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00957	(field=Album,query=小时候,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00958	(field=Title,query=怒,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00959	(field=Title,query=玄,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00960	(field=Title,query=Fine,,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00961	(field=Album,query=伤心,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00962	(field=Title,query=F,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00963	(field=Artist,query=野百合也有,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00964	(field=Artist,query=男,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00965	(field=Artist,query=Fearl,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00966	(field=Album,query=Aabr,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00967	(field=Album,query=习,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00968	(field=Album,query=My So,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00969	(field=Title,query=许茹芸,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00970	(field=Album,query=我不是你,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00971	(field=Title,query=He',fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00972	(field=Album,query=Take ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00973	(field=Album,query=Kokom,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00974	(field=Title,query=那个,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00975	(field=Album,query=La L,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00976	(field=Album,query=生生世世,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00977	(field=Album,query=Kin,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00978	(field=Album,query=三つ葉の結,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00979	(field=Artist,query=茉莉花,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00980	(field=Artist,query=不浪漫罪名,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00981	(field=Artist,query=为情所,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00982	(field=Album,query=Halc,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00983	(field=Artist,query=れをる,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00984	(field=Album,query=Kn,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00985	(field=Album,query=Deli,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00986	(field=Artist,query=金泰,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00987	(field=Artist,query=Furio,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00988	(field=Album,query=Toss ,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00989	(field=Album,query=致,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00990	(field=Title,query=眼泪的名字,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00991	(field=Artist,query=李,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00992	(field=Title,query=神雕侠,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00993	(field=Artist,query=我们的歌,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00994	(field=Artist,query=Tak,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00995	(field=Artist,query=宋冬,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00996	(field=Artist,query=Beg,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00997	(field=Artist,query=Die E,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00998	(field=Title,query=鞏措敂,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_00999	(field=Title,query=我要的,fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+navi_SR_01000	(field=Artist,query=90',fuzzy=1,searchType=SR)	50	music10000.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND

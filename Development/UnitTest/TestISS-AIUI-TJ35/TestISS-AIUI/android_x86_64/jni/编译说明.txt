@@ -1,0 +1,5 @@
+使用ndk-r10b版本，并且需在ndk的platforms目录下放入android-19包。
+
+编译前需修改Android.mk中关于VACommon的路径（由于长度限制，只能写绝对路径）。
+
+在该目录下执行ndk-build进行编译。

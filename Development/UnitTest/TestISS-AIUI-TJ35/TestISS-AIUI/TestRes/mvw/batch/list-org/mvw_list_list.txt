@@ -1,0 +1,14 @@
+mvw/batch/list/SceneId-1/你好语音助理.txt
+mvw/batch/list/SceneId-2/确定.txt
+mvw/batch/list/SceneId-2/取消.txt
+mvw/batch/list/SceneId-4/第一个.txt
+mvw/batch/list/SceneId-4/第二个.txt
+mvw/batch/list/SceneId-4/第三个.txt
+mvw/batch/list/SceneId-4/第四个.txt
+mvw/batch/list/SceneId-4/第五个.txt
+mvw/batch/list/SceneId-4/第六个.txt
+mvw/batch/list/SceneId-4/最后一个.txt
+mvw/batch/list/SceneId-4/取消.txt
+mvw/batch/list/SceneId-8/接听.txt
+mvw/batch/list/SceneId-8/挂断.txt
+mvw/batch/list/SceneId-8/取消.txt

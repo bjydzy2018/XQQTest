@@ -1,0 +1,14 @@
+mvw/batch/list/SceneId-1/nhyyzl.txt
+mvw/batch/list/SceneId-2/queding.txt
+mvw/batch/list/SceneId-2/quxiao.txt
+mvw/batch/list/SceneId-4/diyige.txt
+mvw/batch/list/SceneId-4/dierge.txt
+mvw/batch/list/SceneId-4/disange.txt
+mvw/batch/list/SceneId-4/disige.txt
+mvw/batch/list/SceneId-4/diwuge.txt
+mvw/batch/list/SceneId-4/diliuge.txt
+mvw/batch/list/SceneId-4/zuihouyige.txt
+mvw/batch/list/SceneId-4/quxiao.txt
+mvw/batch/list/SceneId-8/jieting.txt
+mvw/batch/list/SceneId-8/guaduan.txt
+mvw/batch/list/SceneId-8/quxiao.txt
