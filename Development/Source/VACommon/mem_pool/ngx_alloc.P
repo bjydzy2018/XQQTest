@@ -1,0 +1,4 @@
+ngx_alloc.o: mem_pool/ngx_alloc.c mem_pool/ngx_config.h \
+ mem_pool/ngx_alloc.h
+mem_pool/ngx_alloc.c mem_pool/ngx_config.h :
+ mem_pool/ngx_alloc.h :

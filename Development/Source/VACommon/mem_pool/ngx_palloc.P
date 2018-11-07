@@ -1,0 +1,4 @@
+ngx_palloc.o: mem_pool/ngx_palloc.c mem_pool/ngx_config.h \
+ mem_pool/ngx_palloc.h mem_pool/ngx_alloc.h mem_pool/nl_mem.h
+mem_pool/ngx_palloc.c mem_pool/ngx_config.h :
+ mem_pool/ngx_palloc.h mem_pool/ngx_alloc.h mem_pool/nl_mem.h :

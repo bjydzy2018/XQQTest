@@ -1,0 +1,8 @@
+#ifndef VACOMMON_SVN_REVISION_H_
+#define VACOMMON_SVN_REVISION_H_
+
+#define ISS_COMPILED_TIME_STRING    "CompiledTime: $WCNOW$"
+#define ISS_SVN_REVISON             $WCREV$
+#define ISS_SVN_REVISON_STRING      "SvnRevision: $WCREV$"
+
+#endif
