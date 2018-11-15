@@ -1,0 +1,208 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <Spinner
+            android:id="@+id/filechooser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_weight="1" />
+
+        <Spinner
+            android:id="@+id/dictchooser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_weight="1" />
+        <Spinner
+            android:id="@+id/lang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="lang" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="6sp"
+                android:text="识别模式:" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/Cloud_mode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="云端识别" />
+
+                    <RadioButton
+                        android:id="@+id/Local_mode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:textSize="6sp"
+                        android:text="本地识别" />
+
+                    <RadioButton
+                        android:id="@+id/Mixed_mode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="混合识别" />
+                </RadioGroup>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="6sp"
+                android:text="场景设置:" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/scene_all"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:checked="true"
+                        android:text="ALL" />
+
+                    <RadioButton
+                        android:id="@+id/scene_poi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="POI" />
+
+                    <RadioButton
+                        android:id="@+id/scene_Contact"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="Contact" />
+
+                    <RadioButton
+                        android:id="@+id/scene_select"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="Select" />
+
+                    <RadioButton
+                        android:id="@+id/scene_confirm"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="Confirm" />
+                </RadioGroup>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="6sp"
+                android:text="setTrack:" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:checkedButton="@+id/singletrack"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/singletrack"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="single" />
+
+                    <RadioButton
+                        android:id="@+id/doubletrack"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="6sp"
+                        android:text="double" />
+                </RadioGroup>
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <ToggleButton
+                    android:id="@+id/on_off"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:textSize="8sp"
+                    android:textOff="start"
+                    android:textOn="stop" >
+                </ToggleButton>
+                <Button
+                    android:id="@+id/ditbtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="8sp"
+                    android:text="上传词典" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/mTextView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+    </ScrollView>
+    <!--  <ScrollView
+         android:layout_width="0dp"
+         android:layout_height="match_parent"
+         android:layout_weight="1" >
+
+         <TextView
+             android:id="@+id/mTextView"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent" />
+     </ScrollView> -->
+</LinearLayout>
