@@ -1,0 +1,5819 @@
+ [ISR Test] path_of_bin is /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin
+ [ISR Test] tts_res_path : /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/TTSRes
+ [ISR Test] cfg_Dir : /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/isr_list.cfg
+ [ISR Test] Open cfg_Dir success: /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/isr_list.cfg
+ [ISR Test] Pcm_Res_Path_Default is /home/linaro/ATP/test_data/PcmRes.
+ [ISR Test] Result_Type_Default is 1.
+ [ISR Test] ISR_Mode_Default is 1.
+ [ISR Test] ISR_Lang_Default is 0.
+ [ISR Test] UpLoadDictModel_Default is 1.
+ [ISR Test] ISS_SR_SCENE_Default is all.
+ [ISR Test] Loop_Num_Default is 1
+ [ISR Test] Pcm_Track_Default is 1
+ [ISR Test] Trace_Level_Default is error.
+ [ISR Test] TTS_Mode_Default is 0.
+ [ISR Test] TTS_Speaker_Default is 99.
+ [ISR Test] TTS_Out_Default is 0.
+ [ISR Test] ISS_MVW_SCENE_Default is 1.
+ [ISR Test] Index_Srh is 1
+ [ISR Test] Index_Drop is 1
+ [ISR Test] Loc_Msp_Nli is 1
+ [ISR Test] Set path_of_pcm_res = /home/linaro/ATP/test_data/PcmRes
+ [ISR Test] Set Speaker = 99
+ [ISR Test] Set Loop_Num = 1
+ [ISR Test] Set ResMode = 0
+ [ISR Test] Set TTS_Out = 0
+ [ISR Test] InitRes success!
+ [ISR Test] No ISS_CHIP_CRYPT
+ [ISR Test] Create success!
+ [ISR Test] Init resume 8 ms
+ [ISR Test] Create resume 85 ms
+ [ISR Test] Open list success!
+ [ISR Test] 绗?娆★細
+ [ISR Test] 打开空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/001.pcm
+
+ [ISR Test] tts proc result resume 202 ms
+ [ISR Test] tts resume 216 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 关闭空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/002.pcm
+
+ [ISR Test] tts proc result resume 121 ms
+ [ISR Test] tts resume 135 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 关掉空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/003.pcm
+
+ [ISR Test] tts proc result resume 101 ms
+ [ISR Test] tts resume 115 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/004.pcm
+
+ [ISR Test] tts proc result resume 51 ms
+ [ISR Test] tts resume 90 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 空调26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/005.pcm
+
+ [ISR Test] tts proc result resume 80 ms
+ [ISR Test] tts resume 165 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 提高音量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/006.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 56 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 声音减小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/007.pcm
+
+ [ISR Test] tts proc result resume 90 ms
+ [ISR Test] tts resume 110 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 降低音量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/008.pcm
+
+ [ISR Test] tts proc result resume 42 ms
+ [ISR Test] tts resume 49 ms
+ [ISR Test] 绗?娆★細
+ [ISR Test] 暂停播放
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/009.pcm
+
+ [ISR Test] tts proc result resume 51 ms
+ [ISR Test] tts resume 52 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 上一首
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/010.pcm
+
+ [ISR Test] tts proc result resume 50 ms
+ [ISR Test] tts resume 50 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 下一首
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/011.pcm
+
+ [ISR Test] tts proc result resume 40 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 打开导航
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/012.pcm
+
+ [ISR Test] tts proc result resume 50 ms
+ [ISR Test] tts resume 67 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 打开行车记录仪
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/013.pcm
+
+ [ISR Test] tts proc result resume 40 ms
+ [ISR Test] tts resume 66 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 打开收音机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/014.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 电话
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/015.pcm
+
+ [ISR Test] tts proc result resume 110 ms
+ [ISR Test] tts resume 110 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 拨打电话
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/016.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 开启空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/017.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 开空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/018.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 请打开空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/019.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 请开空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/020.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 关空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/021.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 请关闭空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/022.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 请关空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/023.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 请关掉空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/024.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 空调进入自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/025.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 打开空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/026.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 开空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/027.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 请打开空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/028.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 请开空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/029.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 关闭空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/030.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 82 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 退出空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/031.pcm
+
+ [ISR Test] tts proc result resume 61 ms
+ [ISR Test] tts resume 100 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 关空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/032.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 50 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 关掉空调自动模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/033.pcm
+
+ [ISR Test] tts proc result resume 34 ms
+ [ISR Test] tts resume 67 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/034.pcm
+
+ [ISR Test] tts proc result resume 40 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 开制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/035.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 开启制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/036.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 打开制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/037.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 打开制冷机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/038.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 打开压缩机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/039.pcm
+
+ [ISR Test] tts proc result resume 141 ms
+ [ISR Test] tts resume 150 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 开压缩机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/040.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 关制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/041.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 关闭制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/042.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 关闭压缩机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/043.pcm
+
+ [ISR Test] tts proc result resume 33 ms
+ [ISR Test] tts resume 47 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 关压缩机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/044.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 请关制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/045.pcm
+
+ [ISR Test] tts proc result resume 15 ms
+ [ISR Test] tts resume 19 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 关闭制冷
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/046.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 关闭压缩机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/047.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 关压缩机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/048.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/049.pcm
+
+ [ISR Test] tts proc result resume 955 ms
+ [ISR Test] tts resume 958 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 打开内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/050.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 开内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/051.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 请打开内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/052.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 请开内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/053.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 22 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 关闭外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/054.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 关外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/055.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 关闭新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/056.pcm
+
+ [ISR Test] tts proc result resume 453 ms
+ [ISR Test] tts resume 457 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 关新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/057.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 请关闭外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/058.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 48 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 请关外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/059.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 请关闭新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/060.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 请关新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/061.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/062.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 打开外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/063.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 开外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/064.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 请打开外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/065.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 请开外循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/066.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 46 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/067.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 打开新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/068.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 22 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 开新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/069.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 关闭内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/070.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 关内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/071.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 请打开新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/072.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 请开新风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/073.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 请关闭内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/074.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 请关内循环
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/075.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 打开副驾驶温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/076.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 打开分区温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/077.pcm
+
+ [ISR Test] tts proc result resume 50 ms
+ [ISR Test] tts resume 57 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 请打开副驾驶温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/078.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 请打开分区温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/079.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 关闭副驾驶温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/080.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 关闭分区温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/081.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 打开前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/082.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 前除霜打开
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/083.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 请打开前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/084.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 除前霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/085.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 关闭前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/086.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 前除霜关闭
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/087.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 关掉前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/088.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 关前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/089.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?0娆★細
+ [ISR Test] 请关闭前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/090.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 49 ms
+ [ISR Test] 绗?1娆★細
+ [ISR Test] 前除霜关闭
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/091.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?2娆★細
+ [ISR Test] 请关掉前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/092.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?3娆★細
+ [ISR Test] 请关前除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/093.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?4娆★細
+ [ISR Test] 打开前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/094.pcm
+
+ [ISR Test] tts proc result resume 71 ms
+ [ISR Test] tts resume 74 ms
+ [ISR Test] 绗?5娆★細
+ [ISR Test] 前除雾打开
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/095.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?6娆★細
+ [ISR Test] 请打开前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/096.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?7娆★細
+ [ISR Test] 除前雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/097.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?8娆★細
+ [ISR Test] 关闭前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/098.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?9娆★細
+ [ISR Test] 前除雾关闭
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/099.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 关掉前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/100.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 关前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/101.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 请关闭前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/102.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 48 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 前除雾关闭
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/103.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 请关掉前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/104.pcm
+
+ [ISR Test] tts proc result resume 32 ms
+ [ISR Test] tts resume 45 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 请关前除雾
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/105.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/106.pcm
+
+ [ISR Test] tts proc result resume 132 ms
+ [ISR Test] tts resume 135 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 开后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/107.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 打开后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/108.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] 后除霜打开
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/109.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] 请开后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/110.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 请打开后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/111.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 45 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 关后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/112.pcm
+
+ [ISR Test] tts proc result resume 15 ms
+ [ISR Test] tts resume 18 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 关闭后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/113.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 后除霜关闭
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/114.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 请关后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/115.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 请关闭后除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/116.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 后除霜关掉
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/117.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] 温度最高
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/118.pcm
+
+ [ISR Test] tts proc result resume 100 ms
+ [ISR Test] tts resume 105 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 最高温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/119.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 温度调到最高
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/120.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 温度设置到最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/121.pcm
+
+ [ISR Test] tts proc result resume 60 ms
+ [ISR Test] tts resume 84 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 温度请调到最高
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/122.pcm
+
+ [ISR Test] tts proc result resume 40 ms
+ [ISR Test] tts resume 55 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 温度请设置到最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/123.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 54 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 温度最低
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/124.pcm
+
+ [ISR Test] tts proc result resume 60 ms
+ [ISR Test] tts resume 60 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 最低温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/125.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 温度调到最低
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/126.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 温度设置到最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/127.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?28娆★細
+ [ISR Test] 温度请调到最低
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/128.pcm
+
+ [ISR Test] tts proc result resume 40 ms
+ [ISR Test] tts resume 56 ms
+ [ISR Test] 绗?29娆★細
+ [ISR Test] 温度请设置到最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/129.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 58 ms
+ [ISR Test] 绗?30娆★細
+ [ISR Test] 温度18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/130.pcm
+
+ [ISR Test] tts proc result resume 131 ms
+ [ISR Test] tts resume 148 ms
+ [ISR Test] 绗?31娆★細
+ [ISR Test] 温度19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/131.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?32娆★細
+ [ISR Test] 温度20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/132.pcm
+
+ [ISR Test] tts proc result resume 222 ms
+ [ISR Test] tts resume 227 ms
+ [ISR Test] 绗?33娆★細
+ [ISR Test] 温度21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/133.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?34娆★細
+ [ISR Test] 温度22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/134.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?35娆★細
+ [ISR Test] 温度23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/135.pcm
+
+ [ISR Test] tts proc result resume 80 ms
+ [ISR Test] tts resume 111 ms
+ [ISR Test] 绗?36娆★細
+ [ISR Test] 温度24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/136.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?37娆★細
+ [ISR Test] 温度25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/137.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 81 ms
+ [ISR Test] 绗?38娆★細
+ [ISR Test] 温度26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/138.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 70 ms
+ [ISR Test] 绗?39娆★細
+ [ISR Test] 温度27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/139.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?40娆★細
+ [ISR Test] 温度28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/140.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?41娆★細
+ [ISR Test] 温度29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/141.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?42娆★細
+ [ISR Test] 温度30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/142.pcm
+
+ [ISR Test] tts proc result resume 71 ms
+ [ISR Test] tts resume 72 ms
+ [ISR Test] 绗?43娆★細
+ [ISR Test] 温度31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/143.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 50 ms
+ [ISR Test] 绗?44娆★細
+ [ISR Test] 温度32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/144.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?45娆★細
+ [ISR Test] 18度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/145.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?46娆★細
+ [ISR Test] 19度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/146.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?47娆★細
+ [ISR Test] 20度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/147.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?48娆★細
+ [ISR Test] 21度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/148.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?49娆★細
+ [ISR Test] 22度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/149.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?50娆★細
+ [ISR Test] 23度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/150.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?51娆★細
+ [ISR Test] 24度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/151.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 22 ms
+ [ISR Test] 绗?52娆★細
+ [ISR Test] 25度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/152.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?53娆★細
+ [ISR Test] 26度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/153.pcm
+
+ [ISR Test] tts proc result resume 22 ms
+ [ISR Test] tts resume 46 ms
+ [ISR Test] 绗?54娆★細
+ [ISR Test] 27度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/154.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?55娆★細
+ [ISR Test] 28度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/155.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?56娆★細
+ [ISR Test] 29度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/156.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?57娆★細
+ [ISR Test] 30度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/157.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?58娆★細
+ [ISR Test] 31度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/158.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?59娆★細
+ [ISR Test] 32度温度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/159.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?60娆★細
+ [ISR Test] 温度调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/160.pcm
+
+ [ISR Test] tts proc result resume 22 ms
+ [ISR Test] tts resume 61 ms
+ [ISR Test] 绗?61娆★細
+ [ISR Test] 温度调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/161.pcm
+
+ [ISR Test] tts proc result resume 17 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?62娆★細
+ [ISR Test] 温度调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/162.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 54 ms
+ [ISR Test] 绗?63娆★細
+ [ISR Test] 温度调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/163.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 59 ms
+ [ISR Test] 绗?64娆★細
+ [ISR Test] 温度调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/164.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 53 ms
+ [ISR Test] 绗?65娆★細
+ [ISR Test] 温度调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/165.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 51 ms
+ [ISR Test] 绗?66娆★細
+ [ISR Test] 温度调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/166.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?67娆★細
+ [ISR Test] 温度调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/167.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?68娆★細
+ [ISR Test] 温度调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/168.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 53 ms
+ [ISR Test] 绗?69娆★細
+ [ISR Test] 温度调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/169.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?70娆★細
+ [ISR Test] 温度调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/170.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?71娆★細
+ [ISR Test] 温度调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/171.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 57 ms
+ [ISR Test] 绗?72娆★細
+ [ISR Test] 温度调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/172.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 50 ms
+ [ISR Test] 绗?73娆★細
+ [ISR Test] 温度调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/173.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 54 ms
+ [ISR Test] 绗?74娆★細
+ [ISR Test] 温度调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/174.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 68 ms
+ [ISR Test] 绗?75娆★細
+ [ISR Test] 温度设置到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/175.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 58 ms
+ [ISR Test] 绗?76娆★細
+ [ISR Test] 温度设置到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/176.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 61 ms
+ [ISR Test] 绗?77娆★細
+ [ISR Test] 温度设置到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/177.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 53 ms
+ [ISR Test] 绗?78娆★細
+ [ISR Test] 温度设置到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/178.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 57 ms
+ [ISR Test] 绗?79娆★細
+ [ISR Test] 温度设置到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/179.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 57 ms
+ [ISR Test] 绗?80娆★細
+ [ISR Test] 温度设置到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/180.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 58 ms
+ [ISR Test] 绗?81娆★細
+ [ISR Test] 温度设置到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/181.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 57 ms
+ [ISR Test] 绗?82娆★細
+ [ISR Test] 温度设置到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/182.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 54 ms
+ [ISR Test] 绗?83娆★細
+ [ISR Test] 温度设置到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/183.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?84娆★細
+ [ISR Test] 温度设置到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/184.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?85娆★細
+ [ISR Test] 温度设置到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/185.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?86娆★細
+ [ISR Test] 温度设置到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/186.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?87娆★細
+ [ISR Test] 温度设置到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/187.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 53 ms
+ [ISR Test] 绗?88娆★細
+ [ISR Test] 温度设置到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/188.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 53 ms
+ [ISR Test] 绗?89娆★細
+ [ISR Test] 温度设置到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/189.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?90娆★細
+ [ISR Test] 温度请调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/190.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?91娆★細
+ [ISR Test] 温度请调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/191.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 58 ms
+ [ISR Test] 绗?92娆★細
+ [ISR Test] 温度请调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/192.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 56 ms
+ [ISR Test] 绗?93娆★細
+ [ISR Test] 温度请调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/193.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 61 ms
+ [ISR Test] 绗?94娆★細
+ [ISR Test] 温度请调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/194.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 61 ms
+ [ISR Test] 绗?95娆★細
+ [ISR Test] 温度请调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/195.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 56 ms
+ [ISR Test] 绗?96娆★細
+ [ISR Test] 温度请调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/196.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?97娆★細
+ [ISR Test] 温度请调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/197.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?98娆★細
+ [ISR Test] 温度请调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/198.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?99娆★細
+ [ISR Test] 温度请调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/199.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 温度请调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/200.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 62 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 温度请调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/201.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 60 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 温度请调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/202.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 56 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 温度请调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/203.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 63 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 温度请调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/204.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 63 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 温度请设置到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/205.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 60 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 温度请设置到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/206.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 61 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 温度请设置到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/207.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 60 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 温度请设置到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/208.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 64 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] 温度请设置到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/209.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 64 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] 温度请设置到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/210.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 67 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 温度请设置到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/211.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 52 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 温度请设置到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/212.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 63 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 温度请设置到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/213.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 66 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 温度请设置到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/214.pcm
+
+ [ISR Test] tts proc result resume 34 ms
+ [ISR Test] tts resume 66 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 温度请设置到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/215.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 65 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 温度请设置到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/216.pcm
+
+ [ISR Test] tts proc result resume 34 ms
+ [ISR Test] tts resume 65 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 温度请设置到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/217.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 61 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] 温度请设置到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/218.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 65 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 温度请设置到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/219.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/220.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 22 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/221.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/222.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/223.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/224.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/225.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/226.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/227.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?28娆★細
+ [ISR Test] 调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/228.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?29娆★細
+ [ISR Test] 调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/229.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 46 ms
+ [ISR Test] 绗?30娆★細
+ [ISR Test] 调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/230.pcm
+
+ [ISR Test] tts proc result resume 32 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?31娆★細
+ [ISR Test] 调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/231.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?32娆★細
+ [ISR Test] 调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/232.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?33娆★細
+ [ISR Test] 调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/233.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?34娆★細
+ [ISR Test] 调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/234.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 45 ms
+ [ISR Test] 绗?35娆★細
+ [ISR Test] 请调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/235.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?36娆★細
+ [ISR Test] 请调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/236.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?37娆★細
+ [ISR Test] 请调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/237.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?38娆★細
+ [ISR Test] 请调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/238.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 52 ms
+ [ISR Test] 绗?39娆★細
+ [ISR Test] 请调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/239.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?40娆★細
+ [ISR Test] 请调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/240.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?41娆★細
+ [ISR Test] 请调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/241.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?42娆★細
+ [ISR Test] 请调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/242.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?43娆★細
+ [ISR Test] 请调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/243.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?44娆★細
+ [ISR Test] 请调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/244.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?45娆★細
+ [ISR Test] 请调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/245.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?46娆★細
+ [ISR Test] 请调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/246.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?47娆★細
+ [ISR Test] 请调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/247.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?48娆★細
+ [ISR Test] 请调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/248.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?49娆★細
+ [ISR Test] 请调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/249.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?50娆★細
+ [ISR Test] 空调18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/250.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?51娆★細
+ [ISR Test] 空调19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/251.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?52娆★細
+ [ISR Test] 空调20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/252.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?53娆★細
+ [ISR Test] 空调21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/253.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?54娆★細
+ [ISR Test] 空调22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/254.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 45 ms
+ [ISR Test] 绗?55娆★細
+ [ISR Test] 空调23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/255.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 46 ms
+ [ISR Test] 绗?56娆★細
+ [ISR Test] 空调24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/256.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?57娆★細
+ [ISR Test] 空调25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/257.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?58娆★細
+ [ISR Test] 空调26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/258.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?59娆★細
+ [ISR Test] 空调27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/259.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?60娆★細
+ [ISR Test] 空调28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/260.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?61娆★細
+ [ISR Test] 空调29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/261.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?62娆★細
+ [ISR Test] 空调30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/262.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?63娆★細
+ [ISR Test] 空调31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/263.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 45 ms
+ [ISR Test] 绗?64娆★細
+ [ISR Test] 空调32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/264.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 45 ms
+ [ISR Test] 绗?65娆★細
+ [ISR Test] 18度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/265.pcm
+
+ [ISR Test] tts proc result resume 50 ms
+ [ISR Test] tts resume 63 ms
+ [ISR Test] 绗?66娆★細
+ [ISR Test] 19度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/266.pcm
+
+ [ISR Test] tts proc result resume 31 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?67娆★細
+ [ISR Test] 20度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/267.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?68娆★細
+ [ISR Test] 21度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/268.pcm
+
+ [ISR Test] tts proc result resume 33 ms
+ [ISR Test] tts resume 46 ms
+ [ISR Test] 绗?69娆★細
+ [ISR Test] 22度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/269.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 46 ms
+ [ISR Test] 绗?70娆★細
+ [ISR Test] 23度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/270.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?71娆★細
+ [ISR Test] 24度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/271.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?72娆★細
+ [ISR Test] 25度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/272.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?73娆★細
+ [ISR Test] 26度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/273.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?74娆★細
+ [ISR Test] 27度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/274.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?75娆★細
+ [ISR Test] 28度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/275.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?76娆★細
+ [ISR Test] 29度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/276.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?77娆★細
+ [ISR Test] 30度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/277.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?78娆★細
+ [ISR Test] 31度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/278.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?79娆★細
+ [ISR Test] 32度空调
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/279.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?80娆★細
+ [ISR Test] 空调调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/280.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?81娆★細
+ [ISR Test] 空调调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/281.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?82娆★細
+ [ISR Test] 空调调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/282.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?83娆★細
+ [ISR Test] 空调调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/283.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?84娆★細
+ [ISR Test] 空调调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/284.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?85娆★細
+ [ISR Test] 空调调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/285.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?86娆★細
+ [ISR Test] 空调调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/286.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?87娆★細
+ [ISR Test] 空调调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/287.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?88娆★細
+ [ISR Test] 空调调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/288.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?89娆★細
+ [ISR Test] 空调调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/289.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?90娆★細
+ [ISR Test] 空调调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/290.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?91娆★細
+ [ISR Test] 空调调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/291.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?92娆★細
+ [ISR Test] 空调调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/292.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?93娆★細
+ [ISR Test] 空调调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/293.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?94娆★細
+ [ISR Test] 空调调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/294.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?95娆★細
+ [ISR Test] 空调设置到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/295.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?96娆★細
+ [ISR Test] 空调设置到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/296.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?97娆★細
+ [ISR Test] 空调设置到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/297.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?98娆★細
+ [ISR Test] 空调设置到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/298.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?99娆★細
+ [ISR Test] 空调设置到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/299.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 空调设置到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/300.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 空调设置到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/301.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 空调设置到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/302.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 空调设置到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/303.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 空调设置到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/304.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 空调设置到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/305.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 空调设置到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/306.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 空调设置到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/307.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 空调设置到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/308.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] 空调设置到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/309.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] 空调请调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/310.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 空调请调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/311.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 空调请调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/312.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 空调请调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/313.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 空调请调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/314.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 空调请调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/315.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 空调请调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/316.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 空调请调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/317.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] 空调请调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/318.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 空调请调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/319.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 空调请调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/320.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 空调请调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/321.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 空调请调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/322.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 空调请调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/323.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 空调请调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/324.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 空调请设置到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/325.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 空调请设置到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/326.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 空调请设置到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/327.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?28娆★細
+ [ISR Test] 空调请设置到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/328.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 64 ms
+ [ISR Test] 绗?29娆★細
+ [ISR Test] 空调请设置到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/329.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 58 ms
+ [ISR Test] 绗?30娆★細
+ [ISR Test] 空调请设置到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/330.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?31娆★細
+ [ISR Test] 空调请设置到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/331.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?32娆★細
+ [ISR Test] 空调请设置到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/332.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?33娆★細
+ [ISR Test] 空调请设置到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/333.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?34娆★細
+ [ISR Test] 空调请设置到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/334.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 44 ms
+ [ISR Test] 绗?35娆★細
+ [ISR Test] 空调请设置到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/335.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?36娆★細
+ [ISR Test] 空调请设置到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/336.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?37娆★細
+ [ISR Test] 空调请设置到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/337.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?38娆★細
+ [ISR Test] 空调请设置到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/338.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?39娆★細
+ [ISR Test] 空调请设置到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/339.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?40娆★細
+ [ISR Test] 温度调高1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/340.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?41娆★細
+ [ISR Test] 温度调高2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/341.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?42娆★細
+ [ISR Test] 温度调高3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/342.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?43娆★細
+ [ISR Test] 温度调高4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/343.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?44娆★細
+ [ISR Test] 温度调高5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/344.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?45娆★細
+ [ISR Test] 调高温度1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/345.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?46娆★細
+ [ISR Test] 调高温度2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/346.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?47娆★細
+ [ISR Test] 调高温度3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/347.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?48娆★細
+ [ISR Test] 调高温度4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/348.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?49娆★細
+ [ISR Test] 调高温度5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/349.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?50娆★細
+ [ISR Test] 温度升高1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/350.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?51娆★細
+ [ISR Test] 温度升高2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/351.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?52娆★細
+ [ISR Test] 温度升高3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/352.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?53娆★細
+ [ISR Test] 温度升高4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/353.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?54娆★細
+ [ISR Test] 温度升高5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/354.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?55娆★細
+ [ISR Test] 升高温度1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/355.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?56娆★細
+ [ISR Test] 升高温度2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/356.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?57娆★細
+ [ISR Test] 升高温度3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/357.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?58娆★細
+ [ISR Test] 升高温度4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/358.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?59娆★細
+ [ISR Test] 升高温度5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/359.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?60娆★細
+ [ISR Test] 温度增大1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/360.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?61娆★細
+ [ISR Test] 温度增大2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/361.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?62娆★細
+ [ISR Test] 温度增大3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/362.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?63娆★細
+ [ISR Test] 温度增大4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/363.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?64娆★細
+ [ISR Test] 温度增大5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/364.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?65娆★細
+ [ISR Test] 增大温度1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/365.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?66娆★細
+ [ISR Test] 增大温度2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/366.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?67娆★細
+ [ISR Test] 增大温度3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/367.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?68娆★細
+ [ISR Test] 增大温度4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/368.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?69娆★細
+ [ISR Test] 增大温度5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/369.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?70娆★細
+ [ISR Test] 调高1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/370.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?71娆★細
+ [ISR Test] 调高2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/371.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?72娆★細
+ [ISR Test] 调高3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/372.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?73娆★細
+ [ISR Test] 调高4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/373.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?74娆★細
+ [ISR Test] 调高5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/374.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?75娆★細
+ [ISR Test] 温度调低1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/375.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?76娆★細
+ [ISR Test] 温度调低2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/376.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?77娆★細
+ [ISR Test] 温度调低3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/377.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?78娆★細
+ [ISR Test] 温度调低4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/378.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?79娆★細
+ [ISR Test] 温度调低5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/379.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?80娆★細
+ [ISR Test] 温度降低1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/380.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?81娆★細
+ [ISR Test] 温度降低2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/381.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?82娆★細
+ [ISR Test] 温度降低3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/382.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?83娆★細
+ [ISR Test] 温度降低4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/383.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?84娆★細
+ [ISR Test] 温度降低5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/384.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?85娆★細
+ [ISR Test] 温度减少1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/385.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?86娆★細
+ [ISR Test] 温度减少2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/386.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?87娆★細
+ [ISR Test] 温度减少3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/387.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?88娆★細
+ [ISR Test] 温度减少4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/388.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?89娆★細
+ [ISR Test] 温度减少5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/389.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?90娆★細
+ [ISR Test] 调低温度1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/390.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?91娆★細
+ [ISR Test] 调低温度2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/391.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?92娆★細
+ [ISR Test] 调低温度3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/392.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?93娆★細
+ [ISR Test] 调低温度4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/393.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?94娆★細
+ [ISR Test] 调低温度5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/394.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?95娆★細
+ [ISR Test] 降低温度1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/395.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?96娆★細
+ [ISR Test] 降低温度2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/396.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?97娆★細
+ [ISR Test] 降低温度3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/397.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?98娆★細
+ [ISR Test] 降低温度4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/398.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?99娆★細
+ [ISR Test] 降低温度5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/399.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 减少温度1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/400.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 减少温度2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/401.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 减少温度3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/402.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 减少温度4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/403.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 减少温度5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/404.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 最强制冷模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/405.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 打开最大制冷模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/406.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 最大制冷模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/407.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 设置到最大最冷模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/408.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] 最强制热模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/409.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] 打开最大制热模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/410.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 最大制热模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/411.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 设置到最大最热模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/412.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 风量最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/413.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 最大风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/414.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 风量调到最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/415.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 风量设置到最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/416.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 出风最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/417.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] 最大出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/418.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 出风调到最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/419.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 出风设置到最大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/420.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 风量最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/421.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 最小风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/422.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 风量调到最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/423.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 风量设置到最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/424.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 出风最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/425.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 最小出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/426.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 出风调到最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/427.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?28娆★細
+ [ISR Test] 出风设置到最小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/428.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?29娆★細
+ [ISR Test] 风量1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/429.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?30娆★細
+ [ISR Test] 风量2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/430.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?31娆★細
+ [ISR Test] 风量3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/431.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?32娆★細
+ [ISR Test] 风量4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/432.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?33娆★細
+ [ISR Test] 风量5档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/433.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?34娆★細
+ [ISR Test] 风量6档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/434.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?35娆★細
+ [ISR Test] 风量7档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/435.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?36娆★細
+ [ISR Test] 风量8档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/436.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?37娆★細
+ [ISR Test] 1档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/437.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?38娆★細
+ [ISR Test] 2档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/438.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?39娆★細
+ [ISR Test] 3档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/439.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?40娆★細
+ [ISR Test] 4档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/440.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?41娆★細
+ [ISR Test] 5档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/441.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?42娆★細
+ [ISR Test] 6档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/442.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?43娆★細
+ [ISR Test] 7档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/443.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?44娆★細
+ [ISR Test] 8档风量
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/444.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?45娆★細
+ [ISR Test] 风量调到1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/445.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?46娆★細
+ [ISR Test] 风量调到2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/446.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?47娆★細
+ [ISR Test] 风量调到3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/447.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?48娆★細
+ [ISR Test] 风量调到4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/448.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?49娆★細
+ [ISR Test] 风量调到5档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/449.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?50娆★細
+ [ISR Test] 风量调到6档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/450.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?51娆★細
+ [ISR Test] 风量调到7档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/451.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?52娆★細
+ [ISR Test] 风量调到8档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/452.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?53娆★細
+ [ISR Test] 风量设置到1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/453.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?54娆★細
+ [ISR Test] 风量设置到2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/454.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?55娆★細
+ [ISR Test] 风量设置到3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/455.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?56娆★細
+ [ISR Test] 风量设置到4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/456.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?57娆★細
+ [ISR Test] 风量设置到5档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/457.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?58娆★細
+ [ISR Test] 风量设置到6档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/458.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?59娆★細
+ [ISR Test] 风量设置到7档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/459.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?60娆★細
+ [ISR Test] 风量设置到8档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/460.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?61娆★細
+ [ISR Test] 出风1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/461.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?62娆★細
+ [ISR Test] 出风2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/462.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?63娆★細
+ [ISR Test] 出风3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/463.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?64娆★細
+ [ISR Test] 出风4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/464.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?65娆★細
+ [ISR Test] 出风5档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/465.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?66娆★細
+ [ISR Test] 出风6档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/466.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?67娆★細
+ [ISR Test] 出风7档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/467.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?68娆★細
+ [ISR Test] 出风8档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/468.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?69娆★細
+ [ISR Test] 1档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/469.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?70娆★細
+ [ISR Test] 2档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/470.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?71娆★細
+ [ISR Test] 3档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/471.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?72娆★細
+ [ISR Test] 4档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/472.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?73娆★細
+ [ISR Test] 5档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/473.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?74娆★細
+ [ISR Test] 6档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/474.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?75娆★細
+ [ISR Test] 7档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/475.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?76娆★細
+ [ISR Test] 8档出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/476.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?77娆★細
+ [ISR Test] 出风调到1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/477.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?78娆★細
+ [ISR Test] 出风调到2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/478.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?79娆★細
+ [ISR Test] 出风调到3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/479.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?80娆★細
+ [ISR Test] 出风调到4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/480.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?81娆★細
+ [ISR Test] 出风调到5档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/481.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?82娆★細
+ [ISR Test] 出风调到6档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/482.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?83娆★細
+ [ISR Test] 出风调到7档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/483.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?84娆★細
+ [ISR Test] 出风调到8档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/484.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?85娆★細
+ [ISR Test] 出风设置到1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/485.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?86娆★細
+ [ISR Test] 出风设置到2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/486.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?87娆★細
+ [ISR Test] 出风设置到3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/487.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?88娆★細
+ [ISR Test] 出风设置到4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/488.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?89娆★細
+ [ISR Test] 出风设置到5档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/489.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?90娆★細
+ [ISR Test] 出风设置到6档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/490.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?91娆★細
+ [ISR Test] 出风设置到7档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/491.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?92娆★細
+ [ISR Test] 出风设置到8档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/492.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?93娆★細
+ [ISR Test] 风量调高1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/493.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?94娆★細
+ [ISR Test] 风量调高2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/494.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?95娆★細
+ [ISR Test] 风量调高3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/495.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?96娆★細
+ [ISR Test] 风量调高4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/496.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?97娆★細
+ [ISR Test] 风量升高1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/497.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?98娆★細
+ [ISR Test] 风量升高2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/498.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?99娆★細
+ [ISR Test] 风量升高3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/499.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 风量升高4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/500.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 风量增大1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/501.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 风量增大2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/502.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 风量增大3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/503.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 风量增大4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/504.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 升高风量1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/505.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 升高风量2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/506.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 升高风量3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/507.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 升高风量4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/508.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] 提高风量1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/509.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] 提高风量2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/510.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 提高风量3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/511.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 提高风量4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/512.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 增大风量1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/513.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 增大风量2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/514.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 增大风量3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/515.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 增大风量4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/516.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 风量调低1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/517.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] 风量调低2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/518.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 风量调低3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/519.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 风量调低4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/520.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 风量降低1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/521.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 风量降低2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/522.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 风量降低3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/523.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 风量降低4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/524.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 风量减少1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/525.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 风量减少2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/526.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 风量减少3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/527.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?28娆★細
+ [ISR Test] 风量减少4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/528.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?29娆★細
+ [ISR Test] 调低风量1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/529.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?30娆★細
+ [ISR Test] 调低风量2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/530.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?31娆★細
+ [ISR Test] 调低风量3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/531.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?32娆★細
+ [ISR Test] 调低风量4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/532.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?33娆★細
+ [ISR Test] 降低风量1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/533.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?34娆★細
+ [ISR Test] 降低风量2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/534.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?35娆★細
+ [ISR Test] 降低风量3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/535.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?36娆★細
+ [ISR Test] 降低风量4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/536.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?37娆★細
+ [ISR Test] 减少风量1档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/537.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?38娆★細
+ [ISR Test] 减少风量2档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/538.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?39娆★細
+ [ISR Test] 减少风量3档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/539.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?40娆★細
+ [ISR Test] 减少风量4档
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/540.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?41娆★細
+ [ISR Test] 吹面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/541.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?42娆★細
+ [ISR Test] 吹面模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/542.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?43娆★細
+ [ISR Test] 调到吹面模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/543.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?44娆★細
+ [ISR Test] 设置到吹面模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/544.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?45娆★細
+ [ISR Test] 打到吹面模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/545.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?46娆★細
+ [ISR Test] 面部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/546.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?47娆★細
+ [ISR Test] 调到面部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/547.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?48娆★細
+ [ISR Test] 设置到面部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/548.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?49娆★細
+ [ISR Test] 打到面部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/549.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?50娆★細
+ [ISR Test] 吹脚
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/550.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?51娆★細
+ [ISR Test] 吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/551.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?52娆★細
+ [ISR Test] 调到吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/552.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?53娆★細
+ [ISR Test] 设置到吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/553.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?54娆★細
+ [ISR Test] 打到吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/554.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?55娆★細
+ [ISR Test] 脚部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/555.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?56娆★細
+ [ISR Test] 调到脚部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/556.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?57娆★細
+ [ISR Test] 设置到脚部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/557.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?58娆★細
+ [ISR Test] 打到脚部出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/558.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?59娆★細
+ [ISR Test] 前除霜模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/559.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?60娆★細
+ [ISR Test] 调到前除霜模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/560.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?61娆★細
+ [ISR Test] 吹面吹脚
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/561.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?62娆★細
+ [ISR Test] 吹面吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/562.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 23 ms
+ [ISR Test] 绗?63娆★細
+ [ISR Test] 调到吹面吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/563.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?64娆★細
+ [ISR Test] 设置到吹面吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/564.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?65娆★細
+ [ISR Test] 打到吹面吹脚模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/565.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?66娆★細
+ [ISR Test] 吹面吹脚出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/566.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?67娆★細
+ [ISR Test] 调到吹面吹脚出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/567.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?68娆★細
+ [ISR Test] 设置到吹面吹脚出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/568.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?69娆★細
+ [ISR Test] 打到吹面吹脚出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/569.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?70娆★細
+ [ISR Test] 吹脚除霜
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/570.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?71娆★細
+ [ISR Test] 吹脚除霜模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/571.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?72娆★細
+ [ISR Test] 调到吹脚除霜模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/572.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?73娆★細
+ [ISR Test] 设置到吹脚除霜模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/573.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?74娆★細
+ [ISR Test] 打到吹脚除霜模式
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/574.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?75娆★細
+ [ISR Test] 吹脚除霜出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/575.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?76娆★細
+ [ISR Test] 调到吹脚除霜出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/576.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?77娆★細
+ [ISR Test] 设置到吹脚除霜出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/577.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?78娆★細
+ [ISR Test] 打到吹脚除霜出风
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/578.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?79娆★細
+ [ISR Test] 驾驶座区温度18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/579.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?80娆★細
+ [ISR Test] 驾驶座区温度19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/580.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?81娆★細
+ [ISR Test] 驾驶座区温度20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/581.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?82娆★細
+ [ISR Test] 驾驶座区温度21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/582.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?83娆★細
+ [ISR Test] 驾驶座区温度22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/583.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?84娆★細
+ [ISR Test] 驾驶座区温度23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/584.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?85娆★細
+ [ISR Test] 驾驶座区温度24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/585.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?86娆★細
+ [ISR Test] 驾驶座区温度25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/586.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?87娆★細
+ [ISR Test] 驾驶座区温度26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/587.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?88娆★細
+ [ISR Test] 驾驶座区温度27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/588.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?89娆★細
+ [ISR Test] 驾驶座区温度28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/589.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?90娆★細
+ [ISR Test] 驾驶座区温度29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/590.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 60 ms
+ [ISR Test] 绗?91娆★細
+ [ISR Test] 驾驶座区温度30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/591.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?92娆★細
+ [ISR Test] 驾驶座区温度31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/592.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?93娆★細
+ [ISR Test] 驾驶座区温度32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/593.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?94娆★細
+ [ISR Test] 驾驶座区温度调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/594.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?95娆★細
+ [ISR Test] 驾驶座区温度调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/595.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?96娆★細
+ [ISR Test] 驾驶座区温度调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/596.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?97娆★細
+ [ISR Test] 驾驶座区温度调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/597.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?98娆★細
+ [ISR Test] 驾驶座区温度调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/598.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?99娆★細
+ [ISR Test] 驾驶座区温度调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/599.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 驾驶座区温度调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/600.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 驾驶座区温度调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/601.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 驾驶座区温度调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/602.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 驾驶座区温度调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/603.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 驾驶座区温度调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/604.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 驾驶座区温度调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/605.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 驾驶座区温度调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/606.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 驾驶座区温度调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/607.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 驾驶座区温度调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/608.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] 设置驾驶座区温度到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/609.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] 设置驾驶座区温度到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/610.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 设置驾驶座区温度到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/611.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 设置驾驶座区温度到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/612.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 设置驾驶座区温度到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/613.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 设置驾驶座区温度到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/614.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 设置驾驶座区温度到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/615.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 设置驾驶座区温度到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/616.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 设置驾驶座区温度到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/617.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] 设置驾驶座区温度到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/618.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 设置驾驶座区温度到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/619.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 设置驾驶座区温度到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/620.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 设置驾驶座区温度到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/621.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 设置驾驶座区温度到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/622.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 设置驾驶座区温度到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/623.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 左侧温度18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/624.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 左侧温度19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/625.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 左侧温度20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/626.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 左侧温度21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/627.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?28娆★細
+ [ISR Test] 左侧温度22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/628.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?29娆★細
+ [ISR Test] 左侧温度23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/629.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?30娆★細
+ [ISR Test] 左侧温度24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/630.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?31娆★細
+ [ISR Test] 左侧温度25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/631.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?32娆★細
+ [ISR Test] 左侧温度26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/632.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?33娆★細
+ [ISR Test] 左侧温度27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/633.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?34娆★細
+ [ISR Test] 左侧温度28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/634.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?35娆★細
+ [ISR Test] 左侧温度29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/635.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?36娆★細
+ [ISR Test] 左侧温度30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/636.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?37娆★細
+ [ISR Test] 左侧温度31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/637.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?38娆★細
+ [ISR Test] 左侧温度32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/638.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?39娆★細
+ [ISR Test] 左侧温度调到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/639.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?40娆★細
+ [ISR Test] 左侧温度调到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/640.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?41娆★細
+ [ISR Test] 左侧温度调到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/641.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?42娆★細
+ [ISR Test] 左侧温度调到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/642.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?43娆★細
+ [ISR Test] 左侧温度调到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/643.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?44娆★細
+ [ISR Test] 左侧温度调到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/644.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?45娆★細
+ [ISR Test] 左侧温度调到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/645.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?46娆★細
+ [ISR Test] 左侧温度调到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/646.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?47娆★細
+ [ISR Test] 左侧温度调到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/647.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?48娆★細
+ [ISR Test] 左侧温度调到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/648.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?49娆★細
+ [ISR Test] 左侧温度调到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/649.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?50娆★細
+ [ISR Test] 左侧温度调到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/650.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?51娆★細
+ [ISR Test] 左侧温度调到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/651.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms
+ [ISR Test] 绗?52娆★細
+ [ISR Test] 左侧温度调到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/652.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?53娆★細
+ [ISR Test] 左侧温度调到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/653.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?54娆★細
+ [ISR Test] 设置左侧温度到18度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/654.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?55娆★細
+ [ISR Test] 设置左侧温度到19度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/655.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?56娆★細
+ [ISR Test] 设置左侧温度到20度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/656.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?57娆★細
+ [ISR Test] 设置左侧温度到21度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/657.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?58娆★細
+ [ISR Test] 设置左侧温度到22度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/658.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?59娆★細
+ [ISR Test] 设置左侧温度到23度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/659.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?60娆★細
+ [ISR Test] 设置左侧温度到24度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/660.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?61娆★細
+ [ISR Test] 设置左侧温度到25度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/661.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?62娆★細
+ [ISR Test] 设置左侧温度到26度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/662.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?63娆★細
+ [ISR Test] 设置左侧温度到27度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/663.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?64娆★細
+ [ISR Test] 设置左侧温度到28度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/664.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?65娆★細
+ [ISR Test] 设置左侧温度到29度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/665.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?66娆★細
+ [ISR Test] 设置左侧温度到30度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/666.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?67娆★細
+ [ISR Test] 设置左侧温度到31度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/667.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?68娆★細
+ [ISR Test] 设置左侧温度到32度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/668.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?69娆★細
+ [ISR Test] 驾驶座区温度调高1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/669.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?70娆★細
+ [ISR Test] 驾驶座区温度调高2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/670.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?71娆★細
+ [ISR Test] 驾驶座区温度调高3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/671.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?72娆★細
+ [ISR Test] 驾驶座区温度调高4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/672.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?73娆★細
+ [ISR Test] 驾驶座区温度调高5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/673.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?74娆★細
+ [ISR Test] 驾驶座区温度升高1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/674.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?75娆★細
+ [ISR Test] 驾驶座区温度升高2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/675.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?76娆★細
+ [ISR Test] 驾驶座区温度升高3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/676.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?77娆★細
+ [ISR Test] 驾驶座区温度升高4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/677.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?78娆★細
+ [ISR Test] 驾驶座区温度升高5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/678.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?79娆★細
+ [ISR Test] 驾驶座区温度增大1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/679.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?80娆★細
+ [ISR Test] 驾驶座区温度增大2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/680.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?81娆★細
+ [ISR Test] 驾驶座区温度增大3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/681.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?82娆★細
+ [ISR Test] 驾驶座区温度增大4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/682.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?83娆★細
+ [ISR Test] 驾驶座区温度增大5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/683.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?84娆★細
+ [ISR Test] 左侧温度调高1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/684.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?85娆★細
+ [ISR Test] 左侧温度调高2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/685.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?86娆★細
+ [ISR Test] 左侧温度调高3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/686.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?87娆★細
+ [ISR Test] 左侧温度调高4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/687.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?88娆★細
+ [ISR Test] 左侧温度调高5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/688.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?89娆★細
+ [ISR Test] 左侧温度升高1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/689.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?90娆★細
+ [ISR Test] 左侧温度升高2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/690.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?91娆★細
+ [ISR Test] 左侧温度升高3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/691.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?92娆★細
+ [ISR Test] 左侧温度升高4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/692.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?93娆★細
+ [ISR Test] 左侧温度升高5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/693.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?94娆★細
+ [ISR Test] 左侧温度增大1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/694.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?95娆★細
+ [ISR Test] 左侧温度增大2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/695.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?96娆★細
+ [ISR Test] 左侧温度增大3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/696.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?97娆★細
+ [ISR Test] 左侧温度增大4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/697.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?98娆★細
+ [ISR Test] 左侧温度增大5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/698.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?99娆★細
+ [ISR Test] 驾驶座区温度调低1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/699.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 驾驶座区温度调低2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/700.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 驾驶座区温度调低3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/701.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 驾驶座区温度调低4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/702.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 驾驶座区温度调低5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/703.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 驾驶座区温度降低1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/704.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 驾驶座区温度降低2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/705.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 驾驶座区温度降低3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/706.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 驾驶座区温度降低4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/707.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 驾驶座区温度降低5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/708.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] 驾驶座区温度减少1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/709.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] 驾驶座区温度减少2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/710.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 驾驶座区温度减少3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/711.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 驾驶座区温度减少4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/712.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 43 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 驾驶座区温度减少5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/713.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 41 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 左侧温度调低1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/714.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 左侧温度调低2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/715.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 左侧温度调低3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/716.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 左侧温度调低4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/717.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] 左侧温度调低5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/718.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 左侧温度降低1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/719.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 左侧温度降低2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/720.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 左侧温度降低3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/721.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 左侧温度降低4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/722.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 左侧温度降低5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/723.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 左侧温度减少1度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/724.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 左侧温度减少2度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/725.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 左侧温度减少3度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/726.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 左侧温度减少4度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/727.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?28娆★細
+ [ISR Test] 左侧温度减少5度
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/728.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?29娆★細
+ [ISR Test] 打电话给张三
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/729.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 38 ms
+ [ISR Test] 绗?30娆★細
+ [ISR Test] 请打电话给张三
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/730.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?31娆★細
+ [ISR Test] 给张三打电话
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/731.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?32娆★細
+ [ISR Test] 请给张三打电话
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/732.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 35 ms
+ [ISR Test] 绗?33娆★細
+ [ISR Test] 音量大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/733.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?34娆★細
+ [ISR Test] 音量增大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/734.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?35娆★細
+ [ISR Test] 音量再大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/735.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?36娆★細
+ [ISR Test] 音量再大点
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/736.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?37娆★細
+ [ISR Test] 音量提高
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/737.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?38娆★細
+ [ISR Test] 声音大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/738.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?39娆★細
+ [ISR Test] 声音增大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/739.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?40娆★細
+ [ISR Test] 声音再大
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/740.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?41娆★細
+ [ISR Test] 声音再大点
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/741.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?42娆★細
+ [ISR Test] 声音提高
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/742.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?43娆★細
+ [ISR Test] 提高声音
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/743.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?44娆★細
+ [ISR Test] 音量小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/744.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?45娆★細
+ [ISR Test] 音量减小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/745.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?46娆★細
+ [ISR Test] 音量再小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/746.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?47娆★細
+ [ISR Test] 音量再小点
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/747.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?48娆★細
+ [ISR Test] 声音小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/748.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?49娆★細
+ [ISR Test] 声音再小
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/749.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?50娆★細
+ [ISR Test] 声音再小点
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/750.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?51娆★細
+ [ISR Test] 降低声音
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/751.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?52娆★細
+ [ISR Test] 暂停暂停
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/752.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?53娆★細
+ [ISR Test] 静音
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/753.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?54娆★細
+ [ISR Test] 安静
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/754.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?55娆★細
+ [ISR Test] 上一段
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/755.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?56娆★細
+ [ISR Test] 上一张
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/756.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?57娆★細
+ [ISR Test] 下一段
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/757.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?58娆★細
+ [ISR Test] 下一张
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/758.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?59娆★細
+ [ISR Test] 打开Carplay
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/759.pcm
+
+ [ISR Test] tts proc result resume 30 ms
+ [ISR Test] tts resume 33 ms
+ [ISR Test] 绗?60娆★細
+ [ISR Test] 进入Carplay
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/760.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?61娆★細
+ [ISR Test] 跳转至Carplay
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/761.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?62娆★細
+ [ISR Test] 打开手机互联
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/762.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?63娆★細
+ [ISR Test] 打开Phonelink
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/763.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?64娆★細
+ [ISR Test] 进入Phonelink
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/764.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?65娆★細
+ [ISR Test] 跳转至Phonelink
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/765.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 22 ms
+ [ISR Test] 绗?66娆★細
+ [ISR Test] 确认
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/766.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 21 ms
+ [ISR Test] 绗?67娆★細
+ [ISR Test] 是的
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/767.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?68娆★細
+ [ISR Test] 好的
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/768.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?69娆★細
+ [ISR Test] 返回
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/769.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?70娆★細
+ [ISR Test] 主菜单
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/770.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?71娆★細
+ [ISR Test] 目录
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/771.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?72娆★細
+ [ISR Test] 主页面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/772.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?73娆★細
+ [ISR Test] 桌面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/773.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?74娆★細
+ [ISR Test] 首页
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/774.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?75娆★細
+ [ISR Test] 返回
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/775.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?76娆★細
+ [ISR Test] 回到主菜单
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/776.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?77娆★細
+ [ISR Test] 回到目录
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/777.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?78娆★細
+ [ISR Test] 回到主页面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/778.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?79娆★細
+ [ISR Test] 回到桌面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/779.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?80娆★細
+ [ISR Test] 回到首页
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/780.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?81娆★細
+ [ISR Test] 打开设置
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/781.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?82娆★細
+ [ISR Test] 进入设置
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/782.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?83娆★細
+ [ISR Test] 设置
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/783.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?84娆★細
+ [ISR Test] 打开导航功能
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/784.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 22 ms
+ [ISR Test] 绗?85娆★細
+ [ISR Test] 导航
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/785.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?86娆★細
+ [ISR Test] 进入导航
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/786.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?87娆★細
+ [ISR Test] 进入导航界面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/787.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?88娆★細
+ [ISR Test] 跳转至导航
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/788.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?89娆★細
+ [ISR Test] 跳转至导航界面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/789.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?90娆★細
+ [ISR Test] 地图
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/790.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?91娆★細
+ [ISR Test] 地图界面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/791.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?92娆★細
+ [ISR Test] 打开行车记录仪功能
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/792.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?93娆★細
+ [ISR Test] 行车记录仪
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/793.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 29 ms
+ [ISR Test] 绗?94娆★細
+ [ISR Test] 进入行车记录仪
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/794.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 34 ms
+ [ISR Test] 绗?95娆★細
+ [ISR Test] 进入行车记录仪界面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/795.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 39 ms
+ [ISR Test] 绗?96娆★細
+ [ISR Test] 跳转至行车记录仪
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/796.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 37 ms
+ [ISR Test] 绗?97娆★細
+ [ISR Test] 跳转至行车记录仪界面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/797.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 42 ms
+ [ISR Test] 绗?98娆★細
+ [ISR Test] 车辆信息
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/798.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 24 ms
+ [ISR Test] 绗?99娆★細
+ [ISR Test] 车辆讯息
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/799.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?00娆★細
+ [ISR Test] 打开车辆信息
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/800.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?01娆★細
+ [ISR Test] 打开车辆讯息
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/801.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?02娆★細
+ [ISR Test] 显示车辆信息
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/802.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 22 ms
+ [ISR Test] 绗?03娆★細
+ [ISR Test] 显示车辆讯息
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/803.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?04娆★細
+ [ISR Test] 打开广播
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/804.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 26 ms
+ [ISR Test] 绗?05娆★細
+ [ISR Test] 收音机打开
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/805.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?06娆★細
+ [ISR Test] 收听广播
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/806.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?07娆★細
+ [ISR Test] 收音机
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/807.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?08娆★細
+ [ISR Test] 广播
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/808.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?09娆★細
+ [ISR Test] U盘
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/809.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?10娆★細
+ [ISR Test] USB
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/810.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 25 ms
+ [ISR Test] 绗?11娆★細
+ [ISR Test] 打开USB
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/811.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 30 ms
+ [ISR Test] 绗?12娆★細
+ [ISR Test] 进入USB
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/812.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?13娆★細
+ [ISR Test] 打开U盘
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/813.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?14娆★細
+ [ISR Test] 进入U盘
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/814.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?15娆★細
+ [ISR Test] 蓝牙电话
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/815.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?16娆★細
+ [ISR Test] 进入电话界面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/816.pcm
+
+ [ISR Test] tts proc result resume 21 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?17娆★細
+ [ISR Test] 进入蓝牙电话界面
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/817.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 36 ms
+ [ISR Test] 绗?18娆★細
+ [ISR Test] IPOD
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/818.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?19娆★細
+ [ISR Test] 打开IPOD
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/819.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?20娆★細
+ [ISR Test] 进入IPOD
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/820.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?21娆★細
+ [ISR Test] 播放IPOD
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/821.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 28 ms
+ [ISR Test] 绗?22娆★細
+ [ISR Test] 跳转至IPOD
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/822.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 31 ms
+ [ISR Test] 绗?23娆★細
+ [ISR Test] 打开音效
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/823.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?24娆★細
+ [ISR Test] 音效
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/824.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 20 ms
+ [ISR Test] 绗?25娆★細
+ [ISR Test] 音效设置
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/825.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 27 ms
+ [ISR Test] 绗?26娆★細
+ [ISR Test] 进入音效设置
+,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/826.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 32 ms
+ [ISR Test] 绗?27娆★細
+ [ISR Test] 跳转至音效设置界面,
+ [ISR Test] open pcm success!str_content = /home/linaro/ATP/test_data/PcmRes/tts/out/827.pcm
+
+ [ISR Test] tts proc result resume 20 ms
+ [ISR Test] tts resume 40 ms

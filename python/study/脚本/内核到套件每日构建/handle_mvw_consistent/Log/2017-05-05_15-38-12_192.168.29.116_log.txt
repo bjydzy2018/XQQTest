@@ -1,0 +1,35 @@
+2017-05-05 15:38:12 Log.py[line:130] INFO get suit result
+2017-05-05 15:38:13 Log.py[line:128] DEBUG 	Function 'get_suit_result()' run time is : 0.0789999961853 s
+2017-05-05 15:38:13 Log.py[line:130] INFO get rec result
+2017-05-05 15:38:13 Log.py[line:128] DEBUG 	Function 'get_rec_result()' run time is : 0.509999990463 s
+2017-05-05 15:38:13 Log.py[line:130] INFO begin compare
+2017-05-05 15:38:13 Log.py[line:128] DEBUG .//192.168.28.101/Ì×¼ş²âÊÔ¼¯/»½ĞÑ/Daily-Consistent/Ò»ÖÂĞÔ²âÊÔ¼¯/cancel/cancel/M019-2.M019-2_227.wav
+2017-05-05 15:38:15 Log.py[line:128] DEBUG æ—¶é—´
+2017-05-05 15:38:16 Log.py[line:128] DEBUG 2017-05-05_15-38-12
+2017-05-05 15:38:17 Log.py[line:128] DEBUG ä¸ä¸€è‡´ç±»å‹
+2017-05-05 15:38:18 Log.py[line:128] DEBUG 
+2017-05-05 15:38:18 Log.py[line:128] DEBUG å¥—ä»¶ç»“æœ_å‰ç«¯ç‚¹
+2017-05-05 15:38:19 Log.py[line:128] DEBUG 30
+2017-05-05 15:38:20 Log.py[line:128] DEBUG æ¨¡å¼
+2017-05-05 15:38:22 Log.py[line:128] DEBUG Ï¸Á£¶È
+2017-05-05 15:38:23 Log.py[line:128] DEBUG å¼•æ“ç»“æœ_å¾—åˆ†
+2017-05-05 15:38:26 Log.py[line:128] DEBUG 1510
+2017-05-05 15:38:28 Log.py[line:128] DEBUG å¥—ä»¶ç»“æœ_åç«¯ç‚¹
+2017-05-05 15:38:29 Log.py[line:128] DEBUG 1680
+2017-05-05 15:38:30 Log.py[line:128] DEBUG éŸ³é¢‘
+2017-05-05 15:38:31 Log.py[line:128] DEBUG .//192.168.28.101/Ì×¼ş²âÊÔ¼¯/»½ĞÑ/Daily-Consistent/Ò»ÖÂĞÔ²âÊÔ¼¯/cancel/cancel/M019-2.M019-2_227.wav
+2017-05-05 15:38:37 Log.py[line:128] DEBUG å¼•æ“ç»“æœ_å‰ç«¯ç‚¹
+2017-05-05 15:38:39 Log.py[line:128] DEBUG 30
+2017-05-05 15:38:40 Log.py[line:128] DEBUG é¢„æœŸå”¤é†’è¯
+2017-05-05 15:38:40 Log.py[line:128] DEBUG cancel_ret
+2017-05-05 15:38:41 Log.py[line:128] DEBUG ç‰ˆæœ¬
+2017-05-05 15:38:42 Log.py[line:128] DEBUG 1.0
+2017-05-05 15:38:44 Log.py[line:128] DEBUG å¼•æ“ç»“æœ_åç«¯ç‚¹
+2017-05-05 15:38:44 Log.py[line:128] DEBUG 1680
+2017-05-05 15:38:45 Log.py[line:128] DEBUG å¥—ä»¶ç»“æœ_å®é™…å”¤é†’è¯
+2017-05-05 15:38:45 Log.py[line:128] DEBUG cancel
+2017-05-05 15:38:46 Log.py[line:128] DEBUG å¥—ä»¶ç»“æœ_å¾—åˆ†
+2017-05-05 15:38:46 Log.py[line:128] DEBUG 1510
+2017-05-05 15:38:47 Log.py[line:128] DEBUG å¼•æ“ç»“æœ_å®é™…å”¤é†’è¯
+2017-05-05 15:38:47 Log.py[line:128] DEBUG cancel
+2017-05-05 15:38:47 Log.py[line:128] DEBUG .//192.168.28.101/Ì×¼ş²âÊÔ¼¯/»½ĞÑ/Daily-Consistent/Ò»ÖÂĞÔ²âÊÔ¼¯/cancel/cancel/F011-2.F011-2_221.wav

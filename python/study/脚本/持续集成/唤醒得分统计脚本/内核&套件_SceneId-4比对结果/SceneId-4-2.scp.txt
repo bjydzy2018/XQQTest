@@ -1,0 +1,993 @@
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M010_057.wav 1
+Time:0h:0m:0s:420ms - 0h:0m:1s:80ms, n1PassCMScore=-32768, n2PassCMScore=113, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=133917, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M010_058.wav 1
+Time:0h:0m:2s:190ms - 0h:0m:2s:840ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=79035, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M010_059.wav 1
+Time:0h:0m:3s:950ms - 0h:0m:4s:580ms, n1PassCMScore=-32768, n2PassCMScore=129, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=120584, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M010_060.wav 1
+Time:0h:0m:5s:730ms - 0h:0m:6s:350ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=66078, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M011_057.wav 1
+Time:0h:0m:7s:520ms - 0h:0m:7s:990ms, n1PassCMScore=-32768, n2PassCMScore=53, nFrame=48, WakeUp,  KeyID=1, nResID=0, fSNR=57254, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M011_058.wav 1
+Time:0h:0m:9s:110ms - 0h:0m:9s:610ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=20699, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M011_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M011_060.wav 1
+Time:0h:0m:12s:430ms - 0h:0m:12s:930ms, n1PassCMScore=-32768, n2PassCMScore=5, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=34575, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M012_057.wav 1
+Time:0h:0m:13s:970ms - 0h:0m:14s:700ms, n1PassCMScore=-32768, n2PassCMScore=14, nFrame=74, WakeUp,  KeyID=1, nResID=0, fSNR=24854, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M012_058.wav 1
+Time:0h:0m:15s:740ms - 0h:0m:16s:500ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=30926, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M012_059.wav 1
+Time:0h:0m:17s:560ms - 0h:0m:18s:360ms, n1PassCMScore=-32768, n2PassCMScore=88, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=32050, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M012_060.wav 1
+Time:0h:0m:19s:400ms - 0h:0m:20s:210ms, n1PassCMScore=-32768, n2PassCMScore=91, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=88940, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M102_057.wav 1
+Time:0h:0m:21s:270ms - 0h:0m:21s:860ms, n1PassCMScore=-32768, n2PassCMScore=85, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=69509, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M102_058.wav 1
+Time:0h:0m:22s:880ms - 0h:0m:23s:460ms, n1PassCMScore=-32768, n2PassCMScore=59, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=140043, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M102_059.wav 1
+Time:0h:0m:24s:470ms - 0h:0m:25s:50ms, n1PassCMScore=-32768, n2PassCMScore=104, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=105019, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M102_060.wav 1
+Time:0h:0m:26s:30ms - 0h:0m:26s:570ms, n1PassCMScore=-32768, n2PassCMScore=48, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=92214, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M103_057.wav 1
+Time:0h:0m:27s:560ms - 0h:0m:28s:40ms, n1PassCMScore=-32768, n2PassCMScore=60, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=201558, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M103_058.wav 1
+Time:0h:0m:29s:50ms - 0h:0m:29s:560ms, n1PassCMScore=-32768, n2PassCMScore=17, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=267110, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M103_059.wav 1
+Time:0h:0m:30s:550ms - 0h:0m:31s:90ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=212334, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M103_060.wav 1
+Time:0h:0m:32s:110ms - 0h:0m:32s:590ms, n1PassCMScore=-32768, n2PassCMScore=59, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=4444, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M104_057.wav 1
+Time:0h:0m:33s:540ms - 0h:0m:34s:180ms, n1PassCMScore=-32768, n2PassCMScore=22, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=32332, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M104_058.wav 1
+Time:0h:0m:35s:190ms - 0h:0m:35s:800ms, n1PassCMScore=-32768, n2PassCMScore=1, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=20194, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M104_059.wav 1
+Time:0h:0m:36s:790ms - 0h:0m:37s:400ms, n1PassCMScore=-32768, n2PassCMScore=49, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=44974, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M104_060.wav 1
+Time:0h:0m:38s:390ms - 0h:0m:38s:980ms, n1PassCMScore=-32768, n2PassCMScore=9, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=37038, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M014_057.wav 1
+Time:0h:0m:39s:950ms - 0h:0m:40s:460ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=64855, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M014_058.wav 1
+Time:0h:0m:41s:470ms - 0h:0m:41s:970ms, n1PassCMScore=-32768, n2PassCMScore=39, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=85883, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M014_059.wav 1
+Time:0h:0m:42s:980ms - 0h:0m:43s:510ms, n1PassCMScore=-32768, n2PassCMScore=120, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=114534, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M014_060.wav 1
+Time:0h:0m:44s:490ms - 0h:0m:44s:990ms, n1PassCMScore=-32768, n2PassCMScore=75, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=61075, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M015_057.wav 1
+Time:0h:0m:45s:940ms - 0h:0m:46s:490ms, n1PassCMScore=-32768, n2PassCMScore=37, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=95879, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M015_058.wav 1
+Time:0h:0m:47s:460ms - 0h:0m:48s:90ms, n1PassCMScore=-32768, n2PassCMScore=59, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=64717, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M015_059.wav 1
+Time:0h:0m:48s:960ms - 0h:0m:49s:520ms, n1PassCMScore=-32768, n2PassCMScore=35, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=108413, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M015_060.wav 1
+Time:0h:0m:50s:460ms - 0h:0m:51s:20ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=82420, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M107_057.wav 1
+Time:0h:0m:51s:950ms - 0h:0m:52s:460ms, n1PassCMScore=-32768, n2PassCMScore=46, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=87322, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M107_058.wav 1
+Time:0h:0m:53s:500ms - 0h:0m:54s:50ms, n1PassCMScore=-32768, n2PassCMScore=103, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=99537, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M107_059.wav 1
+Time:0h:0m:55s:70ms - 0h:0m:55s:600ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=38344, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M107_060.wav 1
+Time:0h:0m:56s:610ms - 0h:0m:57s:160ms, n1PassCMScore=-32768, n2PassCMScore=16, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=73749, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M110_057.wav 1
+Time:0h:0m:58s:170ms - 0h:0m:58s:650ms, n1PassCMScore=-32768, n2PassCMScore=91, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=139871, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M110_058.wav 1
+Time:0h:0m:59s:610ms - 0h:1m:0s:60ms, n1PassCMScore=-32768, n2PassCMScore=70, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=106716, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M110_059.wav 1
+Time:0h:1m:1s:30ms - 0h:1m:1s:490ms, n1PassCMScore=-32768, n2PassCMScore=103, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=81872, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M110_060.wav 1
+Time:0h:1m:2s:420ms - 0h:1m:2s:890ms, n1PassCMScore=-32768, n2PassCMScore=69, nFrame=48, WakeUp,  KeyID=1, nResID=0, fSNR=156793, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M112_057.wav 1
+Time:0h:1m:3s:850ms - 0h:1m:4s:450ms, n1PassCMScore=-32768, n2PassCMScore=47, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=89618, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M112_058.wav 1
+Time:0h:1m:5s:460ms - 0h:1m:6s:50ms, n1PassCMScore=-32768, n2PassCMScore=61, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=86774, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M112_059.wav 1
+Time:0h:1m:7s:130ms - 0h:1m:7s:630ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=116165, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M112_060.wav 1
+Time:0h:1m:8s:650ms - 0h:1m:9s:230ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=130096, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M113_057.wav 1
+Time:0h:1m:10s:250ms - 0h:1m:10s:710ms, n1PassCMScore=-32768, n2PassCMScore=36, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=86555, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M113_058.wav 1
+Time:0h:1m:11s:810ms - 0h:1m:12s:240ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=169501, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M113_059.wav 1
+Time:0h:1m:13s:290ms - 0h:1m:13s:740ms, n1PassCMScore=-32768, n2PassCMScore=13, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=130636, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M113_060.wav 1
+Time:0h:1m:14s:790ms - 0h:1m:15s:220ms, n1PassCMScore=-32768, n2PassCMScore=54, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=132031, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F002_057.wav 1
+Time:0h:1m:16s:270ms - 0h:1m:16s:930ms, n1PassCMScore=-32768, n2PassCMScore=53, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=116917, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F002_058.wav 1
+Time:0h:1m:17s:980ms - 0h:1m:18s:620ms, n1PassCMScore=-32768, n2PassCMScore=46, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=124342, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F002_059.wav 1
+Time:0h:1m:19s:570ms - 0h:1m:20s:240ms, n1PassCMScore=-32768, n2PassCMScore=32, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=110192, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F002_060.wav 1
+Time:0h:1m:21s:210ms - 0h:1m:21s:840ms, n1PassCMScore=-32768, n2PassCMScore=15, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=134905, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F004_057.wav 1
+Time:0h:1m:22s:900ms - 0h:1m:23s:700ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=85273, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F004_058.wav 1
+Time:0h:1m:24s:810ms - 0h:1m:25s:620ms, n1PassCMScore=-32768, n2PassCMScore=56, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=112410, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F004_059.wav 1
+Time:0h:1m:26s:750ms - 0h:1m:27s:540ms, n1PassCMScore=-32768, n2PassCMScore=53, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=108492, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F004_060.wav 1
+Time:0h:1m:28s:590ms - 0h:1m:29s:340ms, n1PassCMScore=-32768, n2PassCMScore=18, nFrame=76, WakeUp,  KeyID=1, nResID=0, fSNR=194381, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F005_057.wav 1
+Time:0h:1m:30s:430ms - 0h:1m:31s:110ms, n1PassCMScore=-32768, n2PassCMScore=45, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=81781, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F005_058.wav 1
+Time:0h:1m:32s:310ms - 0h:1m:33s:0ms, n1PassCMScore=-32768, n2PassCMScore=23, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=80562, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F005_059.wav 1
+Time:0h:1m:34s:230ms - 0h:1m:34s:890ms, n1PassCMScore=-32768, n2PassCMScore=59, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=103294, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F005_060.wav 1
+Time:0h:1m:36s:150ms - 0h:1m:36s:780ms, n1PassCMScore=-32768, n2PassCMScore=26, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=84883, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F007_057.wav 1
+Time:0h:1m:38s:70ms - 0h:1m:38s:840ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=95773, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F007_058.wav 1
+Time:0h:1m:39s:970ms - 0h:1m:40s:750ms, n1PassCMScore=-32768, n2PassCMScore=81, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=87138, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F007_059.wav 1
+Time:0h:1m:41s:930ms - 0h:1m:42s:700ms, n1PassCMScore=-32768, n2PassCMScore=37, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=78831, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F007_060.wav 1
+Time:0h:1m:43s:880ms - 0h:1m:44s:640ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=79076, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F008_057.wav 1
+Time:0h:1m:45s:830ms - 0h:1m:46s:430ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=95806, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F008_058.wav 1
+Time:0h:1m:47s:550ms - 0h:1m:48s:190ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=91396, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F008_059.wav 1
+Time:0h:1m:49s:320ms - 0h:1m:49s:970ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=93974, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F008_060.wav 1
+Time:0h:1m:51s:60ms - 0h:1m:51s:700ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=83698, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F013_057.wav 1
+Time:0h:1m:52s:850ms - 0h:1m:53s:500ms, n1PassCMScore=-32768, n2PassCMScore=103, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=105555, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F013_058.wav 1
+Time:0h:1m:54s:600ms - 0h:1m:55s:310ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=72, WakeUp,  KeyID=1, nResID=0, fSNR=126323, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F013_059.wav 1
+Time:0h:1m:56s:350ms - 0h:1m:57s:30ms, n1PassCMScore=-32768, n2PassCMScore=81, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=110880, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F013_060.wav 1
+Time:0h:1m:58s:110ms - 0h:1m:58s:800ms, n1PassCMScore=-32768, n2PassCMScore=77, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=93770, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F016_057.wav 1
+Time:0h:1m:59s:890ms - 0h:2m:0s:460ms, n1PassCMScore=-32768, n2PassCMScore=50, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=344714, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F016_058.wav 1
+Time:0h:2m:1s:490ms - 0h:2m:2s:90ms, n1PassCMScore=-32768, n2PassCMScore=113, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=223892, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F016_059.wav 1
+Time:0h:2m:3s:150ms - 0h:2m:3s:750ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=199621, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F016_060.wav 1
+Time:0h:2m:4s:810ms - 0h:2m:5s:380ms, n1PassCMScore=-32768, n2PassCMScore=36, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=22870, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F101_057.wav 1
+Time:0h:2m:6s:410ms - 0h:2m:6s:940ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=244982, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F101_058.wav 1
+Time:0h:2m:7s:950ms - 0h:2m:8s:490ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=250786, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F101_059.wav 1
+Time:0h:2m:9s:510ms - 0h:2m:10s:30ms, n1PassCMScore=-32768, n2PassCMScore=53, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=114532, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F101_060.wav 1
+Time:0h:2m:11s:70ms - 0h:2m:11s:600ms, n1PassCMScore=-32768, n2PassCMScore=33, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=139283, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F105_057.wav 1
+Time:0h:2m:12s:660ms - 0h:2m:13s:350ms, n1PassCMScore=-32768, n2PassCMScore=40, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=99368, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F105_058.wav 1
+Time:0h:2m:14s:340ms - 0h:2m:15s:120ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=120813, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F105_059.wav 1
+Time:0h:2m:16s:180ms - 0h:2m:16s:850ms, n1PassCMScore=-32768, n2PassCMScore=102, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=112494, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F105_060.wav 1
+Time:0h:2m:17s:930ms - 0h:2m:18s:570ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=110386, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F106_057.wav 1
+Time:0h:2m:19s:700ms - 0h:2m:20s:250ms, n1PassCMScore=-32768, n2PassCMScore=66, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=179329, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F106_058.wav 1
+Time:0h:2m:21s:280ms - 0h:2m:21s:800ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=186681, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F106_059.wav 1
+Time:0h:2m:22s:810ms - 0h:2m:23s:330ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=166485, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F106_060.wav 1
+Time:0h:2m:24s:370ms - 0h:2m:24s:880ms, n1PassCMScore=-32768, n2PassCMScore=49, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=408314, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F108_057.wav 1
+Time:0h:2m:25s:930ms - 0h:2m:26s:770ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=85, WakeUp,  KeyID=1, nResID=0, fSNR=121454, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F108_058.wav 1
+Time:0h:2m:27s:840ms - 0h:2m:28s:690ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=86, WakeUp,  KeyID=1, nResID=0, fSNR=112003, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F108_059.wav 1
+Time:0h:2m:29s:740ms - 0h:2m:30s:590ms, n1PassCMScore=-32768, n2PassCMScore=114, nFrame=86, WakeUp,  KeyID=1, nResID=0, fSNR=108914, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F108_060.wav 1
+Time:0h:2m:31s:630ms - 0h:2m:32s:460ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=84, WakeUp,  KeyID=1, nResID=0, fSNR=140451, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F109_057.wav 1
+Time:0h:2m:33s:510ms - 0h:2m:34s:120ms, n1PassCMScore=-32768, n2PassCMScore=123, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=108702, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F109_058.wav 1
+Time:0h:2m:35s:250ms - 0h:2m:35s:880ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=99566, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F109_059.wav 1
+Time:0h:2m:37s:70ms - 0h:2m:37s:680ms, n1PassCMScore=-32768, n2PassCMScore=75, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=122747, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F109_060.wav 1
+Time:0h:2m:38s:830ms - 0h:2m:39s:480ms, n1PassCMScore=-32768, n2PassCMScore=90, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=85772, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F111_057.wav 1
+Time:0h:2m:40s:650ms - 0h:2m:41s:360ms, n1PassCMScore=-32768, n2PassCMScore=98, nFrame=72, WakeUp,  KeyID=1, nResID=0, fSNR=98900, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F111_058.wav 1
+Time:0h:2m:42s:310ms - 0h:2m:43s:10ms, n1PassCMScore=-32768, n2PassCMScore=103, nFrame=71, WakeUp,  KeyID=1, nResID=0, fSNR=39126, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F111_059.wav 1
+Time:0h:2m:43s:970ms - 0h:2m:44s:660ms, n1PassCMScore=-32768, n2PassCMScore=105, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=148915, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F111_060.wav 1
+Time:0h:2m:45s:580ms - 0h:2m:46s:260ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=104823, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F114_057.wav 1
+Time:0h:2m:47s:270ms - 0h:2m:47s:850ms, n1PassCMScore=-32768, n2PassCMScore=73, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=182388, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F114_058.wav 1
+Time:0h:2m:48s:890ms - 0h:2m:49s:490ms, n1PassCMScore=-32768, n2PassCMScore=39, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=96892, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F114_059.wav 1
+Time:0h:2m:50s:550ms - 0h:2m:51s:160ms, n1PassCMScore=-32768, n2PassCMScore=29, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=170921, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\F114_060.wav 1
+Time:0h:2m:52s:210ms - 0h:2m:52s:800ms, n1PassCMScore=-32768, n2PassCMScore=37, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=35873, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M001_057.wav 1
+Time:0h:2m:53s:910ms - 0h:2m:54s:410ms, n1PassCMScore=-32768, n2PassCMScore=103, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=165962, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M001_058.wav 1
+Time:0h:2m:55s:470ms - 0h:2m:55s:970ms, n1PassCMScore=-32768, n2PassCMScore=39, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=11220, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M001_059.wav 1
+Time:0h:2m:57s:50ms - 0h:2m:57s:560ms, n1PassCMScore=-32768, n2PassCMScore=30, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=138126, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M001_060.wav 1
+Time:0h:2m:58s:650ms - 0h:2m:59s:190ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=132540, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M003_057.wav 1
+Time:0h:3m:0s:170ms - 0h:3m:0s:830ms, n1PassCMScore=-32768, n2PassCMScore=98, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=80996, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M003_058.wav 1
+Time:0h:3m:1s:830ms - 0h:3m:2s:500ms, n1PassCMScore=-32768, n2PassCMScore=96, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=74608, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M003_059.wav 1
+Time:0h:3m:3s:520ms - 0h:3m:4s:200ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=79211, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M003_060.wav 1
+Time:0h:3m:5s:210ms - 0h:3m:5s:890ms, n1PassCMScore=-32768, n2PassCMScore=80, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=100467, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M006_057.wav 1
+Time:0h:3m:6s:930ms - 0h:3m:7s:730ms, n1PassCMScore=-32768, n2PassCMScore=71, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=148839, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M006_058.wav 1
+Time:0h:3m:8s:870ms - 0h:3m:9s:660ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=143402, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M006_059.wav 1
+Time:0h:3m:10s:770ms - 0h:3m:11s:530ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=149320, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M006_060.wav 1
+Time:0h:3m:12s:550ms - 0h:3m:13s:330ms, n1PassCMScore=-32768, n2PassCMScore=82, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=159863, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M009_057.wav 1
+Time:0h:3m:14s:380ms - 0h:3m:15s:20ms, n1PassCMScore=-32768, n2PassCMScore=39, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=161980, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M009_058.wav 1
+Time:0h:3m:16s:30ms - 0h:3m:16s:590ms, n1PassCMScore=-32768, n2PassCMScore=39, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=213794, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M009_059.wav 1
+Time:0h:3m:17s:630ms - 0h:3m:18s:210ms, n1PassCMScore=-32768, n2PassCMScore=45, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=157224, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X1\M009_060.wav 1
+Time:0h:3m:19s:250ms - 0h:3m:19s:860ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=184788, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M010_057.wav 1
+Time:0h:3m:20s:880ms - 0h:3m:21s:530ms, n1PassCMScore=-32768, n2PassCMScore=95, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=6853, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M010_058.wav 1
+Time:0h:3m:22s:670ms - 0h:3m:23s:290ms, n1PassCMScore=-32768, n2PassCMScore=119, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=4647, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M010_059.wav 1
+Time:0h:3m:24s:410ms - 0h:3m:25s:40ms, n1PassCMScore=-32768, n2PassCMScore=91, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=8306, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M010_060.wav 1
+Time:0h:3m:26s:190ms - 0h:3m:26s:810ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=5029, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M011_057.wav 1
+Time:0h:3m:27s:980ms - 0h:3m:28s:480ms, n1PassCMScore=-32768, n2PassCMScore=7, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=864, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M011_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M011_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M011_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M012_057.wav 1
+Time:0h:3m:34s:430ms - 0h:3m:35s:220ms, n1PassCMScore=-32768, n2PassCMScore=5, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=3478, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M012_058.wav 1
+Time:0h:3m:36s:190ms - 0h:3m:36s:980ms, n1PassCMScore=-32768, n2PassCMScore=26, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=2317, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M012_059.wav 1
+Time:0h:3m:38s:30ms - 0h:3m:38s:810ms, n1PassCMScore=-32768, n2PassCMScore=77, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=5465, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M012_060.wav 1
+Time:0h:3m:39s:870ms - 0h:3m:40s:670ms, n1PassCMScore=-32768, n2PassCMScore=85, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=6113, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M102_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M102_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M102_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M102_060.wav 1
+Time:0h:3m:46s:510ms - 0h:3m:47s:70ms, n1PassCMScore=-32768, n2PassCMScore=43, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=8, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M103_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M103_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M103_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M103_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M104_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M104_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M104_059.wav 1
+Time:0h:3m:57s:260ms - 0h:3m:57s:880ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=7976, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M104_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M014_057.wav 1
+Time:0h:4m:0s:440ms - 0h:4m:0s:960ms, n1PassCMScore=-32768, n2PassCMScore=4, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=4395, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M014_058.wav 1
+Time:0h:4m:1s:920ms - 0h:4m:2s:490ms, n1PassCMScore=-32768, n2PassCMScore=2, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=243, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M014_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M014_060.wav 1
+Time:0h:4m:4s:960ms - 0h:4m:5s:450ms, n1PassCMScore=-32768, n2PassCMScore=54, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=2616, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M015_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M015_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M015_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M015_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M107_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M107_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M107_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M107_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M110_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M110_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M110_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M110_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M112_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M112_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M112_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M112_060.wav 1
+Time:0h:4m:29s:120ms - 0h:4m:29s:690ms, n1PassCMScore=-32768, n2PassCMScore=4, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=4622, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M113_057.wav 1
+Time:0h:4m:30s:730ms - 0h:4m:31s:190ms, n1PassCMScore=-32768, n2PassCMScore=5, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=365, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M113_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M113_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M113_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F002_057.wav 1
+Time:0h:4m:36s:730ms - 0h:4m:37s:390ms, n1PassCMScore=-32768, n2PassCMScore=34, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=2296, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F002_058.wav 1
+Time:0h:4m:38s:450ms - 0h:4m:39s:130ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=2584, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F002_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F002_060.wav 1
+Time:0h:4m:41s:680ms - 0h:4m:42s:310ms, n1PassCMScore=-32768, n2PassCMScore=4, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=1967, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F004_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F004_058.wav 1
+Time:0h:4m:45s:290ms - 0h:4m:46s:100ms, n1PassCMScore=-32768, n2PassCMScore=4, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=3241, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F004_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F004_060.wav 1
+Time:0h:4m:49s:50ms - 0h:4m:49s:840ms, n1PassCMScore=-32768, n2PassCMScore=4, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=327, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F005_057.wav 1
+Time:0h:4m:50s:560ms - 0h:4m:51s:670ms, n1PassCMScore=-32768, n2PassCMScore=3, nFrame=112, WakeUp,  KeyID=1, nResID=0, fSNR=888, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F005_058.wav 1
+Time:0h:4m:52s:810ms - 0h:4m:53s:470ms, n1PassCMScore=-32768, n2PassCMScore=21, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=4963, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F005_059.wav 1
+Time:0h:4m:54s:710ms - 0h:4m:55s:360ms, n1PassCMScore=-32768, n2PassCMScore=20, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=1846, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F005_060.wav 1
+Time:0h:4m:56s:650ms - 0h:4m:57s:260ms, n1PassCMScore=-32768, n2PassCMScore=13, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=921, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F007_057.wav 1
+Time:0h:4m:58s:520ms - 0h:4m:59s:290ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=26257, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F007_058.wav 1
+Time:0h:5m:0s:420ms - 0h:5m:1s:210ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=19977, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F007_059.wav 1
+Time:0h:5m:2s:380ms - 0h:5m:3s:150ms, n1PassCMScore=-32768, n2PassCMScore=44, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=9295, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F007_060.wav 1
+Time:0h:5m:4s:320ms - 0h:5m:5s:80ms, n1PassCMScore=-32768, n2PassCMScore=68, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=14050, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F008_057.wav 1
+Time:0h:5m:6s:270ms - 0h:5m:6s:870ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=1374, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F008_058.wav 1
+Time:0h:5m:8s:0ms - 0h:5m:8s:620ms, n1PassCMScore=-32768, n2PassCMScore=54, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=923, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F008_059.wav 1
+Time:0h:5m:9s:770ms - 0h:5m:10s:410ms, n1PassCMScore=-32768, n2PassCMScore=44, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=3495, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F008_060.wav 1
+Time:0h:5m:11s:510ms - 0h:5m:12s:150ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=2772, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F013_057.wav 1
+Time:0h:5m:13s:300ms - 0h:5m:13s:990ms, n1PassCMScore=-32768, n2PassCMScore=21, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=3386, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F013_058.wav 1
+Time:0h:5m:15s:30ms - 0h:5m:15s:770ms, n1PassCMScore=-32768, n2PassCMScore=48, nFrame=75, WakeUp,  KeyID=1, nResID=0, fSNR=1601, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F013_059.wav 1
+Time:0h:5m:16s:800ms - 0h:5m:17s:490ms, n1PassCMScore=-32768, n2PassCMScore=25, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=5997, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F013_060.wav 1
+Time:0h:5m:18s:570ms - 0h:5m:19s:250ms, n1PassCMScore=-32768, n2PassCMScore=18, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=4773, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F016_057.wav 1
+Time:0h:5m:20s:360ms - 0h:5m:20s:910ms, n1PassCMScore=-32768, n2PassCMScore=19, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=1768, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F016_058.wav 1
+Time:0h:5m:21s:970ms - 0h:5m:22s:540ms, n1PassCMScore=-32768, n2PassCMScore=50, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=3789, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F016_059.wav 1
+Time:0h:5m:23s:620ms - 0h:5m:24s:210ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=2950, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F016_060.wav 1
+Time:0h:5m:25s:290ms - 0h:5m:25s:840ms, n1PassCMScore=-32768, n2PassCMScore=12, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=433, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F101_057.wav 1
+Time:0h:5m:26s:860ms - 0h:5m:27s:400ms, n1PassCMScore=-32768, n2PassCMScore=20, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=19986, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F101_058.wav 1
+Time:0h:5m:28s:400ms - 0h:5m:28s:950ms, n1PassCMScore=-32768, n2PassCMScore=15, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=12437, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F101_059.wav 1
+Time:0h:5m:29s:960ms - 0h:5m:30s:480ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=20487, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F101_060.wav 1
+Time:0h:5m:31s:520ms - 0h:5m:32s:40ms, n1PassCMScore=-32768, n2PassCMScore=20, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=26025, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F105_057.wav 1
+Time:0h:5m:33s:110ms - 0h:5m:33s:790ms, n1PassCMScore=-32768, n2PassCMScore=63, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=4466, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F105_058.wav 1
+Time:0h:5m:34s:800ms - 0h:5m:35s:570ms, n1PassCMScore=-32768, n2PassCMScore=63, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=1084, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F105_059.wav 1
+Time:0h:5m:36s:650ms - 0h:5m:37s:290ms, n1PassCMScore=-32768, n2PassCMScore=83, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=2207, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F105_060.wav 1
+Time:0h:5m:38s:380ms - 0h:5m:39s:20ms, n1PassCMScore=-32768, n2PassCMScore=33, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=2468, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F106_057.wav 1
+Time:0h:5m:40s:190ms - 0h:5m:40s:710ms, n1PassCMScore=-32768, n2PassCMScore=23, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=7839, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F106_058.wav 1
+Time:0h:5m:41s:760ms - 0h:5m:42s:280ms, n1PassCMScore=-32768, n2PassCMScore=66, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=5487, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F106_059.wav 1
+Time:0h:5m:43s:320ms - 0h:5m:43s:800ms, n1PassCMScore=-32768, n2PassCMScore=64, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=3712, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F106_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F108_057.wav 1
+Time:0h:5m:46s:410ms - 0h:5m:47s:230ms, n1PassCMScore=-32768, n2PassCMScore=82, nFrame=83, WakeUp,  KeyID=1, nResID=0, fSNR=9297, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F108_058.wav 1
+Time:0h:5m:48s:290ms - 0h:5m:49s:150ms, n1PassCMScore=-32768, n2PassCMScore=61, nFrame=87, WakeUp,  KeyID=1, nResID=0, fSNR=4082, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F108_059.wav 1
+Time:0h:5m:50s:200ms - 0h:5m:51s:50ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=86, WakeUp,  KeyID=1, nResID=0, fSNR=9647, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F108_060.wav 1
+Time:0h:5m:52s:110ms - 0h:5m:52s:920ms, n1PassCMScore=-32768, n2PassCMScore=8, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=2648, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F109_057.wav 1
+Time:0h:5m:53s:970ms - 0h:5m:54s:550ms, n1PassCMScore=-32768, n2PassCMScore=35, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=1476, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F109_058.wav 1
+Time:0h:5m:55s:750ms - 0h:5m:56s:310ms, n1PassCMScore=-32768, n2PassCMScore=2, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=2757, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F109_059.wav 1
+Time:0h:5m:57s:530ms - 0h:5m:58s:130ms, n1PassCMScore=-32768, n2PassCMScore=27, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=8643, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F109_060.wav 1
+Time:0h:5m:59s:280ms - 0h:5m:59s:920ms, n1PassCMScore=-32768, n2PassCMScore=67, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=13927, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F111_057.wav 1
+Time:0h:6m:1s:110ms - 0h:6m:1s:880ms, n1PassCMScore=-32768, n2PassCMScore=12, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=111, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F111_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F111_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F111_060.wav 1
+Time:0h:6m:6s:100ms - 0h:6m:6s:730ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=521, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F114_057.wav 1
+Time:0h:6m:7s:800ms - 0h:6m:8s:410ms, n1PassCMScore=-32768, n2PassCMScore=2, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=2469, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F114_058.wav 1
+Time:0h:6m:9s:410ms - 0h:6m:9s:980ms, n1PassCMScore=-32768, n2PassCMScore=1, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=2833, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F114_059.wav 1
+Time:0h:6m:11s:30ms - 0h:6m:11s:680ms, n1PassCMScore=-32768, n2PassCMScore=1, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=1592, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\F114_060.wav 1
+Time:0h:6m:12s:690ms - 0h:6m:13s:270ms, n1PassCMScore=-32768, n2PassCMScore=1, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=2660, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M001_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M001_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M001_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M001_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M003_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M003_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M003_059.wav 1
+Time:0h:6m:24s:0ms - 0h:6m:24s:690ms, n1PassCMScore=-32768, n2PassCMScore=3, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=406, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M003_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M006_057.wav 1
+Time:0h:6m:27s:430ms - 0h:6m:27s:850ms, n1PassCMScore=-32768, n2PassCMScore=1, nFrame=43, WakeUp,  KeyID=4, nResID=0, fSNR=2907, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M006_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M006_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M006_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M009_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M009_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M009_059.wav 1
+Time:0h:6m:38s:120ms - 0h:6m:38s:690ms, n1PassCMScore=-32768, n2PassCMScore=4, nFrame=58, WakeUp,  KeyID=6, nResID=0, fSNR=1043, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X2\M009_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M010_057.wav 1
+Time:0h:6m:41s:350ms - 0h:6m:42s:10ms, n1PassCMScore=-32768, n2PassCMScore=64, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=8424, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M010_058.wav 1
+Time:0h:6m:43s:140ms - 0h:6m:43s:790ms, n1PassCMScore=-32768, n2PassCMScore=49, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=11016, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M010_059.wav 1
+Time:0h:6m:44s:880ms - 0h:6m:45s:530ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=9550, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M010_060.wav 1
+Time:0h:6m:46s:650ms - 0h:6m:47s:280ms, n1PassCMScore=-32768, n2PassCMScore=91, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=4210, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M011_057.wav 1
+Time:0h:6m:48s:430ms - 0h:6m:48s:940ms, n1PassCMScore=-32768, n2PassCMScore=50, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=2081, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M011_058.wav 1
+Time:0h:6m:50s:40ms - 0h:6m:50s:550ms, n1PassCMScore=-32768, n2PassCMScore=66, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=3205, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M011_059.wav 1
+Time:0h:6m:51s:680ms - 0h:6m:52s:180ms, n1PassCMScore=-32768, n2PassCMScore=27, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=3301, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M011_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M012_057.wav 1
+Time:0h:6m:54s:940ms - 0h:6m:55s:670ms, n1PassCMScore=-32768, n2PassCMScore=8, nFrame=74, WakeUp,  KeyID=1, nResID=0, fSNR=4178, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M012_058.wav 1
+Time:0h:6m:56s:760ms - 0h:6m:57s:460ms, n1PassCMScore=-32768, n2PassCMScore=12, nFrame=71, WakeUp,  KeyID=1, nResID=0, fSNR=5120, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M012_059.wav 1
+Time:0h:6m:58s:530ms - 0h:6m:59s:310ms, n1PassCMScore=-32768, n2PassCMScore=39, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=213, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M012_060.wav 1
+Time:0h:7m:0s:350ms - 0h:7m:1s:170ms, n1PassCMScore=-32768, n2PassCMScore=27, nFrame=83, WakeUp,  KeyID=1, nResID=0, fSNR=5136, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M102_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M102_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M102_059.wav 1
+Time:0h:7m:5s:430ms - 0h:7m:6s:90ms, n1PassCMScore=-32768, n2PassCMScore=1, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=2522, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M102_060.wav 1
+Time:0h:7m:6s:970ms - 0h:7m:7s:590ms, n1PassCMScore=-32768, n2PassCMScore=2, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=4029, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M103_057.wav 1
+Time:0h:7m:8s:490ms - 0h:7m:8s:990ms, n1PassCMScore=-32768, n2PassCMScore=53, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=38385, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M103_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M103_059.wav 1
+Time:0h:7m:11s:500ms - 0h:7m:12s:70ms, n1PassCMScore=-32768, n2PassCMScore=25, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=54338, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M103_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M104_057.wav 1
+Time:0h:7m:14s:500ms - 0h:7m:15s:110ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=6292, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M104_058.wav 1
+Time:0h:7m:16s:120ms - 0h:7m:16s:770ms, n1PassCMScore=-32768, n2PassCMScore=7, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=4092, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M104_059.wav 1
+Time:0h:7m:17s:740ms - 0h:7m:18s:340ms, n1PassCMScore=-32768, n2PassCMScore=36, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=5665, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M104_060.wav 1
+Time:0h:7m:19s:340ms - 0h:7m:19s:920ms, n1PassCMScore=-32768, n2PassCMScore=35, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=6882, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M014_057.wav 1
+Time:0h:7m:20s:870ms - 0h:7m:21s:390ms, n1PassCMScore=-32768, n2PassCMScore=71, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=4433, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M014_058.wav 1
+Time:0h:7m:22s:370ms - 0h:7m:22s:890ms, n1PassCMScore=-32768, n2PassCMScore=33, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=4410, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M014_059.wav 1
+Time:0h:7m:23s:910ms - 0h:7m:24s:420ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=1869, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M014_060.wav 1
+Time:0h:7m:25s:390ms - 0h:7m:25s:920ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=2231, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M015_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M015_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M015_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M015_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M107_057.wav 1
+Time:0h:7m:32s:870ms - 0h:7m:33s:380ms, n1PassCMScore=-32768, n2PassCMScore=83, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=5740, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M107_058.wav 1
+Time:0h:7m:34s:420ms - 0h:7m:34s:960ms, n1PassCMScore=-32768, n2PassCMScore=33, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=3521, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M107_059.wav 1
+Time:0h:7m:35s:990ms - 0h:7m:36s:510ms, n1PassCMScore=-32768, n2PassCMScore=81, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=5901, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M107_060.wav 1
+Time:0h:7m:37s:550ms - 0h:7m:38s:110ms, n1PassCMScore=-32768, n2PassCMScore=12, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=6394, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M110_057.wav 1
+Time:0h:7m:39s:90ms - 0h:7m:39s:570ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=5840, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M110_058.wav 1
+Time:0h:7m:40s:540ms - 0h:7m:40s:990ms, n1PassCMScore=-32768, n2PassCMScore=79, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=7422, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M110_059.wav 1
+Time:0h:7m:41s:950ms - 0h:7m:42s:410ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=5490, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M110_060.wav 1
+Time:0h:7m:43s:350ms - 0h:7m:43s:820ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=48, WakeUp,  KeyID=1, nResID=0, fSNR=2404, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M112_057.wav 1
+Time:0h:7m:44s:760ms - 0h:7m:45s:390ms, n1PassCMScore=-32768, n2PassCMScore=37, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=5534, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M112_058.wav 1
+Time:0h:7m:46s:370ms - 0h:7m:46s:980ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=2073, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M112_059.wav 1
+Time:0h:7m:48s:80ms - 0h:7m:48s:600ms, n1PassCMScore=-32768, n2PassCMScore=3, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=2087, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M112_060.wav 1
+Time:0h:7m:49s:580ms - 0h:7m:50s:150ms, n1PassCMScore=-32768, n2PassCMScore=56, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=7220, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M113_057.wav 1
+Time:0h:7m:51s:170ms - 0h:7m:51s:660ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=11353, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M113_058.wav 1
+Time:0h:7m:52s:730ms - 0h:7m:53s:180ms, n1PassCMScore=-32768, n2PassCMScore=108, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=8217, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M113_059.wav 1
+Time:0h:7m:54s:210ms - 0h:7m:54s:670ms, n1PassCMScore=-32768, n2PassCMScore=41, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=4848, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M113_060.wav 1
+Time:0h:7m:55s:730ms - 0h:7m:56s:160ms, n1PassCMScore=-32768, n2PassCMScore=48, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=12766, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F002_057.wav 1
+Time:0h:7m:57s:190ms - 0h:7m:57s:850ms, n1PassCMScore=-32768, n2PassCMScore=43, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=2458, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F002_058.wav 1
+Time:0h:7m:58s:900ms - 0h:7m:59s:580ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=2137, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F002_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F002_060.wav 1
+Time:0h:8m:2s:130ms - 0h:8m:2s:760ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=63, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F004_057.wav 1
+Time:0h:8m:3s:820ms - 0h:8m:4s:630ms, n1PassCMScore=-32768, n2PassCMScore=34, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=3600, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F004_058.wav 1
+Time:0h:8m:5s:710ms - 0h:8m:6s:540ms, n1PassCMScore=-32768, n2PassCMScore=46, nFrame=84, WakeUp,  KeyID=1, nResID=0, fSNR=5443, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F004_059.wav 1
+Time:0h:8m:7s:690ms - 0h:8m:8s:470ms, n1PassCMScore=-32768, n2PassCMScore=30, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=910, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F004_060.wav 1
+Time:0h:8m:9s:530ms - 0h:8m:10s:270ms, n1PassCMScore=-32768, n2PassCMScore=11, nFrame=75, WakeUp,  KeyID=1, nResID=0, fSNR=3841, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F005_057.wav 1
+Time:0h:8m:11s:370ms - 0h:8m:12s:60ms, n1PassCMScore=-32768, n2PassCMScore=28, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=3219, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F005_058.wav 1
+Time:0h:8m:13s:250ms - 0h:8m:13s:950ms, n1PassCMScore=-32768, n2PassCMScore=14, nFrame=71, WakeUp,  KeyID=1, nResID=0, fSNR=2604, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F005_059.wav 1
+Time:0h:8m:15s:170ms - 0h:8m:15s:820ms, n1PassCMScore=-32768, n2PassCMScore=23, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=2192, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F005_060.wav 1
+Time:0h:8m:17s:90ms - 0h:8m:17s:730ms, n1PassCMScore=-32768, n2PassCMScore=12, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=2130, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F007_057.wav 1
+Time:0h:8m:18s:990ms - 0h:8m:19s:750ms, n1PassCMScore=-32768, n2PassCMScore=23, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=3605, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F007_058.wav 1
+Time:0h:8m:20s:870ms - 0h:8m:21s:670ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=3448, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F007_059.wav 1
+Time:0h:8m:22s:830ms - 0h:8m:23s:620ms, n1PassCMScore=-32768, n2PassCMScore=56, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=2730, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F007_060.wav 1
+Time:0h:8m:24s:780ms - 0h:8m:25s:550ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=1266, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F008_057.wav 1
+Time:0h:8m:26s:750ms - 0h:8m:27s:340ms, n1PassCMScore=-32768, n2PassCMScore=85, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=3539, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F008_058.wav 1
+Time:0h:8m:28s:460ms - 0h:8m:29s:80ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=4037, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F008_059.wav 1
+Time:0h:8m:30s:230ms - 0h:8m:30s:870ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=5821, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F008_060.wav 1
+Time:0h:8m:31s:970ms - 0h:8m:32s:630ms, n1PassCMScore=-32768, n2PassCMScore=80, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=6499, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F013_057.wav 1
+Time:0h:8m:33s:770ms - 0h:8m:34s:430ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=2060, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F013_058.wav 1
+Time:0h:8m:35s:510ms - 0h:8m:36s:210ms, n1PassCMScore=-32768, n2PassCMScore=79, nFrame=71, WakeUp,  KeyID=1, nResID=0, fSNR=2669, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F013_059.wav 1
+Time:0h:8m:37s:270ms - 0h:8m:37s:950ms, n1PassCMScore=-32768, n2PassCMScore=63, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=1642, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F013_060.wav 1
+Time:0h:8m:39s:30ms - 0h:8m:39s:710ms, n1PassCMScore=-32768, n2PassCMScore=41, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=5424, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F016_057.wav 1
+Time:0h:8m:40s:810ms - 0h:8m:41s:380ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=40085, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F016_058.wav 1
+Time:0h:8m:42s:430ms - 0h:8m:43s:10ms, n1PassCMScore=-32768, n2PassCMScore=96, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=99874, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F016_059.wav 1
+Time:0h:8m:44s:80ms - 0h:8m:44s:670ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=112275, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F016_060.wav 1
+Time:0h:8m:45s:740ms - 0h:8m:46s:300ms, n1PassCMScore=-32768, n2PassCMScore=35, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=88515, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F101_057.wav 1
+Time:0h:8m:47s:330ms - 0h:8m:47s:870ms, n1PassCMScore=-32768, n2PassCMScore=29, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=4089, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F101_058.wav 1
+Time:0h:8m:48s:870ms - 0h:8m:49s:420ms, n1PassCMScore=-32768, n2PassCMScore=10, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=3899, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F101_059.wav 1
+Time:0h:8m:50s:430ms - 0h:8m:50s:950ms, n1PassCMScore=-32768, n2PassCMScore=45, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=3968, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F101_060.wav 1
+Time:0h:8m:51s:990ms - 0h:8m:52s:520ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=5236, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F105_057.wav 1
+Time:0h:8m:53s:590ms - 0h:8m:54s:290ms, n1PassCMScore=-32768, n2PassCMScore=70, nFrame=71, WakeUp,  KeyID=1, nResID=0, fSNR=6576, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F105_058.wav 1
+Time:0h:8m:55s:290ms - 0h:8m:56s:50ms, n1PassCMScore=-32768, n2PassCMScore=30, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=3510, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F105_059.wav 1
+Time:0h:8m:57s:120ms - 0h:8m:57s:780ms, n1PassCMScore=-32768, n2PassCMScore=84, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=5505, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F105_060.wav 1
+Time:0h:8m:58s:870ms - 0h:8m:59s:500ms, n1PassCMScore=-32768, n2PassCMScore=21, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=1755, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F106_057.wav 1
+Time:0h:9m:0s:650ms - 0h:9m:1s:170ms, n1PassCMScore=-32768, n2PassCMScore=27, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=1823, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F106_058.wav 1
+Time:0h:9m:2s:190ms - 0h:9m:2s:730ms, n1PassCMScore=-32768, n2PassCMScore=37, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=1729, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F106_059.wav 1
+Time:0h:9m:3s:740ms - 0h:9m:4s:260ms, n1PassCMScore=-32768, n2PassCMScore=19, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=2017, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F106_060.wav 1
+Time:0h:9m:5s:290ms - 0h:9m:5s:810ms, n1PassCMScore=-32768, n2PassCMScore=24, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=215, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F108_057.wav 1
+Time:0h:9m:6s:870ms - 0h:9m:7s:710ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=85, WakeUp,  KeyID=1, nResID=0, fSNR=3813, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F108_058.wav 1
+Time:0h:9m:8s:770ms - 0h:9m:9s:630ms, n1PassCMScore=-32768, n2PassCMScore=95, nFrame=87, WakeUp,  KeyID=1, nResID=0, fSNR=3364, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F108_059.wav 1
+Time:0h:9m:10s:670ms - 0h:9m:11s:540ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=88, WakeUp,  KeyID=1, nResID=0, fSNR=3244, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F108_060.wav 1
+Time:0h:9m:12s:560ms - 0h:9m:13s:400ms, n1PassCMScore=-32768, n2PassCMScore=79, nFrame=85, WakeUp,  KeyID=1, nResID=0, fSNR=3289, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F109_057.wav 1
+Time:0h:9m:14s:430ms - 0h:9m:15s:40ms, n1PassCMScore=-32768, n2PassCMScore=104, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=14614, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F109_058.wav 1
+Time:0h:9m:16s:170ms - 0h:9m:16s:800ms, n1PassCMScore=-32768, n2PassCMScore=40, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=18221, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F109_059.wav 1
+Time:0h:9m:17s:990ms - 0h:9m:18s:610ms, n1PassCMScore=-32768, n2PassCMScore=67, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=14915, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F109_060.wav 1
+Time:0h:9m:19s:770ms - 0h:9m:20s:410ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=1161, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F111_057.wav 1
+Time:0h:9m:21s:570ms - 0h:9m:22s:290ms, n1PassCMScore=-32768, n2PassCMScore=46, nFrame=73, WakeUp,  KeyID=1, nResID=0, fSNR=1826, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F111_058.wav 1
+Time:0h:9m:23s:250ms - 0h:9m:23s:940ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=3498, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F111_059.wav 1
+Time:0h:9m:24s:890ms - 0h:9m:25s:580ms, n1PassCMScore=-32768, n2PassCMScore=64, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=2816, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F111_060.wav 1
+Time:0h:9m:26s:510ms - 0h:9m:27s:190ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=1950, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F114_057.wav 1
+Time:0h:9m:28s:190ms - 0h:9m:28s:770ms, n1PassCMScore=-32768, n2PassCMScore=12, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=3034, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F114_058.wav 1
+Time:0h:9m:29s:810ms - 0h:9m:30s:420ms, n1PassCMScore=-32768, n2PassCMScore=11, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=369, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F114_059.wav 1
+Time:0h:9m:31s:470ms - 0h:9m:32s:100ms, n1PassCMScore=-32768, n2PassCMScore=6, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=4657, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\F114_060.wav 1
+Time:0h:9m:33s:130ms - 0h:9m:33s:730ms, n1PassCMScore=-32768, n2PassCMScore=48, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=2776, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M001_057.wav 1
+Time:0h:9m:34s:830ms - 0h:9m:35s:330ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=4612, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M001_058.wav 1
+Time:0h:9m:36s:410ms - 0h:9m:36s:900ms, n1PassCMScore=-32768, n2PassCMScore=56, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=5351, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M001_059.wav 1
+Time:0h:9m:37s:980ms - 0h:9m:38s:490ms, n1PassCMScore=-32768, n2PassCMScore=47, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=4191, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M001_060.wav 1
+Time:0h:9m:39s:540ms - 0h:9m:40s:130ms, n1PassCMScore=-32768, n2PassCMScore=14, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=2656, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M003_057.wav 1
+Time:0h:9m:41s:90ms - 0h:9m:41s:750ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=2377, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M003_058.wav 1
+Time:0h:9m:42s:750ms - 0h:9m:43s:430ms, n1PassCMScore=-32768, n2PassCMScore=61, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=2771, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M003_059.wav 1
+Time:0h:9m:44s:450ms - 0h:9m:45s:120ms, n1PassCMScore=-32768, n2PassCMScore=38, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=1598, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M003_060.wav 1
+Time:0h:9m:46s:150ms - 0h:9m:46s:820ms, n1PassCMScore=-32768, n2PassCMScore=50, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=2364, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M006_057.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M006_058.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M006_059.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M006_060.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M009_057.wav 1
+Time:0h:9m:55s:310ms - 0h:9m:55s:960ms, n1PassCMScore=-32768, n2PassCMScore=35, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=2088, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M009_058.wav 1
+Time:0h:9m:56s:970ms - 0h:9m:57s:530ms, n1PassCMScore=-32768, n2PassCMScore=14, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=2257, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M009_059.wav 1
+Time:0h:9m:58s:570ms - 0h:9m:59s:140ms, n1PassCMScore=-32768, n2PassCMScore=44, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=2933, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-4\X3\M009_060.wav 1
+Time:0h:10m:0s:190ms - 0h:10m:0s:790ms, n1PassCMScore=-32768, n2PassCMScore=30, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=1825, 		
+
+--------Wrap引擎版本:5.0.1011--------------
+--------一遍引擎版本:Ivw3.6.2001--------------
+--------二遍引擎版本:Ivw4.0.1016--------------
+
+===============================================================================================
+TestList=F:\0_支持\车载效果分析\1_车载一致性\car\scp\SceneId-4-2.scp
+1PassRes=2PassRes=
+			KeyID = 0, Thresh = 0
+			KeyID = 1, Thresh = 0
+			KeyID = 2, Thresh = 0
+			KeyID = 3, Thresh = 0
+			KeyID = 4, Thresh = 0
+			KeyID = 5, Thresh = 0
+			KeyID = 6, Thresh = 0
+			KeyID = 7, Thresh = 0
+TestResID = 0, KeyID = 1
+b2PassOfflineTest=0
+Enter2PassThr=0
+Enter2PassExtMS=[0,0]
+bTestNoise=0
+
+bCreateObjPerPCM = 0
+bResetObjPerPCM = 0
+nSNRThresh = 1
+nSNRSkipNoiseMS = 0
+nSNRNoiseMS = 400
+nSNRCMThrDIF = 20
+nSNREndSilMS = 30
+Support nKeywordMaxMS = 4000
+Support nKeywordMinMS = 100
+-----------------------------------------------------------------------------------------------
+--------------------------唤醒率统计-----------------------------------
+测试总次数=360, 唤醒次数=292, 唤醒率=81.1%
+Test cmd res = 1
+		ResID 0, Keyword1: TestPcmNum=360, WakeupNum=292, Rate=81.1%
+		同一资源串扰次数=2, 串扰率=0.6%
+		不同资源串扰次数=0, 串扰率=0.0%
+-------Male PcmAll=192, wakeup = 133, rate = 69.3%
+-------Female PcmAll=168, wakeup = 161, rate = 95.8%
+
+-----------------------------------------------------------------------------------------------
+Total Time =0h:10m
+-----------------------------------------------------------------------------------------------
+连续无法唤醒最大次数 = 15
+一遍唤醒出结果硬延时时长范围 = [32767ms, -32767ms]

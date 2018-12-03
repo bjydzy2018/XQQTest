@@ -1,0 +1,730 @@
+ [ISR Test] path_of_bin is /fynavigator/bin
+ [ISR Test] tts_res_path : /fynavigator/bin/TTSRes
+ [ISR Test] cfg_Dir : /fynavigator/bin/isr_list.cfg
+ [ISR Test] Open cfg_Dir success: /fynavigator/bin/isr_list.cfg
+ [ISR Test] Pcm_Res_Path_Default is /fs/usb0/PcmRes.
+ [ISR Test] Result_Type_Default is 1.
+ [ISR Test] ISR_Mode_Default is 1.
+ [ISR Test] ISR_Lang_Default is 0.
+ [ISR Test] UpLoadDictModel_Default is 1.
+ [ISR Test] ISS_SR_SCENE_Default is all.
+ [ISR Test] Loop_Num_Default is 1
+ [ISR Test] Pcm_Track_Default is 1
+ [ISR Test] Trace_Level_Default is error.
+ [ISR Test] TTS_Mode_Default is 0.
+ [ISR Test] TTS_Speaker_Default is 99.
+ [ISR Test] TTS_Out_Default is 0.
+ [ISR Test] ISS_MVW_SCENE_Default is 1.
+ [ISR Test] Index_Srh is 0
+ [ISR Test] Index_Drop is 1
+ [ISR Test] Loc_Msp_Nli is 1
+ [ISR Test] Set path_of_pcm_res = /fs/usb0/PcmRes
+ [ISR Test] Set Speaker = 99
+ [ISR Test] Set Loop_Num = 1
+ [ISR Test] Set ResMode = 0
+ [ISR Test] Set TTS_Out = 0
+ [ISR Test] InitRes success!
+ [ISR Test] No ISS_CHIP_CRYPT
+ [ISR Test] Create success!
+ [ISR Test] Init resume 109 ms
+ [ISR Test] Create resume 84 ms
+ [ISR Test] Open list success!
+ [ISR Test] 第1次：
+ [ISR Test] 导航到河南省开封市尉氏县南曹乡何庄村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/001.pcm
+
+ [ISR Test] tts proc result resume 478 ms
+ [ISR Test] tts resume 31489 ms
+ [ISR Test] 第2次：
+ [ISR Test] 导导航到华阴市的华鑫国际酒店
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/002.pcm
+
+ [ISR Test] tts proc result resume 464 ms
+ [ISR Test] tts resume 22728 ms
+ [ISR Test] 第3次：
+ [ISR Test] 导航深圳市盐田区沙头角鹏湾一村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/003.pcm
+
+ [ISR Test] tts proc result resume 683 ms
+ [ISR Test] tts resume 23739 ms
+ [ISR Test] 第4次：
+ [ISR Test] 导航去河南省周口市扶沟县顾家村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/004.pcm
+
+ [ISR Test] tts proc result resume 620 ms
+ [ISR Test] tts resume 35741 ms
+ [ISR Test] 第5次：
+ [ISR Test] 导航北京市大红门服装批发市场
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/005.pcm
+
+ [ISR Test] tts proc result resume 488 ms
+ [ISR Test] tts resume 24766 ms
+ [ISR Test] 第6次：
+ [ISR Test] 我想去河北省宁晋县艾辛庄三村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/006.pcm
+
+ [ISR Test] tts proc result resume 616 ms
+ [ISR Test] tts resume 22035 ms
+ [ISR Test] 第7次：
+ [ISR Test] 到大连市甘井子区迎客路郭东街八号
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/007.pcm
+
+ [ISR Test] tts proc result resume 521 ms
+ [ISR Test] tts resume 22552 ms
+ [ISR Test] 第8次：
+ [ISR Test] 导航到湘西自治州雪铁龙4s店
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/008.pcm
+
+ [ISR Test] tts proc result resume 580 ms
+ [ISR Test] tts resume 21080 ms
+ [ISR Test] 第9次：
+ [ISR Test] 导航去内蒙赤峰市敖汉旗丰收乡
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/009.pcm
+
+ [ISR Test] tts proc result resume 565 ms
+ [ISR Test] tts resume 24928 ms
+ [ISR Test] 第10次：
+ [ISR Test] 到江苏省泰州市泰兴市怎么走
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/010.pcm
+
+ [ISR Test] tts proc result resume 679 ms
+ [ISR Test] tts resume 20603 ms
+ [ISR Test] 第11次：
+ [ISR Test] 我要去雨花区万家丽中路鑫天御景湾怎么走
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/011.pcm
+
+ [ISR Test] tts proc result resume 649 ms
+ [ISR Test] tts resume 42747 ms
+ [ISR Test] 第12次：
+ [ISR Test] 帮我导航到宿迁市泗阳县万诚国际
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/012.pcm
+
+ [ISR Test] tts proc result resume 715 ms
+ [ISR Test] tts resume 23042 ms
+ [ISR Test] 第13次：
+ [ISR Test] 到濮阳县五星乡孟寨村张敬明家
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/013.pcm
+
+ [ISR Test] tts proc result resume 579 ms
+ [ISR Test] tts resume 32197 ms
+ [ISR Test] 第14次：
+ [ISR Test] 导航长沙市雨发雨花区妇幼保健院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/014.pcm
+
+ [ISR Test] tts proc result resume 551 ms
+ [ISR Test] tts resume 25468 ms
+ [ISR Test] 第15次：
+ [ISR Test] 导航到导航到珠海市金山林酒店
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/015.pcm
+
+ [ISR Test] tts proc result resume 515 ms
+ [ISR Test] tts resume 25374 ms
+ [ISR Test] 第16次：
+ [ISR Test] 导航到江西省上饶市广丰县毛村镇后溪村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/016.pcm
+
+ [ISR Test] tts proc result resume 607 ms
+ [ISR Test] tts resume 31209 ms
+ [ISR Test] 第17次：
+ [ISR Test] 导航河南省安阳市高速公路管理局
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/017.pcm
+
+ [ISR Test] tts proc result resume 545 ms
+ [ISR Test] tts resume 24793 ms
+ [ISR Test] 第18次：
+ [ISR Test] 我要去内蒙古通辽市奈曼旗双合村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/018.pcm
+
+ [ISR Test] tts proc result resume 663 ms
+ [ISR Test] tts resume 24283 ms
+ [ISR Test] 第19次：
+ [ISR Test] 导航新疆维吾尔族自治区博尔塔拉蒙古自治州农五师
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/019.pcm
+
+ [ISR Test] tts proc result resume 676 ms
+ [ISR Test] tts resume 37915 ms
+ [ISR Test] 第20次：
+ [ISR Test] 导航到射洪县50米大街汇星百货
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/020.pcm
+
+ [ISR Test] tts proc result resume 671 ms
+ [ISR Test] tts resume 23313 ms
+ [ISR Test] 第21次：
+ [ISR Test] 导航到营口鲅鱼圈神驰汽车用品
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/021.pcm
+
+ [ISR Test] tts proc result resume 626 ms
+ [ISR Test] tts resume 42657 ms
+ [ISR Test] 第22次：
+ [ISR Test] 我要去朝阳市赛梦娜汽车美容中心
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/022.pcm
+
+ [ISR Test] tts proc result resume 636 ms
+ [ISR Test] tts resume 23105 ms
+ [ISR Test] 第23次：
+ [ISR Test] 帮我把去大洼县工商所导航打开
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/023.pcm
+
+ [ISR Test] tts proc result resume 459 ms
+ [ISR Test] tts resume 35800 ms
+ [ISR Test] 第24次：
+ [ISR Test] 导航到营口市鲅鱼圈区神驰汽车用品
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/024.pcm
+
+ [ISR Test] tts proc result resume 623 ms
+ [ISR Test] tts resume 46274 ms
+ [ISR Test] 第25次：
+ [ISR Test] 我要去山西首侯马市高村乡东台神村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/025.pcm
+
+ [ISR Test] tts proc result resume 433 ms
+ [ISR Test] tts resume 33688 ms
+ [ISR Test] 第26次：
+ [ISR Test] 导航到长沙雨花区佐酒左家塘长沙市妇幼保健院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/026.pcm
+
+ [ISR Test] tts proc result resume 548 ms
+ [ISR Test] tts resume 37145 ms
+ [ISR Test] 第27次：
+ [ISR Test] 呃导航导航到太乙路街道办事处
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/027.pcm
+
+ [ISR Test] tts proc result resume 624 ms
+ [ISR Test] tts resume 21005 ms
+ [ISR Test] 第28次：
+ [ISR Test] 导航到鲅鱼圈区神驰汽车用品总汇
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/028.pcm
+
+ [ISR Test] tts proc result resume 634 ms
+ [ISR Test] tts resume 25618 ms
+ [ISR Test] 第29次：
+ [ISR Test] 导航到四川省射洪县50米大街中段
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/029.pcm
+
+ [ISR Test] tts proc result resume 703 ms
+ [ISR Test] tts resume 23642 ms
+ [ISR Test] 第30次：
+ [ISR Test] 导航到机动车排气污染监督管理所
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/030.pcm
+
+ [ISR Test] tts proc result resume 512 ms
+ [ISR Test] tts resume 43191 ms
+ [ISR Test] 第31次：
+ [ISR Test] 请请帮我导航到重庆市垫江县太平镇红黄蓝幼儿园
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/031.pcm
+
+ [ISR Test] tts proc result resume 522 ms
+ [ISR Test] tts resume 36936 ms
+ [ISR Test] 第32次：
+ [ISR Test] 导航到咸阳市兴平县马嵬驿旅游景点
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/032.pcm
+
+ [ISR Test] tts proc result resume 691 ms
+ [ISR Test] tts resume 46757 ms
+ [ISR Test] 第33次：
+ [ISR Test] 导航到鲅鱼圈神驰汽车用品总汇
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/033.pcm
+
+ [ISR Test] tts proc result resume 602 ms
+ [ISR Test] tts resume 42894 ms
+ [ISR Test] 第34次：
+ [ISR Test] 中南大学湘雅附属医院第一医院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/034.pcm
+
+ [ISR Test] tts proc result resume 506 ms
+ [ISR Test] tts resume 34051 ms
+ [ISR Test] 第35次：
+ [ISR Test] 我要苏州市常熟市经济开发区大连路
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/035.pcm
+
+ [ISR Test] tts proc result resume 525 ms
+ [ISR Test] tts resume 36676 ms
+ [ISR Test] 第36次：
+ [ISR Test] 我要去沙朗市场你帮我搜索一下路线
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/036.pcm
+
+ [ISR Test] tts proc result resume 538 ms
+ [ISR Test] tts resume 25649 ms
+ [ISR Test] 第37次：
+ [ISR Test] 我要去劳动中路五十八号京电大厦
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/037.pcm
+
+ [ISR Test] tts proc result resume 503 ms
+ [ISR Test] tts resume 32029 ms
+ [ISR Test] 第38次：
+ [ISR Test] 我要去湖北省水利水电职业技术学院南湖校区
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/038.pcm
+
+ [ISR Test] tts proc result resume 657 ms
+ [ISR Test] tts resume 32547 ms
+ [ISR Test] 第39次：
+ [ISR Test] 我要去湖北省水利水电职业技术学院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/039.pcm
+
+ [ISR Test] tts proc result resume 614 ms
+ [ISR Test] tts resume 25761 ms
+ [ISR Test] 第40次：
+ [ISR Test] 我要去河南省信阳市平桥区上天梯村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/040.pcm
+
+ [ISR Test] tts proc result resume 616 ms
+ [ISR Test] tts resume 22185 ms
+ [ISR Test] 第41次：
+ [ISR Test] 我要去大连瓦房店亿达家具市场
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/041.pcm
+
+ [ISR Test] tts proc result resume 521 ms
+ [ISR Test] tts resume 23188 ms
+ [ISR Test] 第42次：
+ [ISR Test] 我要去大连瓦房店市亿达旧物市场
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/042.pcm
+
+ [ISR Test] tts proc result resume 560 ms
+ [ISR Test] tts resume 32913 ms
+ [ISR Test] 第43次：
+ [ISR Test] 我要去成都市温江区西班牙森林二期
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/043.pcm
+
+ [ISR Test] tts proc result resume 516 ms
+ [ISR Test] tts resume 36278 ms
+ [ISR Test] 第44次：
+ [ISR Test] 我想去咸阳机场T二航站楼停车场
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/044.pcm
+
+ [ISR Test] tts proc result resume 496 ms
+ [ISR Test] tts resume 24124 ms
+ [ISR Test] 第45次：
+ [ISR Test] 我想去平广西平南县泰成混泥土公司
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/045.pcm
+
+ [ISR Test] tts proc result resume 615 ms
+ [ISR Test] tts resume 25747 ms
+ [ISR Test] 第46次：
+ [ISR Test] 我想去吉利汽车工业有限公司的南门
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/046.pcm
+
+ [ISR Test] tts proc result resume 529 ms
+ [ISR Test] tts resume 36194 ms
+ [ISR Test] 第47次：
+ [ISR Test] 我想去广州市西关外国语实验学校
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/047.pcm
+
+ [ISR Test] tts proc result resume 501 ms
+ [ISR Test] tts resume 24288 ms
+ [ISR Test] 第48次：
+ [ISR Test] 我到常州市广成路广成小区小区
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/048.pcm
+
+ [ISR Test] tts proc result resume 610 ms
+ [ISR Test] tts resume 24442 ms
+ [ISR Test] 第49次：
+ [ISR Test] 山东德扬电子科技有限公司的具体位置
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/049.pcm
+
+ [ISR Test] tts proc result resume 718 ms
+ [ISR Test] tts resume 28907 ms
+ [ISR Test] 第50次：
+ [ISR Test] 去上海市沪青平公路四百五十五号
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/050.pcm
+
+ [ISR Test] tts proc result resume 746 ms
+ [ISR Test] tts resume 24908 ms
+ [ISR Test] 第51次：
+ [ISR Test] 去广州市从化市广州大学华软软件学院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/051.pcm
+
+ [ISR Test] tts proc result resume 759 ms
+ [ISR Test] tts resume 25237 ms
+ [ISR Test] 第52次：
+ [ISR Test] 请问到请问兰州到礼县路怎么走
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/052.pcm
+
+ [ISR Test] tts proc result resume 662 ms
+ [ISR Test] tts resume 22145 ms
+ [ISR Test] 第53次：
+ [ISR Test] 请帮我查一下山东德阳电子在哪里
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/053.pcm
+
+ [ISR Test] tts proc result resume 642 ms
+ [ISR Test] tts resume 26388 ms
+ [ISR Test] 第54次：
+ [ISR Test] 靖港望城靖港长沙市望城区靖港镇
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/054.pcm
+
+ [ISR Test] tts proc result resume 560 ms
+ [ISR Test] tts resume 22853 ms
+ [ISR Test] 第55次：
+ [ISR Test] 到太原幸福家园老年公寓怎么走
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/055.pcm
+
+ [ISR Test] tts proc result resume 562 ms
+ [ISR Test] tts resume 23474 ms
+ [ISR Test] 第56次：
+ [ISR Test] 到深圳深南大道世界之窗怎么走
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/056.pcm
+
+ [ISR Test] tts proc result resume 680 ms
+ [ISR Test] tts resume 22719 ms
+ [ISR Test] 第57次：
+ [ISR Test] 导航做成都市青羊区光华中心A座
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/057.pcm
+
+ [ISR Test] tts proc result resume 569 ms
+ [ISR Test] tts resume 22542 ms
+ [ISR Test] 第58次：
+ [ISR Test] 导航至涟源市特福莱汽车贸易有限公司
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/058.pcm
+
+ [ISR Test] tts proc result resume 456 ms
+ [ISR Test] tts resume 27402 ms
+ [ISR Test] 第59次：
+ [ISR Test] 导航至成都市青羊区光华中心A座
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/059.pcm
+
+ [ISR Test] tts proc result resume 515 ms
+ [ISR Test] tts resume 22820 ms
+ [ISR Test] 第60次：
+ [ISR Test] 导航至成都市青羊区光华路光华北路
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/060.pcm
+
+ [ISR Test] tts proc result resume 692 ms
+ [ISR Test] tts resume 25164 ms
+ [ISR Test] 第61次：
+ [ISR Test] 导航至成都市青羊区光华北山路
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/061.pcm
+
+ [ISR Test] tts proc result resume 640 ms
+ [ISR Test] tts resume 22334 ms
+ [ISR Test] 第62次：
+ [ISR Test] 导航去幺零五医院合肥市幺零五医院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/062.pcm
+
+ [ISR Test] tts proc result resume 605 ms
+ [ISR Test] tts resume 25793 ms
+ [ISR Test] 第63次：
+ [ISR Test] 导航去天心区新开铺中南大市场
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/063.pcm
+
+ [ISR Test] tts proc result resume 595 ms
+ [ISR Test] tts resume 21296 ms
+ [ISR Test] 第64次：
+ [ISR Test] 导航去湖南省衡阳市祁东县大江村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/064.pcm
+
+ [ISR Test] tts proc result resume 528 ms
+ [ISR Test] tts resume 32226 ms
+ [ISR Test] 第65次：
+ [ISR Test] 导航到中国科学技术大学西校区
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/065.pcm
+
+ [ISR Test] tts proc result resume 600 ms
+ [ISR Test] tts resume 19319 ms
+ [ISR Test] 第66次：
+ [ISR Test] 导航到浙江省绍兴市嵊州市嵊州客运站
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/066.pcm
+
+ [ISR Test] tts proc result resume 584 ms
+ [ISR Test] tts resume 28221 ms
+ [ISR Test] 第67次：
+ [ISR Test] 导航到辽宁省鞍山市二一九公园
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/067.pcm
+
+ [ISR Test] tts proc result resume 691 ms
+ [ISR Test] tts resume 22223 ms
+ [ISR Test] 第68次：
+ [ISR Test] 导航到大连金州区胜利路加油站
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/068.pcm
+
+ [ISR Test] tts proc result resume 627 ms
+ [ISR Test] tts resume 21681 ms
+ [ISR Test] 第69次：
+ [ISR Test] 导航到西昌市健康一环路十二号
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/069.pcm
+
+ [ISR Test] tts proc result resume 555 ms
+ [ISR Test] tts resume 23261 ms
+ [ISR Test] 第70次：
+ [ISR Test] 导航到大连金州区瀛海金洲小区
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/070.pcm
+
+ [ISR Test] tts proc result resume 600 ms
+ [ISR Test] tts resume 23137 ms
+ [ISR Test] 第71次：
+ [ISR Test] 导航到咸阳市礼泉下呃礼礼泉县袁家村
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/071.pcm
+
+ [ISR Test] tts proc result resume 730 ms
+ [ISR Test] tts resume 31307 ms
+ [ISR Test] 第72次：
+ [ISR Test] 导航到大连市金州小区瀛海金州
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/072.pcm
+
+ [ISR Test] tts proc result resume 503 ms
+ [ISR Test] tts resume 22066 ms
+ [ISR Test] 第73次：
+ [ISR Test] 导航去唐都逸铤丰田销售有限公司
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/073.pcm
+
+ [ISR Test] tts proc result resume 620 ms
+ [ISR Test] tts resume 24972 ms
+ [ISR Test] 第74次：
+ [ISR Test] 导航到中国科学技术大学南校区
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/074.pcm
+
+ [ISR Test] tts proc result resume 679 ms
+ [ISR Test] tts resume 19743 ms
+ [ISR Test] 第75次：
+ [ISR Test] 去广州市从化市广州大学华软软件学院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/075.pcm
+
+ [ISR Test] tts proc result resume 828 ms
+ [ISR Test] tts resume 25321 ms
+ [ISR Test] 第76次：
+ [ISR Test] 查找科大讯飞附近三公里的加油站
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/076.pcm
+
+ [ISR Test] tts proc result resume 597 ms
+ [ISR Test] tts resume 20955 ms
+ [ISR Test] 第77次：
+ [ISR Test] 从新华学院导航到望江西路科大讯飞
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/077.pcm
+
+ [ISR Test] tts proc result resume 643 ms
+ [ISR Test] tts resume 26522 ms
+ [ISR Test] 第78次：
+ [ISR Test] 我要去重庆市潼南县小渡镇小渡口
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/078.pcm
+
+ [ISR Test] tts proc result resume 551 ms
+ [ISR Test] tts resume 22577 ms
+ [ISR Test] 第79次：
+ [ISR Test] 我要去伊犁哈萨克自治州伊宁市阿依墩街
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/079.pcm
+
+ [ISR Test] tts proc result resume 673 ms
+ [ISR Test] tts resume 38514 ms
+ [ISR Test] 第80次：
+ [ISR Test] 搜索广州市番禺区东环路一百零三号
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/080.pcm
+
+ [ISR Test] tts proc result resume 491 ms
+ [ISR Test] tts resume 24811 ms
+ [ISR Test] 第81次：
+ [ISR Test] 我要去北京市钟鼓鼓楼中医医院
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/081.pcm
+
+ [ISR Test] tts proc result resume 710 ms
+ [ISR Test] tts resume 21903 ms
+ [ISR Test] 第82次：
+ [ISR Test] 导航大连市金州区瀛海金州小区
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/082.pcm
+
+ [ISR Test] tts proc result resume 467 ms
+ [ISR Test] tts resume 34885 ms
+ [ISR Test] 第83次：
+ [ISR Test] 广州市越秀区一德路广州一德国际玩具文具精品广场
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/083.pcm
+
+ [ISR Test] tts proc result resume 606 ms
+ [ISR Test] tts resume 41715 ms
+ [ISR Test] 第84次：
+ [ISR Test] 杭州市武林门杭州大厦环城北路
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/084.pcm
+
+ [ISR Test] tts proc result resume 408 ms
+ [ISR Test] tts resume 33664 ms
+ [ISR Test] 第85次：
+ [ISR Test] 上海市普陀区海底捞(长寿路店)
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/085.pcm
+
+ [ISR Test] tts proc result resume 529 ms
+ [ISR Test] tts resume 21761 ms
+ [ISR Test] 第86次：
+ [ISR Test] 杭州市江干区新塘路/太平门直街(路口)
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/086.pcm
+
+ [ISR Test] tts proc result resume 584 ms
+ [ISR Test] tts resume 33306 ms
+ [ISR Test] 第87次：
+ [ISR Test] 江苏省常州市钟楼区公园路56号
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/087.pcm
+
+ [ISR Test] tts proc result resume 629 ms
+ [ISR Test] tts resume 24487 ms
+ [ISR Test] 第88次：
+ [ISR Test] 苏州市吴中区宝带西路水香街口
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/088.pcm
+
+ [ISR Test] tts proc result resume 780 ms
+ [ISR Test] tts resume 21948 ms
+ [ISR Test] 第89次：
+ [ISR Test] 上海市宝山区真华路1770号
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/089.pcm
+
+ [ISR Test] tts proc result resume 552 ms
+ [ISR Test] tts resume 19607 ms
+ [ISR Test] 第90次：
+ [ISR Test] 江苏省南京市鼓楼区中山北路129号
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/090.pcm
+
+ [ISR Test] tts proc result resume 743 ms
+ [ISR Test] tts resume 25743 ms
+ [ISR Test] 第91次：
+ [ISR Test] 杭州市杭州市凤起路太平门直街
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/091.pcm
+
+ [ISR Test] tts proc result resume 591 ms
+ [ISR Test] tts resume 19687 ms
+ [ISR Test] 第92次：
+ [ISR Test] 上海市徐汇区双峰北路1-1-临
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/092.pcm
+
+ [ISR Test] tts proc result resume 678 ms
+ [ISR Test] tts resume 30993 ms
+ [ISR Test] 第93次：
+ [ISR Test] 上海市闵行区万象国际ktv虹井路
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/093.pcm
+
+ [ISR Test] tts proc result resume 524 ms
+ [ISR Test] tts resume 24443 ms
+ [ISR Test] 第94次：
+ [ISR Test] 浙江省宁波市江东区世纪大道北段-555号-1
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/094.pcm
+
+ [ISR Test] tts proc result resume 756 ms
+ [ISR Test] tts resume 34350 ms
+ [ISR Test] 第95次：
+ [ISR Test] 上海市闵行区吴中路1171弄-50支弄-1
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/095.pcm
+
+ [ISR Test] tts proc result resume 658 ms
+ [ISR Test] tts resume 27326 ms
+ [ISR Test] 第96次：
+ [ISR Test] 南京市江宁区佳湖东路1912
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/096.pcm
+
+ [ISR Test] tts proc result resume 581 ms
+ [ISR Test] tts resume 18369 ms
+ [ISR Test] 第97次：
+ [ISR Test] 上海市徐汇区东湖路30号-4
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/097.pcm
+
+ [ISR Test] tts proc result resume 678 ms
+ [ISR Test] tts resume 17749 ms
+ [ISR Test] 第98次：
+ [ISR Test] 宁波市江东区彩虹南路飞越百度酒吧
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/098.pcm
+
+ [ISR Test] tts proc result resume 499 ms
+ [ISR Test] tts resume 38605 ms
+ [ISR Test] 第99次：
+ [ISR Test] 上海市闵行区七莘路/中谊路(路口)
+,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/099.pcm
+
+ [ISR Test] tts proc result resume 480 ms
+ [ISR Test] tts resume 19680 ms
+ [ISR Test] 第100次：
+ [ISR Test] 福建省厦门市思明区厦禾路951号,
+ [ISR Test] open pcm success!str_content = /fs/usb0/PcmRes/tts/out/100.pcm
+
+ [ISR Test] tts proc result resume 537 ms
+ [ISR Test] tts resume 40634 ms

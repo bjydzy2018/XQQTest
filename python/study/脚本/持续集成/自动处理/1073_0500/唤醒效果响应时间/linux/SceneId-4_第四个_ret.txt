@@ -1,0 +1,361 @@
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M010_081-1.2s.wav	nMvwScene:4,nMvwId:3,nMvwScore:114,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":114, "wakeup":1, "nStartBytes":13440, "nEndBytes":34560}	497
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M010_082-1.2s.wav	nMvwScene:4,nMvwId:3,nMvwScore:119,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":119, "wakeup":1, "nStartBytes":68480, "nEndBytes":89280}	489
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M010_083-1.2s.wav	nMvwScene:4,nMvwId:3,nMvwScore:129,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":129, "wakeup":1, "nStartBytes":121920, "nEndBytes":143040}	554
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M010_084-1.2s.wav	nMvwScene:4,nMvwId:3,nMvwScore:110,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":110, "wakeup":1, "nStartBytes":179520, "nEndBytes":200320}	562
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M011_081-1.1s.wav	nMvwScene:4,nMvwId:3,nMvwScore:61,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":61, "wakeup":1, "nStartBytes":235840, "nEndBytes":253760}	536
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M011_082-1.1s.wav	nMvwScene:4,nMvwId:3,nMvwScore:24,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":24, "wakeup":1, "nStartBytes":288320, "nEndBytes":305600}	591
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M011_083-1.1s.wav	nMvwScene:4,nMvwId:3,nMvwScore:94,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":94, "wakeup":1, "nStartBytes":342720, "nEndBytes":359680}	554
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M011_084-1.2s.wav	nMvwScene:4,nMvwId:3,nMvwScore:60,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":60, "wakeup":1, "nStartBytes":396800, "nEndBytes":414400}	454
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M012_081-1.4s.wav	nMvwScene:4,nMvwId:3,nMvwScore:54,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":54, "wakeup":1, "nStartBytes":449280, "nEndBytes":476160}	488
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M012_082-1.5s.wav	nMvwScene:4,nMvwId:3,nMvwScore:37,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":37, "wakeup":1, "nStartBytes":508800, "nEndBytes":537920}	472
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M012_083-1.5s.wav	nMvwScene:4,nMvwId:3,nMvwScore:60,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":60, "wakeup":1, "nStartBytes":572480, "nEndBytes":600320}	410
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M012_084-1.4s.wav	nMvwScene:4,nMvwId:3,nMvwScore:123,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":123, "wakeup":1, "nStartBytes":633920, "nEndBytes":660480}	494
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M102_081-1.2s.wav	nMvwScene:4,nMvwId:3,nMvwScore:99,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":99, "wakeup":1, "nStartBytes":695360, "nEndBytes":717760}	511
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M102_082-1.3s.wav	nMvwScene:4,nMvwId:3,nMvwScore:130,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":130, "wakeup":1, "nStartBytes":750720, "nEndBytes":773120}	436
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M102_083-1.3s.wav	nMvwScene:4,nMvwId:3,nMvwScore:83,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":83, "wakeup":1, "nStartBytes":807360, "nEndBytes":829120}	471
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M102_084-1.3s.wav	nMvwScene:4,nMvwId:3,nMvwScore:98,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":98, "wakeup":1, "nStartBytes":863680, "nEndBytes":887040}	460
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M103_081-1.0s.wav	nMvwScene:4,nMvwId:3,nMvwScore:7,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":7, "wakeup":1, "nStartBytes":920320, "nEndBytes":934720}	468
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M103_082-1.0s.wav	nMvwScene:4,nMvwId:3,nMvwScore:26,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":26, "wakeup":1, "nStartBytes":967360, "nEndBytes":983680}	518
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M103_083-1.0s.wav	nMvwScene:4,nMvwId:3,nMvwScore:5,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":5, "wakeup":1, "nStartBytes":1017280, "nEndBytes":1032640}	539
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M103_084-1.0s.wav	nMvwScene:4,nMvwId:3,nMvwScore:39,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":39, "wakeup":1, "nStartBytes":1065600, "nEndBytes":1081600}	486
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M104_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:89,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":89, "wakeup":1, "nStartBytes":1113280, "nEndBytes":1133120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M104_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:123,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":123, "wakeup":1, "nStartBytes":1164480, "nEndBytes":1185600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M104_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:96,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":96, "wakeup":1, "nStartBytes":1216000, "nEndBytes":1235840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M104_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:79,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":79, "wakeup":1, "nStartBytes":1267200, "nEndBytes":1286400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M014_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:145,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":145, "wakeup":1, "nStartBytes":1318400, "nEndBytes":1336640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M014_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:100,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":100, "wakeup":1, "nStartBytes":1370240, "nEndBytes":1388480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M014_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:61,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":61, "wakeup":1, "nStartBytes":1422400, "nEndBytes":1440640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M014_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:28,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":28, "wakeup":1, "nStartBytes":1473600, "nEndBytes":1490880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M015_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:119,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":119, "wakeup":1, "nStartBytes":1525760, "nEndBytes":1544640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M015_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:101,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":101, "wakeup":1, "nStartBytes":1576000, "nEndBytes":1594240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M015_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:112,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":112, "wakeup":1, "nStartBytes":1625920, "nEndBytes":1644160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M015_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:92,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":92, "wakeup":1, "nStartBytes":1676800, "nEndBytes":1695360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M107_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:78,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":78, "wakeup":1, "nStartBytes":1725120, "nEndBytes":1744320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M107_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:74,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":74, "wakeup":1, "nStartBytes":1779200, "nEndBytes":1798400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M107_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:58,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":58, "wakeup":1, "nStartBytes":1832320, "nEndBytes":1850240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M107_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:69,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":69, "wakeup":1, "nStartBytes":1883520, "nEndBytes":1901760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M110_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:67,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":67, "wakeup":1, "nStartBytes":1935680, "nEndBytes":1952000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M110_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:94,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":94, "wakeup":1, "nStartBytes":1983360, "nEndBytes":1999360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M110_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:65,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":65, "wakeup":1, "nStartBytes":2030080, "nEndBytes":2045440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M110_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:73,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":73, "wakeup":1, "nStartBytes":2077760, "nEndBytes":2094080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M112_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:32,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":32, "wakeup":1, "nStartBytes":2126400, "nEndBytes":2144960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M112_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:110,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":110, "wakeup":1, "nStartBytes":2176640, "nEndBytes":2196480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M112_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:113,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":113, "wakeup":1, "nStartBytes":2230080, "nEndBytes":2249280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M112_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:76,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":76, "wakeup":1, "nStartBytes":2282240, "nEndBytes":2301120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M113_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:7,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":7, "wakeup":1, "nStartBytes":2337280, "nEndBytes":2352320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M113_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:77,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":77, "wakeup":1, "nStartBytes":2386240, "nEndBytes":2402560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M113_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:83,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":83, "wakeup":1, "nStartBytes":2436160, "nEndBytes":2451520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M113_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:8,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":8, "wakeup":1, "nStartBytes":2486400, "nEndBytes":2501440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F002_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:85,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":85, "wakeup":1, "nStartBytes":2539520, "nEndBytes":2563840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F002_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:44,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":44, "wakeup":1, "nStartBytes":2597760, "nEndBytes":2622720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F002_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:5,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":5, "wakeup":1, "nStartBytes":2657280, "nEndBytes":2680320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F002_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:72,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":72, "wakeup":1, "nStartBytes":2713600, "nEndBytes":2737600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F004_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:91,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":91, "wakeup":1, "nStartBytes":2773440, "nEndBytes":2799680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F004_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:128,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":128, "wakeup":1, "nStartBytes":2833600, "nEndBytes":2860480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F004_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:143,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":143, "wakeup":1, "nStartBytes":2894720, "nEndBytes":2921280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F004_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:111,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":111, "wakeup":1, "nStartBytes":2957440, "nEndBytes":2984000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F005_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:61,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":61, "wakeup":1, "nStartBytes":3018880, "nEndBytes":3040960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F005_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:106,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":106, "wakeup":1, "nStartBytes":3079040, "nEndBytes":3103040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F005_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:56,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":56, "wakeup":1, "nStartBytes":3140480, "nEndBytes":3164800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F005_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:68,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":68, "wakeup":1, "nStartBytes":3201920, "nEndBytes":3223680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F007_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:140,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":140, "wakeup":1, "nStartBytes":3264320, "nEndBytes":3289920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F007_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:122,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":122, "wakeup":1, "nStartBytes":3326720, "nEndBytes":3351040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F007_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:126,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":126, "wakeup":1, "nStartBytes":3389120, "nEndBytes":3415040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F007_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:79,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":79, "wakeup":1, "nStartBytes":3453760, "nEndBytes":3478400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F008_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:79,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":79, "wakeup":1, "nStartBytes":3515520, "nEndBytes":3535680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F008_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:63,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":63, "wakeup":1, "nStartBytes":3572480, "nEndBytes":3593920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F008_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:47,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":47, "wakeup":1, "nStartBytes":3629440, "nEndBytes":3650560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F008_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:49,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":49, "wakeup":1, "nStartBytes":3688640, "nEndBytes":3709120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F013_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:90,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":90, "wakeup":1, "nStartBytes":3744960, "nEndBytes":3765760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F013_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:97,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":97, "wakeup":1, "nStartBytes":3799360, "nEndBytes":3820800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F013_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:108,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":108, "wakeup":1, "nStartBytes":3853760, "nEndBytes":3875520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F013_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:119,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":119, "wakeup":1, "nStartBytes":3910080, "nEndBytes":3930880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F016_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:28,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":28, "wakeup":1, "nStartBytes":3966720, "nEndBytes":3986560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F016_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:25,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":25, "wakeup":1, "nStartBytes":4020800, "nEndBytes":4040640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F016_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:36,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":36, "wakeup":1, "nStartBytes":4074240, "nEndBytes":4094400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F016_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:46,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":46, "wakeup":1, "nStartBytes":4128960, "nEndBytes":4148800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F101_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:41,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":41, "wakeup":1, "nStartBytes":4183360, "nEndBytes":4200960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F101_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:30,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":30, "wakeup":1, "nStartBytes":4237120, "nEndBytes":4253440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F101_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:41,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":41, "wakeup":1, "nStartBytes":4289920, "nEndBytes":4306560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F101_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:3,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":3, "wakeup":1, "nStartBytes":4341120, "nEndBytes":4357120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F105_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:167,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":167, "wakeup":1, "nStartBytes":4391360, "nEndBytes":4414080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F105_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:121,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":121, "wakeup":1, "nStartBytes":4448960, "nEndBytes":4469440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F105_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:118,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":118, "wakeup":1, "nStartBytes":4503680, "nEndBytes":4525440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F105_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:148,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":148, "wakeup":1, "nStartBytes":4560320, "nEndBytes":4581440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F106_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:69,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":69, "wakeup":1, "nStartBytes":4617280, "nEndBytes":4632960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F106_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:16,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":16, "wakeup":1, "nStartBytes":4665920, "nEndBytes":4682880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F106_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:33,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":33, "wakeup":1, "nStartBytes":4716480, "nEndBytes":4729920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F106_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:49,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":49, "wakeup":1, "nStartBytes":4761280, "nEndBytes":4779200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F108_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:132,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":132, "wakeup":1, "nStartBytes":4812800, "nEndBytes":4840960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F108_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:150,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":150, "wakeup":1, "nStartBytes":4875200, "nEndBytes":4903040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F108_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:174,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":174, "wakeup":1, "nStartBytes":4938880, "nEndBytes":4966080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F108_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:149,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":149, "wakeup":1, "nStartBytes":5000640, "nEndBytes":5027840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F109_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:58,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":58, "wakeup":1, "nStartBytes":5062080, "nEndBytes":5084160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F109_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:101,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":101, "wakeup":1, "nStartBytes":5119680, "nEndBytes":5141760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F109_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:113,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":113, "wakeup":1, "nStartBytes":5177920, "nEndBytes":5199360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F109_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:73,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":73, "wakeup":1, "nStartBytes":5236800, "nEndBytes":5258240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F111_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:169,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":169, "wakeup":1, "nStartBytes":5294080, "nEndBytes":5317760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F111_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:115,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":115, "wakeup":1, "nStartBytes":5349120, "nEndBytes":5373120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F111_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:161,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":161, "wakeup":1, "nStartBytes":5405440, "nEndBytes":5428480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F111_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:147,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":147, "wakeup":1, "nStartBytes":5459520, "nEndBytes":5481920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F114_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:11,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":11, "wakeup":1, "nStartBytes":5513600, "nEndBytes":5532160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F114_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:34,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":34, "wakeup":1, "nStartBytes":5568000, "nEndBytes":5587520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F114_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:3,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":3, "wakeup":1, "nStartBytes":5623040, "nEndBytes":5642560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/F114_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:28,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":28, "wakeup":1, "nStartBytes":5678080, "nEndBytes":5697920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M001_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:89,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":89, "wakeup":1, "nStartBytes":5733440, "nEndBytes":5752640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M001_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:108,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":108, "wakeup":1, "nStartBytes":5785280, "nEndBytes":5804800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M001_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:79,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":79, "wakeup":1, "nStartBytes":5837120, "nEndBytes":5857280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M001_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:42,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":42, "wakeup":1, "nStartBytes":5890240, "nEndBytes":5909440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M003_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:20,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":20, "wakeup":1, "nStartBytes":5941440, "nEndBytes":5963840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M003_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:69,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":69, "wakeup":1, "nStartBytes":5995200, "nEndBytes":6017920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M003_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:36,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":36, "wakeup":1, "nStartBytes":6048640, "nEndBytes":6072320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M003_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:18,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":18, "wakeup":1, "nStartBytes":6105600, "nEndBytes":6128320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M006_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:155,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":155, "wakeup":1, "nStartBytes":6160640, "nEndBytes":6181760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M006_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:133,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":133, "wakeup":1, "nStartBytes":6216320, "nEndBytes":6238080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M006_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:102,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":102, "wakeup":1, "nStartBytes":6271680, "nEndBytes":6293760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M006_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:130,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":130, "wakeup":1, "nStartBytes":6328320, "nEndBytes":6349760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M009_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:7,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":7, "wakeup":1, "nStartBytes":6383360, "nEndBytes":6406720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M009_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:42,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":42, "wakeup":1, "nStartBytes":6441920, "nEndBytes":6464320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M009_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:103,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":103, "wakeup":1, "nStartBytes":6503360, "nEndBytes":6526080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X1/M009_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:93,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":93, "wakeup":1, "nStartBytes":6562240, "nEndBytes":6586240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M010_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:25,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":25, "wakeup":1, "nStartBytes":6621120, "nEndBytes":6641600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M010_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:52,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":52, "wakeup":1, "nStartBytes":6676480, "nEndBytes":6696640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M010_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:24,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":24, "wakeup":1, "nStartBytes":6729920, "nEndBytes":6751040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M010_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:108,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":108, "wakeup":1, "nStartBytes":6787840, "nEndBytes":6807360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M011_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:6,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":6, "wakeup":1, "nStartBytes":6842560, "nEndBytes":6861120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M011_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:1,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":1, "wakeup":1, "nStartBytes":6896640, "nEndBytes":6914560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M011_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:34,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":34, "wakeup":1, "nStartBytes":6950080, "nEndBytes":6968320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M011_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:24,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":24, "wakeup":1, "nStartBytes":7003840, "nEndBytes":7023680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M012_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:97,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":97, "wakeup":1, "nStartBytes":7056000, "nEndBytes":7083520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M012_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:57,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":57, "wakeup":1, "nStartBytes":7116160, "nEndBytes":7145280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M012_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:89,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":89, "wakeup":1, "nStartBytes":7179520, "nEndBytes":7207680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M012_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:121,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":121, "wakeup":1, "nStartBytes":7240640, "nEndBytes":7267520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M102_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:86,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":86, "wakeup":1, "nStartBytes":7302720, "nEndBytes":7325120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M102_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:83,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":83, "wakeup":1, "nStartBytes":7358400, "nEndBytes":7380480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M102_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:94,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":94, "wakeup":1, "nStartBytes":7414720, "nEndBytes":7436480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M102_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:80,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":80, "wakeup":1, "nStartBytes":7471040, "nEndBytes":7494720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M103_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:6,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":6, "wakeup":1, "nStartBytes":7528320, "nEndBytes":7542080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M103_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:3,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":3, "wakeup":1, "nStartBytes":7574720, "nEndBytes":7591360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M103_083.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M103_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M104_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:63,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":63, "wakeup":1, "nStartBytes":7720960, "nEndBytes":7742400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M104_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:69,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":69, "wakeup":1, "nStartBytes":7772160, "nEndBytes":7792640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M104_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:38,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":38, "wakeup":1, "nStartBytes":7823680, "nEndBytes":7846400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M104_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:73,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":73, "wakeup":1, "nStartBytes":7874560, "nEndBytes":7893440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M014_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:70,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":70, "wakeup":1, "nStartBytes":7926080, "nEndBytes":7944320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M014_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:60,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":60, "wakeup":1, "nStartBytes":7977920, "nEndBytes":7996480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M014_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:82,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":82, "wakeup":1, "nStartBytes":8030400, "nEndBytes":8048000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M014_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:37,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":37, "wakeup":1, "nStartBytes":8081600, "nEndBytes":8098240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M015_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M015_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M015_083.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M015_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M107_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M107_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M107_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:32,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":32, "wakeup":1, "nStartBytes":8440640, "nEndBytes":8457920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M107_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:56,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":56, "wakeup":1, "nStartBytes":8492480, "nEndBytes":8509440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M110_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M110_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M110_083.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M110_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M112_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M112_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:9,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":9, "wakeup":1, "nStartBytes":8784640, "nEndBytes":8803520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M112_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:1,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":1, "wakeup":1, "nStartBytes":8837760, "nEndBytes":8858240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M112_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:1,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":1, "wakeup":1, "nStartBytes":8889920, "nEndBytes":8912000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M113_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M113_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:8,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":8, "wakeup":1, "nStartBytes":8994560, "nEndBytes":9010240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M113_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:39,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":39, "wakeup":1, "nStartBytes":9043840, "nEndBytes":9059200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M113_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:19,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":19, "wakeup":1, "nStartBytes":9095040, "nEndBytes":9108800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F002_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:88,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":88, "wakeup":1, "nStartBytes":9146240, "nEndBytes":9170880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F002_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:57,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":57, "wakeup":1, "nStartBytes":9205120, "nEndBytes":9230080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F002_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:19,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":19, "wakeup":1, "nStartBytes":9264640, "nEndBytes":9287360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F002_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:19,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":19, "wakeup":1, "nStartBytes":9321280, "nEndBytes":9344640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F004_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:20,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":20, "wakeup":1, "nStartBytes":9381440, "nEndBytes":9407040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F004_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:67,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":67, "wakeup":1, "nStartBytes":9441280, "nEndBytes":9468160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F004_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:121,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":121, "wakeup":1, "nStartBytes":9502400, "nEndBytes":9528640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F004_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:131,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":131, "wakeup":1, "nStartBytes":9565120, "nEndBytes":9592000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F005_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:88,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":88, "wakeup":1, "nStartBytes":9626880, "nEndBytes":9649280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F005_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:68,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":68, "wakeup":1, "nStartBytes":9687360, "nEndBytes":9710720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F005_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:57,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":57, "wakeup":1, "nStartBytes":9748160, "nEndBytes":9772800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F005_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:68,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":68, "wakeup":1, "nStartBytes":9809920, "nEndBytes":9831040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F007_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:97,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":97, "wakeup":1, "nStartBytes":9871040, "nEndBytes":9896320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F007_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:105,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":105, "wakeup":1, "nStartBytes":9933120, "nEndBytes":9957440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F007_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:130,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":130, "wakeup":1, "nStartBytes":9995840, "nEndBytes":10021440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F007_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:59,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":59, "wakeup":1, "nStartBytes":10060480, "nEndBytes":10085120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F008_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:38,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":38, "wakeup":1, "nStartBytes":10122240, "nEndBytes":10142400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F008_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:66,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":66, "wakeup":1, "nStartBytes":10179520, "nEndBytes":10200320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F008_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:64,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":64, "wakeup":1, "nStartBytes":10236480, "nEndBytes":10257280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F008_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:8,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":8, "wakeup":1, "nStartBytes":10294720, "nEndBytes":10315520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F013_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:109,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":109, "wakeup":1, "nStartBytes":10352000, "nEndBytes":10372480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F013_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:76,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":76, "wakeup":1, "nStartBytes":10406720, "nEndBytes":10427840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F013_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:58,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":58, "wakeup":1, "nStartBytes":10460800, "nEndBytes":10483200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F013_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:76,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":76, "wakeup":1, "nStartBytes":10517440, "nEndBytes":10537920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F016_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:19,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":19, "wakeup":1, "nStartBytes":10574080, "nEndBytes":10593600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F016_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:30,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":30, "wakeup":1, "nStartBytes":10627840, "nEndBytes":10647360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F016_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:16,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":16, "wakeup":1, "nStartBytes":10681600, "nEndBytes":10701440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F016_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:18,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":18, "wakeup":1, "nStartBytes":10736000, "nEndBytes":10755840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F101_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:32,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":32, "wakeup":1, "nStartBytes":10791040, "nEndBytes":10808320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F101_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:18,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":18, "wakeup":1, "nStartBytes":10844480, "nEndBytes":10860800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F101_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:18,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":18, "wakeup":1, "nStartBytes":10896960, "nEndBytes":10913280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F101_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:6,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":6, "wakeup":1, "nStartBytes":10948160, "nEndBytes":10964160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F105_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:47,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":47, "wakeup":1, "nStartBytes":10998720, "nEndBytes":11021120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F105_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:103,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":103, "wakeup":1, "nStartBytes":11056000, "nEndBytes":11076800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F105_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:126,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":126, "wakeup":1, "nStartBytes":11111040, "nEndBytes":11132160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F105_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:128,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":128, "wakeup":1, "nStartBytes":11167360, "nEndBytes":11188480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F106_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:46,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":46, "wakeup":1, "nStartBytes":11225600, "nEndBytes":11240640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F106_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F106_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:37,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":37, "wakeup":1, "nStartBytes":11323840, "nEndBytes":11337280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F106_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:89,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":89, "wakeup":1, "nStartBytes":11369280, "nEndBytes":11386560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F108_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:125,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":125, "wakeup":1, "nStartBytes":11420480, "nEndBytes":11448000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F108_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:171,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":171, "wakeup":1, "nStartBytes":11482560, "nEndBytes":11510400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F108_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:144,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":144, "wakeup":1, "nStartBytes":11545600, "nEndBytes":11572800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F108_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:147,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":147, "wakeup":1, "nStartBytes":11608000, "nEndBytes":11634880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F109_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:69,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":69, "wakeup":1, "nStartBytes":11669120, "nEndBytes":11690560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F109_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:85,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":85, "wakeup":1, "nStartBytes":11726400, "nEndBytes":11748160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F109_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:91,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":91, "wakeup":1, "nStartBytes":11784960, "nEndBytes":11805440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F109_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:74,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":74, "wakeup":1, "nStartBytes":11843200, "nEndBytes":11864640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F111_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:1,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":1, "wakeup":1, "nStartBytes":11901760, "nEndBytes":11925760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F111_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:95,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":95, "wakeup":1, "nStartBytes":11956800, "nEndBytes":11980480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F111_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:90,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":90, "wakeup":1, "nStartBytes":12013440, "nEndBytes":12035840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F111_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F114_081.wav	nMvwScene:4,nMvwId:4,nMvwScore:1,lParam:{"nMvwScene":4, "nMvwId":4, "nMvwScore":1, "wakeup":1, "nStartBytes":12120960, "nEndBytes":12142080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F114_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:47,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":47, "wakeup":1, "nStartBytes":12176320, "nEndBytes":12194880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F114_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:31,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":31, "wakeup":1, "nStartBytes":12231360, "nEndBytes":12249920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/F114_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:59,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":59, "wakeup":1, "nStartBytes":12286080, "nEndBytes":12305280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M001_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M001_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M001_083.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M001_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M003_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M003_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M003_083.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M003_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M006_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M006_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M006_083.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M006_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M009_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:44,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":44, "wakeup":1, "nStartBytes":12990720, "nEndBytes":13014400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M009_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:51,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":51, "wakeup":1, "nStartBytes":13049920, "nEndBytes":13072000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M009_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:82,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":82, "wakeup":1, "nStartBytes":13110720, "nEndBytes":13133440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X2/M009_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:118,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":118, "wakeup":1, "nStartBytes":13169920, "nEndBytes":13193600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M010_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:103,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":103, "wakeup":1, "nStartBytes":13228160, "nEndBytes":13249600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M010_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:121,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":121, "wakeup":1, "nStartBytes":13283840, "nEndBytes":13304320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M010_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:98,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":98, "wakeup":1, "nStartBytes":13336960, "nEndBytes":13358080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M010_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:107,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":107, "wakeup":1, "nStartBytes":13395520, "nEndBytes":13414720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M011_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:63,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":63, "wakeup":1, "nStartBytes":13450560, "nEndBytes":13468800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M011_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:9,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":9, "wakeup":1, "nStartBytes":13503680, "nEndBytes":13521600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M011_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:57,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":57, "wakeup":1, "nStartBytes":13558080, "nEndBytes":13575360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M011_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:57,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":57, "wakeup":1, "nStartBytes":13611520, "nEndBytes":13629760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M012_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:52,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":52, "wakeup":1, "nStartBytes":13663680, "nEndBytes":13691520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M012_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:57,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":57, "wakeup":1, "nStartBytes":13724160, "nEndBytes":13753600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M012_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:71,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":71, "wakeup":1, "nStartBytes":13787200, "nEndBytes":13816000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M012_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:113,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":113, "wakeup":1, "nStartBytes":13849280, "nEndBytes":13876480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M102_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:34,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":34, "wakeup":1, "nStartBytes":13909760, "nEndBytes":13934080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M102_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:6,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":6, "wakeup":1, "nStartBytes":13966080, "nEndBytes":13989440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M102_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:32,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":32, "wakeup":1, "nStartBytes":14023040, "nEndBytes":14045120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M102_084.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M103_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M103_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M103_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:2,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":2, "wakeup":1, "nStartBytes":14231680, "nEndBytes":14247680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M103_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:3,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":3, "wakeup":1, "nStartBytes":14280640, "nEndBytes":14296960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M104_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:49,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":49, "wakeup":1, "nStartBytes":14328640, "nEndBytes":14348800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M104_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:103,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":103, "wakeup":1, "nStartBytes":14379200, "nEndBytes":14400960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M104_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:93,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":93, "wakeup":1, "nStartBytes":14431680, "nEndBytes":14451520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M104_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:45,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":45, "wakeup":1, "nStartBytes":14482560, "nEndBytes":14502080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M014_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:94,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":94, "wakeup":1, "nStartBytes":14533760, "nEndBytes":14551680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M014_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:110,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":110, "wakeup":1, "nStartBytes":14585280, "nEndBytes":14603200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M014_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:119,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":119, "wakeup":1, "nStartBytes":14637120, "nEndBytes":14655680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M014_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:79,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":79, "wakeup":1, "nStartBytes":14688000, "nEndBytes":14705920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M015_081.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M015_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:52,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":52, "wakeup":1, "nStartBytes":14792320, "nEndBytes":14809280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M015_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:39,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":39, "wakeup":1, "nStartBytes":14842240, "nEndBytes":14859200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M015_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:100,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":100, "wakeup":1, "nStartBytes":14893120, "nEndBytes":14910400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M107_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:86,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":86, "wakeup":1, "nStartBytes":14940480, "nEndBytes":14959040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M107_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:117,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":117, "wakeup":1, "nStartBytes":14993600, "nEndBytes":15013440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M107_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:3,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":3, "wakeup":1, "nStartBytes":15047680, "nEndBytes":15065920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M107_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:83,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":83, "wakeup":1, "nStartBytes":15097600, "nEndBytes":15117120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M110_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:41,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":41, "wakeup":1, "nStartBytes":15152320, "nEndBytes":15167040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M110_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:35,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":35, "wakeup":1, "nStartBytes":15198400, "nEndBytes":15214400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M110_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:18,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":18, "wakeup":1, "nStartBytes":15245440, "nEndBytes":15260480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M110_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:32,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":32, "wakeup":1, "nStartBytes":15292480, "nEndBytes":15308800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M112_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:49,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":49, "wakeup":1, "nStartBytes":15340480, "nEndBytes":15358720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M112_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:100,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":100, "wakeup":1, "nStartBytes":15391360, "nEndBytes":15410560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M112_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:114,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":114, "wakeup":1, "nStartBytes":15444160, "nEndBytes":15463360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M112_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:108,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":108, "wakeup":1, "nStartBytes":15496320, "nEndBytes":15515520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M113_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:72,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":72, "wakeup":1, "nStartBytes":15550720, "nEndBytes":15567040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M113_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:67,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":67, "wakeup":1, "nStartBytes":15600960, "nEndBytes":15617280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M113_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:72,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":72, "wakeup":1, "nStartBytes":15650880, "nEndBytes":15666560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M113_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:29,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":29, "wakeup":1, "nStartBytes":15700480, "nEndBytes":15716160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F002_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:75,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":75, "wakeup":1, "nStartBytes":15753920, "nEndBytes":15778240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F002_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:68,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":68, "wakeup":1, "nStartBytes":15812800, "nEndBytes":15837440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F002_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:30,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":30, "wakeup":1, "nStartBytes":15872320, "nEndBytes":15894400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F002_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:51,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":51, "wakeup":1, "nStartBytes":15928320, "nEndBytes":15952000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F004_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:63,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":63, "wakeup":1, "nStartBytes":15988160, "nEndBytes":16014720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F004_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:58,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":58, "wakeup":1, "nStartBytes":16048640, "nEndBytes":16075200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F004_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:117,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":117, "wakeup":1, "nStartBytes":16109760, "nEndBytes":16136000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F004_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:127,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":127, "wakeup":1, "nStartBytes":16172480, "nEndBytes":16199360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F005_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:108,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":108, "wakeup":1, "nStartBytes":16234560, "nEndBytes":16256960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F005_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:74,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":74, "wakeup":1, "nStartBytes":16294080, "nEndBytes":16318080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F005_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:49,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":49, "wakeup":1, "nStartBytes":16355520, "nEndBytes":16380160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F005_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:81,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":81, "wakeup":1, "nStartBytes":16416960, "nEndBytes":16439040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F007_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:141,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":141, "wakeup":1, "nStartBytes":16478400, "nEndBytes":16504000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F007_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:125,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":125, "wakeup":1, "nStartBytes":16540480, "nEndBytes":16565120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F007_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:135,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":135, "wakeup":1, "nStartBytes":16603200, "nEndBytes":16629120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F007_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:136,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":136, "wakeup":1, "nStartBytes":16667520, "nEndBytes":16692800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F008_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:72,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":72, "wakeup":1, "nStartBytes":16729600, "nEndBytes":16750080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F008_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:47,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":47, "wakeup":1, "nStartBytes":16786560, "nEndBytes":16807680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F008_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:28,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":28, "wakeup":1, "nStartBytes":16843200, "nEndBytes":16864640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F008_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:63,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":63, "wakeup":1, "nStartBytes":16902720, "nEndBytes":16923520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F013_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:101,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":101, "wakeup":1, "nStartBytes":16959040, "nEndBytes":16979840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F013_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:98,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":98, "wakeup":1, "nStartBytes":17013440, "nEndBytes":17034880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F013_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:94,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":94, "wakeup":1, "nStartBytes":17067840, "nEndBytes":17089920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F013_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:110,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":110, "wakeup":1, "nStartBytes":17123840, "nEndBytes":17145280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F016_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:22,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":22, "wakeup":1, "nStartBytes":17181120, "nEndBytes":17200960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F016_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:21,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":21, "wakeup":1, "nStartBytes":17235200, "nEndBytes":17255040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F016_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:19,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":19, "wakeup":1, "nStartBytes":17288960, "nEndBytes":17308800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F016_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:28,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":28, "wakeup":1, "nStartBytes":17343360, "nEndBytes":17363200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F101_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:74,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":74, "wakeup":1, "nStartBytes":17398080, "nEndBytes":17416000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F101_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:2,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":2, "wakeup":1, "nStartBytes":17451840, "nEndBytes":17471040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F101_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:23,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":23, "wakeup":1, "nStartBytes":17504320, "nEndBytes":17521280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F101_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:14,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":14, "wakeup":1, "nStartBytes":17555520, "nEndBytes":17571520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F105_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:96,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":96, "wakeup":1, "nStartBytes":17608320, "nEndBytes":17628800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F105_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:111,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":111, "wakeup":1, "nStartBytes":17663680, "nEndBytes":17684480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F105_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:114,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":114, "wakeup":1, "nStartBytes":17718720, "nEndBytes":17740160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F105_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:143,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":143, "wakeup":1, "nStartBytes":17775360, "nEndBytes":17796480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F106_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:21,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":21, "wakeup":1, "nStartBytes":17831360, "nEndBytes":17848000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F106_082.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F106_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:38,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":38, "wakeup":1, "nStartBytes":17930560, "nEndBytes":17944320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F106_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:74,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":74, "wakeup":1, "nStartBytes":17976000, "nEndBytes":17993920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F108_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:110,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":110, "wakeup":1, "nStartBytes":18027200, "nEndBytes":18055680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F108_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:148,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":148, "wakeup":1, "nStartBytes":18089920, "nEndBytes":18117760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F108_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:161,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":161, "wakeup":1, "nStartBytes":18153920, "nEndBytes":18181120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F108_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:147,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":147, "wakeup":1, "nStartBytes":18215360, "nEndBytes":18242560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F109_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:57,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":57, "wakeup":1, "nStartBytes":18276800, "nEndBytes":18298880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F109_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:96,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":96, "wakeup":1, "nStartBytes":18334400, "nEndBytes":18356480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F109_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:47,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":47, "wakeup":1, "nStartBytes":18392640, "nEndBytes":18413760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F109_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:119,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":119, "wakeup":1, "nStartBytes":18451200, "nEndBytes":18472960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F111_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:153,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":153, "wakeup":1, "nStartBytes":18508480, "nEndBytes":18532480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F111_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:135,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":135, "wakeup":1, "nStartBytes":18563840, "nEndBytes":18587840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F111_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:136,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":136, "wakeup":1, "nStartBytes":18620160, "nEndBytes":18642880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F111_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:136,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":136, "wakeup":1, "nStartBytes":18673600, "nEndBytes":18696320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F114_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:16,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":16, "wakeup":1, "nStartBytes":18728000, "nEndBytes":18746560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F114_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:21,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":21, "wakeup":1, "nStartBytes":18782400, "nEndBytes":18802240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F114_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:29,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":29, "wakeup":1, "nStartBytes":18838080, "nEndBytes":18857280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/F114_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:50,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":50, "wakeup":1, "nStartBytes":18892480, "nEndBytes":18912640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M001_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:23,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":23, "wakeup":1, "nStartBytes":18949120, "nEndBytes":18967360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M001_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:47,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":47, "wakeup":1, "nStartBytes":19000640, "nEndBytes":19019520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M001_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:100,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":100, "wakeup":1, "nStartBytes":19051840, "nEndBytes":19072000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M001_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:73,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":73, "wakeup":1, "nStartBytes":19104960, "nEndBytes":19124160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M003_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:50,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":50, "wakeup":1, "nStartBytes":19156160, "nEndBytes":19178560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M003_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:119,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":119, "wakeup":1, "nStartBytes":19209920, "nEndBytes":19232960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M003_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:55,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":55, "wakeup":1, "nStartBytes":19263040, "nEndBytes":19287360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M003_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:58,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":58, "wakeup":1, "nStartBytes":19320320, "nEndBytes":19343040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M006_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:116,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":116, "wakeup":1, "nStartBytes":19375040, "nEndBytes":19396160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M006_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:69,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":69, "wakeup":1, "nStartBytes":19431040, "nEndBytes":19453440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M006_083.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M006_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:124,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":124, "wakeup":1, "nStartBytes":19542720, "nEndBytes":19564160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M009_081.wav	nMvwScene:4,nMvwId:3,nMvwScore:37,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":37, "wakeup":1, "nStartBytes":19598400, "nEndBytes":19621120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M009_082.wav	nMvwScene:4,nMvwId:3,nMvwScore:71,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":71, "wakeup":1, "nStartBytes":19656640, "nEndBytes":19679040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M009_083.wav	nMvwScene:4,nMvwId:3,nMvwScore:71,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":71, "wakeup":1, "nStartBytes":19718720, "nEndBytes":19741120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-4/X3/M009_084.wav	nMvwScene:4,nMvwId:3,nMvwScore:113,lParam:{"nMvwScene":4, "nMvwId":3, "nMvwScore":113, "wakeup":1, "nStartBytes":19777280, "nEndBytes":19800320}	
+vwLabel：4-第四个, 尝试唤醒次数：360, 唤醒成功次数：326，成功率：90.555557%，平均唤醒响应时间：499

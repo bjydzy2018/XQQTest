@@ -1,0 +1,361 @@
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M010_145-1.1s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:115,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":14400, "nEndBytes":33920}	185
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M010_146-1.1s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:112,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":66880, "nEndBytes":86720}	115
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M010_147-1.0s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:103,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":103, "wakeup":1, "nStartBytes":116800, "nEndBytes":135360}	219
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M010_148-1.1s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:124,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":168000, "nEndBytes":187840}	150
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M011_145-1.0s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:51,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":218880, "nEndBytes":234240}	76
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M011_146-1.0s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:21,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":21, "wakeup":1, "nStartBytes":270720, "nEndBytes":283840}	131
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M011_147-1.0s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:33,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":33, "wakeup":1, "nStartBytes":321600, "nEndBytes":334720}	181
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M011_148-1.0s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:59,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":59, "wakeup":1, "nStartBytes":372160, "nEndBytes":385920}	125
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M012_145-1.2s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":420160, "nEndBytes":445760}	331
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M012_146-1.3s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:31,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":31, "wakeup":1, "nStartBytes":478400, "nEndBytes":503360}	151
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M012_147-1.2s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:23,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":23, "wakeup":1, "nStartBytes":536640, "nEndBytes":560320}	202
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M012_148-1.2s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:56,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":56, "wakeup":1, "nStartBytes":594880, "nEndBytes":617920}	145
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M102_145-1.1s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:35,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":35, "wakeup":1, "nStartBytes":651840, "nEndBytes":672640}	217
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M102_146-1.1s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:46,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":46, "wakeup":1, "nStartBytes":702400, "nEndBytes":724160}	205
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M102_147-1.1s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:36,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":36, "wakeup":1, "nStartBytes":755200, "nEndBytes":775360}	188
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M102_148-1.1s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:41,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":41, "wakeup":1, "nStartBytes":805440, "nEndBytes":825280}	201
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M103_145-0.9s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:79,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":79, "wakeup":1, "nStartBytes":856000, "nEndBytes":868160}	167
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M103_146-0.9s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:45,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":45, "wakeup":1, "nStartBytes":899840, "nEndBytes":912640}	246
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M103_147-0.9s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:53,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":941760, "nEndBytes":957120}	130
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M103_148-0.9s.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:64,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":64, "wakeup":1, "nStartBytes":990400, "nEndBytes":1001920}	165
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M104_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:78,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":78, "wakeup":1, "nStartBytes":1032640, "nEndBytes":1050240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M104_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:11,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":11, "wakeup":1, "nStartBytes":1082560, "nEndBytes":1097920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M104_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:38,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":38, "wakeup":1, "nStartBytes":1127360, "nEndBytes":1144000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M104_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:50,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":50, "wakeup":1, "nStartBytes":1174720, "nEndBytes":1190720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M014_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:33,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":33, "wakeup":1, "nStartBytes":1221440, "nEndBytes":1237760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M014_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:86,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":1268160, "nEndBytes":1285440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M014_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:95,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":95, "wakeup":1, "nStartBytes":1314240, "nEndBytes":1332160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M014_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:52,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":1361920, "nEndBytes":1377920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M015_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:126,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":1407680, "nEndBytes":1426240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M015_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:106,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":106, "wakeup":1, "nStartBytes":1457920, "nEndBytes":1478080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M015_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:107,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":1510080, "nEndBytes":1529920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M015_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:112,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":1561280, "nEndBytes":1580800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M107_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:17,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":17, "wakeup":1, "nStartBytes":1610560, "nEndBytes":1629120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M107_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:69,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":69, "wakeup":1, "nStartBytes":1660480, "nEndBytes":1681600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M107_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:77,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":77, "wakeup":1, "nStartBytes":1712960, "nEndBytes":1734080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M107_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:62,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":62, "wakeup":1, "nStartBytes":1763520, "nEndBytes":1783360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M110_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:52,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":1815040, "nEndBytes":1826560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M110_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M110_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:53,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":1901120, "nEndBytes":1913920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M110_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:75,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":75, "wakeup":1, "nStartBytes":1946240, "nEndBytes":1959040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M112_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:25,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":25, "wakeup":1, "nStartBytes":1989440, "nEndBytes":2004800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M112_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:65,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":65, "wakeup":1, "nStartBytes":2034240, "nEndBytes":2049600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M112_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:67,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":67, "wakeup":1, "nStartBytes":2078400, "nEndBytes":2094400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M112_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:73,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":73, "wakeup":1, "nStartBytes":2124480, "nEndBytes":2140480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M113_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:67,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":67, "wakeup":1, "nStartBytes":2172480, "nEndBytes":2188160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M113_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:53,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":2220480, "nEndBytes":2236800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M113_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:58,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":58, "wakeup":1, "nStartBytes":2272320, "nEndBytes":2288320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M113_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:33,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":33, "wakeup":1, "nStartBytes":2324160, "nEndBytes":2340160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F002_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:88,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":88, "wakeup":1, "nStartBytes":2376320, "nEndBytes":2397760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F002_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:73,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":73, "wakeup":1, "nStartBytes":2433280, "nEndBytes":2455680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F002_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:77,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":77, "wakeup":1, "nStartBytes":2488960, "nEndBytes":2512320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F002_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:94,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":2539840, "nEndBytes":2561600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F004_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:97,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":2592960, "nEndBytes":2613760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F004_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:113,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":2648640, "nEndBytes":2666880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F004_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:110,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":110, "wakeup":1, "nStartBytes":2697920, "nEndBytes":2719360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F004_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:96,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":2751680, "nEndBytes":2773440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F005_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:97,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":2805760, "nEndBytes":2830400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F005_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:50,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":50, "wakeup":1, "nStartBytes":2862080, "nEndBytes":2885760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F005_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:88,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":88, "wakeup":1, "nStartBytes":2917440, "nEndBytes":2941760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F005_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:82,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":82, "wakeup":1, "nStartBytes":2973440, "nEndBytes":2995840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F007_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:84,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":3031040, "nEndBytes":3056640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F007_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:91,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":91, "wakeup":1, "nStartBytes":3090880, "nEndBytes":3116160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F007_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:75,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":75, "wakeup":1, "nStartBytes":3151360, "nEndBytes":3176640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F007_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:103,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":103, "wakeup":1, "nStartBytes":3208960, "nEndBytes":3232320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F008_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:48,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":48, "wakeup":1, "nStartBytes":3264960, "nEndBytes":3282240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F008_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:74,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":74, "wakeup":1, "nStartBytes":3314560, "nEndBytes":3332160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F008_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:78,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":78, "wakeup":1, "nStartBytes":3364160, "nEndBytes":3382080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F008_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:107,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":3414720, "nEndBytes":3432640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F013_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:103,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":103, "wakeup":1, "nStartBytes":3464640, "nEndBytes":3487040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F013_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:94,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":3517440, "nEndBytes":3540160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F013_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:110,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":110, "wakeup":1, "nStartBytes":3570880, "nEndBytes":3592960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F013_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:100,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":3623680, "nEndBytes":3644480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F016_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:85,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":85, "wakeup":1, "nStartBytes":3676480, "nEndBytes":3693760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F016_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:124,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":3726400, "nEndBytes":3744960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F016_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:94,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":3779520, "nEndBytes":3797760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F016_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:77,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":77, "wakeup":1, "nStartBytes":3830080, "nEndBytes":3847040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F101_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:44,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":44, "wakeup":1, "nStartBytes":3880640, "nEndBytes":3899520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F101_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:64,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":64, "wakeup":1, "nStartBytes":3933440, "nEndBytes":3951040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F101_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:21,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":21, "wakeup":1, "nStartBytes":3984960, "nEndBytes":4002880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F101_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:34,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":34, "wakeup":1, "nStartBytes":4037120, "nEndBytes":4056000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F105_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:82,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":82, "wakeup":1, "nStartBytes":4087360, "nEndBytes":4106880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F105_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:100,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":4138560, "nEndBytes":4157120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F105_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:98,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":98, "wakeup":1, "nStartBytes":4189440, "nEndBytes":4209920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F105_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:109,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":109, "wakeup":1, "nStartBytes":4242240, "nEndBytes":4261440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F106_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:95,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":95, "wakeup":1, "nStartBytes":4294080, "nEndBytes":4309440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F106_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:74,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":74, "wakeup":1, "nStartBytes":4339520, "nEndBytes":4352960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F106_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:38,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":38, "wakeup":1, "nStartBytes":4383040, "nEndBytes":4397760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F106_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:59,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":59, "wakeup":1, "nStartBytes":4428480, "nEndBytes":4442240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F108_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:138,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":138, "wakeup":1, "nStartBytes":4473280, "nEndBytes":4495680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F108_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:123,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":123, "wakeup":1, "nStartBytes":4526080, "nEndBytes":4548800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F108_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:118,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":118, "wakeup":1, "nStartBytes":4580160, "nEndBytes":4602560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F108_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:136,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":4633920, "nEndBytes":4656640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F109_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:94,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":4688960, "nEndBytes":4708480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F109_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:90,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":90, "wakeup":1, "nStartBytes":4740160, "nEndBytes":4760960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F109_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:113,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":4793920, "nEndBytes":4815040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F109_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:97,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":4848000, "nEndBytes":4867840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F111_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:47,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":47, "wakeup":1, "nStartBytes":4900480, "nEndBytes":4921920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F111_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:101,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":4952000, "nEndBytes":4974080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F111_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:118,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":118, "wakeup":1, "nStartBytes":5003200, "nEndBytes":5025280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F111_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:112,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":5056640, "nEndBytes":5079040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F114_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:36,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":36, "wakeup":1, "nStartBytes":5108800, "nEndBytes":5128000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F114_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:24,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":24, "wakeup":1, "nStartBytes":5158720, "nEndBytes":5180160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F114_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:54,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":54, "wakeup":1, "nStartBytes":5210560, "nEndBytes":5231680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/F114_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M001_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:23,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":23, "wakeup":1, "nStartBytes":5313600, "nEndBytes":5326720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M001_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:28,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":28, "wakeup":1, "nStartBytes":5359040, "nEndBytes":5372480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M001_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":5404480, "nEndBytes":5418240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M001_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":5451840, "nEndBytes":5465920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M003_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:73,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":73, "wakeup":1, "nStartBytes":5496640, "nEndBytes":5515840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M003_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:81,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":81, "wakeup":1, "nStartBytes":5545600, "nEndBytes":5565120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M003_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:97,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":5595200, "nEndBytes":5616640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M003_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:109,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":109, "wakeup":1, "nStartBytes":5647040, "nEndBytes":5666880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M006_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:65,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":65, "wakeup":1, "nStartBytes":5702400, "nEndBytes":5718720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M006_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:89,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":89, "wakeup":1, "nStartBytes":5751040, "nEndBytes":5768000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M006_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:84,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":5800000, "nEndBytes":5817920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M006_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:77,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":77, "wakeup":1, "nStartBytes":5851200, "nEndBytes":5867520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M009_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M009_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M009_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X1/M009_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M010_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:82,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":82, "wakeup":1, "nStartBytes":6100160, "nEndBytes":6118080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M010_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:60,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":60, "wakeup":1, "nStartBytes":6154560, "nEndBytes":6170560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M010_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:66,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":66, "wakeup":1, "nStartBytes":6202560, "nEndBytes":6219840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M010_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:106,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":106, "wakeup":1, "nStartBytes":6253760, "nEndBytes":6271680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M011_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:42,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":42, "wakeup":1, "nStartBytes":6304320, "nEndBytes":6318400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M011_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:30,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":30, "wakeup":1, "nStartBytes":6354240, "nEndBytes":6369600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M011_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M011_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M012_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:21,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":21, "wakeup":1, "nStartBytes":6504640, "nEndBytes":6529600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M012_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:25,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":25, "wakeup":1, "nStartBytes":6563200, "nEndBytes":6587520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M012_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:63,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":63, "wakeup":1, "nStartBytes":6621120, "nEndBytes":6644480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M012_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:55,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":55, "wakeup":1, "nStartBytes":6679360, "nEndBytes":6702720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M102_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M102_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M102_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:15,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":15, "wakeup":1, "nStartBytes":6840640, "nEndBytes":6857600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M102_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:37,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":37, "wakeup":1, "nStartBytes":6892800, "nEndBytes":6908480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M103_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:11,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":11, "wakeup":1, "nStartBytes":6939840, "nEndBytes":6952320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M103_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:26,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":26, "wakeup":1, "nStartBytes":6983040, "nEndBytes":6997440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M103_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:47,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":47, "wakeup":1, "nStartBytes":7026880, "nEndBytes":7041280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M103_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:56,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":56, "wakeup":1, "nStartBytes":7072960, "nEndBytes":7086400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M104_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:11,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":11, "wakeup":1, "nStartBytes":7117440, "nEndBytes":7136320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M104_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:35,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":35, "wakeup":1, "nStartBytes":7165760, "nEndBytes":7182400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M104_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M104_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M014_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M014_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M014_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:22,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":22, "wakeup":1, "nStartBytes":7400960, "nEndBytes":7415040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M014_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M015_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M015_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M015_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M015_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M107_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:58,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":58, "wakeup":1, "nStartBytes":7696000, "nEndBytes":7712640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M107_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:47,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":47, "wakeup":1, "nStartBytes":7745280, "nEndBytes":7765120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M107_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M107_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M110_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M110_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M110_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M110_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M112_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M112_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M112_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M112_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M113_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:45,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":45, "wakeup":1, "nStartBytes":8258240, "nEndBytes":8272320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M113_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:48,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":48, "wakeup":1, "nStartBytes":8305600, "nEndBytes":8320960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M113_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M113_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F002_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:36,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":36, "wakeup":1, "nStartBytes":8461760, "nEndBytes":8481280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F002_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:33,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":33, "wakeup":1, "nStartBytes":8518400, "nEndBytes":8539520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F002_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:49,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":49, "wakeup":1, "nStartBytes":8574720, "nEndBytes":8595840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F002_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:61,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":61, "wakeup":1, "nStartBytes":8624960, "nEndBytes":8645440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F004_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:90,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":90, "wakeup":1, "nStartBytes":8678080, "nEndBytes":8698560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F004_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:64,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":64, "wakeup":1, "nStartBytes":8735040, "nEndBytes":8752000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F004_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:84,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":8783360, "nEndBytes":8803520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F004_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:50,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":50, "wakeup":1, "nStartBytes":8836800, "nEndBytes":8856000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F005_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:48,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":48, "wakeup":1, "nStartBytes":8891200, "nEndBytes":8915200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F005_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:68,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":68, "wakeup":1, "nStartBytes":8948160, "nEndBytes":8971200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F005_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:11,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":11, "wakeup":1, "nStartBytes":9004800, "nEndBytes":9027200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F005_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:75,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":75, "wakeup":1, "nStartBytes":9059520, "nEndBytes":9080960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F007_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:67,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":67, "wakeup":1, "nStartBytes":9115520, "nEndBytes":9140160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F007_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:82,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":82, "wakeup":1, "nStartBytes":9175040, "nEndBytes":9200000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F007_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:73,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":73, "wakeup":1, "nStartBytes":9235520, "nEndBytes":9259840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F007_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F008_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:48,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":48, "wakeup":1, "nStartBytes":9348800, "nEndBytes":9366720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F008_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:61,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":61, "wakeup":1, "nStartBytes":9398720, "nEndBytes":9416320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F008_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:41,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":41, "wakeup":1, "nStartBytes":9448320, "nEndBytes":9466240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F008_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:67,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":67, "wakeup":1, "nStartBytes":9499200, "nEndBytes":9517120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F013_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:50,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":50, "wakeup":1, "nStartBytes":9549440, "nEndBytes":9570560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F013_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:39,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":39, "wakeup":1, "nStartBytes":9602240, "nEndBytes":9624000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F013_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:73,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":73, "wakeup":1, "nStartBytes":9656000, "nEndBytes":9676480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F013_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:48,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":48, "wakeup":1, "nStartBytes":9708160, "nEndBytes":9728640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F016_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:84,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":9761280, "nEndBytes":9777600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F016_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:105,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":105, "wakeup":1, "nStartBytes":9811200, "nEndBytes":9828800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F016_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:83,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":83, "wakeup":1, "nStartBytes":9865600, "nEndBytes":9880640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F016_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:69,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":69, "wakeup":1, "nStartBytes":9914880, "nEndBytes":9931200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F101_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:33,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":33, "wakeup":1, "nStartBytes":9965120, "nEndBytes":9982720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F101_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:26,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":26, "wakeup":1, "nStartBytes":10017600, "nEndBytes":10034560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F101_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:17,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":17, "wakeup":1, "nStartBytes":10068800, "nEndBytes":10087040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F101_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:20,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":20, "wakeup":1, "nStartBytes":10121920, "nEndBytes":10139520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F105_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:45,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":45, "wakeup":1, "nStartBytes":10171840, "nEndBytes":10190400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F105_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":10222720, "nEndBytes":10240960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F105_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:32,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":32, "wakeup":1, "nStartBytes":10274240, "nEndBytes":10294080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F105_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:97,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":10326720, "nEndBytes":10344960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F106_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:65,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":65, "wakeup":1, "nStartBytes":10381120, "nEndBytes":10393600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F106_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F106_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:16,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":16, "wakeup":1, "nStartBytes":10468160, "nEndBytes":10482560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F106_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:16,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":16, "wakeup":1, "nStartBytes":10513920, "nEndBytes":10527040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F108_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:63,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":63, "wakeup":1, "nStartBytes":10557760, "nEndBytes":10579520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F108_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:57,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":57, "wakeup":1, "nStartBytes":10610880, "nEndBytes":10631360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F108_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:29,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":29, "wakeup":1, "nStartBytes":10667520, "nEndBytes":10684800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F108_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F109_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:92,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":92, "wakeup":1, "nStartBytes":10772800, "nEndBytes":10791680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F109_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F109_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:97,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":10878400, "nEndBytes":10899520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F109_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:56,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":56, "wakeup":1, "nStartBytes":10932160, "nEndBytes":10952000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F111_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F111_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:77,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":77, "wakeup":1, "nStartBytes":11036480, "nEndBytes":11056960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F111_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:71,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":71, "wakeup":1, "nStartBytes":11087680, "nEndBytes":11108800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F111_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":11141440, "nEndBytes":11162880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F114_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:29,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":29, "wakeup":1, "nStartBytes":11194880, "nEndBytes":11212160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F114_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:52,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":11244480, "nEndBytes":11263680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F114_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:16,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":16, "wakeup":1, "nStartBytes":11295040, "nEndBytes":11314880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/F114_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:59,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":59, "wakeup":1, "nStartBytes":11345600, "nEndBytes":11365120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M001_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:30,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":30, "wakeup":1, "nStartBytes":11397440, "nEndBytes":11410560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M001_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:11,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":11, "wakeup":1, "nStartBytes":11445120, "nEndBytes":11457280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M001_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:47,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":47, "wakeup":1, "nStartBytes":11488640, "nEndBytes":11502400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M001_148.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M003_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M003_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M003_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:20,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":20, "wakeup":1, "nStartBytes":11680320, "nEndBytes":11699520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M003_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:31,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":31, "wakeup":1, "nStartBytes":11732160, "nEndBytes":11750400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M006_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M006_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M006_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M006_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":11936640, "nEndBytes":11951680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M009_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:21,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":21, "wakeup":1, "nStartBytes":11989120, "nEndBytes":12001920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M009_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:36,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":36, "wakeup":1, "nStartBytes":12040320, "nEndBytes":12052160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M009_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:40,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":40, "wakeup":1, "nStartBytes":12088000, "nEndBytes":12100160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X2/M009_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:59,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":59, "wakeup":1, "nStartBytes":12136000, "nEndBytes":12149760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M010_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:86,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":12184640, "nEndBytes":12202880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M010_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:49,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":49, "wakeup":1, "nStartBytes":12237760, "nEndBytes":12254400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M010_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:64,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":64, "wakeup":1, "nStartBytes":12286720, "nEndBytes":12303680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M010_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:46,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":46, "wakeup":1, "nStartBytes":12338560, "nEndBytes":12356800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M011_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:39,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":39, "wakeup":1, "nStartBytes":12389440, "nEndBytes":12403840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M011_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":12439360, "nEndBytes":12453440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M011_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:34,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":34, "wakeup":1, "nStartBytes":12491840, "nEndBytes":12504320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M011_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:12,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":12, "wakeup":1, "nStartBytes":12543680, "nEndBytes":12556800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M012_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M012_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:26,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":26, "wakeup":1, "nStartBytes":12648640, "nEndBytes":12673600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M012_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:54,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":54, "wakeup":1, "nStartBytes":12706880, "nEndBytes":12731200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M012_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:26,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":26, "wakeup":1, "nStartBytes":12764160, "nEndBytes":12788480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M102_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:17,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":17, "wakeup":1, "nStartBytes":12821760, "nEndBytes":12843200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M102_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:78,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":78, "wakeup":1, "nStartBytes":12872960, "nEndBytes":12892480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M102_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:60,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":60, "wakeup":1, "nStartBytes":12925120, "nEndBytes":12944320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M102_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:71,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":71, "wakeup":1, "nStartBytes":12975360, "nEndBytes":12995200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M103_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:32,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":32, "wakeup":1, "nStartBytes":13024960, "nEndBytes":13038720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M103_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M103_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:62,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":62, "wakeup":1, "nStartBytes":13111680, "nEndBytes":13127360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M103_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:37,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":37, "wakeup":1, "nStartBytes":13160320, "nEndBytes":13172480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M104_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:16,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":16, "wakeup":1, "nStartBytes":13203520, "nEndBytes":13220160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M104_146.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M104_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:14,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":14, "wakeup":1, "nStartBytes":13297600, "nEndBytes":13314560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M104_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:27,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":27, "wakeup":1, "nStartBytes":13344640, "nEndBytes":13360640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M014_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:22,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":22, "wakeup":1, "nStartBytes":13391040, "nEndBytes":13408320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M014_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:76,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":76, "wakeup":1, "nStartBytes":13437760, "nEndBytes":13455040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M014_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:66,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":66, "wakeup":1, "nStartBytes":13483200, "nEndBytes":13501440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M014_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:60,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":60, "wakeup":1, "nStartBytes":13531200, "nEndBytes":13547840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M015_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:37,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":37, "wakeup":1, "nStartBytes":13577280, "nEndBytes":13595200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M015_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:80,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":80, "wakeup":1, "nStartBytes":13627200, "nEndBytes":13647680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M015_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:66,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":66, "wakeup":1, "nStartBytes":13679680, "nEndBytes":13698880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M015_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:44,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":44, "wakeup":1, "nStartBytes":13730880, "nEndBytes":13748800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M107_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M107_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:23,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":23, "wakeup":1, "nStartBytes":13829440, "nEndBytes":13850880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M107_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:75,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":75, "wakeup":1, "nStartBytes":13882560, "nEndBytes":13902720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M107_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:33,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":33, "wakeup":1, "nStartBytes":13933120, "nEndBytes":13953280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M110_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:46,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":46, "wakeup":1, "nStartBytes":13983680, "nEndBytes":13996160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M110_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:26,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":26, "wakeup":1, "nStartBytes":14026560, "nEndBytes":14039680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M110_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M110_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:95,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":95, "wakeup":1, "nStartBytes":14115520, "nEndBytes":14129280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M112_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:20,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":20, "wakeup":1, "nStartBytes":14160320, "nEndBytes":14172160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M112_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:18,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":18, "wakeup":1, "nStartBytes":14204160, "nEndBytes":14218880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M112_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M112_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:36,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":36, "wakeup":1, "nStartBytes":14293760, "nEndBytes":14309760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M113_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:43,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":43, "wakeup":1, "nStartBytes":14342080, "nEndBytes":14357120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M113_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:70,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":70, "wakeup":1, "nStartBytes":14390080, "nEndBytes":14405760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M113_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:69,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":69, "wakeup":1, "nStartBytes":14441920, "nEndBytes":14457280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M113_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:41,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":41, "wakeup":1, "nStartBytes":14493760, "nEndBytes":14509120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F002_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:48,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":48, "wakeup":1, "nStartBytes":14545600, "nEndBytes":14566720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F002_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:41,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":41, "wakeup":1, "nStartBytes":14602560, "nEndBytes":14624320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F002_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:47,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":47, "wakeup":1, "nStartBytes":14658240, "nEndBytes":14680960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F002_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:54,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":54, "wakeup":1, "nStartBytes":14709440, "nEndBytes":14730560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F004_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:74,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":74, "wakeup":1, "nStartBytes":14762560, "nEndBytes":14783360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F004_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:74,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":74, "wakeup":1, "nStartBytes":14816640, "nEndBytes":14836800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F004_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:52,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":14867200, "nEndBytes":14888000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F004_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:96,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":14920960, "nEndBytes":14942080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F005_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:93,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":93, "wakeup":1, "nStartBytes":14975680, "nEndBytes":15000320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F005_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:57,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":57, "wakeup":1, "nStartBytes":15032000, "nEndBytes":15056320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F005_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:64,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":64, "wakeup":1, "nStartBytes":15087360, "nEndBytes":15112000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F005_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:101,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":15143360, "nEndBytes":15166400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F007_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:90,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":90, "wakeup":1, "nStartBytes":15199680, "nEndBytes":15224320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F007_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:84,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":15259200, "nEndBytes":15284480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F007_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:80,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":80, "wakeup":1, "nStartBytes":15320000, "nEndBytes":15344640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F007_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:59,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":59, "wakeup":1, "nStartBytes":15376960, "nEndBytes":15400640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F008_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:20,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":20, "wakeup":1, "nStartBytes":15433600, "nEndBytes":15451200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F008_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:68,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":68, "wakeup":1, "nStartBytes":15483200, "nEndBytes":15500800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F008_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:57,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":57, "wakeup":1, "nStartBytes":15533120, "nEndBytes":15551040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F008_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:66,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":66, "wakeup":1, "nStartBytes":15583680, "nEndBytes":15601920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F013_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:41,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":41, "wakeup":1, "nStartBytes":15633600, "nEndBytes":15655360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F013_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:82,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":82, "wakeup":1, "nStartBytes":15686720, "nEndBytes":15708800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F013_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:90,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":90, "wakeup":1, "nStartBytes":15739840, "nEndBytes":15761280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F013_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:51,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":15795840, "nEndBytes":15813440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F016_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:76,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":76, "wakeup":1, "nStartBytes":15845760, "nEndBytes":15862400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F016_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:83,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":83, "wakeup":1, "nStartBytes":15895360, "nEndBytes":15913600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F016_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:48,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":48, "wakeup":1, "nStartBytes":15948480, "nEndBytes":15966720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F016_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:83,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":83, "wakeup":1, "nStartBytes":15999360, "nEndBytes":16016320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F101_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:28,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":28, "wakeup":1, "nStartBytes":16050240, "nEndBytes":16067520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F101_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:38,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":38, "wakeup":1, "nStartBytes":16102400, "nEndBytes":16119360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F101_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F101_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:23,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":23, "wakeup":1, "nStartBytes":16205760, "nEndBytes":16224640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F105_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:91,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":91, "wakeup":1, "nStartBytes":16256960, "nEndBytes":16276160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F105_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:129,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":129, "wakeup":1, "nStartBytes":16307840, "nEndBytes":16326720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F105_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:123,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":123, "wakeup":1, "nStartBytes":16359040, "nEndBytes":16379200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F105_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:129,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":129, "wakeup":1, "nStartBytes":16411840, "nEndBytes":16430720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F106_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:104,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":104, "wakeup":1, "nStartBytes":16464000, "nEndBytes":16478720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F106_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:49,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":49, "wakeup":1, "nStartBytes":16509120, "nEndBytes":16521920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F106_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:46,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":46, "wakeup":1, "nStartBytes":16552640, "nEndBytes":16567360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F106_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:51,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":16598720, "nEndBytes":16611840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F108_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:96,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":16642240, "nEndBytes":16664640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F108_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:65,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":65, "wakeup":1, "nStartBytes":16695360, "nEndBytes":16717760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F108_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:75,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":75, "wakeup":1, "nStartBytes":16749760, "nEndBytes":16771520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F108_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:109,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":109, "wakeup":1, "nStartBytes":16803520, "nEndBytes":16825600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F109_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:116,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":16857920, "nEndBytes":16877120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F109_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:93,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":93, "wakeup":1, "nStartBytes":16909440, "nEndBytes":16931200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F109_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:117,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":117, "wakeup":1, "nStartBytes":16963200, "nEndBytes":16984320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F109_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:90,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":90, "wakeup":1, "nStartBytes":17017280, "nEndBytes":17037760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F111_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:69,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":69, "wakeup":1, "nStartBytes":17069760, "nEndBytes":17090880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F111_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:92,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":92, "wakeup":1, "nStartBytes":17120960, "nEndBytes":17141760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F111_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:106,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":106, "wakeup":1, "nStartBytes":17172160, "nEndBytes":17193920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F111_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:89,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":89, "wakeup":1, "nStartBytes":17225920, "nEndBytes":17247040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F114_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:24,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":24, "wakeup":1, "nStartBytes":17277120, "nEndBytes":17297920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F114_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:13,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":13, "wakeup":1, "nStartBytes":17328640, "nEndBytes":17346240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F114_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/F114_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:12,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":12, "wakeup":1, "nStartBytes":17431680, "nEndBytes":17451520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M001_145.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M001_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:25,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":25, "wakeup":1, "nStartBytes":17527680, "nEndBytes":17541760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M001_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:19,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":19, "wakeup":1, "nStartBytes":17573120, "nEndBytes":17587200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M001_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:61,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":61, "wakeup":1, "nStartBytes":17620800, "nEndBytes":17634560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M003_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:83,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":83, "wakeup":1, "nStartBytes":17665600, "nEndBytes":17684800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M003_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:29,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":29, "wakeup":1, "nStartBytes":17714240, "nEndBytes":17734080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M003_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:85,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":85, "wakeup":1, "nStartBytes":17764160, "nEndBytes":17786240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M003_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:86,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":17816000, "nEndBytes":17835840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M006_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:21,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":21, "wakeup":1, "nStartBytes":17871040, "nEndBytes":17887680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M006_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:34,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":34, "wakeup":1, "nStartBytes":17919680, "nEndBytes":17937600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M006_147.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:66,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":66, "wakeup":1, "nStartBytes":17969600, "nEndBytes":17987200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M006_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:46,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":46, "wakeup":1, "nStartBytes":18019840, "nEndBytes":18036800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M009_145.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:24,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":24, "wakeup":1, "nStartBytes":18070400, "nEndBytes":18087360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M009_146.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:49,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":49, "wakeup":1, "nStartBytes":18121600, "nEndBytes":18136960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M009_147.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-2/X3/M009_148.wav	nMvwScene:2,nMvwId:0,nMvwRlt:确定,nMvwScore:12,lParam:{"nMvwScene":2, "nMvwId":0, "nMvwScore":12, "wakeup":1, "nStartBytes":18220480, "nEndBytes":18234560}
+vwLabel：2-确定, 尝试唤醒次数：360, 唤醒成功次数：308，成功率：85.56%，平均唤醒响应时间：176.50

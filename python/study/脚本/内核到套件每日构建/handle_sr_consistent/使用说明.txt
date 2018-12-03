@@ -1,0 +1,7 @@
+工具支持规整引擎和套件识别结果，然后进行对比的功能。使用说明如下：
+1.在Config.xml中填写"recPath","suitPath"。分别对应识别结果和套件结果路径
+2."recTempPath","suitTempPath"用于指定识别和套件结果规整后的结果保存路径
+3.运行Script.py进行一致性对比(所有配置文件配置项支持同名cmd命令行参数)
+
+4.规整脚本("CompareResult_V1.py","GetRecConsistResult.py")存放在lib文件夹中
+5.结果对比脚本("json_handle")也存放在lib文件夹中

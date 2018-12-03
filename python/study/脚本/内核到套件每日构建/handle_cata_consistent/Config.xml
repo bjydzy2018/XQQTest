@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test>
+	<suitPath>./Resource/srh_ret.txt</suitPath>	<!-- 套件结果路径 -->
+	<recPath>./Resource/rslt_srh_all.txt</recPath>		<!-- 引擎结果路径 -->
+	<threshold>1</threshold>		<!-- 结果对比门限值(分数) -->
+	
+	<result>./Result</result>	<!-- 结果目录 -->
+	<logPath>./Log</logPath>	<!-- 日志目录 -->
+	<logLevel>1</logLevel>		<!-- 日志级别 1:debug,2:info,3:warning,4:error,5:critical , 数字越大日志越少-->
+</Test>

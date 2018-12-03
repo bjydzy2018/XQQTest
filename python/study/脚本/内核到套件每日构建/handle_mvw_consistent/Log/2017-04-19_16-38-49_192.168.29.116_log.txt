@@ -1,0 +1,10 @@
+2017-04-19 16:38:49 Log.py[line:130] INFO get suit result
+2017-04-19 16:38:49 Log.py[line:128] DEBUG 	Function 'get_suit_result()' run time is : 0.00200009346008 s
+2017-04-19 16:38:49 Log.py[line:130] INFO get rec result
+2017-04-19 16:38:49 Log.py[line:128] DEBUG 	Function 'get_rec_result()' run time is : 0.000999927520752 s
+2017-04-19 16:38:49 Log.py[line:130] INFO begin compare
+2017-04-19 16:38:49 Log.py[line:128] DEBUG 	Function 'get_compare_result(suitResultDict,recResultDict)' run time is : 0.0 s
+2017-04-19 16:38:49 Log.py[line:130] INFO end compare
+2017-04-19 16:38:49 Log.py[line:130] INFO write result : ./Result\1.0_Ï¸Á£¶È.xls
+2017-04-19 16:38:49 Log.py[line:128] DEBUG 	Function '__write_rate_sheet(sheet,dataList,headList)' run time is : 0.000999927520752 s
+2017-04-19 16:38:49 Log.py[line:128] DEBUG 	Function '__write_rate_sheet(sheet,dataList,headList)' run time is : 0.0110001564026 s

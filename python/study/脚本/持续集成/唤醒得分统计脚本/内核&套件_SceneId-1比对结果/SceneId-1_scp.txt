@@ -1,0 +1,974 @@
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M010\M010_013.wav 0
+Time:0h:0m:0s:450ms - 0h:0m:1s:880ms, n1PassCMScore=-32768, n2PassCMScore=154, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=30281, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M010\M010_014.wav 0
+Time:0h:0m:3s:60ms - 0h:0m:4s:460ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=141, WakeUp,  KeyID=0, nResID=0, fSNR=37494, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M010\M010_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M010\M010_016.wav 0
+Time:0h:0m:8s:260ms - 0h:0m:9s:700ms, n1PassCMScore=-32768, n2PassCMScore=128, nFrame=145, WakeUp,  KeyID=0, nResID=0, fSNR=31130, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M011\M011_013.wav 0
+Time:0h:0m:11s:100ms - 0h:0m:12s:300ms, n1PassCMScore=-32768, n2PassCMScore=125, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=35368, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M011\M011_014.wav 0
+Time:0h:0m:13s:510ms - 0h:0m:14s:710ms, n1PassCMScore=-32768, n2PassCMScore=130, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=53919, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M011\M011_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M011\M011_016.wav 0
+Time:0h:0m:18s:330ms - 0h:0m:19s:450ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=113, WakeUp,  KeyID=0, nResID=0, fSNR=68517, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M012\M012_013.wav 0
+Time:0h:0m:20s:580ms - 0h:0m:21s:940ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=27378, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M012\M012_014.wav 0
+Time:0h:0m:23s:70ms - 0h:0m:24s:400ms, n1PassCMScore=-32768, n2PassCMScore=96, nFrame=134, WakeUp,  KeyID=0, nResID=0, fSNR=14546, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M012\M012_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M012\M012_016.wav 0
+Time:0h:0m:27s:970ms - 0h:0m:29s:280ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=132, WakeUp,  KeyID=0, nResID=0, fSNR=18067, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M102\M102_013.wav 0
+Time:0h:0m:30s:380ms - 0h:0m:31s:800ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=49018, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M102\M102_014.wav 0
+Time:0h:0m:32s:920ms - 0h:0m:34s:450ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=154, WakeUp,  KeyID=0, nResID=0, fSNR=72662, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M102\M102_015.wav 0
+Time:0h:0m:35s:540ms - 0h:0m:37s:40ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=151, WakeUp,  KeyID=0, nResID=0, fSNR=25921, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M102\M102_016.wav 0
+Time:0h:0m:38s:170ms - 0h:0m:39s:650ms, n1PassCMScore=-32768, n2PassCMScore=120, nFrame=149, WakeUp,  KeyID=0, nResID=0, fSNR=67090, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M103\M103_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M103\M103_014.wav 0
+Time:0h:0m:43s:190ms - 0h:0m:44s:470ms, n1PassCMScore=-32768, n2PassCMScore=141, nFrame=129, WakeUp,  KeyID=0, nResID=0, fSNR=64488, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M103\M103_015.wav 0
+Time:0h:0m:45s:470ms - 0h:0m:46s:650ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=119, WakeUp,  KeyID=0, nResID=0, fSNR=40, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M103\M103_016.wav 0
+Time:0h:0m:47s:700ms - 0h:0m:48s:910ms, n1PassCMScore=-32768, n2PassCMScore=236, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=158605, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M104\M104_013.wav 0
+Time:0h:0m:49s:910ms - 0h:0m:51s:290ms, n1PassCMScore=-32768, n2PassCMScore=187, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=22303, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M104\M104_014.wav 0
+Time:0h:0m:52s:370ms - 0h:0m:53s:860ms, n1PassCMScore=-32768, n2PassCMScore=143, nFrame=150, WakeUp,  KeyID=0, nResID=0, fSNR=22852, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M104\M104_015.wav 0
+Time:0h:0m:54s:890ms - 0h:0m:56s:360ms, n1PassCMScore=-32768, n2PassCMScore=189, nFrame=148, WakeUp,  KeyID=0, nResID=0, fSNR=54056, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\FM\M104\M104_016.wav 0
+Time:0h:0m:57s:400ms - 0h:0m:58s:820ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=39329, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M014\M014_013.wav 0
+Time:0h:0m:59s:890ms - 0h:1m:0s:770ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=89, WakeUp,  KeyID=0, nResID=0, fSNR=13475, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M014\M014_014.wav 0
+Time:0h:1m:1s:800ms - 0h:1m:2s:710ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=92, WakeUp,  KeyID=0, nResID=0, fSNR=18434, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M014\M014_015.wav 0
+Time:0h:1m:3s:700ms - 0h:1m:4s:680ms, n1PassCMScore=-32768, n2PassCMScore=253, nFrame=99, WakeUp,  KeyID=0, nResID=0, fSNR=34304, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M014\M014_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M015\M015_013.wav 0
+Time:0h:1m:7s:630ms - 0h:1m:8s:800ms, n1PassCMScore=-32768, n2PassCMScore=261, nFrame=118, WakeUp,  KeyID=0, nResID=0, fSNR=77685, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M015\M015_014.wav 0
+Time:0h:1m:9s:800ms - 0h:1m:10s:880ms, n1PassCMScore=-32768, n2PassCMScore=281, nFrame=109, WakeUp,  KeyID=0, nResID=0, fSNR=89538, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M015\M015_015.wav 0
+Time:0h:1m:11s:830ms - 0h:1m:12s:910ms, n1PassCMScore=-32768, n2PassCMScore=249, nFrame=109, WakeUp,  KeyID=0, nResID=0, fSNR=121441, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M015\M015_016.wav 0
+Time:0h:1m:13s:850ms - 0h:1m:14s:910ms, n1PassCMScore=-32768, n2PassCMScore=243, nFrame=107, WakeUp,  KeyID=0, nResID=0, fSNR=30965, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M107\M107_013.wav 0
+Time:0h:1m:15s:850ms - 0h:1m:16s:930ms, n1PassCMScore=-32768, n2PassCMScore=142, nFrame=109, WakeUp,  KeyID=0, nResID=0, fSNR=40713, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M107\M107_014.wav 0
+Time:0h:1m:18s:0ms - 0h:1m:19s:80ms, n1PassCMScore=-32768, n2PassCMScore=164, nFrame=109, WakeUp,  KeyID=0, nResID=0, fSNR=35753, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M107\M107_015.wav 0
+Time:0h:1m:20s:130ms - 0h:1m:21s:300ms, n1PassCMScore=-32768, n2PassCMScore=183, nFrame=118, WakeUp,  KeyID=0, nResID=0, fSNR=40820, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M107\M107_016.wav 0
+Time:0h:1m:22s:290ms - 0h:1m:23s:520ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=124, WakeUp,  KeyID=0, nResID=0, fSNR=6794, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M110\M110_013.wav 0
+Time:0h:1m:24s:640ms - 0h:1m:25s:860ms, n1PassCMScore=-32768, n2PassCMScore=239, nFrame=123, WakeUp,  KeyID=0, nResID=0, fSNR=75498, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M110\M110_014.wav 0
+Time:0h:1m:26s:820ms - 0h:1m:27s:910ms, n1PassCMScore=-32768, n2PassCMScore=200, nFrame=110, WakeUp,  KeyID=0, nResID=0, fSNR=113760, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M110\M110_015.wav 0
+Time:0h:1m:28s:870ms - 0h:1m:30s:10ms, n1PassCMScore=-32768, n2PassCMScore=238, nFrame=115, WakeUp,  KeyID=0, nResID=0, fSNR=125007, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M110\M110_016.wav 0
+Time:0h:1m:30s:960ms - 0h:1m:32s:320ms, n1PassCMScore=-32768, n2PassCMScore=197, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=102841, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M112\M112_013.wav 0
+Time:0h:1m:33s:310ms - 0h:1m:34s:500ms, n1PassCMScore=-32768, n2PassCMScore=249, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=184457, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M112\M112_014.wav 0
+Time:0h:1m:35s:590ms - 0h:1m:36s:750ms, n1PassCMScore=-32768, n2PassCMScore=233, nFrame=117, WakeUp,  KeyID=0, nResID=0, fSNR=182143, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M112\M112_015.wav 0
+Time:0h:1m:37s:830ms - 0h:1m:38s:980ms, n1PassCMScore=-32768, n2PassCMScore=198, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=139736, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M112\M112_016.wav 0
+Time:0h:1m:40s:30ms - 0h:1m:41s:60ms, n1PassCMScore=-32768, n2PassCMScore=202, nFrame=104, WakeUp,  KeyID=0, nResID=0, fSNR=106391, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M113\M113_013.wav 0
+Time:0h:1m:42s:170ms - 0h:1m:43s:330ms, n1PassCMScore=-32768, n2PassCMScore=234, nFrame=117, WakeUp,  KeyID=0, nResID=0, fSNR=94297, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M113\M113_014.wav 0
+Time:0h:1m:44s:450ms - 0h:1m:45s:660ms, n1PassCMScore=-32768, n2PassCMScore=223, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=175510, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M113\M113_015.wav 0
+Time:0h:1m:46s:760ms - 0h:1m:47s:970ms, n1PassCMScore=-32768, n2PassCMScore=245, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=128527, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\MU\M113\M113_016.wav 0
+Time:0h:1m:49s:70ms - 0h:1m:50s:250ms, n1PassCMScore=-32768, n2PassCMScore=239, nFrame=119, WakeUp,  KeyID=0, nResID=0, fSNR=165636, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F002\F002_013.wav 0
+Time:0h:1m:51s:470ms - 0h:1m:52s:830ms, n1PassCMScore=-32768, n2PassCMScore=187, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=57947, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F002\F002_014.wav 0
+Time:0h:1m:54s:240ms - 0h:1m:55s:620ms, n1PassCMScore=-32768, n2PassCMScore=168, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=60137, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F002\F002_015.wav 0
+Time:0h:1m:56s:910ms - 0h:1m:58s:180ms, n1PassCMScore=-32768, n2PassCMScore=227, nFrame=128, WakeUp,  KeyID=0, nResID=0, fSNR=80790, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F002\F002_016.wav 0
+Time:0h:1m:59s:480ms - 0h:2m:0s:720ms, n1PassCMScore=-32768, n2PassCMScore=237, nFrame=125, WakeUp,  KeyID=0, nResID=0, fSNR=66269, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F004\F004_013.wav 0
+Time:0h:2m:1s:920ms - 0h:2m:3s:520ms, n1PassCMScore=-32768, n2PassCMScore=168, nFrame=161, WakeUp,  KeyID=0, nResID=0, fSNR=38063, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F004\F004_014.wav 0
+Time:0h:2m:4s:620ms - 0h:2m:6s:60ms, n1PassCMScore=-32768, n2PassCMScore=221, nFrame=145, WakeUp,  KeyID=0, nResID=0, fSNR=53754, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F004\F004_015.wav 0
+Time:0h:2m:7s:140ms - 0h:2m:8s:650ms, n1PassCMScore=-32768, n2PassCMScore=208, nFrame=152, WakeUp,  KeyID=0, nResID=0, fSNR=51351, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F004\F004_016.wav 0
+Time:0h:2m:9s:770ms - 0h:2m:11s:270ms, n1PassCMScore=-32768, n2PassCMScore=233, nFrame=151, WakeUp,  KeyID=0, nResID=0, fSNR=67183, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F005\F005_013.wav 0
+Time:0h:2m:12s:320ms - 0h:2m:13s:580ms, n1PassCMScore=-32768, n2PassCMScore=242, nFrame=127, WakeUp,  KeyID=0, nResID=0, fSNR=66272, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F005\F005_014.wav 0
+Time:0h:2m:14s:800ms - 0h:2m:16s:0ms, n1PassCMScore=-32768, n2PassCMScore=223, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=47996, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F005\F005_015.wav 0
+Time:0h:2m:17s:140ms - 0h:2m:18s:380ms, n1PassCMScore=-32768, n2PassCMScore=229, nFrame=125, WakeUp,  KeyID=0, nResID=0, fSNR=42660, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F005\F005_016.wav 0
+Time:0h:2m:19s:520ms - 0h:2m:20s:740ms, n1PassCMScore=-32768, n2PassCMScore=249, nFrame=123, WakeUp,  KeyID=0, nResID=0, fSNR=38136, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F007\F007_013.wav 0
+Time:0h:2m:21s:910ms - 0h:2m:23s:240ms, n1PassCMScore=-32768, n2PassCMScore=205, nFrame=134, WakeUp,  KeyID=0, nResID=0, fSNR=60836, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F007\F007_014.wav 0
+Time:0h:2m:24s:440ms - 0h:2m:25s:670ms, n1PassCMScore=-32768, n2PassCMScore=197, nFrame=124, WakeUp,  KeyID=0, nResID=0, fSNR=72275, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F007\F007_015.wav 0
+Time:0h:2m:26s:860ms - 0h:2m:28s:70ms, n1PassCMScore=-32768, n2PassCMScore=219, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=59445, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F007\F007_016.wav 0
+Time:0h:2m:29s:140ms - 0h:2m:30s:440ms, n1PassCMScore=-32768, n2PassCMScore=222, nFrame=131, WakeUp,  KeyID=0, nResID=0, fSNR=76337, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F008\F008_013.wav 0
+Time:0h:2m:31s:590ms - 0h:2m:33s:40ms, n1PassCMScore=-32768, n2PassCMScore=200, nFrame=146, WakeUp,  KeyID=0, nResID=0, fSNR=27730, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F008\F008_014.wav 0
+Time:0h:2m:34s:270ms - 0h:2m:35s:600ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=134, WakeUp,  KeyID=0, nResID=0, fSNR=16354, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F008\F008_015.wav 0
+Time:0h:2m:36s:710ms - 0h:2m:38s:40ms, n1PassCMScore=-32768, n2PassCMScore=162, nFrame=134, WakeUp,  KeyID=0, nResID=0, fSNR=20990, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F008\F008_016.wav 0
+Time:0h:2m:39s:120ms - 0h:2m:40s:390ms, n1PassCMScore=-32768, n2PassCMScore=184, nFrame=128, WakeUp,  KeyID=0, nResID=0, fSNR=15672, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F013\F013_013.wav 0
+Time:0h:2m:41s:450ms - 0h:2m:42s:920ms, n1PassCMScore=-32768, n2PassCMScore=146, nFrame=148, WakeUp,  KeyID=0, nResID=0, fSNR=51043, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F013\F013_014.wav 0
+Time:0h:2m:44s:260ms - 0h:2m:45s:820ms, n1PassCMScore=-32768, n2PassCMScore=112, nFrame=157, WakeUp,  KeyID=0, nResID=0, fSNR=49411, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F013\F013_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F013\F013_016.wav 0
+Time:0h:2m:49s:630ms - 0h:2m:51s:100ms, n1PassCMScore=-32768, n2PassCMScore=160, nFrame=148, WakeUp,  KeyID=0, nResID=0, fSNR=93718, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F016\F016_013.wav 0
+Time:0h:2m:52s:270ms - 0h:2m:53s:220ms, n1PassCMScore=-32768, n2PassCMScore=256, nFrame=96, WakeUp,  KeyID=0, nResID=0, fSNR=102070, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F016\F016_014.wav 0
+Time:0h:2m:54s:230ms - 0h:2m:55s:130ms, n1PassCMScore=-32768, n2PassCMScore=219, nFrame=91, WakeUp,  KeyID=0, nResID=0, fSNR=90196, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F016\F016_015.wav 0
+Time:0h:2m:56s:160ms - 0h:2m:57s:80ms, n1PassCMScore=-32768, n2PassCMScore=223, nFrame=93, WakeUp,  KeyID=0, nResID=0, fSNR=105968, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F016\F016_016.wav 0
+Time:0h:2m:58s:140ms - 0h:2m:59s:60ms, n1PassCMScore=-32768, n2PassCMScore=215, nFrame=93, WakeUp,  KeyID=0, nResID=0, fSNR=109586, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F101\F101_013.wav 0
+Time:0h:3m:0s:110ms - 0h:3m:1s:400ms, n1PassCMScore=-32768, n2PassCMScore=207, nFrame=130, WakeUp,  KeyID=0, nResID=0, fSNR=186800, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F101\F101_014.wav 0
+Time:0h:3m:2s:420ms - 0h:3m:3s:750ms, n1PassCMScore=-32768, n2PassCMScore=183, nFrame=134, WakeUp,  KeyID=0, nResID=0, fSNR=187797, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F101\F101_015.wav 0
+Time:0h:3m:4s:780ms - 0h:3m:6s:90ms, n1PassCMScore=-32768, n2PassCMScore=167, nFrame=132, WakeUp,  KeyID=0, nResID=0, fSNR=96150, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F101\F101_016.wav 0
+Time:0h:3m:7s:180ms - 0h:3m:8s:490ms, n1PassCMScore=-32768, n2PassCMScore=215, nFrame=132, WakeUp,  KeyID=0, nResID=0, fSNR=77031, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F105\F105_013.wav 0
+Time:0h:3m:9s:530ms - 0h:3m:11s:20ms, n1PassCMScore=-32768, n2PassCMScore=187, nFrame=150, WakeUp,  KeyID=0, nResID=0, fSNR=182038, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F105\F105_014.wav 0
+Time:0h:3m:12s:120ms - 0h:3m:13s:550ms, n1PassCMScore=-32768, n2PassCMScore=167, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=215827, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F105\F105_015.wav 0
+Time:0h:3m:14s:660ms - 0h:3m:16s:120ms, n1PassCMScore=-32768, n2PassCMScore=205, nFrame=147, WakeUp,  KeyID=0, nResID=0, fSNR=196832, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F105\F105_016.wav 0
+Time:0h:3m:17s:160ms - 0h:3m:18s:590ms, n1PassCMScore=-32768, n2PassCMScore=212, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=192991, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F106\F106_013.wav 0
+Time:0h:3m:19s:700ms - 0h:3m:21s:700ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=201, WakeUp,  KeyID=0, nResID=0, fSNR=319265, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F106\F106_014.wav 0
+Time:0h:3m:22s:920ms - 0h:3m:24s:150ms, n1PassCMScore=-32768, n2PassCMScore=173, nFrame=124, WakeUp,  KeyID=0, nResID=0, fSNR=523410, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F106\F106_015.wav 0
+Time:0h:3m:25s:290ms - 0h:3m:26s:480ms, n1PassCMScore=-32768, n2PassCMScore=213, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=562152, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F106\F106_016.wav 0
+Time:0h:3m:27s:630ms - 0h:3m:28s:810ms, n1PassCMScore=-32768, n2PassCMScore=191, nFrame=119, WakeUp,  KeyID=0, nResID=0, fSNR=47946, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F108\F108_013.wav 0
+Time:0h:3m:29s:920ms - 0h:3m:31s:320ms, n1PassCMScore=-32768, n2PassCMScore=210, nFrame=141, WakeUp,  KeyID=0, nResID=0, fSNR=261382, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F108\F108_014.wav 0
+Time:0h:3m:32s:470ms - 0h:3m:33s:870ms, n1PassCMScore=-32768, n2PassCMScore=213, nFrame=141, WakeUp,  KeyID=0, nResID=0, fSNR=309285, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F108\F108_015.wav 0
+Time:0h:3m:34s:970ms - 0h:3m:36s:390ms, n1PassCMScore=-32768, n2PassCMScore=199, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=61415, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F108\F108_016.wav 0
+Time:0h:3m:37s:470ms - 0h:3m:38s:920ms, n1PassCMScore=-32768, n2PassCMScore=216, nFrame=146, WakeUp,  KeyID=0, nResID=0, fSNR=124665, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F109\F109_013.wav 0
+Time:0h:3m:40s:10ms - 0h:3m:41s:520ms, n1PassCMScore=-32768, n2PassCMScore=194, nFrame=152, WakeUp,  KeyID=0, nResID=0, fSNR=512499, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F109\F109_014.wav 0
+Time:0h:3m:42s:760ms - 0h:3m:44s:230ms, n1PassCMScore=-32768, n2PassCMScore=213, nFrame=148, WakeUp,  KeyID=0, nResID=0, fSNR=566860, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F109\F109_015.wav 0
+Time:0h:3m:45s:410ms - 0h:3m:46s:850ms, n1PassCMScore=-32768, n2PassCMScore=201, nFrame=145, WakeUp,  KeyID=0, nResID=0, fSNR=188291, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\SL\F109\F109_016.wav 0
+Time:0h:3m:48s:30ms - 0h:3m:49s:450ms, n1PassCMScore=-32768, n2PassCMScore=226, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=135360, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F111\F111_013.wav 0
+Time:0h:3m:50s:570ms - 0h:3m:51s:880ms, n1PassCMScore=-32768, n2PassCMScore=210, nFrame=132, WakeUp,  KeyID=0, nResID=0, fSNR=19000, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F111\F111_014.wav 0
+Time:0h:3m:53s:20ms - 0h:3m:54s:350ms, n1PassCMScore=-32768, n2PassCMScore=235, nFrame=134, WakeUp,  KeyID=0, nResID=0, fSNR=51611, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F111\F111_015.wav 0
+Time:0h:3m:55s:490ms - 0h:3m:56s:830ms, n1PassCMScore=-32768, n2PassCMScore=233, nFrame=135, WakeUp,  KeyID=0, nResID=0, fSNR=65611, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F111\F111_016.wav 0
+Time:0h:3m:57s:920ms - 0h:3m:59s:250ms, n1PassCMScore=-32768, n2PassCMScore=237, nFrame=134, WakeUp,  KeyID=0, nResID=0, fSNR=50889, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F114\F114_013.wav 0
+Time:0h:4m:0s:280ms - 0h:4m:1s:370ms, n1PassCMScore=-32768, n2PassCMScore=216, nFrame=110, WakeUp,  KeyID=0, nResID=0, fSNR=110492, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F114\F114_014.wav 0
+Time:0h:4m:2s:430ms - 0h:4m:3s:480ms, n1PassCMScore=-32768, n2PassCMScore=205, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=33954, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F114\F114_015.wav 0
+Time:0h:4m:4s:520ms - 0h:4m:5s:620ms, n1PassCMScore=-32768, n2PassCMScore=214, nFrame=111, WakeUp,  KeyID=0, nResID=0, fSNR=142446, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\F114\F114_016.wav 0
+Time:0h:4m:6s:680ms - 0h:4m:7s:800ms, n1PassCMScore=-32768, n2PassCMScore=206, nFrame=113, WakeUp,  KeyID=0, nResID=0, fSNR=172763, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M001\M001_013.wav 0
+Time:0h:4m:8s:910ms - 0h:4m:10s:110ms, n1PassCMScore=-32768, n2PassCMScore=177, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=143885, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M001\M001_014.wav 0
+Time:0h:4m:11s:140ms - 0h:4m:12s:340ms, n1PassCMScore=-32768, n2PassCMScore=178, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=30792, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M001\M001_015.wav 0
+Time:0h:4m:13s:360ms - 0h:4m:14s:490ms, n1PassCMScore=-32768, n2PassCMScore=153, nFrame=114, WakeUp,  KeyID=0, nResID=0, fSNR=126847, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M001\M001_016.wav 0
+Time:0h:4m:15s:500ms - 0h:4m:16s:670ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=118, WakeUp,  KeyID=0, nResID=0, fSNR=142421, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M003\M003_013.wav 0
+Time:0h:4m:17s:620ms - 0h:4m:18s:780ms, n1PassCMScore=-32768, n2PassCMScore=183, nFrame=117, WakeUp,  KeyID=0, nResID=0, fSNR=50896, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M003\M003_014.wav 0
+Time:0h:4m:19s:680ms - 0h:4m:20s:900ms, n1PassCMScore=-32768, n2PassCMScore=185, nFrame=123, WakeUp,  KeyID=0, nResID=0, fSNR=51500, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M003\M003_015.wav 0
+Time:0h:4m:21s:820ms - 0h:4m:23s:60ms, n1PassCMScore=-32768, n2PassCMScore=186, nFrame=125, WakeUp,  KeyID=0, nResID=0, fSNR=37103, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M003\M003_016.wav 0
+Time:0h:4m:24s:80ms - 0h:4m:25s:290ms, n1PassCMScore=-32768, n2PassCMScore=183, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=44144, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M006\M006_013.wav 0
+Time:0h:4m:26s:320ms - 0h:4m:27s:660ms, n1PassCMScore=-32768, n2PassCMScore=177, nFrame=135, WakeUp,  KeyID=0, nResID=0, fSNR=100790, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M006\M006_014.wav 0
+Time:0h:4m:28s:720ms - 0h:4m:30s:90ms, n1PassCMScore=-32768, n2PassCMScore=209, nFrame=138, WakeUp,  KeyID=0, nResID=0, fSNR=99109, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M006\M006_015.wav 0
+Time:0h:4m:31s:110ms - 0h:4m:32s:410ms, n1PassCMScore=-32768, n2PassCMScore=179, nFrame=131, WakeUp,  KeyID=0, nResID=0, fSNR=134711, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M006\M006_016.wav 0
+Time:0h:4m:33s:490ms - 0h:4m:34s:790ms, n1PassCMScore=-32768, n2PassCMScore=199, nFrame=131, WakeUp,  KeyID=0, nResID=0, fSNR=119069, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M009\M009_013.wav 0
+Time:0h:4m:35s:860ms - 0h:4m:37s:270ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=142, WakeUp,  KeyID=0, nResID=0, fSNR=203780, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M009\M009_014.wav 0
+Time:0h:4m:38s:400ms - 0h:4m:39s:820ms, n1PassCMScore=-32768, n2PassCMScore=111, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=160426, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M009\M009_015.wav 0
+Time:0h:4m:40s:930ms - 0h:4m:42s:270ms, n1PassCMScore=-32768, n2PassCMScore=113, nFrame=135, WakeUp,  KeyID=0, nResID=0, fSNR=147871, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X1\TTS\M009\M009_016.wav 0
+Time:0h:4m:43s:410ms - 0h:4m:44s:830ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=136746, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M010\M010_013.wav 0
+Time:0h:4m:46s:20ms - 0h:4m:47s:400ms, n1PassCMScore=-32768, n2PassCMScore=112, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=9970, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M010\M010_014.wav 0
+Time:0h:4m:48s:630ms - 0h:4m:50s:0ms, n1PassCMScore=-32768, n2PassCMScore=104, nFrame=138, WakeUp,  KeyID=0, nResID=0, fSNR=6948, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M010\M010_015.wav 0
+Time:0h:4m:51s:160ms - 0h:4m:52s:510ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=136, WakeUp,  KeyID=0, nResID=0, fSNR=5658, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M010\M010_016.wav 0
+Time:0h:4m:53s:810ms - 0h:4m:55s:120ms, n1PassCMScore=-32768, n2PassCMScore=123, nFrame=132, WakeUp,  KeyID=0, nResID=0, fSNR=4869, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M011\M011_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M011\M011_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M011\M011_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M011\M011_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M012\M012_013.wav 0
+Time:0h:5m:6s:110ms - 0h:5m:7s:490ms, n1PassCMScore=-32768, n2PassCMScore=138, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=4314, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M012\M012_014.wav 0
+Time:0h:5m:8s:590ms - 0h:5m:9s:940ms, n1PassCMScore=-32768, n2PassCMScore=123, nFrame=136, WakeUp,  KeyID=0, nResID=0, fSNR=8626, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M012\M012_015.wav 0
+Time:0h:5m:11s:120ms - 0h:5m:12s:480ms, n1PassCMScore=-32768, n2PassCMScore=129, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=2524, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M012\M012_016.wav 0
+Time:0h:5m:13s:500ms - 0h:5m:14s:840ms, n1PassCMScore=-32768, n2PassCMScore=114, nFrame=135, WakeUp,  KeyID=0, nResID=0, fSNR=2918, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M102\M102_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M102\M102_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M102\M102_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M102\M102_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M103\M103_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M103\M103_014.wav 0
+Time:0h:5m:28s:730ms - 0h:5m:29s:920ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=10418, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M103\M103_015.wav 0
+Time:0h:5m:31s:0ms - 0h:5m:32s:130ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=114, WakeUp,  KeyID=0, nResID=0, fSNR=5113, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M103\M103_016.wav 0
+Time:0h:5m:33s:210ms - 0h:5m:34s:360ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=5027, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M104\M104_013.wav 0
+Time:0h:5m:35s:450ms - 0h:5m:36s:820ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=138, WakeUp,  KeyID=0, nResID=0, fSNR=2305, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M104\M104_014.wav 0
+Time:0h:5m:37s:890ms - 0h:5m:39s:420ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=154, WakeUp,  KeyID=0, nResID=0, fSNR=2989, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M104\M104_015.wav 0
+Time:0h:5m:40s:440ms - 0h:5m:41s:900ms, n1PassCMScore=-32768, n2PassCMScore=122, nFrame=147, WakeUp,  KeyID=0, nResID=0, fSNR=3125, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\FM\M104\M104_016.wav 0
+Time:0h:5m:42s:940ms - 0h:5m:44s:390ms, n1PassCMScore=-32768, n2PassCMScore=134, nFrame=146, WakeUp,  KeyID=0, nResID=0, fSNR=2295, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M014\M014_013.wav 0
+Time:0h:5m:45s:430ms - 0h:5m:46s:310ms, n1PassCMScore=-32768, n2PassCMScore=157, nFrame=89, WakeUp,  KeyID=0, nResID=0, fSNR=6002, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M014\M014_014.wav 0
+Time:0h:5m:47s:300ms - 0h:5m:48s:240ms, n1PassCMScore=-32768, n2PassCMScore=164, nFrame=95, WakeUp,  KeyID=0, nResID=0, fSNR=8377, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M014\M014_015.wav 0
+Time:0h:5m:49s:230ms - 0h:5m:50s:180ms, n1PassCMScore=-32768, n2PassCMScore=156, nFrame=96, WakeUp,  KeyID=0, nResID=0, fSNR=6272, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M014\M014_016.wav 0
+Time:0h:5m:51s:210ms - 0h:5m:52s:160ms, n1PassCMScore=-32768, n2PassCMScore=141, nFrame=96, WakeUp,  KeyID=0, nResID=0, fSNR=1356, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M015\M015_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M015\M015_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M015\M015_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M015\M015_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M107\M107_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M107\M107_014.wav 0
+Time:0h:6m:3s:570ms - 0h:6m:4s:530ms, n1PassCMScore=-32768, n2PassCMScore=101, nFrame=97, WakeUp,  KeyID=0, nResID=0, fSNR=594, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M107\M107_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M107\M107_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M110\M110_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M110\M110_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M110\M110_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M110\M110_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M112\M112_013.wav 0
+Time:0h:6m:18s:880ms - 0h:6m:19s:930ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=5811, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M112\M112_014.wav 0
+Time:0h:6m:21s:180ms - 0h:6m:22s:150ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=98, WakeUp,  KeyID=0, nResID=0, fSNR=2759, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M112\M112_015.wav 0
+Time:0h:6m:23s:460ms - 0h:6m:24s:480ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=103, WakeUp,  KeyID=0, nResID=0, fSNR=2376, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M112\M112_016.wav 0
+Time:0h:6m:25s:580ms - 0h:6m:26s:540ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=97, WakeUp,  KeyID=0, nResID=0, fSNR=4237, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M113\M113_013.wav 0
+Time:0h:6m:27s:730ms - 0h:6m:28s:860ms, n1PassCMScore=-32768, n2PassCMScore=151, nFrame=114, WakeUp,  KeyID=0, nResID=0, fSNR=1391, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M113\M113_014.wav 0
+Time:0h:6m:30s:40ms - 0h:6m:31s:180ms, n1PassCMScore=-32768, n2PassCMScore=141, nFrame=115, WakeUp,  KeyID=0, nResID=0, fSNR=3184, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M113\M113_015.wav 0
+Time:0h:6m:32s:330ms - 0h:6m:33s:480ms, n1PassCMScore=-32768, n2PassCMScore=137, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=1138, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\MU\M113\M113_016.wav 0
+Time:0h:6m:34s:660ms - 0h:6m:35s:720ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=107, WakeUp,  KeyID=0, nResID=0, fSNR=1291, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F002\F002_013.wav 0
+Time:0h:6m:37s:10ms - 0h:6m:38s:360ms, n1PassCMScore=-32768, n2PassCMScore=186, nFrame=136, WakeUp,  KeyID=0, nResID=0, fSNR=37472, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F002\F002_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F002\F002_015.wav 0
+Time:0h:6m:42s:430ms - 0h:6m:43s:700ms, n1PassCMScore=-32768, n2PassCMScore=195, nFrame=128, WakeUp,  KeyID=0, nResID=0, fSNR=16141, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F002\F002_016.wav 0
+Time:0h:6m:45s:40ms - 0h:6m:46s:250ms, n1PassCMScore=-32768, n2PassCMScore=184, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=11491, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F004\F004_013.wav 0
+Time:0h:6m:47s:490ms - 0h:6m:48s:920ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=1168, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F004\F004_014.wav 0
+Time:0h:6m:50s:220ms - 0h:6m:51s:430ms, n1PassCMScore=-32768, n2PassCMScore=96, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=1376, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F004\F004_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F004\F004_016.wav 0
+Time:0h:6m:55s:390ms - 0h:6m:56s:730ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=135, WakeUp,  KeyID=0, nResID=0, fSNR=458, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F005\F005_013.wav 0
+Time:0h:6m:57s:850ms - 0h:6m:59s:120ms, n1PassCMScore=-32768, n2PassCMScore=213, nFrame=128, WakeUp,  KeyID=0, nResID=0, fSNR=10310, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F005\F005_014.wav 0
+Time:0h:7m:0s:360ms - 0h:7m:1s:540ms, n1PassCMScore=-32768, n2PassCMScore=186, nFrame=119, WakeUp,  KeyID=0, nResID=0, fSNR=10962, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F005\F005_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F005\F005_016.wav 0
+Time:0h:7m:5s:70ms - 0h:7m:6s:290ms, n1PassCMScore=-32768, n2PassCMScore=232, nFrame=123, WakeUp,  KeyID=0, nResID=0, fSNR=10401, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F007\F007_013.wav 0
+Time:0h:7m:7s:430ms - 0h:7m:8s:750ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=133, WakeUp,  KeyID=0, nResID=0, fSNR=24549, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F007\F007_014.wav 0
+Time:0h:7m:9s:990ms - 0h:7m:11s:190ms, n1PassCMScore=-32768, n2PassCMScore=158, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=1691, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F007\F007_015.wav 0
+Time:0h:7m:12s:380ms - 0h:7m:13s:590ms, n1PassCMScore=-32768, n2PassCMScore=230, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=41777, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F007\F007_016.wav 0
+Time:0h:7m:14s:660ms - 0h:7m:15s:940ms, n1PassCMScore=-32768, n2PassCMScore=195, nFrame=129, WakeUp,  KeyID=0, nResID=0, fSNR=48778, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F008\F008_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F008\F008_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F008\F008_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F008\F008_016.wav 0
+Time:0h:7m:24s:650ms - 0h:7m:25s:910ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=127, WakeUp,  KeyID=0, nResID=0, fSNR=905, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F013\F013_013.wav 0
+Time:0h:7m:27s:0ms - 0h:7m:28s:350ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=136, WakeUp,  KeyID=0, nResID=0, fSNR=2176, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F013\F013_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F013\F013_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F013\F013_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F016\F016_013.wav 0
+Time:0h:7m:37s:790ms - 0h:7m:38s:740ms, n1PassCMScore=-32768, n2PassCMScore=178, nFrame=96, WakeUp,  KeyID=0, nResID=0, fSNR=712, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F016\F016_014.wav 0
+Time:0h:7m:39s:800ms - 0h:7m:40s:660ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=87, WakeUp,  KeyID=0, nResID=0, fSNR=675, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F016\F016_015.wav 0
+Time:0h:7m:41s:720ms - 0h:7m:42s:600ms, n1PassCMScore=-32768, n2PassCMScore=133, nFrame=89, WakeUp,  KeyID=0, nResID=0, fSNR=431, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F016\F016_016.wav 0
+Time:0h:7m:43s:710ms - 0h:7m:44s:640ms, n1PassCMScore=-32768, n2PassCMScore=103, nFrame=94, WakeUp,  KeyID=0, nResID=0, fSNR=523, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F101\F101_013.wav 0
+Time:0h:7m:45s:660ms - 0h:7m:46s:820ms, n1PassCMScore=-32768, n2PassCMScore=105, nFrame=117, WakeUp,  KeyID=0, nResID=0, fSNR=2001, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F101\F101_014.wav 0
+Time:0h:7m:47s:980ms - 0h:7m:49s:230ms, n1PassCMScore=-32768, n2PassCMScore=150, nFrame=126, WakeUp,  KeyID=0, nResID=0, fSNR=2179, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F101\F101_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F101\F101_016.wav 0
+Time:0h:7m:52s:750ms - 0h:7m:53s:890ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=115, WakeUp,  KeyID=0, nResID=0, fSNR=420, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F105\F105_013.wav 0
+Time:0h:7m:55s:110ms - 0h:7m:56s:530ms, n1PassCMScore=-32768, n2PassCMScore=171, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=7363, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F105\F105_014.wav 0
+Time:0h:7m:57s:690ms - 0h:7m:59s:70ms, n1PassCMScore=-32768, n2PassCMScore=169, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=5135, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F105\F105_015.wav 0
+Time:0h:8m:0s:200ms - 0h:8m:1s:630ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=6877, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F105\F105_016.wav 0
+Time:0h:8m:2s:710ms - 0h:8m:4s:110ms, n1PassCMScore=-32768, n2PassCMScore=189, nFrame=141, WakeUp,  KeyID=0, nResID=0, fSNR=6626, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F106\F106_013.wav 0
+Time:0h:8m:5s:290ms - 0h:8m:7s:230ms, n1PassCMScore=-32768, n2PassCMScore=138, nFrame=195, WakeUp,  KeyID=0, nResID=0, fSNR=6343, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F106\F106_014.wav 0
+Time:0h:8m:8s:460ms - 0h:8m:9s:700ms, n1PassCMScore=-32768, n2PassCMScore=175, nFrame=125, WakeUp,  KeyID=0, nResID=0, fSNR=13148, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F106\F106_015.wav 0
+Time:0h:8m:10s:850ms - 0h:8m:12s:30ms, n1PassCMScore=-32768, n2PassCMScore=161, nFrame=119, WakeUp,  KeyID=0, nResID=0, fSNR=5285, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F106\F106_016.wav 0
+Time:0h:8m:13s:170ms - 0h:8m:14s:360ms, n1PassCMScore=-32768, n2PassCMScore=189, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=12087, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F108\F108_013.wav 0
+Time:0h:8m:15s:470ms - 0h:8m:16s:820ms, n1PassCMScore=-32768, n2PassCMScore=123, nFrame=136, WakeUp,  KeyID=0, nResID=0, fSNR=27859, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F108\F108_014.wav 0
+Time:0h:8m:18s:10ms - 0h:8m:19s:380ms, n1PassCMScore=-32768, n2PassCMScore=164, nFrame=138, WakeUp,  KeyID=0, nResID=0, fSNR=24500, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F108\F108_015.wav 0
+Time:0h:8m:20s:510ms - 0h:8m:21s:890ms, n1PassCMScore=-32768, n2PassCMScore=172, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=21087, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F108\F108_016.wav 0
+Time:0h:8m:23s:50ms - 0h:8m:24s:420ms, n1PassCMScore=-32768, n2PassCMScore=151, nFrame=138, WakeUp,  KeyID=0, nResID=0, fSNR=1860, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F109\F109_013.wav 0
+Time:0h:8m:25s:560ms - 0h:8m:27s:20ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=147, WakeUp,  KeyID=0, nResID=0, fSNR=3731, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F109\F109_014.wav 0
+Time:0h:8m:28s:330ms - 0h:8m:29s:720ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=140, WakeUp,  KeyID=0, nResID=0, fSNR=400, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F109\F109_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\SL\F109\F109_016.wav 0
+Time:0h:8m:33s:590ms - 0h:8m:34s:950ms, n1PassCMScore=-32768, n2PassCMScore=148, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=1430, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F111\F111_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F111\F111_014.wav 0
+Time:0h:8m:38s:630ms - 0h:8m:39s:880ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=126, WakeUp,  KeyID=0, nResID=0, fSNR=878, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F111\F111_015.wav 0
+Time:0h:8m:41s:50ms - 0h:8m:42s:330ms, n1PassCMScore=-32768, n2PassCMScore=161, nFrame=129, WakeUp,  KeyID=0, nResID=0, fSNR=1074, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F111\F111_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F114\F114_013.wav 0
+Time:0h:8m:45s:850ms - 0h:8m:46s:900ms, n1PassCMScore=-32768, n2PassCMScore=206, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=1164, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F114\F114_014.wav 0
+Time:0h:8m:47s:990ms - 0h:8m:49s:20ms, n1PassCMScore=-32768, n2PassCMScore=172, nFrame=104, WakeUp,  KeyID=0, nResID=0, fSNR=830, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F114\F114_015.wav 0
+Time:0h:8m:50s:80ms - 0h:8m:51s:140ms, n1PassCMScore=-32768, n2PassCMScore=190, nFrame=107, WakeUp,  KeyID=0, nResID=0, fSNR=964, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\F114\F114_016.wav 0
+Time:0h:8m:52s:230ms - 0h:8m:53s:340ms, n1PassCMScore=-32768, n2PassCMScore=199, nFrame=112, WakeUp,  KeyID=0, nResID=0, fSNR=1176, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M001\M001_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M001\M001_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M001\M001_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M001\M001_016.wav 0
+Time:0h:9m:1s:120ms - 0h:9m:2s:130ms, n1PassCMScore=-32768, n2PassCMScore=114, nFrame=102, WakeUp,  KeyID=0, nResID=0, fSNR=1129, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M003\M003_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M003\M003_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M003\M003_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M003\M003_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M006\M006_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M006\M006_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M006\M006_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M006\M006_016.wav 0
+Time:0h:9m:19s:60ms - 0h:9m:20s:240ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=119, WakeUp,  KeyID=0, nResID=0, fSNR=1139, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M009\M009_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M009\M009_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M009\M009_015.wav 0
+Time:0h:9m:26s:520ms - 0h:9m:27s:780ms, n1PassCMScore=-32768, n2PassCMScore=101, nFrame=127, WakeUp,  KeyID=0, nResID=0, fSNR=1561, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X2\TTS\M009\M009_016.wav 0
+Time:0h:9m:29s:0ms - 0h:9m:30s:360ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=3006, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M010\M010_013.wav 0
+Time:0h:9m:31s:530ms - 0h:9m:32s:950ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=7720, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M010\M010_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M010\M010_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M010\M010_016.wav 0
+Time:0h:9m:39s:330ms - 0h:9m:40s:760ms, n1PassCMScore=-32768, n2PassCMScore=108, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=7999, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M011\M011_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M011\M011_014.wav 0
+Time:0h:9m:44s:660ms - 0h:9m:45s:780ms, n1PassCMScore=-32768, n2PassCMScore=105, nFrame=113, WakeUp,  KeyID=0, nResID=0, fSNR=311, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M011\M011_015.wav 0
+Time:0h:9m:47s:30ms - 0h:9m:48s:100ms, n1PassCMScore=-32768, n2PassCMScore=143, nFrame=108, WakeUp,  KeyID=0, nResID=0, fSNR=2060, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M011\M011_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M012\M012_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M012\M012_014.wav 0
+Time:0h:9m:54s:90ms - 0h:9m:55s:500ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=142, WakeUp,  KeyID=0, nResID=0, fSNR=1399, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M012\M012_015.wav 0
+Time:0h:9m:56s:670ms - 0h:9m:58s:30ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=1298, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M012\M012_016.wav 0
+Time:0h:9m:59s:60ms - 0h:10m:0s:380ms, n1PassCMScore=-32768, n2PassCMScore=107, nFrame=133, WakeUp,  KeyID=0, nResID=0, fSNR=1008, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M102\M102_013.wav 0
+Time:0h:10m:1s:490ms - 0h:10m:2s:790ms, n1PassCMScore=-32768, n2PassCMScore=113, nFrame=131, WakeUp,  KeyID=0, nResID=0, fSNR=1252, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M102\M102_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M102\M102_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M102\M102_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M103\M103_013.wav 0
+Time:0h:10m:11s:850ms - 0h:10m:13s:230ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=29096, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M103\M103_014.wav 0
+Time:0h:10m:14s:300ms - 0h:10m:15s:510ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=42615, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M103\M103_015.wav 0
+Time:0h:10m:16s:530ms - 0h:10m:17s:710ms, n1PassCMScore=-32768, n2PassCMScore=143, nFrame=119, WakeUp,  KeyID=0, nResID=0, fSNR=31122, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M103\M103_016.wav 0
+Time:0h:10m:18s:800ms - 0h:10m:19s:950ms, n1PassCMScore=-32768, n2PassCMScore=153, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=14066, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M104\M104_013.wav 0
+Time:0h:10m:20s:980ms - 0h:10m:22s:400ms, n1PassCMScore=-32768, n2PassCMScore=155, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=36293, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M104\M104_014.wav 0
+Time:0h:10m:23s:430ms - 0h:10m:24s:950ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=153, WakeUp,  KeyID=0, nResID=0, fSNR=57820, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M104\M104_015.wav 0
+Time:0h:10m:25s:970ms - 0h:10m:27s:450ms, n1PassCMScore=-32768, n2PassCMScore=178, nFrame=149, WakeUp,  KeyID=0, nResID=0, fSNR=62150, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\FM\M104\M104_016.wav 0
+Time:0h:10m:28s:480ms - 0h:10m:29s:930ms, n1PassCMScore=-32768, n2PassCMScore=146, nFrame=146, WakeUp,  KeyID=0, nResID=0, fSNR=56135, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M014\M014_013.wav 0
+Time:0h:10m:31s:0ms - 0h:10m:31s:870ms, n1PassCMScore=-32768, n2PassCMScore=186, nFrame=88, WakeUp,  KeyID=0, nResID=0, fSNR=3844, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M014\M014_014.wav 0
+Time:0h:10m:32s:860ms - 0h:10m:33s:820ms, n1PassCMScore=-32768, n2PassCMScore=231, nFrame=97, WakeUp,  KeyID=0, nResID=0, fSNR=1481, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M014\M014_015.wav 0
+Time:0h:10m:34s:800ms - 0h:10m:35s:750ms, n1PassCMScore=-32768, n2PassCMScore=207, nFrame=96, WakeUp,  KeyID=0, nResID=0, fSNR=3419, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M014\M014_016.wav 0
+Time:0h:10m:36s:750ms - 0h:10m:37s:730ms, n1PassCMScore=-32768, n2PassCMScore=161, nFrame=99, WakeUp,  KeyID=0, nResID=0, fSNR=11262, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M015\M015_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M015\M015_014.wav 0
+Time:0h:10m:40s:920ms - 0h:10m:41s:940ms, n1PassCMScore=-32768, n2PassCMScore=131, nFrame=103, WakeUp,  KeyID=0, nResID=0, fSNR=1343, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M015\M015_015.wav 0
+Time:0h:10m:42s:930ms - 0h:10m:43s:960ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=104, WakeUp,  KeyID=0, nResID=0, fSNR=2869, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M015\M015_016.wav 0
+Time:0h:10m:44s:960ms - 0h:10m:45s:970ms, n1PassCMScore=-32768, n2PassCMScore=138, nFrame=102, WakeUp,  KeyID=0, nResID=0, fSNR=4609, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M107\M107_013.wav 0
+Time:0h:10m:46s:940ms - 0h:10m:47s:990ms, n1PassCMScore=-32768, n2PassCMScore=158, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=2074, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M107\M107_014.wav 0
+Time:0h:10m:49s:70ms - 0h:10m:50s:160ms, n1PassCMScore=-32768, n2PassCMScore=173, nFrame=110, WakeUp,  KeyID=0, nResID=0, fSNR=5814, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M107\M107_015.wav 0
+Time:0h:10m:51s:240ms - 0h:10m:52s:340ms, n1PassCMScore=-32768, n2PassCMScore=161, nFrame=111, WakeUp,  KeyID=0, nResID=0, fSNR=3845, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M107\M107_016.wav 0
+Time:0h:10m:53s:500ms - 0h:10m:54s:580ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=109, WakeUp,  KeyID=0, nResID=0, fSNR=2550, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M110\M110_013.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M110\M110_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M110\M110_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M110\M110_016.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M112\M112_013.wav 0
+Time:0h:11m:4s:410ms - 0h:11m:5s:560ms, n1PassCMScore=-32768, n2PassCMScore=191, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=26386, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M112\M112_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M112\M112_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M112\M112_016.wav 0
+Time:0h:11m:11s:50ms - 0h:11m:12s:110ms, n1PassCMScore=-32768, n2PassCMScore=125, nFrame=107, WakeUp,  KeyID=0, nResID=0, fSNR=34546, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M113\M113_013.wav 0
+Time:0h:11m:13s:270ms - 0h:11m:14s:420ms, n1PassCMScore=-32768, n2PassCMScore=174, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=892, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M113\M113_014.wav 0
+Time:0h:11m:15s:570ms - 0h:11m:16s:740ms, n1PassCMScore=-32768, n2PassCMScore=195, nFrame=118, WakeUp,  KeyID=0, nResID=0, fSNR=1451, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M113\M113_015.wav 0
+Time:0h:11m:17s:850ms - 0h:11m:19s:60ms, n1PassCMScore=-32768, n2PassCMScore=217, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=4156, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\MU\M113\M113_016.wav 0
+Time:0h:11m:20s:200ms - 0h:11m:21s:320ms, n1PassCMScore=-32768, n2PassCMScore=192, nFrame=113, WakeUp,  KeyID=0, nResID=0, fSNR=1069, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F002\F002_013.wav 0
+Time:0h:11m:22s:580ms - 0h:11m:23s:900ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=133, WakeUp,  KeyID=0, nResID=0, fSNR=3874, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F002\F002_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F002\F002_015.wav 0
+Time:0h:11m:27s:990ms - 0h:11m:29s:230ms, n1PassCMScore=-32768, n2PassCMScore=164, nFrame=125, WakeUp,  KeyID=0, nResID=0, fSNR=1641, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F002\F002_016.wav 0
+Time:0h:11m:30s:590ms - 0h:11m:31s:780ms, n1PassCMScore=-32768, n2PassCMScore=190, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=1884, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F004\F004_013.wav 0
+Time:0h:11m:33s:40ms - 0h:11m:34s:600ms, n1PassCMScore=-32768, n2PassCMScore=148, nFrame=157, WakeUp,  KeyID=0, nResID=0, fSNR=3088, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F004\F004_014.wav 0
+Time:0h:11m:35s:710ms - 0h:11m:37s:150ms, n1PassCMScore=-32768, n2PassCMScore=197, nFrame=145, WakeUp,  KeyID=0, nResID=0, fSNR=295, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F004\F004_015.wav 0
+Time:0h:11m:38s:260ms - 0h:11m:39s:720ms, n1PassCMScore=-32768, n2PassCMScore=165, nFrame=147, WakeUp,  KeyID=0, nResID=0, fSNR=3380, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F004\F004_016.wav 0
+Time:0h:11m:40s:900ms - 0h:11m:42s:340ms, n1PassCMScore=-32768, n2PassCMScore=204, nFrame=145, WakeUp,  KeyID=0, nResID=0, fSNR=6593, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F005\F005_013.wav 0
+Time:0h:11m:43s:440ms - 0h:11m:44s:670ms, n1PassCMScore=-32768, n2PassCMScore=226, nFrame=124, WakeUp,  KeyID=0, nResID=0, fSNR=2024, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F005\F005_014.wav 0
+Time:0h:11m:45s:940ms - 0h:11m:47s:90ms, n1PassCMScore=-32768, n2PassCMScore=214, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=1565, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F005\F005_015.wav 0
+Time:0h:11m:48s:270ms - 0h:11m:49s:460ms, n1PassCMScore=-32768, n2PassCMScore=205, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=80, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F005\F005_016.wav 0
+Time:0h:11m:50s:640ms - 0h:11m:51s:830ms, n1PassCMScore=-32768, n2PassCMScore=246, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=1916, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F007\F007_013.wav 0
+Time:0h:11m:52s:980ms - 0h:11m:54s:290ms, n1PassCMScore=-32768, n2PassCMScore=211, nFrame=132, WakeUp,  KeyID=0, nResID=0, fSNR=6057, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F007\F007_014.wav 0
+Time:0h:11m:55s:520ms - 0h:11m:56s:730ms, n1PassCMScore=-32768, n2PassCMScore=209, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=7492, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F007\F007_015.wav 0
+Time:0h:11m:57s:920ms - 0h:11m:59s:130ms, n1PassCMScore=-32768, n2PassCMScore=226, nFrame=122, WakeUp,  KeyID=0, nResID=0, fSNR=6428, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F007\F007_016.wav 0
+Time:0h:12m:0s:220ms - 0h:12m:1s:500ms, n1PassCMScore=-32768, n2PassCMScore=209, nFrame=129, WakeUp,  KeyID=0, nResID=0, fSNR=7498, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F008\F008_013.wav 0
+Time:0h:12m:2s:680ms - 0h:12m:4s:100ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=1618, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F008\F008_014.wav 0
+Time:0h:12m:5s:350ms - 0h:12m:6s:670ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=133, WakeUp,  KeyID=0, nResID=0, fSNR=1041, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F008\F008_015.wav 0
+Time:0h:12m:7s:810ms - 0h:12m:9s:110ms, n1PassCMScore=-32768, n2PassCMScore=91, nFrame=131, WakeUp,  KeyID=0, nResID=0, fSNR=2249, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F008\F008_016.wav 0
+Time:0h:12m:10s:180ms - 0h:12m:11s:470ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=130, WakeUp,  KeyID=0, nResID=0, fSNR=667, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F013\F013_013.wav 0
+Time:0h:12m:12s:540ms - 0h:12m:13s:950ms, n1PassCMScore=-32768, n2PassCMScore=154, nFrame=142, WakeUp,  KeyID=0, nResID=0, fSNR=5104, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F013\F013_014.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F013\F013_015.wav 0
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F013\F013_016.wav 0
+Time:0h:12m:20s:690ms - 0h:12m:22s:110ms, n1PassCMScore=-32768, n2PassCMScore=159, nFrame=143, WakeUp,  KeyID=0, nResID=0, fSNR=3688, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F016\F016_013.wav 0
+Time:0h:12m:23s:360ms - 0h:12m:24s:280ms, n1PassCMScore=-32768, n2PassCMScore=234, nFrame=93, WakeUp,  KeyID=0, nResID=0, fSNR=3682, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F016\F016_014.wav 0
+Time:0h:12m:25s:320ms - 0h:12m:26s:200ms, n1PassCMScore=-32768, n2PassCMScore=207, nFrame=89, WakeUp,  KeyID=0, nResID=0, fSNR=3805, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F016\F016_015.wav 0
+Time:0h:12m:27s:240ms - 0h:12m:28s:150ms, n1PassCMScore=-32768, n2PassCMScore=211, nFrame=92, WakeUp,  KeyID=0, nResID=0, fSNR=2569, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F016\F016_016.wav 0
+Time:0h:12m:29s:230ms - 0h:12m:30s:130ms, n1PassCMScore=-32768, n2PassCMScore=225, nFrame=91, WakeUp,  KeyID=0, nResID=0, fSNR=1376, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F101\F101_013.wav 0
+Time:0h:12m:31s:200ms - 0h:12m:32s:470ms, n1PassCMScore=-32768, n2PassCMScore=214, nFrame=128, WakeUp,  KeyID=0, nResID=0, fSNR=2117, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F101\F101_014.wav 0
+Time:0h:12m:33s:630ms - 0h:12m:34s:830ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=60, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F101\F101_015.wav 0
+Time:0h:12m:35s:850ms - 0h:12m:37s:170ms, n1PassCMScore=-32768, n2PassCMScore=170, nFrame=133, WakeUp,  KeyID=0, nResID=0, fSNR=1729, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F101\F101_016.wav 0
+Time:0h:12m:38s:270ms - 0h:12m:39s:550ms, n1PassCMScore=-32768, n2PassCMScore=214, nFrame=129, WakeUp,  KeyID=0, nResID=0, fSNR=1845, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F105\F105_013.wav 0
+Time:0h:12m:40s:630ms - 0h:12m:42s:90ms, n1PassCMScore=-32768, n2PassCMScore=170, nFrame=147, WakeUp,  KeyID=0, nResID=0, fSNR=4830, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F105\F105_014.wav 0
+Time:0h:12m:43s:250ms - 0h:12m:44s:630ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=139, WakeUp,  KeyID=0, nResID=0, fSNR=6214, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F105\F105_015.wav 0
+Time:0h:12m:45s:770ms - 0h:12m:47s:200ms, n1PassCMScore=-32768, n2PassCMScore=184, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=5205, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F105\F105_016.wav 0
+Time:0h:12m:48s:290ms - 0h:12m:49s:680ms, n1PassCMScore=-32768, n2PassCMScore=202, nFrame=140, WakeUp,  KeyID=0, nResID=0, fSNR=5872, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F106\F106_013.wav 0
+Time:0h:12m:50s:830ms - 0h:12m:52s:780ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=196, WakeUp,  KeyID=0, nResID=0, fSNR=5433, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F106\F106_014.wav 0
+Time:0h:12m:54s:0ms - 0h:12m:55s:230ms, n1PassCMScore=-32768, n2PassCMScore=177, nFrame=124, WakeUp,  KeyID=0, nResID=0, fSNR=3714, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F106\F106_015.wav 0
+Time:0h:12m:56s:400ms - 0h:12m:57s:560ms, n1PassCMScore=-32768, n2PassCMScore=205, nFrame=117, WakeUp,  KeyID=0, nResID=0, fSNR=3379, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F106\F106_016.wav 0
+Time:0h:12m:58s:740ms - 0h:12m:59s:890ms, n1PassCMScore=-32768, n2PassCMScore=189, nFrame=116, WakeUp,  KeyID=0, nResID=0, fSNR=4076, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F108\F108_013.wav 0
+Time:0h:13m:1s:30ms - 0h:13m:2s:390ms, n1PassCMScore=-32768, n2PassCMScore=193, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=919, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F108\F108_014.wav 0
+Time:0h:13m:3s:580ms - 0h:13m:4s:930ms, n1PassCMScore=-32768, n2PassCMScore=169, nFrame=136, WakeUp,  KeyID=0, nResID=0, fSNR=3782, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F108\F108_015.wav 0
+Time:0h:13m:6s:70ms - 0h:13m:7s:430ms, n1PassCMScore=-32768, n2PassCMScore=173, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=4820, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F108\F108_016.wav 0
+Time:0h:13m:8s:570ms - 0h:13m:9s:980ms, n1PassCMScore=-32768, n2PassCMScore=186, nFrame=142, WakeUp,  KeyID=0, nResID=0, fSNR=7536, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F109\F109_013.wav 0
+Time:0h:13m:11s:110ms - 0h:13m:12s:600ms, n1PassCMScore=-32768, n2PassCMScore=169, nFrame=150, WakeUp,  KeyID=0, nResID=0, fSNR=2629, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F109\F109_014.wav 0
+Time:0h:13m:13s:870ms - 0h:13m:15s:300ms, n1PassCMScore=-32768, n2PassCMScore=203, nFrame=144, WakeUp,  KeyID=0, nResID=0, fSNR=3892, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F109\F109_015.wav 0
+Time:0h:13m:16s:520ms - 0h:13m:17s:920ms, n1PassCMScore=-32768, n2PassCMScore=196, nFrame=141, WakeUp,  KeyID=0, nResID=0, fSNR=2709, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\SL\F109\F109_016.wav 0
+Time:0h:13m:19s:140ms - 0h:13m:20s:530ms, n1PassCMScore=-32768, n2PassCMScore=206, nFrame=140, WakeUp,  KeyID=0, nResID=0, fSNR=328, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F111\F111_013.wav 0
+Time:0h:13m:21s:700ms - 0h:13m:22s:980ms, n1PassCMScore=-32768, n2PassCMScore=113, nFrame=129, WakeUp,  KeyID=0, nResID=0, fSNR=4598, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F111\F111_014.wav 0
+Time:0h:13m:24s:140ms - 0h:13m:25s:430ms, n1PassCMScore=-32768, n2PassCMScore=211, nFrame=130, WakeUp,  KeyID=0, nResID=0, fSNR=4039, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F111\F111_015.wav 0
+Time:0h:13m:26s:570ms - 0h:13m:27s:910ms, n1PassCMScore=-32768, n2PassCMScore=221, nFrame=135, WakeUp,  KeyID=0, nResID=0, fSNR=4458, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F111\F111_016.wav 0
+Time:0h:13m:29s:20ms - 0h:13m:30s:330ms, n1PassCMScore=-32768, n2PassCMScore=207, nFrame=132, WakeUp,  KeyID=0, nResID=0, fSNR=3747, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F114\F114_013.wav 0
+Time:0h:13m:31s:400ms - 0h:13m:32s:440ms, n1PassCMScore=-32768, n2PassCMScore=188, nFrame=105, WakeUp,  KeyID=0, nResID=0, fSNR=4039, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F114\F114_014.wav 0
+Time:0h:13m:33s:520ms - 0h:13m:34s:560ms, n1PassCMScore=-32768, n2PassCMScore=196, nFrame=105, WakeUp,  KeyID=0, nResID=0, fSNR=2469, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F114\F114_015.wav 0
+Time:0h:13m:35s:620ms - 0h:13m:36s:690ms, n1PassCMScore=-32768, n2PassCMScore=179, nFrame=108, WakeUp,  KeyID=0, nResID=0, fSNR=3774, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\F114\F114_016.wav 0
+Time:0h:13m:37s:780ms - 0h:13m:38s:880ms, n1PassCMScore=-32768, n2PassCMScore=194, nFrame=111, WakeUp,  KeyID=0, nResID=0, fSNR=2413, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M001\M001_013.wav 0
+Time:0h:13m:39s:990ms - 0h:13m:41s:190ms, n1PassCMScore=-32768, n2PassCMScore=206, nFrame=121, WakeUp,  KeyID=0, nResID=0, fSNR=71220, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M001\M001_014.wav 0
+Time:0h:13m:42s:210ms - 0h:13m:43s:400ms, n1PassCMScore=-32768, n2PassCMScore=189, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=51263, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M001\M001_015.wav 0
+Time:0h:13m:44s:450ms - 0h:13m:45s:570ms, n1PassCMScore=-32768, n2PassCMScore=135, nFrame=113, WakeUp,  KeyID=0, nResID=0, fSNR=5031, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M001\M001_016.wav 0
+Time:0h:13m:46s:600ms - 0h:13m:47s:730ms, n1PassCMScore=-32768, n2PassCMScore=196, nFrame=114, WakeUp,  KeyID=0, nResID=0, fSNR=21942, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M003\M003_013.wav 0
+Time:0h:13m:48s:690ms - 0h:13m:49s:860ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=118, WakeUp,  KeyID=0, nResID=0, fSNR=1569, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M003\M003_014.wav 0
+Time:0h:13m:50s:760ms - 0h:13m:51s:980ms, n1PassCMScore=-32768, n2PassCMScore=190, nFrame=123, WakeUp,  KeyID=0, nResID=0, fSNR=972, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M003\M003_015.wav 0
+Time:0h:13m:52s:910ms - 0h:13m:54s:140ms, n1PassCMScore=-32768, n2PassCMScore=171, nFrame=124, WakeUp,  KeyID=0, nResID=0, fSNR=125, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M003\M003_016.wav 0
+Time:0h:13m:55s:150ms - 0h:13m:56s:370ms, n1PassCMScore=-32768, n2PassCMScore=157, nFrame=123, WakeUp,  KeyID=0, nResID=0, fSNR=1162, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M006\M006_013.wav 0
+Time:0h:13m:57s:470ms - 0h:13m:58s:700ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=124, WakeUp,  KeyID=0, nResID=0, fSNR=19, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M006\M006_014.wav 0
+Time:0h:13m:59s:830ms - 0h:14m:1s:110ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=129, WakeUp,  KeyID=0, nResID=0, fSNR=1191, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M006\M006_015.wav 0
+Time:0h:14m:2s:210ms - 0h:14m:3s:400ms, n1PassCMScore=-32768, n2PassCMScore=109, nFrame=120, WakeUp,  KeyID=0, nResID=0, fSNR=265, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M006\M006_016.wav 0
+Time:0h:14m:4s:590ms - 0h:14m:5s:850ms, n1PassCMScore=-32768, n2PassCMScore=161, nFrame=127, WakeUp,  KeyID=0, nResID=0, fSNR=1604, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M009\M009_013.wav 0
+Time:0h:14m:6s:960ms - 0h:14m:8s:320ms, n1PassCMScore=-32768, n2PassCMScore=129, nFrame=137, WakeUp,  KeyID=0, nResID=0, fSNR=5174, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M009\M009_014.wav 0
+Time:0h:14m:9s:520ms - 0h:14m:10s:890ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=138, WakeUp,  KeyID=0, nResID=0, fSNR=6882, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M009\M009_015.wav 0
+Time:0h:14m:12s:40ms - 0h:14m:13s:340ms, n1PassCMScore=-32768, n2PassCMScore=143, nFrame=131, WakeUp,  KeyID=0, nResID=0, fSNR=3986, 		
+
+\\192.168.24.29\GeRenWenJian\chma\20160617多唤醒测试\集内词\X3\TTS\M009\M009_016.wav 0
+--------Wrap引擎版本:5.0.1011--------------
+--------一遍引擎版本:Ivw3.6.2001--------------
+--------二遍引擎版本:Ivw4.0.1016--------------
+
+===============================================================================================
+TestList=F:\0_支持\车载效果分析\1_车载一致性\car\scp\nhyyzl.scp
+1PassRes=2PassRes=
+			KeyID = 0, Thresh = 0
+TestResID = 0, KeyID = 0
+b2PassOfflineTest=0
+Enter2PassThr=0
+Enter2PassExtMS=[0,0]
+bTestNoise=0
+
+bCreateObjPerPCM = 0
+bResetObjPerPCM = 0
+nSNRThresh = 105
+nSNRSkipNoiseMS = 0
+nSNRNoiseMS = 400
+nSNRCMThrDIF = 20
+nSNREndSilMS = 30
+Support nKeywordMaxMS = 4000
+Support nKeywordMinMS = 100
+-----------------------------------------------------------------------------------------------
+--------------------------唤醒率统计-----------------------------------
+测试总次数=360, 唤醒次数=290, 唤醒率=80.6%
+-------Male PcmAll=192, wakeup = 139, rate = 72.4%
+-------Female PcmAll=168, wakeup = 151, rate = 89.9%
+
+-----------------------------------------------------------------------------------------------
+Total Time =0h:14m
+-----------------------------------------------------------------------------------------------
+连续无法唤醒最大次数 = 7
+一遍唤醒出结果硬延时时长范围 = [32767ms, -32767ms]

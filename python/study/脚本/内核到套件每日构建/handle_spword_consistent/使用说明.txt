@@ -1,0 +1,6 @@
+工具支持规整套件识别结果，然后进行引擎和套件结果对比的功能。使用说明如下：
+1.在Config.xml中填写"suitPath","suitTempPath"。分别对应套件结果和套件规整后结果路径
+2."recPath",用于指定识别结果保存路径
+3.运行Script.py进行一致性对比(所有配置文件配置项支持同名cmd命令行参数)
+
+4.规整脚本("ReadPOIXPResult.py")存放在lib文件夹中

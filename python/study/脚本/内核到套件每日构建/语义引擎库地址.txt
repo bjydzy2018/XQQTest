@@ -1,0 +1,10 @@
+语义引擎：
+①配置文件
+http://192.168.75.131/nexus/content/repositories/SE-3rdParty/TestPlatform/CheZaiTaoJian-HIPPO3.5-TEST/4.0/99999/CheZaiTaoJian-HIPPO3.5TEST-CONFIGS.zip 
+
+②资源包
+http://192.168.75.131/nexus/content/repositories/SE-3rdParty/TestPlatform/CheZaiTaoJian-HIPPO3.5-TEST/4.0/99999/CheZaiTaoJian-HIPPO3.5TEST-RESPACK.zip 
+
+
+分词引擎资源包：
+http://192.168.75.131/nexus/content/repositories/SE-3rdParty/TestPlatform/CheZaiTaoJian-SPWORD-TEST/2.0/99999/CheZaiTaoJian-SPWORDTEST-RESOURCES.zip

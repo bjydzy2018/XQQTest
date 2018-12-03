@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test>
+	<version>1.0</version>		<!-- 版本 -->
+	<mode>细粒度</mode>		<!-- 模式 -->
+	
+	<suitPath>./Resource/isssr.log</suitPath>		<!-- 套件结果路径 -->
+	<suitTempPath>./Resource/out_suit.txt</suitTempPath>	<!-- 套件规整结果路径 -->
+	
+	<recPath>./Resource/result_performance_SR.txt</recPath>		<!-- 引擎结果路径 -->
+	
+	<result>./Result</result>	<!-- 结果目录 -->
+	<logPath>./Log</logPath>	<!-- 日志目录 -->
+	<logLevel>1</logLevel>		<!-- 日志级别 1:debug,2:info,3:warning,4:error,5:critical , 数字越大日志越少-->
+</Test>

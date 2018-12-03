@@ -1,0 +1,361 @@
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F002_013-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:186,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":186, "wakeup":1, "nStartBytes":18240, "nEndBytes":61440}	170
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F002_014-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:180,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":180, "wakeup":1, "nStartBytes":106880, "nEndBytes":150080}	216
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F002_015-1.9s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:222,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":222, "wakeup":1, "nStartBytes":192320, "nEndBytes":232960}	186
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F002_016-1.9s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:242,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":242, "wakeup":1, "nStartBytes":274560, "nEndBytes":314560}	206
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F004_013-2.1s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:157,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":352960, "nEndBytes":403840}	127
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F004_014-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:226,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":226, "wakeup":1, "nStartBytes":439680, "nEndBytes":485440}	81
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F004_015-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:207,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":207, "wakeup":1, "nStartBytes":520320, "nEndBytes":568640}	265
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F004_016-2.1s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:220,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":220, "wakeup":1, "nStartBytes":604480, "nEndBytes":652160}	120
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F005_013-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:254,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":254, "wakeup":1, "nStartBytes":685760, "nEndBytes":726720}	-112
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F005_014-1.8s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:225,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":225, "wakeup":1, "nStartBytes":765760, "nEndBytes":804160}	136
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F005_015-1.9s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:237,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":237, "wakeup":1, "nStartBytes":840640, "nEndBytes":880320}	-62
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F005_016-1.8s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:240,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":240, "wakeup":1, "nStartBytes":916800, "nEndBytes":955840}	47
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F007_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:210,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":210, "wakeup":1, "nStartBytes":993280, "nEndBytes":1035840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F007_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:199,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":199, "wakeup":1, "nStartBytes":1074880, "nEndBytes":1113920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F007_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:225,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":225, "wakeup":1, "nStartBytes":1152320, "nEndBytes":1191040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F007_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:212,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":212, "wakeup":1, "nStartBytes":1225600, "nEndBytes":1266880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F008_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:204,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":204, "wakeup":1, "nStartBytes":1304000, "nEndBytes":1350400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F008_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:145,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":145, "wakeup":1, "nStartBytes":1389760, "nEndBytes":1432320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F008_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:168,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":168, "wakeup":1, "nStartBytes":1468160, "nEndBytes":1510720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F008_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:172,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":172, "wakeup":1, "nStartBytes":1545280, "nEndBytes":1585920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F013_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:139,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":139, "wakeup":1, "nStartBytes":1619840, "nEndBytes":1667200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F013_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:107,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":1710080, "nEndBytes":1760320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F013_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F013_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:159,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":159, "wakeup":1, "nStartBytes":1882560, "nEndBytes":1928640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F016_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:238,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":238, "wakeup":1, "nStartBytes":1966720, "nEndBytes":1997120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F016_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:217,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":217, "wakeup":1, "nStartBytes":2029440, "nEndBytes":2058560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F016_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:234,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":234, "wakeup":1, "nStartBytes":2091520, "nEndBytes":2120960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F016_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:227,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":227, "wakeup":1, "nStartBytes":2155200, "nEndBytes":2184320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F101_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:189,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":189, "wakeup":1, "nStartBytes":2217920, "nEndBytes":2259520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F101_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:182,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":182, "wakeup":1, "nStartBytes":2292160, "nEndBytes":2334720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F101_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:177,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":177, "wakeup":1, "nStartBytes":2367680, "nEndBytes":2409600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F101_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:220,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":220, "wakeup":1, "nStartBytes":2445120, "nEndBytes":2486720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F105_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:192,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":192, "wakeup":1, "nStartBytes":2520320, "nEndBytes":2567680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F105_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:184,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":184, "wakeup":1, "nStartBytes":2603200, "nEndBytes":2649280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F105_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:201,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":201, "wakeup":1, "nStartBytes":2684800, "nEndBytes":2731520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F105_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:207,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":207, "wakeup":1, "nStartBytes":2764800, "nEndBytes":2810880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F106_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:161,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":161, "wakeup":1, "nStartBytes":2846400, "nEndBytes":2910400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F106_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:165,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":165, "wakeup":1, "nStartBytes":2949440, "nEndBytes":2989120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F106_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:212,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":212, "wakeup":1, "nStartBytes":3025280, "nEndBytes":3063680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F106_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:204,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":204, "wakeup":1, "nStartBytes":3100480, "nEndBytes":3138560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F108_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:227,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":227, "wakeup":1, "nStartBytes":3174080, "nEndBytes":3218880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F108_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:215,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":215, "wakeup":1, "nStartBytes":3255360, "nEndBytes":3300480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F108_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:196,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":196, "wakeup":1, "nStartBytes":3336000, "nEndBytes":3381440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F108_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:210,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":210, "wakeup":1, "nStartBytes":3416000, "nEndBytes":3462080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F109_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:180,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":180, "wakeup":1, "nStartBytes":3497920, "nEndBytes":3545600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F109_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:219,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":219, "wakeup":1, "nStartBytes":3585600, "nEndBytes":3632640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F109_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:205,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":205, "wakeup":1, "nStartBytes":3670400, "nEndBytes":3716480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F109_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:234,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":234, "wakeup":1, "nStartBytes":3754560, "nEndBytes":3800000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F111_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:212,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":212, "wakeup":1, "nStartBytes":3835840, "nEndBytes":3878080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F111_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:239,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":239, "wakeup":1, "nStartBytes":3914560, "nEndBytes":3957120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F111_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:233,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":233, "wakeup":1, "nStartBytes":3993600, "nEndBytes":4036800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F111_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:246,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":246, "wakeup":1, "nStartBytes":4071680, "nEndBytes":4114240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F114_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:203,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":203, "wakeup":1, "nStartBytes":4147520, "nEndBytes":4182400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F114_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:222,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":222, "wakeup":1, "nStartBytes":4216000, "nEndBytes":4250240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F114_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:219,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":219, "wakeup":1, "nStartBytes":4283200, "nEndBytes":4318400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/F114_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:201,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":201, "wakeup":1, "nStartBytes":4352320, "nEndBytes":4388480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M001_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:180,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":180, "wakeup":1, "nStartBytes":4424320, "nEndBytes":4462400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M001_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:181,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":181, "wakeup":1, "nStartBytes":4495680, "nEndBytes":4533760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M001_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:150,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":150, "wakeup":1, "nStartBytes":4566400, "nEndBytes":4602880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M001_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:174,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":174, "wakeup":1, "nStartBytes":4635200, "nEndBytes":4672640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M003_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:183,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":183, "wakeup":1, "nStartBytes":4703360, "nEndBytes":4740800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M003_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:183,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":183, "wakeup":1, "nStartBytes":4769600, "nEndBytes":4808640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M003_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:179,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":179, "wakeup":1, "nStartBytes":4838080, "nEndBytes":4877760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M003_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:180,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":180, "wakeup":1, "nStartBytes":4910400, "nEndBytes":4949120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M006_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:178,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":178, "wakeup":1, "nStartBytes":4982400, "nEndBytes":5025280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M006_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:208,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":208, "wakeup":1, "nStartBytes":5059200, "nEndBytes":5103040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M006_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:191,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":191, "wakeup":1, "nStartBytes":5135680, "nEndBytes":5177280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M006_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:191,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":191, "wakeup":1, "nStartBytes":5212160, "nEndBytes":5253760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M009_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:144,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":144, "wakeup":1, "nStartBytes":5288320, "nEndBytes":5333440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M009_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:114,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":114, "wakeup":1, "nStartBytes":5369600, "nEndBytes":5415040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M009_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:109,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":109, "wakeup":1, "nStartBytes":5450880, "nEndBytes":5494080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M009_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:110,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":110, "wakeup":1, "nStartBytes":5530880, "nEndBytes":5575680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M010_013-2.1s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:145,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":145, "wakeup":1, "nStartBytes":5613440, "nEndBytes":5658880}	52
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M010_014-2.1s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:131,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":131, "wakeup":1, "nStartBytes":5696640, "nEndBytes":5742400}	10
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M010_015-2.2s.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M010_016-2.1s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:120,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":5863360, "nEndBytes":5909120}	123
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M011_013-1.8s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:132,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":132, "wakeup":1, "nStartBytes":5953920, "nEndBytes":5992640}	112
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M011_014-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:131,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":131, "wakeup":1, "nStartBytes":6031680, "nEndBytes":6069760}	157
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M011_015-1.6s.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M011_016-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:114,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":114, "wakeup":1, "nStartBytes":6185920, "nEndBytes":6221440}	266
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M012_013-1.8s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:131,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":131, "wakeup":1, "nStartBytes":6258560, "nEndBytes":6301760}	142
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M012_014-1.9s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:103,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":103, "wakeup":1, "nStartBytes":6338240, "nEndBytes":6380480}	123
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M012_015-1.7s.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M012_016-1.8s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:112,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":6495680, "nEndBytes":6537280}	87
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M014_013-1.3s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:150,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":150, "wakeup":1, "nStartBytes":6573440, "nEndBytes":6600640}	273
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M014_014-1.4s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:149,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":149, "wakeup":1, "nStartBytes":6633920, "nEndBytes":6663040}	235
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M014_015-1.4s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:251,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":251, "wakeup":1, "nStartBytes":6694720, "nEndBytes":6726080}	216
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M014_016-1.4s.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M015_013-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:261,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":261, "wakeup":1, "nStartBytes":6820800, "nEndBytes":6858240}	238
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M015_014-1.5s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:278,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":278, "wakeup":1, "nStartBytes":6890560, "nEndBytes":6925120}	202
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M015_015-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:248,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":248, "wakeup":1, "nStartBytes":6955520, "nEndBytes":6990400}	204
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M015_016-1.5s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:240,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":240, "wakeup":1, "nStartBytes":7020480, "nEndBytes":7054400}	163
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M102_013-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:151,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":151, "wakeup":1, "nStartBytes":7085120, "nEndBytes":7130240}	54
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M102_014-2.1s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:156,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":156, "wakeup":1, "nStartBytes":7166720, "nEndBytes":7215360}	97
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M102_015-2.2s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:136,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":7250560, "nEndBytes":7298880}	-74
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M102_016-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:119,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":7334720, "nEndBytes":7382080}	65
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M103_013-1.8s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:87,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":87, "wakeup":1, "nStartBytes":7416960, "nEndBytes":7460800}	268
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M103_014-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:139,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":139, "wakeup":1, "nStartBytes":7495680, "nEndBytes":7536320}	164
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M103_015-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":7568320, "nEndBytes":7606400}	108
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M103_016-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:212,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":212, "wakeup":1, "nStartBytes":7640000, "nEndBytes":7679040}	134
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M104_013-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:194,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":194, "wakeup":1, "nStartBytes":7710400, "nEndBytes":7754880}	34
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M104_014-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:142,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":142, "wakeup":1, "nStartBytes":7789120, "nEndBytes":7837440}	124
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M104_015-2.0s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:187,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":187, "wakeup":1, "nStartBytes":7870400, "nEndBytes":7917120}	152
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M104_016-1.9s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:126,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":7950720, "nEndBytes":7996480}	133
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M107_013-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:141,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":141, "wakeup":1, "nStartBytes":8030400, "nEndBytes":8064960}	167
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M107_014-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:164,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":8099520, "nEndBytes":8133760}	116
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M107_015-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:180,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":180, "wakeup":1, "nStartBytes":8168320, "nEndBytes":8205120}	84
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M107_016-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:143,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":143, "wakeup":1, "nStartBytes":8237760, "nEndBytes":8276480}	66
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M110_013-1.8s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:239,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":239, "wakeup":1, "nStartBytes":8312320, "nEndBytes":8351360}	147
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M110_014-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:199,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":199, "wakeup":1, "nStartBytes":8382400, "nEndBytes":8416960}	62
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M110_015-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:236,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":236, "wakeup":1, "nStartBytes":8448000, "nEndBytes":8484480}	230
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M110_016-1.9s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:195,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":195, "wakeup":1, "nStartBytes":8515520, "nEndBytes":8558720}	105
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M112_013-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:246,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":246, "wakeup":1, "nStartBytes":8591040, "nEndBytes":8628480}	178
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M112_014-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:237,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":237, "wakeup":1, "nStartBytes":8663360, "nEndBytes":8700800}	166
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M112_015-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:194,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":194, "wakeup":1, "nStartBytes":8735360, "nEndBytes":8772160}	143
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M112_016-1.6s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:196,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":196, "wakeup":1, "nStartBytes":8806080, "nEndBytes":8839040}	155
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M113_013-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:228,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":228, "wakeup":1, "nStartBytes":8873920, "nEndBytes":8911680}	169
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M113_014-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:219,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":219, "wakeup":1, "nStartBytes":8947520, "nEndBytes":8986240}	249
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M113_015-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:255,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":255, "wakeup":1, "nStartBytes":9021760, "nEndBytes":9060480}	159
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X1/M113_016-1.7s.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:236,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":236, "wakeup":1, "nStartBytes":9095680, "nEndBytes":9133120}	121
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F002_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:176,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":176, "wakeup":1, "nStartBytes":9172160, "nEndBytes":9215680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F002_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:161,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":161, "wakeup":1, "nStartBytes":9261440, "nEndBytes":9303680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F002_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:202,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":202, "wakeup":1, "nStartBytes":9347200, "nEndBytes":9386880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F002_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:176,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":176, "wakeup":1, "nStartBytes":9429760, "nEndBytes":9468800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F004_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:86,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":9508160, "nEndBytes":9553920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F004_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:100,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":9595520, "nEndBytes":9634560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F004_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F004_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:127,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":9761600, "nEndBytes":9804480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F005_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:232,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":232, "wakeup":1, "nStartBytes":9840960, "nEndBytes":9881280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F005_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:186,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":186, "wakeup":1, "nStartBytes":9921280, "nEndBytes":9958720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F005_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F005_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:231,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":231, "wakeup":1, "nStartBytes":10072000, "nEndBytes":10110720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F007_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:156,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":156, "wakeup":1, "nStartBytes":10147520, "nEndBytes":10189440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F007_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:162,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":10229440, "nEndBytes":10267840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F007_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:215,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":215, "wakeup":1, "nStartBytes":10305920, "nEndBytes":10344640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F007_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:186,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":186, "wakeup":1, "nStartBytes":10379520, "nEndBytes":10420480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F008_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F008_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F008_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F008_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:116,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":10699200, "nEndBytes":10739520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F013_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:118,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":118, "wakeup":1, "nStartBytes":10775040, "nEndBytes":10817920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F013_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F013_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F013_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F016_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:181,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":181, "wakeup":1, "nStartBytes":11121600, "nEndBytes":11151040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F016_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:138,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":138, "wakeup":1, "nStartBytes":11184640, "nEndBytes":11212480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F016_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":11246400, "nEndBytes":11274560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F016_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:99,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":99, "wakeup":1, "nStartBytes":11310720, "nEndBytes":11340480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F101_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:94,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":11372800, "nEndBytes":11410880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F101_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:164,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":11447360, "nEndBytes":11488000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F101_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F101_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:115,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":11600320, "nEndBytes":11636800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F105_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:168,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":168, "wakeup":1, "nStartBytes":11675520, "nEndBytes":11721280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F105_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:168,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":168, "wakeup":1, "nStartBytes":11757760, "nEndBytes":11802880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F105_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:182,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":182, "wakeup":1, "nStartBytes":11839040, "nEndBytes":11885120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F105_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:196,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":196, "wakeup":1, "nStartBytes":11919680, "nEndBytes":11964480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F106_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":12002240, "nEndBytes":12064640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F106_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:173,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":173, "wakeup":1, "nStartBytes":12104320, "nEndBytes":12143680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F106_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:162,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":12180160, "nEndBytes":12218240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F106_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:189,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":189, "wakeup":1, "nStartBytes":12256000, "nEndBytes":12293120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F108_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:118,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":118, "wakeup":1, "nStartBytes":12329280, "nEndBytes":12371840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F108_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:173,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":173, "wakeup":1, "nStartBytes":12410560, "nEndBytes":12454080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F108_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:164,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":12490240, "nEndBytes":12534720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F108_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:150,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":150, "wakeup":1, "nStartBytes":12571840, "nEndBytes":12615360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F109_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:139,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":139, "wakeup":1, "nStartBytes":12651840, "nEndBytes":12698880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F109_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F109_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F109_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":12909120, "nEndBytes":12952960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F111_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F111_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:101,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":13071040, "nEndBytes":13111040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F111_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:154,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":154, "wakeup":1, "nStartBytes":13148800, "nEndBytes":13190400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F111_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F114_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:187,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":187, "wakeup":1, "nStartBytes":13302720, "nEndBytes":13336320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F114_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:181,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":181, "wakeup":1, "nStartBytes":13371200, "nEndBytes":13404480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F114_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:190,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":190, "wakeup":1, "nStartBytes":13438080, "nEndBytes":13472640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/F114_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:198,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":198, "wakeup":1, "nStartBytes":13507840, "nEndBytes":13543360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M001_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M001_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M001_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:95,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":95, "wakeup":1, "nStartBytes":13721600, "nEndBytes":13753280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M001_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:105,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":105, "wakeup":1, "nStartBytes":13791360, "nEndBytes":13824000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M003_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M003_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M003_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M003_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M006_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M006_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M006_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M006_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:103,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":103, "wakeup":1, "nStartBytes":14367360, "nEndBytes":14405120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M009_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M009_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M009_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:114,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":114, "wakeup":1, "nStartBytes":14606400, "nEndBytes":14647360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M009_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:111,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":111, "wakeup":1, "nStartBytes":14687360, "nEndBytes":14730240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M010_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:120,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":14768640, "nEndBytes":14812480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M010_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:116,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":14852480, "nEndBytes":14894720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M010_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:107,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":14933440, "nEndBytes":14976320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M010_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:120,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":15018240, "nEndBytes":15060160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M011_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M011_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M011_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:94,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":15263680, "nEndBytes":15298240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M011_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M012_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:133,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":133, "wakeup":1, "nStartBytes":15412800, "nEndBytes":15456320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M012_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:132,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":132, "wakeup":1, "nStartBytes":15492160, "nEndBytes":15535040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M012_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:113,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":15572480, "nEndBytes":15616960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M012_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:107,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":15649920, "nEndBytes":15692480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M014_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:155,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":155, "wakeup":1, "nStartBytes":15727040, "nEndBytes":15754880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M014_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:161,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":161, "wakeup":1, "nStartBytes":15786880, "nEndBytes":15817280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M014_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:168,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":168, "wakeup":1, "nStartBytes":15849280, "nEndBytes":15880000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M014_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:139,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":139, "wakeup":1, "nStartBytes":15912960, "nEndBytes":15943040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M015_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M015_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M015_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M015_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M102_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M102_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M102_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M102_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M103_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M103_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:95,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":95, "wakeup":1, "nStartBytes":16649920, "nEndBytes":16688320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M103_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:111,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":111, "wakeup":1, "nStartBytes":16722560, "nEndBytes":16759040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M103_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:98,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":98, "wakeup":1, "nStartBytes":16794240, "nEndBytes":16830400}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M104_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:112,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":16864960, "nEndBytes":16909120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M104_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:96,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":16943360, "nEndBytes":16991680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M104_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:125,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":125, "wakeup":1, "nStartBytes":17025280, "nEndBytes":17072000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M104_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":17104960, "nEndBytes":17151680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M107_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M107_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:96,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":17255040, "nEndBytes":17285760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M107_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M107_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M110_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M110_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M110_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M110_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M112_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:128,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":17746240, "nEndBytes":17780160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M112_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:93,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":93, "wakeup":1, "nStartBytes":17819840, "nEndBytes":17850880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M112_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:117,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":117, "wakeup":1, "nStartBytes":17893120, "nEndBytes":17923520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M112_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:102,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":102, "wakeup":1, "nStartBytes":17960960, "nEndBytes":17991680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M113_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:148,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":148, "wakeup":1, "nStartBytes":18029760, "nEndBytes":18065920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M113_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:129,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":129, "wakeup":1, "nStartBytes":18103680, "nEndBytes":18140160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M113_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:130,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":130, "wakeup":1, "nStartBytes":18177600, "nEndBytes":18213760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X2/M113_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:130,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":130, "wakeup":1, "nStartBytes":18252160, "nEndBytes":18286080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F002_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:144,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":144, "wakeup":1, "nStartBytes":18328000, "nEndBytes":18370560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F002_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:140,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":18417600, "nEndBytes":18458560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F002_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:172,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":172, "wakeup":1, "nStartBytes":18502080, "nEndBytes":18541440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F002_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:202,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":202, "wakeup":1, "nStartBytes":18585280, "nEndBytes":18623040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F004_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:160,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":160, "wakeup":1, "nStartBytes":18663040, "nEndBytes":18713600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F004_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:197,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":197, "wakeup":1, "nStartBytes":18749120, "nEndBytes":18795200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F004_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:164,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":18830720, "nEndBytes":18877440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F004_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:205,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":205, "wakeup":1, "nStartBytes":18915200, "nEndBytes":18961600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F005_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:237,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":237, "wakeup":1, "nStartBytes":18997440, "nEndBytes":19036480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F005_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:206,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":206, "wakeup":1, "nStartBytes":19076480, "nEndBytes":19113600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F005_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:205,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":205, "wakeup":1, "nStartBytes":19151680, "nEndBytes":19189760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F005_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:244,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":244, "wakeup":1, "nStartBytes":19227520, "nEndBytes":19265600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F007_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:208,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":208, "wakeup":1, "nStartBytes":19302400, "nEndBytes":19344640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F007_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:209,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":209, "wakeup":1, "nStartBytes":19383680, "nEndBytes":19422720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F007_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:226,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":226, "wakeup":1, "nStartBytes":19461120, "nEndBytes":19499840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F007_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:216,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":216, "wakeup":1, "nStartBytes":19534720, "nEndBytes":19575680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F008_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":19613760, "nEndBytes":19658880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F008_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:113,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":19698560, "nEndBytes":19741440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F008_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:114,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":114, "wakeup":1, "nStartBytes":19777920, "nEndBytes":19819520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F008_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:86,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":19854400, "nEndBytes":19895680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F013_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:149,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":149, "wakeup":1, "nStartBytes":19929600, "nEndBytes":19974720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F013_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:136,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":20019200, "nEndBytes":20063040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F013_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F013_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:167,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":167, "wakeup":1, "nStartBytes":20191680, "nEndBytes":20236480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F016_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:236,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":236, "wakeup":1, "nStartBytes":20276480, "nEndBytes":20305920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F016_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:205,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":205, "wakeup":1, "nStartBytes":20338880, "nEndBytes":20367360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F016_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:209,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":209, "wakeup":1, "nStartBytes":20400640, "nEndBytes":20429760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F016_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:219,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":219, "wakeup":1, "nStartBytes":20464640, "nEndBytes":20493440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F101_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:214,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":214, "wakeup":1, "nStartBytes":20528000, "nEndBytes":20568640}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F101_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:139,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":139, "wakeup":1, "nStartBytes":20605760, "nEndBytes":20644160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F101_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:172,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":172, "wakeup":1, "nStartBytes":20678080, "nEndBytes":20718720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F101_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:223,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":223, "wakeup":1, "nStartBytes":20754560, "nEndBytes":20795840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F105_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:180,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":180, "wakeup":1, "nStartBytes":20830400, "nEndBytes":20876800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F105_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:176,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":176, "wakeup":1, "nStartBytes":20914240, "nEndBytes":20958720}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F105_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:187,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":187, "wakeup":1, "nStartBytes":20995520, "nEndBytes":21040960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F105_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:198,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":198, "wakeup":1, "nStartBytes":21076160, "nEndBytes":21120320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F106_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:164,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":21157440, "nEndBytes":21219840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F106_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:177,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":177, "wakeup":1, "nStartBytes":21258560, "nEndBytes":21298560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F106_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:200,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":200, "wakeup":1, "nStartBytes":21335360, "nEndBytes":21372800}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F106_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:197,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":197, "wakeup":1, "nStartBytes":21411200, "nEndBytes":21448000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F108_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:192,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":192, "wakeup":1, "nStartBytes":21484800, "nEndBytes":21528000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F108_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:166,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":166, "wakeup":1, "nStartBytes":21565760, "nEndBytes":21609280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F108_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:174,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":174, "wakeup":1, "nStartBytes":21645760, "nEndBytes":21689920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F108_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:184,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":184, "wakeup":1, "nStartBytes":21726080, "nEndBytes":21770880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F109_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:166,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":166, "wakeup":1, "nStartBytes":21807680, "nEndBytes":21855040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F109_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:203,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":203, "wakeup":1, "nStartBytes":21895680, "nEndBytes":21941760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F109_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:193,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":193, "wakeup":1, "nStartBytes":21980800, "nEndBytes":22025600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F109_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:204,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":204, "wakeup":1, "nStartBytes":22064960, "nEndBytes":22109120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F111_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:128,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":22146560, "nEndBytes":22189440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F111_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:220,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":220, "wakeup":1, "nStartBytes":22224960, "nEndBytes":22265920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F111_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:227,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":227, "wakeup":1, "nStartBytes":22303040, "nEndBytes":22345920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F111_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:216,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":216, "wakeup":1, "nStartBytes":22381760, "nEndBytes":22423680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F114_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:187,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":187, "wakeup":1, "nStartBytes":22457600, "nEndBytes":22491520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F114_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:192,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":192, "wakeup":1, "nStartBytes":22526080, "nEndBytes":22559360}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F114_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:187,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":187, "wakeup":1, "nStartBytes":22593280, "nEndBytes":22627520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/F114_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:203,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":203, "wakeup":1, "nStartBytes":22662400, "nEndBytes":22697920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M001_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:221,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":221, "wakeup":1, "nStartBytes":22733440, "nEndBytes":22771840}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M001_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:198,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":198, "wakeup":1, "nStartBytes":22804800, "nEndBytes":22842880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M001_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:136,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":22876480, "nEndBytes":22912320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M001_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:192,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":192, "wakeup":1, "nStartBytes":22944960, "nEndBytes":22981760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M003_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:175,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":175, "wakeup":1, "nStartBytes":23012480, "nEndBytes":23049280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M003_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:183,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":183, "wakeup":1, "nStartBytes":23079040, "nEndBytes":23118080}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M003_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:171,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":171, "wakeup":1, "nStartBytes":23148160, "nEndBytes":23187200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M003_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:166,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":166, "wakeup":1, "nStartBytes":23219520, "nEndBytes":23258560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M006_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:113,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":23293120, "nEndBytes":23333440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M006_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:96,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":23369280, "nEndBytes":23410560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M006_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:108,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":108, "wakeup":1, "nStartBytes":23446080, "nEndBytes":23484160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M006_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:161,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":161, "wakeup":1, "nStartBytes":23522240, "nEndBytes":23562240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M009_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:121,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":121, "wakeup":1, "nStartBytes":23599040, "nEndBytes":23641600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M009_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:107,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":23680000, "nEndBytes":23724160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M009_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:144,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":144, "wakeup":1, "nStartBytes":23761280, "nEndBytes":23802880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M009_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M010_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:117,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":117, "wakeup":1, "nStartBytes":23922240, "nEndBytes":23967680}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M010_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M010_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M010_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:100,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":24172480, "nEndBytes":24217920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M011_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M011_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:116,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":24343040, "nEndBytes":24378880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M011_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:140,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":24418880, "nEndBytes":24453120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M011_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M012_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:97,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":24568960, "nEndBytes":24612160}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M012_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:127,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":24648960, "nEndBytes":24690560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M012_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M012_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:113,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":24805440, "nEndBytes":24847040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M014_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:189,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":189, "wakeup":1, "nStartBytes":24882880, "nEndBytes":24911040}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M014_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:234,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":234, "wakeup":1, "nStartBytes":24942400, "nEndBytes":24973120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M014_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:210,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":210, "wakeup":1, "nStartBytes":25004800, "nEndBytes":25035520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M014_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:153,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":153, "wakeup":1, "nStartBytes":25067520, "nEndBytes":25098560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M015_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:97,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":25131200, "nEndBytes":25165120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M015_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":25200960, "nEndBytes":25233600}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M015_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:121,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":121, "wakeup":1, "nStartBytes":25265920, "nEndBytes":25297920}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M015_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:134,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":25331200, "nEndBytes":25363520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M102_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:102,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":102, "wakeup":1, "nStartBytes":25395520, "nEndBytes":25436480}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M102_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M102_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M102_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M103_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M103_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:86,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":25805120, "nEndBytes":25845120}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M103_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:149,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":149, "wakeup":1, "nStartBytes":25877760, "nEndBytes":25915200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M103_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:153,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":153, "wakeup":1, "nStartBytes":25950080, "nEndBytes":25986880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M104_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:147,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":147, "wakeup":1, "nStartBytes":26019840, "nEndBytes":26064960}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M104_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:156,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":156, "wakeup":1, "nStartBytes":26098560, "nEndBytes":26147200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M104_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:172,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":172, "wakeup":1, "nStartBytes":26179840, "nEndBytes":26226880}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M104_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:143,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":143, "wakeup":1, "nStartBytes":26259520, "nEndBytes":26306560}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M107_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:156,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":156, "wakeup":1, "nStartBytes":26340160, "nEndBytes":26373760}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M107_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:171,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":171, "wakeup":1, "nStartBytes":26408320, "nEndBytes":26443200}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M107_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:164,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":26478080, "nEndBytes":26513280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M107_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:93,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":93, "wakeup":1, "nStartBytes":26550400, "nEndBytes":26585280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M110_013.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M110_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M110_015.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M110_016.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M112_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:191,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":191, "wakeup":1, "nStartBytes":26900800, "nEndBytes":26937280}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M112_014.wav
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M112_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:142,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":142, "wakeup":1, "nStartBytes":27045440, "nEndBytes":27080320}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M112_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:143,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":143, "wakeup":1, "nStartBytes":27116160, "nEndBytes":27147520}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M113_013.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:162,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":27184640, "nEndBytes":27221440}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M113_014.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:191,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":191, "wakeup":1, "nStartBytes":27258560, "nEndBytes":27296000}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M113_015.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:216,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":216, "wakeup":1, "nStartBytes":27331520, "nEndBytes":27370240}
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M113_016.wav	nMvwScene:1,nMvwId:0,nMvwRlt:你好语音助理,nMvwScore:188,lParam:{"nMvwScene":1, "nMvwId":0, "nMvwScore":188, "wakeup":1, "nStartBytes":27406720, "nEndBytes":27442880}
+vwLabel：1-你好语音助理, 尝试唤醒次数：360, 唤醒成功次数：296，成功率：82.22%，平均唤醒响应时间：147.30

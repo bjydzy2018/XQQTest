@@ -1,0 +1,738 @@
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_001.wav 0
+Time:0h:0m:0s:260ms - 0h:0m:0s:800ms, n1PassCMScore=-32768, n2PassCMScore=143, nFrame=55, WakeUp,  KeyID=0, nResID=0, fSNR=3955, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_002.wav 0
+Time:0h:0m:1s:350ms - 0h:0m:1s:760ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=42, WakeUp,  KeyID=0, nResID=0, fSNR=3533, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_006.wav 0
+Time:0h:0m:5s:390ms - 0h:0m:6s:70ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=69, WakeUp,  KeyID=0, nResID=0, fSNR=88, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_007.wav 0
+Time:0h:0m:6s:670ms - 0h:0m:7s:390ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=73, WakeUp,  KeyID=0, nResID=0, fSNR=3380, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_010.wav 0
+Time:0h:0m:10s:690ms - 0h:0m:11s:420ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=74, WakeUp,  KeyID=0, nResID=0, fSNR=3816, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F001_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F002_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_007.wav 0
+Time:0h:0m:48s:660ms - 0h:0m:49s:310ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=66, WakeUp,  KeyID=0, nResID=0, fSNR=1671, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_008.wav 0
+Time:0h:0m:49s:910ms - 0h:0m:50s:490ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=59, WakeUp,  KeyID=0, nResID=0, fSNR=9412, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_009.wav 0
+Time:0h:0m:51s:160ms - 0h:0m:51s:850ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=70, WakeUp,  KeyID=0, nResID=0, fSNR=5315, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F003_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_002.wav 0
+Time:0h:1m:3s:750ms - 0h:1m:4s:240ms, n1PassCMScore=-32768, n2PassCMScore=189, nFrame=50, WakeUp,  KeyID=0, nResID=0, fSNR=2353, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_006.wav 0
+Time:0h:1m:8s:130ms - 0h:1m:8s:820ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=70, WakeUp,  KeyID=0, nResID=0, fSNR=2137, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_007.wav 0
+Time:0h:1m:9s:470ms - 0h:1m:10s:140ms, n1PassCMScore=-32768, n2PassCMScore=135, nFrame=68, WakeUp,  KeyID=0, nResID=0, fSNR=3440, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_009.wav 0
+Time:0h:1m:12s:290ms - 0h:1m:13s:30ms, n1PassCMScore=-32768, n2PassCMScore=133, nFrame=75, WakeUp,  KeyID=0, nResID=0, fSNR=199, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_010.wav 0
+Time:0h:1m:13s:670ms - 0h:1m:14s:380ms, n1PassCMScore=-32768, n2PassCMScore=158, nFrame=72, WakeUp,  KeyID=0, nResID=0, fSNR=3437, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F004_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\F005_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_001.wav 0
+Time:0h:1m:40s:830ms - 0h:1m:41s:350ms, n1PassCMScore=-32768, n2PassCMScore=138, nFrame=53, WakeUp,  KeyID=0, nResID=0, fSNR=2393, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_011.wav 0
+Time:0h:1m:50s:970ms - 0h:1m:51s:650ms, n1PassCMScore=-32768, n2PassCMScore=172, nFrame=69, WakeUp,  KeyID=0, nResID=0, fSNR=1933, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_012.wav 0
+Time:0h:1m:52s:190ms - 0h:1m:52s:900ms, n1PassCMScore=-32768, n2PassCMScore=167, nFrame=72, WakeUp,  KeyID=0, nResID=0, fSNR=2254, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M001_接听_015.wav 0
+Time:0h:1m:56s:20ms - 0h:1m:56s:670ms, n1PassCMScore=-32768, n2PassCMScore=142, nFrame=66, WakeUp,  KeyID=0, nResID=0, fSNR=147, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_001.wav 0
+Time:0h:1m:57s:250ms - 0h:1m:57s:690ms, n1PassCMScore=-32768, n2PassCMScore=149, nFrame=45, WakeUp,  KeyID=0, nResID=0, fSNR=1322, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_003.wav 0
+Time:0h:1m:59s:140ms - 0h:1m:59s:530ms, n1PassCMScore=-32768, n2PassCMScore=139, nFrame=40, WakeUp,  KeyID=0, nResID=0, fSNR=920, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_005.wav 0
+Time:0h:2m:1s:50ms - 0h:2m:1s:480ms, n1PassCMScore=-32768, n2PassCMScore=122, nFrame=44, WakeUp,  KeyID=0, nResID=0, fSNR=648, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_007.wav 0
+Time:0h:2m:3s:50ms - 0h:2m:3s:420ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=38, WakeUp,  KeyID=0, nResID=0, fSNR=97, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_009.wav 0
+Time:0h:2m:5s:130ms - 0h:2m:5s:680ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=56, WakeUp,  KeyID=0, nResID=0, fSNR=1195, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_010.wav 0
+Time:0h:2m:6s:210ms - 0h:2m:6s:740ms, n1PassCMScore=-32768, n2PassCMScore=125, nFrame=54, WakeUp,  KeyID=0, nResID=0, fSNR=1114, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_011.wav 0
+Time:0h:2m:7s:290ms - 0h:2m:7s:900ms, n1PassCMScore=-32768, n2PassCMScore=154, nFrame=62, WakeUp,  KeyID=0, nResID=0, fSNR=721, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_012.wav 0
+Time:0h:2m:8s:510ms - 0h:2m:9s:140ms, n1PassCMScore=-32768, n2PassCMScore=119, nFrame=64, WakeUp,  KeyID=0, nResID=0, fSNR=828, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_013.wav 0
+Time:0h:2m:9s:730ms - 0h:2m:10s:300ms, n1PassCMScore=-32768, n2PassCMScore=108, nFrame=58, WakeUp,  KeyID=0, nResID=0, fSNR=2878, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M002_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_001.wav 0
+Time:0h:2m:13s:410ms - 0h:2m:14s:110ms, n1PassCMScore=-32768, n2PassCMScore=162, nFrame=71, WakeUp,  KeyID=0, nResID=0, fSNR=1181, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_004.wav 0
+Time:0h:2m:16s:590ms - 0h:2m:17s:40ms, n1PassCMScore=-32768, n2PassCMScore=149, nFrame=46, WakeUp,  KeyID=0, nResID=0, fSNR=3959, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_006.wav 0
+Time:0h:2m:18s:470ms - 0h:2m:18s:960ms, n1PassCMScore=-32768, n2PassCMScore=177, nFrame=50, WakeUp,  KeyID=0, nResID=0, fSNR=3589, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_007.wav 0
+Time:0h:2m:19s:490ms - 0h:2m:20s:160ms, n1PassCMScore=-32768, n2PassCMScore=155, nFrame=68, WakeUp,  KeyID=0, nResID=0, fSNR=2609, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_008.wav 0
+Time:0h:2m:20s:730ms - 0h:2m:21s:320ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=60, WakeUp,  KeyID=0, nResID=0, fSNR=2846, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_009.wav 0
+Time:0h:2m:21s:810ms - 0h:2m:22s:480ms, n1PassCMScore=-32768, n2PassCMScore=190, nFrame=68, WakeUp,  KeyID=0, nResID=0, fSNR=3158, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_010.wav 0
+Time:0h:2m:23s:30ms - 0h:2m:23s:820ms, n1PassCMScore=-32768, n2PassCMScore=161, nFrame=80, WakeUp,  KeyID=0, nResID=0, fSNR=3841, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M003_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_002.wav 0
+Time:0h:2m:33s:330ms - 0h:2m:33s:750ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=43, WakeUp,  KeyID=0, nResID=0, fSNR=1249, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_003.wav 0
+Time:0h:2m:34s:320ms - 0h:2m:34s:800ms, n1PassCMScore=-32768, n2PassCMScore=193, nFrame=49, WakeUp,  KeyID=0, nResID=0, fSNR=3673, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_004.wav 0
+Time:0h:2m:35s:370ms - 0h:2m:35s:850ms, n1PassCMScore=-32768, n2PassCMScore=174, nFrame=49, WakeUp,  KeyID=0, nResID=0, fSNR=4121, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_005.wav 0
+Time:0h:2m:36s:420ms - 0h:2m:36s:940ms, n1PassCMScore=-32768, n2PassCMScore=180, nFrame=53, WakeUp,  KeyID=0, nResID=0, fSNR=2714, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_007.wav 0
+Time:0h:2m:38s:870ms - 0h:2m:39s:400ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=54, WakeUp,  KeyID=0, nResID=0, fSNR=3160, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_008.wav 0
+Time:0h:2m:39s:970ms - 0h:2m:40s:530ms, n1PassCMScore=-32768, n2PassCMScore=171, nFrame=57, WakeUp,  KeyID=0, nResID=0, fSNR=3658, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_009.wav 0
+Time:0h:2m:41s:90ms - 0h:2m:41s:660ms, n1PassCMScore=-32768, n2PassCMScore=134, nFrame=58, WakeUp,  KeyID=0, nResID=0, fSNR=585, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_010.wav 0
+Time:0h:2m:42s:250ms - 0h:2m:42s:850ms, n1PassCMScore=-32768, n2PassCMScore=137, nFrame=61, WakeUp,  KeyID=0, nResID=0, fSNR=3002, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_011.wav 0
+Time:0h:2m:43s:450ms - 0h:2m:44s:450ms, n1PassCMScore=-32768, n2PassCMScore=134, nFrame=101, WakeUp,  KeyID=0, nResID=0, fSNR=5339, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M004_接听_015.wav 0
+Time:0h:2m:50s:0ms - 0h:2m:50s:900ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=91, WakeUp,  KeyID=0, nResID=0, fSNR=3859, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_007.wav 0
+Time:0h:2m:57s:170ms - 0h:2m:57s:660ms, n1PassCMScore=-32768, n2PassCMScore=167, nFrame=50, WakeUp,  KeyID=0, nResID=0, fSNR=1924, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_008.wav 0
+Time:0h:2m:58s:230ms - 0h:2m:58s:780ms, n1PassCMScore=-32768, n2PassCMScore=159, nFrame=56, WakeUp,  KeyID=0, nResID=0, fSNR=1927, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听高架中档\M005_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_008.wav 0
+Time:0h:3m:16s:160ms - 0h:3m:16s:910ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=76, WakeUp,  KeyID=0, nResID=0, fSNR=787, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_009.wav 0
+Time:0h:3m:17s:480ms - 0h:3m:18s:280ms, n1PassCMScore=-32768, n2PassCMScore=194, nFrame=81, WakeUp,  KeyID=0, nResID=0, fSNR=7419, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_010.wav 0
+Time:0h:3m:18s:830ms - 0h:3m:19s:610ms, n1PassCMScore=-32768, n2PassCMScore=194, nFrame=79, WakeUp,  KeyID=0, nResID=0, fSNR=5799, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_011.wav 0
+Time:0h:3m:20s:210ms - 0h:3m:21s:460ms, n1PassCMScore=-32768, n2PassCMScore=95, nFrame=126, WakeUp,  KeyID=0, nResID=0, fSNR=3209, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F001_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_004.wav 0
+Time:0h:3m:33s:550ms - 0h:3m:34s:90ms, n1PassCMScore=-32768, n2PassCMScore=211, nFrame=55, WakeUp,  KeyID=0, nResID=0, fSNR=92383, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F002_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F003_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_002.wav 0
+Time:0h:4m:11s:920ms - 0h:4m:12s:420ms, n1PassCMScore=-32768, n2PassCMScore=174, nFrame=51, WakeUp,  KeyID=0, nResID=0, fSNR=3364, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_006.wav 0
+Time:0h:4m:16s:290ms - 0h:4m:17s:10ms, n1PassCMScore=-32768, n2PassCMScore=170, nFrame=73, WakeUp,  KeyID=0, nResID=0, fSNR=1888, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_007.wav 0
+Time:0h:4m:17s:650ms - 0h:4m:18s:310ms, n1PassCMScore=-32768, n2PassCMScore=168, nFrame=67, WakeUp,  KeyID=0, nResID=0, fSNR=2826, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_008.wav 0
+Time:0h:4m:19s:30ms - 0h:4m:19s:750ms, n1PassCMScore=-32768, n2PassCMScore=196, nFrame=73, WakeUp,  KeyID=0, nResID=0, fSNR=4210, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_009.wav 0
+Time:0h:4m:20s:410ms - 0h:4m:21s:220ms, n1PassCMScore=-32768, n2PassCMScore=186, nFrame=82, WakeUp,  KeyID=0, nResID=0, fSNR=1818, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_010.wav 0
+Time:0h:4m:21s:850ms - 0h:4m:22s:550ms, n1PassCMScore=-32768, n2PassCMScore=160, nFrame=71, WakeUp,  KeyID=0, nResID=0, fSNR=2005, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_013.wav 0
+Time:0h:4m:26s:630ms - 0h:4m:27s:640ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=102, WakeUp,  KeyID=0, nResID=0, fSNR=5276, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_014.wav 0
+Time:0h:4m:28s:290ms - 0h:4m:29s:270ms, n1PassCMScore=-32768, n2PassCMScore=163, nFrame=99, WakeUp,  KeyID=0, nResID=0, fSNR=1000, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F004_接听_015.wav 0
+Time:0h:4m:29s:910ms - 0h:4m:30s:960ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=8773, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\F005_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_007.wav 0
+Time:0h:4m:54s:870ms - 0h:4m:55s:460ms, n1PassCMScore=-32768, n2PassCMScore=183, nFrame=60, WakeUp,  KeyID=0, nResID=0, fSNR=48938, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_011.wav 0
+Time:0h:4m:59s:130ms - 0h:4m:59s:850ms, n1PassCMScore=-32768, n2PassCMScore=236, nFrame=73, WakeUp,  KeyID=0, nResID=0, fSNR=119880, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_012.wav 0
+Time:0h:5m:0s:370ms - 0h:5m:1s:120ms, n1PassCMScore=-32768, n2PassCMScore=205, nFrame=76, WakeUp,  KeyID=0, nResID=0, fSNR=165091, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_013.wav 0
+Time:0h:5m:1s:650ms - 0h:5m:2s:390ms, n1PassCMScore=-32768, n2PassCMScore=195, nFrame=75, WakeUp,  KeyID=0, nResID=0, fSNR=103926, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_014.wav 0
+Time:0h:5m:2s:940ms - 0h:5m:3s:680ms, n1PassCMScore=-32768, n2PassCMScore=184, nFrame=75, WakeUp,  KeyID=0, nResID=0, fSNR=229640, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M001_接听_015.wav 0
+Time:0h:5m:4s:150ms - 0h:5m:4s:860ms, n1PassCMScore=-32768, n2PassCMScore=165, nFrame=72, WakeUp,  KeyID=0, nResID=0, fSNR=27089, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_001.wav 0
+Time:0h:5m:5s:430ms - 0h:5m:5s:870ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=45, WakeUp,  KeyID=0, nResID=0, fSNR=2300, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_009.wav 0
+Time:0h:5m:13s:330ms - 0h:5m:13s:840ms, n1PassCMScore=-32768, n2PassCMScore=108, nFrame=52, WakeUp,  KeyID=0, nResID=0, fSNR=217, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_010.wav 0
+Time:0h:5m:14s:410ms - 0h:5m:14s:910ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=51, WakeUp,  KeyID=0, nResID=0, fSNR=148, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_011.wav 0
+Time:0h:5m:15s:490ms - 0h:5m:16s:90ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=61, WakeUp,  KeyID=0, nResID=0, fSNR=59, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_012.wav 0
+Time:0h:5m:16s:690ms - 0h:5m:17s:320ms, n1PassCMScore=-32768, n2PassCMScore=153, nFrame=64, WakeUp,  KeyID=0, nResID=0, fSNR=2915, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_013.wav 0
+Time:0h:5m:17s:890ms - 0h:5m:18s:500ms, n1PassCMScore=-32768, n2PassCMScore=154, nFrame=62, WakeUp,  KeyID=0, nResID=0, fSNR=2983, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M002_接听_015.wav 0
+Time:0h:5m:20s:310ms - 0h:5m:21s:0ms, n1PassCMScore=-32768, n2PassCMScore=163, nFrame=70, WakeUp,  KeyID=0, nResID=0, fSNR=1905, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_004.wav 0
+Time:0h:5m:24s:770ms - 0h:5m:25s:190ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=43, WakeUp,  KeyID=0, nResID=0, fSNR=5606, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_006.wav 0
+Time:0h:5m:26s:650ms - 0h:5m:27s:150ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=51, WakeUp,  KeyID=0, nResID=0, fSNR=4634, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_007.wav 0
+Time:0h:5m:27s:670ms - 0h:5m:28s:320ms, n1PassCMScore=-32768, n2PassCMScore=150, nFrame=66, WakeUp,  KeyID=0, nResID=0, fSNR=4015, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_008.wav 0
+Time:0h:5m:28s:870ms - 0h:5m:29s:450ms, n1PassCMScore=-32768, n2PassCMScore=162, nFrame=59, WakeUp,  KeyID=0, nResID=0, fSNR=5596, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_009.wav 0
+Time:0h:5m:29s:990ms - 0h:5m:30s:640ms, n1PassCMScore=-32768, n2PassCMScore=156, nFrame=66, WakeUp,  KeyID=0, nResID=0, fSNR=5220, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_010.wav 0
+Time:0h:5m:31s:190ms - 0h:5m:31s:970ms, n1PassCMScore=-32768, n2PassCMScore=167, nFrame=79, WakeUp,  KeyID=0, nResID=0, fSNR=6423, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_011.wav 0
+Time:0h:5m:32s:490ms - 0h:5m:33s:410ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=93, WakeUp,  KeyID=0, nResID=0, fSNR=698, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M003_接听_015.wav 0
+Time:0h:5m:38s:810ms - 0h:5m:39s:920ms, n1PassCMScore=-32768, n2PassCMScore=113, nFrame=112, WakeUp,  KeyID=0, nResID=0, fSNR=4200, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_002.wav 0
+Time:0h:5m:41s:450ms - 0h:5m:41s:920ms, n1PassCMScore=-32768, n2PassCMScore=190, nFrame=48, WakeUp,  KeyID=0, nResID=0, fSNR=689, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_003.wav 0
+Time:0h:5m:42s:490ms - 0h:5m:42s:970ms, n1PassCMScore=-32768, n2PassCMScore=172, nFrame=49, WakeUp,  KeyID=0, nResID=0, fSNR=3064, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_005.wav 0
+Time:0h:5m:44s:590ms - 0h:5m:45s:110ms, n1PassCMScore=-32768, n2PassCMScore=214, nFrame=53, WakeUp,  KeyID=0, nResID=0, fSNR=4813, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_006.wav 0
+Time:0h:5m:45s:670ms - 0h:5m:46s:440ms, n1PassCMScore=-32768, n2PassCMScore=182, nFrame=78, WakeUp,  KeyID=0, nResID=0, fSNR=10491, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_007.wav 0
+Time:0h:5m:47s:50ms - 0h:5m:47s:560ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=52, WakeUp,  KeyID=0, nResID=0, fSNR=11691, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_008.wav 0
+Time:0h:5m:48s:150ms - 0h:5m:48s:700ms, n1PassCMScore=-32768, n2PassCMScore=185, nFrame=56, WakeUp,  KeyID=0, nResID=0, fSNR=8787, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_009.wav 0
+Time:0h:5m:49s:260ms - 0h:5m:49s:850ms, n1PassCMScore=-32768, n2PassCMScore=169, nFrame=60, WakeUp,  KeyID=0, nResID=0, fSNR=19724, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_010.wav 0
+Time:0h:5m:50s:430ms - 0h:5m:51s:50ms, n1PassCMScore=-32768, n2PassCMScore=205, nFrame=63, WakeUp,  KeyID=0, nResID=0, fSNR=29503, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_011.wav 0
+Time:0h:5m:51s:620ms - 0h:5m:52s:670ms, n1PassCMScore=-32768, n2PassCMScore=192, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=52953, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_012.wav 0
+Time:0h:5m:53s:260ms - 0h:5m:54s:310ms, n1PassCMScore=-32768, n2PassCMScore=196, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=107896, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_013.wav 0
+Time:0h:5m:54s:900ms - 0h:5m:55s:940ms, n1PassCMScore=-32768, n2PassCMScore=208, nFrame=105, WakeUp,  KeyID=0, nResID=0, fSNR=132802, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_014.wav 0
+Time:0h:5m:56s:490ms - 0h:5m:57s:540ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=106, WakeUp,  KeyID=0, nResID=0, fSNR=94145, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M004_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_006.wav 0
+Time:0h:6m:4s:330ms - 0h:6m:4s:870ms, n1PassCMScore=-32768, n2PassCMScore=172, nFrame=55, WakeUp,  KeyID=0, nResID=0, fSNR=80425, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_008.wav 0
+Time:0h:6m:6s:410ms - 0h:6m:6s:970ms, n1PassCMScore=-32768, n2PassCMScore=148, nFrame=57, WakeUp,  KeyID=0, nResID=0, fSNR=666, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_010.wav 0
+Time:0h:6m:8s:670ms - 0h:6m:9s:190ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=53, WakeUp,  KeyID=0, nResID=0, fSNR=99280, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_012.wav 0
+Time:0h:6m:11s:90ms - 0h:6m:11s:920ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=84, WakeUp,  KeyID=0, nResID=0, fSNR=52418, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听郊区开窗\M005_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_009.wav 0
+Time:0h:6m:25s:650ms - 0h:6m:26s:410ms, n1PassCMScore=-32768, n2PassCMScore=135, nFrame=77, WakeUp,  KeyID=0, nResID=0, fSNR=346, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F001_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F002_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F003_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_002.wav 0
+Time:0h:7m:20s:90ms - 0h:7m:20s:580ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=50, WakeUp,  KeyID=0, nResID=0, fSNR=4374, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_007.wav 0
+Time:0h:7m:25s:790ms - 0h:7m:26s:490ms, n1PassCMScore=-32768, n2PassCMScore=84, nFrame=71, WakeUp,  KeyID=0, nResID=0, fSNR=3816, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_009.wav 0
+Time:0h:7m:28s:650ms - 0h:7m:29s:260ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=62, WakeUp,  KeyID=0, nResID=0, fSNR=438, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_010.wav 0
+Time:0h:7m:29s:990ms - 0h:7m:30s:630ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=65, WakeUp,  KeyID=0, nResID=0, fSNR=2488, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_013.wav 0
+Time:0h:7m:34s:750ms - 0h:7m:35s:760ms, n1PassCMScore=-32768, n2PassCMScore=160, nFrame=102, WakeUp,  KeyID=0, nResID=0, fSNR=7964, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_014.wav 0
+Time:0h:7m:36s:430ms - 0h:7m:37s:420ms, n1PassCMScore=-32768, n2PassCMScore=178, nFrame=100, WakeUp,  KeyID=0, nResID=0, fSNR=8755, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F004_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\F005_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_001.wav 0
+Time:0h:7m:57s:150ms - 0h:7m:57s:660ms, n1PassCMScore=-32768, n2PassCMScore=180, nFrame=52, WakeUp,  KeyID=0, nResID=0, fSNR=8530, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M001_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_010.wav 0
+Time:0h:8m:22s:600ms - 0h:8m:23s:50ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=46, WakeUp,  KeyID=0, nResID=0, fSNR=864, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M002_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_006.wav 0
+Time:0h:8m:34s:770ms - 0h:8m:35s:290ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=53, WakeUp,  KeyID=0, nResID=0, fSNR=4378, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_008.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_009.wav 0
+Time:0h:8m:38s:130ms - 0h:8m:38s:780ms, n1PassCMScore=-32768, n2PassCMScore=153, nFrame=66, WakeUp,  KeyID=0, nResID=0, fSNR=11735, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M003_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_005.wav 0
+Time:0h:8m:52s:750ms - 0h:8m:53s:240ms, n1PassCMScore=-32768, n2PassCMScore=176, nFrame=50, WakeUp,  KeyID=0, nResID=0, fSNR=4007, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_006.wav 0
+Time:0h:8m:53s:830ms - 0h:8m:54s:590ms, n1PassCMScore=-32768, n2PassCMScore=154, nFrame=77, WakeUp,  KeyID=0, nResID=0, fSNR=19265, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_007.wav 0
+Time:0h:8m:55s:190ms - 0h:8m:55s:730ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=55, WakeUp,  KeyID=0, nResID=0, fSNR=10650, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_008.wav 0
+Time:0h:8m:56s:290ms - 0h:8m:56s:830ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=55, WakeUp,  KeyID=0, nResID=0, fSNR=12947, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_009.wav 0
+Time:0h:8m:57s:420ms - 0h:8m:57s:980ms, n1PassCMScore=-32768, n2PassCMScore=158, nFrame=57, WakeUp,  KeyID=0, nResID=0, fSNR=13648, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_010.wav 0
+Time:0h:8m:58s:570ms - 0h:8m:59s:190ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=63, WakeUp,  KeyID=0, nResID=0, fSNR=25461, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M004_接听_015.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_001.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_002.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_003.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_004.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_005.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_006.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_007.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_007.wav 0
+Time:0h:9m:13s:500ms - 0h:9m:13s:990ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=50, WakeUp,  KeyID=0, nResID=0, fSNR=4887, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_009.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_010.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_011.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_012.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_013.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_014.wav 0
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\接听\接听市区半开窗\M005_接听_015.wav 0
+--------Wrap引擎版本:5.0.1011--------------
+--------一遍引擎版本:Ivw3.6.2001--------------
+--------二遍引擎版本:Ivw4.0.1016--------------
+
+===============================================================================================
+TestList=F:\0_支持\车载效果分析\1_车载一致性\car\scp\SceneId8-1.scp
+1PassRes=2PassRes=
+			KeyID = 0, Thresh = 0
+			KeyID = 1, Thresh = 0
+			KeyID = 2, Thresh = 0
+TestResID = 0, KeyID = 0
+b2PassOfflineTest=0
+Enter2PassThr=0
+Enter2PassExtMS=[0,0]
+bTestNoise=0
+
+bCreateObjPerPCM = 0
+bResetObjPerPCM = 0
+nSNRThresh = 1
+nSNRSkipNoiseMS = 0
+nSNRNoiseMS = 400
+nSNRCMThrDIF = 20
+nSNREndSilMS = 30
+Support nKeywordMaxMS = 4000
+Support nKeywordMinMS = 100
+-----------------------------------------------------------------------------------------------
+--------------------------唤醒率统计-----------------------------------
+测试总次数=450, 唤醒次数=114, 唤醒率=25.3%
+Test cmd res = 1
+		ResID 0, Keyword0: TestPcmNum=450, WakeupNum=114, Rate=25.3%
+		同一资源串扰次数=0, 串扰率=0.0%
+		不同资源串扰次数=0, 串扰率=0.0%
+-------Male PcmAll=225, wakeup = 80, rate = 35.6%
+-------Female PcmAll=225, wakeup = 34, rate = 15.1%
+
+-----------------------------------------------------------------------------------------------
+Total Time =0h:9m
+-----------------------------------------------------------------------------------------------
+连续无法唤醒最大次数 = 37
+一遍唤醒出结果硬延时时长范围 = [32767ms, -32767ms]

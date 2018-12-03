@@ -1,0 +1,120 @@
+ [ISR Test] Open cfg_Dir success: /fynavigator/bin/isr_list.cfg
+ [ISR Test] Pcm_Res_Path_Default is /fs/usb0/PcmRes.
+ [ISR Test] Result_Type_Default is 1.
+ [ISR Test] ISR_Mode_Default is 1.
+ [ISR Test] ISR_Lang_Default is 0.
+ [ISR Test] UpLoadDictModel_Default is 1.
+ [ISR Test] ISS_SR_SCENE_Default is all.
+ [ISR Test] SR_Speed_Effect_Default is 0.
+ [ISR Test] Loop_Num_Default is 1
+ [ISR Test] Pcm_Track_Default is 1
+ [ISR Test] Set_Trace_Default is 0.
+ [ISR Test] Trace_Level_Default is error.
+ [ISR Test] TTS_Mode_Default is 0.
+ [ISR Test] TTS_Speaker_Default is 99.
+ [ISR Test] TTS_Out_Default is 0.
+ [ISR Test] ISS_MVW_SCENE_Default is 1.
+ [ISR Test] Index_Srh is 1
+ [ISR Test] Index_Drop is 1
+ [ISR Test] Loc_Msp_Nli is 1
+ [ISR Test] ISR_Lang is 0
+ [ISR Test] SR_Speed_Effect is 0
+ [ISR Test] Set ISR_MODE = 1
+ [ISR Test] Set IfonlyUpUploadToCloud = 1
+ [ISR Test] Set ISS_SR_SCENE = all
+ [ISR Test] Set Loop_Num = 1
+ [ISR Test] Set Pcm_Track = 1
+ [ISR Test] Set Result_Type = 1
+ [ISR Test] Whether Set trace = 0
+ [ISR Test] Set trace_level = error
+ [ISR Test] Set path_of_pcm_res = /fs/usb0/PcmRes
+ [ISR Test] Set dictlist_Dir：/fs/usb0/PcmRes/dictlist_list.txt
+ [ISR Test] ISSSetMachineCode = 0
+ [ISR Test] -----------第1次循环-----------
+ [ISR Test] Open dictlist_Dir success: /fs/usb0/PcmRes/dictlist_list.txt
+ [ISR Test] Open dict_Dir success: /fs/usb0/PcmRes/isr/dict/500.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 11649
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 182159316
+ [ISR Test] LocalStatusTime:182177182
+ [ISR Test] LocalSuccessTime:182177188
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 17872
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:1010
+ [ISR Test] Open dict_Dir success: /fs/usb0/PcmRes/isr/dict/1000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 10624
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 182191907
+ [ISR Test] LocalStatusTime:182216832
+ [ISR Test] LocalSuccessTime:182216839
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 24932
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:819
+ [ISR Test] Open dict_Dir success: /fs/usb0/PcmRes/isr/dict/1500.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 10775
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 182231502
+ [ISR Test] LocalStatusTime:182263785
+ [ISR Test] LocalSuccessTime:182263790
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 32288
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:661
+ [ISR Test] Open dict_Dir success: /fs/usb0/PcmRes/isr/dict/2000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 11434
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 182279008
+ [ISR Test] LocalStatusTime:182319612
+ [ISR Test] LocalSuccessTime:182319616
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 40608
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:738
+ [ISR Test] Open dict_Dir success: /fs/usb0/PcmRes/isr/dict/2500.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 11452
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 182334921
+ [ISR Test] LocalStatusTime:182382808
+ [ISR Test] LocalSuccessTime:182382817
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 47896
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:917
+ [ISR Test] Open dict_Dir success: /fs/usb0/PcmRes/isr/dict/3000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 11146
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 182398033
+ [ISR Test] LocalStatusTime:182455561
+ [ISR Test] LocalSuccessTime:182455566
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 57533
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:673
+ [ISR Test] Open dict_Dir success: /fs/usb0/PcmRes/isr/dict/15000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 11134
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 182470728
+ [ISR Test] LocalStatusTime:182638919
+ [ISR Test] LocalSuccessTime:182638925
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 168197
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:741
+ [ISR Test] TestStability_ISR is over!
+

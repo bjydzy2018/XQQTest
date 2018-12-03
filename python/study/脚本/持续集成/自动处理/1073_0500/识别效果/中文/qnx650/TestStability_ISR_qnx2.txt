@@ -1,0 +1,2869 @@
+ [ISR Test] Open cfg_Dir success: /usb1/bin/isr_list.cfg
+ [ISR Test] Pcm_Res_Path_Default is /usb1/PcmRes.
+ [ISR Test] Result_Type_Default is 1.
+ [ISR Test] ISR_Mode_Default is 1.
+ [ISR Test] ISR_Lang_Default is 0.
+ [ISR Test] UpLoadDictModel_Default is 1.
+ [ISR Test] ISS_SR_SCENE_Default is all.
+ [ISR Test] SR_Speed_Effect_Default is 0.
+ [ISR Test] Loop_Num_Default is 1
+ [ISR Test] Pcm_Track_Default is 1
+ [ISR Test] Set_Trace_Default is 0.
+ [ISR Test] Trace_Level_Default is error.
+ [ISR Test] TTS_Mode_Default is 0.
+ [ISR Test] TTS_Speaker_Default is 99.
+ [ISR Test] TTS_Out_Default is 0.
+ [ISR Test] ISS_MVW_SCENE_Default is 1.
+ [ISR Test] Index_Srh is 1
+ [ISR Test] Index_Drop is 1
+ [ISR Test] Loc_Msp_Nli is 1
+ [ISR Test] ISR_Lang is 0
+ [ISR Test] SR_Speed_Effect is 0
+ [ISR Test] Set ISR_MODE = 1
+ [ISR Test] Set IfonlyUpUploadToCloud = 1
+ [ISR Test] Set ISS_SR_SCENE = all
+ [ISR Test] Set Loop_Num = 1
+ [ISR Test] Set Pcm_Track = 1
+ [ISR Test] Set Result_Type = 1
+ [ISR Test] Whether Set trace = 0
+ [ISR Test] Set trace_level = error
+ [ISR Test] Set path_of_pcm_res = /usb1/PcmRes
+ [ISR Test] Set Efficient_Dir：/usb1/PcmRes/efficient_QNX.csv
+ [ISR Test] Set SR_Result_Dir：/usb1/PcmRes/SR_result_QNX.txt
+ [ISR Test] Set NLU_Result_Dir：/usb1/PcmRes/SR_result_QNX.txt
+ [ISR Test] Set Pcm_List_Dir：/usb1/PcmRes/isr/isr_list_QNX.txt
+ [ISR Test] Open dict_Dir success: /usb1/PcmRes/dict_list.txt
+ [ISR Test] Open efficient_Dir success: /usb1/PcmRes/efficient_QNX.csv
+ [ISR Test] Open sr_result_Dir success: /usb1/PcmRes/SR_result_QNX.txt
+ [ISR Test] Open nlu_result_Dir success: /usb1/PcmRes/NLU_result_QNX.txt
+ [ISR Test] ISSSetMachineCode = 0
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 21189
+ [ISR Test] Create success! Please wait 10s
+
+ [ISR Test] A dict is uploading.
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 124723
+ [ISR Test] Upload dict success, Please wait 10s
+ [ISR Test] Upload dict success
+
+ [ISR Test] Open pcm_list_Dir success: /usb1/PcmRes/isr/isr_list_QNX.txt
+ [ISR Test] VadSil:0
+ [ISR Test] 第0次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/4cmd/4cmd_138_F006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140149978
+ [ISR Test] correct_SpeechEnd:1140150028
+ [ISR Test] correct_SpeechEnd wParam:1940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"音量控制","name":"音量+"}},"service":"cmd","text":"把声音增强一些。","version":"3.5.0.1190"}
+
+ [ISR Test] 把声音增强一些。
+ [ISR Test] VadSil:0
+ [ISR Test] 第1次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/4cmd/4cmd_145_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140152663
+ [ISR Test] correct_SpeechEnd:1140152746
+ [ISR Test] correct_SpeechEnd wParam:1880
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"把音量调落一点。"}
+
+ [ISR Test] 把音量调落一点。
+ [ISR Test] VadSil:0
+ [ISR Test] 第2次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/4cmd/4cmd_152_F008_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140155340
+ [ISR Test] correct_SpeechEnd:1140155382
+ [ISR Test] correct_SpeechEnd wParam:1020
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"曲目控制","name":"播放"}},"service":"cmd","text":"播放。","version":"3.5.0.1190"}
+
+ [ISR Test] 播放。
+ [ISR Test] VadSil:0
+ [ISR Test] 第3次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/4cmd/4cmd_159_F008_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140158359
+ [ISR Test] correct_SpeechEnd:1140158375
+ [ISR Test] correct_SpeechEnd wParam:2220
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"播放模式","name":"单曲循环"}},"service":"cmd","text":"设置单曲循环。","version":"3.5.0.1190"}
+
+ [ISR Test] 设置单曲循环。
+ [ISR Test] VadSil:0
+ [ISR Test] 第4次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/4cmd/4cmd_166_F009_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140160619
+ [ISR Test] correct_SpeechEnd:1140160701
+ [ISR Test] correct_SpeechEnd wParam:1620
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1715","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"音量控制","name":"音量+"}},"service":"cmd","text":"调高声音","version":"3.5.0.1190"}
+
+ [ISR Test] 调高声音
+ [ISR Test] VadSil:0
+ [ISR Test] 第5次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/4cmd/4cmd_173_F010_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140163110
+ [ISR Test] correct_SpeechEnd:1140163190
+ [ISR Test] correct_SpeechEnd wParam:1760
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1482","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"音量控制","name":"音量+"}},"service":"cmd","text":"音量增大一点","version":"3.5.0.1190"}
+
+ [ISR Test] 音量增大一点
+ [ISR Test] VadSil:0
+ [ISR Test] 第6次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_005_M097_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140165415
+ [ISR Test] correct_SpeechEnd:1140165516
+ [ISR Test] correct_SpeechEnd wParam:1740
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"中国联通口号码。"}
+
+ [ISR Test] 中国联通口号码。
+ [ISR Test] VadSil:0
+ [ISR Test] 第7次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_012_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140168596
+ [ISR Test] correct_SpeechEnd:1140168715
+ [ISR Test] correct_SpeechEnd wParam:2200
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.7714000000000001,"rc":0,"semantic":{"slots":{"category":"手机号码","name":"刘飞烟台|0.518","nameOrig":"烟台"}},"service":"contacts","text":"烟台的手机号码。","version":"3.5.0.1190"}
+
+ [ISR Test] 烟台的手机号码。
+ [ISR Test] VadSil:0
+ [ISR Test] 第8次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_019_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140171050
+ [ISR Test] correct_SpeechEnd:1140171176
+ [ISR Test] correct_SpeechEnd wParam:1480
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"省广路","nameOrig":"省广路"}},"service":"contacts","text":"省广路的电话。","version":"3.5.0.1190"}
+
+ [ISR Test] 省广路的电话。
+ [ISR Test] VadSil:0
+ [ISR Test] 第9次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_026_M102_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140173954
+ [ISR Test] correct_SpeechEnd:1140174027
+ [ISR Test] correct_SpeechEnd wParam:2090
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4571,"rc":0,"semantic":{"slots":{"name":"方式","nameOrig":"方式"}},"service":"telephone","text":"小河的联系方式。","version":"3.5.0.1190"}
+
+ [ISR Test] 小河的联系方式。
+ [ISR Test] VadSil:0
+ [ISR Test] 第10次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_033_M071_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140177815
+ [ISR Test] correct_SpeechEnd:1140177860
+ [ISR Test] correct_SpeechEnd wParam:2400
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1470","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"似小姨夫|1.000","nameOrig":"似小姨夫"}},"service":"contacts","text":"帮我查一下似小姨夫的号码","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下似小姨夫的号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第11次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_040_M072_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140182192
+ [ISR Test] correct_SpeechEnd:1140182239
+ [ISR Test] correct_SpeechEnd wParam:2940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1476","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"手机号码","name":"张峰上海|1.000","nameOrig":"张峰上海"}},"service":"contacts","text":"帮我查一下张峰上海的手机号码","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下张峰上海的手机号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第12次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_047_M074_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140186162
+ [ISR Test] correct_SpeechEnd:1140186337
+ [ISR Test] correct_SpeechEnd wParam:2380
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1375","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"手机号码","name":"王杉|1.000","nameOrig":"王杉"}},"service":"contacts","text":"帮我查一下王杉的手机号码","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下王杉的手机号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第13次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_054_M047_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140189937
+ [ISR Test] correct_SpeechEnd:1140190057
+ [ISR Test] correct_SpeechEnd wParam:2660
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1315","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"手机号码","name":"胡惟晟新|1.000","nameOrig":"胡惟晟新"}},"service":"contacts","text":"帮我查一下胡惟晟新的手机号码","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下胡惟晟新的手机号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第14次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_061_M049_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140194274
+ [ISR Test] correct_SpeechEnd:1140194424
+ [ISR Test] correct_SpeechEnd wParam:2880
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1292","operation":"QUERY","pk_score":0.6308,"rc":0,"semantic":{"slots":{"name":"给中国电信肖","nameOrig":"给中国电信肖"}},"service":"contacts","text":"我想知道给中国电信肖的号码","version":"3.5.0.1190"}
+
+ [ISR Test] 我想知道给中国电信肖的号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第15次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_068_M050_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140197940
+ [ISR Test] correct_SpeechEnd:1140198121
+ [ISR Test] correct_SpeechEnd wParam:2640
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1149","operation":"QUERY","pk_score":0.6923,"rc":0,"semantic":{"slots":{"name":"给客户经理","nameOrig":"给客户经理","teleOperator":"电信"}},"service":"contacts","text":"我想知道给客户经理电信号码","version":"3.5.0.1190"}
+
+ [ISR Test] 我想知道给客户经理电信号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第16次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_075_M075_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140202836
+ [ISR Test] correct_SpeechEnd:1140202993
+ [ISR Test] correct_SpeechEnd wParam:3740
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1331","operation":"QUERY","pk_score":0.8286,"rc":0,"semantic":{"slots":{"location":{"city":"杭州市","cityAddr":"杭州","type":"LOC_BASIC"},"name":"拨葛勇","nameOrig":"拨葛勇","teleOperator":"移动"}},"service":"contacts","text":"我想知道拨葛勇杭州的移动号码","version":"3.5.0.1190"}
+
+ [ISR Test] 我想知道拨葛勇杭州的移动号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第17次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_082_F001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140208500
+ [ISR Test] correct_SpeechEnd:1140208559
+ [ISR Test] correct_SpeechEnd wParam:3980
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1513","operation":"SEND","pk_score":1,"rc":0,"semantic":{"slots":{"channel":"message","name":"中国电信肖|1.000","nameOrig":"中国电信肖","receiver":"刘飞烟台"}},"service":"contacts","text":"把中国电信肖的联系方式发给刘飞烟台","version":"3.5.0.1190"}
+
+ [ISR Test] 把中国电信肖的联系方式发给刘飞烟台
+ [ISR Test] VadSil:0
+ [ISR Test] 第18次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_089_F001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140212812
+ [ISR Test] correct_SpeechEnd:1140212918
+ [ISR Test] correct_SpeechEnd wParam:3400
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1501","operation":"SEND","pk_score":1,"rc":0,"semantic":{"slots":{"channel":"message","name":"吴迪|1.000","nameOrig":"吴迪","receiver":"徐爽自动化所"}},"service":"contacts","text":"把吴迪的电话发给徐爽自动化所","version":"3.5.0.1190"}
+
+ [ISR Test] 把吴迪的电话发给徐爽自动化所
+ [ISR Test] VadSil:0
+ [ISR Test] 第19次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_096_F002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140217942
+ [ISR Test] correct_SpeechEnd:1140218021
+ [ISR Test] correct_SpeechEnd wParam:4100
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1561","operation":"SEND","pk_score":1,"rc":0,"semantic":{"slots":{"channel":"message","name":"小何|1.000","nameOrig":"小何","receiver":"中国电信肖"}},"service":"contacts","text":"把小何的联系方式发给中国电信肖","version":"3.5.0.1190"}
+
+ [ISR Test] 把小何的联系方式发给中国电信肖
+ [ISR Test] VadSil:0
+ [ISR Test] 第20次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_103_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140222372
+ [ISR Test] correct_SpeechEnd:1140222408
+ [ISR Test] correct_SpeechEnd wParam:3540
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"SEND","pk_score":0.8118000000000001,"rc":0,"semantic":{"slots":{"channel":"message","location":{"city":"宣城市","cityAddr":"宣城","type":"LOC_BASIC"},"name":"王卓|1.000;王卓幺八九|0.521","nameOrig":"王卓","receiver":"鑫鑫","teleOperator":"移动"}},"service":"contacts","text":"把王卓的移动号码发给鑫鑫的宣城号码。","version":"3.5.0.1190"}
+
+ [ISR Test] 把王卓的移动号码发给鑫鑫的宣城号码。
+ [ISR Test] VadSil:0
+ [ISR Test] 第21次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_110_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140226628
+ [ISR Test] correct_SpeechEnd:1140226761
+ [ISR Test] correct_SpeechEnd wParam:3080
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1502","operation":"SEND","pk_score":1,"rc":0,"semantic":{"slots":{"channel":"message","name":"王智国|1.000","nameOrig":"王智国","receiver":"新亚驾校"}},"service":"contacts","text":"把王智国的联系方式发给新亚驾校","version":"3.5.0.1190"}
+
+ [ISR Test] 把王智国的联系方式发给新亚驾校
+ [ISR Test] VadSil:0
+ [ISR Test] 第22次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_117_F004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140231219
+ [ISR Test] correct_SpeechEnd:1140231259
+ [ISR Test] correct_SpeechEnd wParam:3660
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1619","operation":"SEND","pk_score":1,"rc":0,"semantic":{"slots":{"channel":"message","name":"王自力|1.000","nameOrig":"王自力","receiver":"熊厚余","teleOperator":"移动"}},"service":"contacts","text":"把王自力的移动号码发给熊厚余","version":"3.5.0.1190"}
+
+ [ISR Test] 把王自力的移动号码发给熊厚余
+ [ISR Test] VadSil:0
+ [ISR Test] 第23次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_124_F005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140235936
+ [ISR Test] correct_SpeechEnd:1140235978
+ [ISR Test] correct_SpeechEnd wParam:3740
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1535","operation":"SEND","pk_score":1,"rc":0,"semantic":{"slots":{"channel":"message","name":"胡惟晟新|1.000","nameOrig":"胡惟晟新","receiver":"张峰上海","teleOperator":"移动"}},"service":"contacts","text":"把胡惟晟新的移动号码发给张峰上海","version":"3.5.0.1190"}
+
+ [ISR Test] 把胡惟晟新的移动号码发给张峰上海
+ [ISR Test] VadSil:0
+ [ISR Test] 第24次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_131_F006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140239216
+ [ISR Test] correct_SpeechEnd:1140239324
+ [ISR Test] correct_SpeechEnd wParam:2180
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1646","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"张峰上海|1.000","nameOrig":"张峰上海"}},"service":"contacts","text":"搜索张峰上海","version":"3.5.0.1190"}
+
+ [ISR Test] 搜索张峰上海
+ [ISR Test] VadSil:0
+ [ISR Test] 第25次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_138_F006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140243736
+ [ISR Test] correct_SpeechEnd:1140243775
+ [ISR Test] correct_SpeechEnd wParam:3100
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1619","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"葛勇杭州|1.000","nameOrig":"葛勇杭州"}},"service":"contacts","text":"搜索联系人葛勇杭州","version":"3.5.0.1190"}
+
+ [ISR Test] 搜索联系人葛勇杭州
+ [ISR Test] VadSil:0
+ [ISR Test] 第26次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_145_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140247732
+ [ISR Test] correct_SpeechEnd:1140247883
+ [ISR Test] correct_SpeechEnd wParam:2960
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1558","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"汪言华|1.000","nameOrig":"汪言华"}},"service":"contacts","text":"显示汪言华联系方式","version":"3.5.0.1190"}
+
+ [ISR Test] 显示汪言华联系方式
+ [ISR Test] VadSil:0
+ [ISR Test] 第27次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_152_F008_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140252433
+ [ISR Test] correct_SpeechEnd:1140252606
+ [ISR Test] correct_SpeechEnd wParam:2300
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.75,"rc":0,"semantic":{"slots":{"name":"张书记|0.711","nameOrig":"章书记"}},"service":"contacts","text":"有章书记的电话吗。","version":"3.5.0.1190"}
+
+ [ISR Test] 有章书记的电话吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第28次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_159_F008_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140255378
+ [ISR Test] correct_SpeechEnd:1140255559
+ [ISR Test] correct_SpeechEnd wParam:980
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1365","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"李四|1.000","nameOrig":"李四"}},"service":"contacts","text":"李四","version":"3.5.0.1190"}
+
+ [ISR Test] 李四
+ [ISR Test] VadSil:0
+ [ISR Test] 第29次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_166_F009_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140259299
+ [ISR Test] correct_SpeechEnd:1140259436
+ [ISR Test] correct_SpeechEnd wParam:1940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1595","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"姚志强|1.000","nameOrig":"姚志强"}},"service":"contacts","text":"查一下姚志强","version":"3.5.0.1190"}
+
+ [ISR Test] 查一下姚志强
+ [ISR Test] VadSil:0
+ [ISR Test] 第30次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_173_F010_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140264638
+ [ISR Test] correct_SpeechEnd:1140264866
+ [ISR Test] correct_SpeechEnd wParam:3440
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1488","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"邵君|1.000","nameOrig":"邵君"}},"service":"contacts","text":"查一下邵君的电话号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查一下邵君的电话号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第31次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_180_F010_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140268829
+ [ISR Test] correct_SpeechEnd:1140268929
+ [ISR Test] correct_SpeechEnd wParam:2140
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1713","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"刘永波|1.000","nameOrig":"刘永波"}},"service":"contacts","text":"查找刘永波的号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查找刘永波的号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第32次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_187_F011_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140272924
+ [ISR Test] correct_SpeechEnd:1140273047
+ [ISR Test] correct_SpeechEnd wParam:2260
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1524","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"史成荣|1.000","nameOrig":"史成荣","teleOperator":"电信"}},"service":"contacts","text":"查找史成荣的电信号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查找史成荣的电信号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第33次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_194_F012_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140277344
+ [ISR Test] correct_SpeechEnd:1140277403
+ [ISR Test] correct_SpeechEnd wParam:2420
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1619","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"张友国|1.000","nameOrig":"张友国","teleOperator":"电信"}},"service":"contacts","text":"查找张友国的电信号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查找张友国的电信号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第34次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_201_M001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140281049
+ [ISR Test] correct_SpeechEnd:1140281326
+ [ISR Test] correct_SpeechEnd wParam:2080
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1515","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"李刚|1.000","nameOrig":"李刚","teleOperator":"电信"}},"service":"contacts","text":"查找李刚的电信号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查找李刚的电信号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第35次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_208_M001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140285894
+ [ISR Test] correct_SpeechEnd:1140286056
+ [ISR Test] correct_SpeechEnd wParam:2760
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1529","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"李绍山国土|1.000","nameOrig":"李绍山国土"}},"service":"contacts","text":"查找李绍山国土的联系方式","version":"3.5.0.1190"}
+
+ [ISR Test] 查找李绍山国土的联系方式
+ [ISR Test] VadSil:0
+ [ISR Test] 第36次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_215_F013_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140290473
+ [ISR Test] correct_SpeechEnd:1140290647
+ [ISR Test] correct_SpeechEnd wParam:2540
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1471","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"老爸手机|1.000","nameOrig":"老爸手机","teleOperator":"联通"}},"service":"contacts","text":"查找老爸手机的联通号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查找老爸手机的联通号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第37次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_222_F014_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140295130
+ [ISR Test] correct_SpeechEnd:1140295170
+ [ISR Test] correct_SpeechEnd wParam:2520
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1538","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"葛运东|1.000","nameOrig":"葛运东"}},"service":"contacts","text":"查找联系人葛运东","version":"3.5.0.1190"}
+
+ [ISR Test] 查找联系人葛运东
+ [ISR Test] VadSil:0
+ [ISR Test] 第38次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_229_F014_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140300547
+ [ISR Test] correct_SpeechEnd:1140300662
+ [ISR Test] correct_SpeechEnd wParam:3100
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1642","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"葛勇杭州|1.000","nameOrig":"葛勇杭州","teleOperator":"联通"}},"service":"contacts","text":"查找葛勇杭州的联通号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查找葛勇杭州的联通号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第39次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_236_M002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140304726
+ [ISR Test] correct_SpeechEnd:1140304936
+ [ISR Test] correct_SpeechEnd wParam:2280
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1494","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"陈志刚|1.000","nameOrig":"陈志刚"}},"service":"contacts","text":"查找陈志刚的联系方式","version":"3.5.0.1190"}
+
+ [ISR Test] 查找陈志刚的联系方式
+ [ISR Test] VadSil:0
+ [ISR Test] 第40次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_243_F015_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140309458
+ [ISR Test] correct_SpeechEnd:1140309530
+ [ISR Test] correct_SpeechEnd wParam:2420
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1624","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"手机号码","name":"汪仁芳|1.000","nameOrig":"汪仁芳"}},"service":"contacts","text":"查看汪仁芳的手机号码","version":"3.5.0.1190"}
+
+ [ISR Test] 查看汪仁芳的手机号码
+ [ISR Test] VadSil:0
+ [ISR Test] 第41次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_250_F015_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140313627
+ [ISR Test] correct_SpeechEnd:1140313760
+ [ISR Test] correct_SpeechEnd wParam:2500
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"code":"10086","name":"中国移动通信客服","nameOrig":"中国移动客服"}},"service":"contacts","text":"查看中国移动客服电话。","version":"3.5.0.1190"}
+
+ [ISR Test] 查看中国移动客服电话。
+ [ISR Test] VadSil:0
+ [ISR Test] 第42次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_257_F016_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140317664
+ [ISR Test] correct_SpeechEnd:1140317837
+ [ISR Test] correct_SpeechEnd wParam:2560
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"爱我宝宝淮南|1.000","nameOrig":"爱我宝宝淮南"}},"service":"contacts","text":"爱我宝宝淮南的电话。","version":"3.5.0.1190"}
+
+ [ISR Test] 爱我宝宝淮南的电话。
+ [ISR Test] VadSil:0
+ [ISR Test] 第43次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_264_M003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140320798
+ [ISR Test] correct_SpeechEnd:1140320945
+ [ISR Test] correct_SpeechEnd wParam:940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1439","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"程玮|1.000;程玮亲|0.521","nameOrig":"程玮"}},"service":"contacts","text":"程玮","version":"3.5.0.1190"}
+
+ [ISR Test] 程玮
+ [ISR Test] VadSil:0
+ [ISR Test] 第44次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_271_F017_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140325953
+ [ISR Test] correct_SpeechEnd:1140326172
+ [ISR Test] correct_SpeechEnd wParam:2960
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1631","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"name":"王德吉|1.000","nameOrig":"王德吉"}},"service":"contacts","text":"给我查一下王德吉电话","version":"3.5.0.1190"}
+
+ [ISR Test] 给我查一下王德吉电话
+ [ISR Test] VadSil:0
+ [ISR Test] 第45次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_278_F017_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140330060
+ [ISR Test] correct_SpeechEnd:1140330254
+ [ISR Test] correct_SpeechEnd wParam:1840
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"10010","name":"联通客服电话孔师傅|0.514","nameOrig":"联通"}},"service":"contacts","text":"联通电话号码。","version":"3.5.0.1190"}
+
+ [ISR Test] 联通电话号码。
+ [ISR Test] VadSil:0
+ [ISR Test] 第46次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_285_F018_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140333247
+ [ISR Test] correct_SpeechEnd:1140333649
+ [ISR Test] correct_SpeechEnd wParam:1540
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"朱芳雨|1.000","nameOrig":"朱芳雨"}},"service":"contacts","text":"朱芳雨的号码。","version":"3.5.0.1190"}
+
+ [ISR Test] 朱芳雨的号码。
+ [ISR Test] VadSil:0
+ [ISR Test] 第47次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_292_F019_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140338397
+ [ISR Test] correct_SpeechEnd:1140338478
+ [ISR Test] correct_SpeechEnd wParam:3400
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1584","operation":"SEND","pk_score":1,"rc":0,"semantic":{"slots":{"channel":"message","name":"默默|1.000","nameOrig":"默默","receiver":"徐勇科长"}},"service":"contacts","text":"把默默的电话发给徐勇科长","version":"3.5.0.1190"}
+
+ [ISR Test] 把默默的电话发给徐勇科长
+ [ISR Test] VadSil:0
+ [ISR Test] 第48次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_299_F019_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140341977
+ [ISR Test] correct_SpeechEnd:1140342344
+ [ISR Test] correct_SpeechEnd wParam:1260
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1466","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"车万翔|1.000","nameOrig":"车万翔"}},"service":"contacts","text":"车万翔","version":"3.5.0.1190"}
+
+ [ISR Test] 车万翔
+ [ISR Test] VadSil:0
+ [ISR Test] 第49次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_306_F019_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140344920
+ [ISR Test] correct_SpeechEnd:1140345163
+ [ISR Test] correct_SpeechEnd wParam:1060
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1316","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"陈师傅|1.000","nameOrig":"陈师傅"}},"service":"contacts","text":"陈师傅","version":"3.5.0.1190"}
+
+ [ISR Test] 陈师傅
+ [ISR Test] VadSil:0
+ [ISR Test] 第50次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/5contacts/5contacts_313_F020_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140348591
+ [ISR Test] correct_SpeechEnd:1140348844
+ [ISR Test] correct_SpeechEnd wParam:1660
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.52,"rc":0,"semantic":{"slots":{"name":"把慧婷","nameOrig":"把慧婷"}},"service":"contacts","text":"把慧婷电话","version":"3.5.0.1190"}
+
+ [ISR Test] 把慧婷电话
+ [ISR Test] VadSil:0
+ [ISR Test] 第51次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_004_M097_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140354864
+ [ISR Test] correct_SpeechEnd:1140354977
+ [ISR Test] correct_SpeechEnd wParam:4600
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.2182,"rc":0,"semantic":{"slots":{"song":"一针灸沂州往脸","songOrig":"一针灸沂州往脸"}},"service":"music","text":"一曲高歌一针灸沂州往脸。","version":"3.5.0.1190"}
+
+ [ISR Test] 一曲高歌一针灸沂州往脸。
+ [ISR Test] VadSil:0
+ [ISR Test] 第52次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_011_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140359779
+ [ISR Test] correct_SpeechEnd:1140359880
+ [ISR Test] correct_SpeechEnd wParam:2430
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"932","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"张文菲|1.000;爱新觉罗伊张文菲|0.514","nameOrig":"张文菲"}},"service":"contacts","text":"张文菲","version":"3.5.0.1190"}
+
+ [ISR Test] 张文菲
+ [ISR Test] VadSil:0
+ [ISR Test] 第53次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_018_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140363869
+ [ISR Test] correct_SpeechEnd:1140364322
+ [ISR Test] correct_SpeechEnd wParam:1420
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"不可以说脏话。"}
+
+ [ISR Test] 不可以说脏话。
+ [ISR Test] VadSil:0
+ [ISR Test] 第54次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_025_M101_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] correct_SpeechEnd:1140369048
+ [ISR Test] correct_SpeechEnd wParam:2220
+ [ISR Test] ISSSRAppendAudioData Fail, return 10000!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"安丰吹进家山月。"}
+
+ [ISR Test] 安丰吹进家山月。
+ [ISR Test] VadSil:0
+ [ISR Test] 第55次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_032_M071_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140375050
+ [ISR Test] correct_SpeechEnd:1140375121
+ [ISR Test] correct_SpeechEnd wParam:4380
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"人是秋鸿来游戏室如春梦了无痕。"}
+
+ [ISR Test] 人是秋鸿来游戏室如春梦了无痕。
+ [ISR Test] VadSil:0
+ [ISR Test] 第56次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_039_M072_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140378816
+ [ISR Test] correct_SpeechEnd:1140379066
+ [ISR Test] correct_SpeechEnd wParam:1620
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"category":"美食","location":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"restaurant","text":"今天晚餐吃。","version":"3.5.0.1190"}
+
+ [ISR Test] 今天晚餐吃。
+ [ISR Test] VadSil:0
+ [ISR Test] 第57次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_046_M074_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140382566
+ [ISR Test] correct_SpeechEnd:1140382821
+ [ISR Test] correct_SpeechEnd wParam:1790
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"介绍你的情况。"}
+
+ [ISR Test] 介绍你的情况。
+ [ISR Test] VadSil:0
+ [ISR Test] 第58次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_053_M047_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140385667
+ [ISR Test] correct_SpeechEnd:1140385913
+ [ISR Test] correct_SpeechEnd wParam:1440
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"作业忘了做了。"}
+
+ [ISR Test] 作业忘了做了。
+ [ISR Test] VadSil:0
+ [ISR Test] 第59次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_060_M048_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140389072
+ [ISR Test] correct_SpeechEnd:1140389366
+ [ISR Test] correct_SpeechEnd wParam:1260
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你个小黄鸡。"}
+
+ [ISR Test] 你个小黄鸡。
+ [ISR Test] VadSil:0
+ [ISR Test] 第60次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_067_M050_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140392951
+ [ISR Test] correct_SpeechEnd:1140393192
+ [ISR Test] correct_SpeechEnd wParam:1940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"EXIT","pk_score":0.3778,"rc":0,"semantic":{"slots":{"name":"你休息吧把自己"}},"service":"app","text":"你休息吧把自己关闭。","version":"3.5.0.1190"}
+
+ [ISR Test] 你休息吧把自己关闭。
+ [ISR Test] VadSil:0
+ [ISR Test] 第61次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_074_M075_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140397296
+ [ISR Test] correct_SpeechEnd:1140397504
+ [ISR Test] correct_SpeechEnd wParam:2650
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.34,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"底能听见我说话","poi":"底能听见我说话","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"你到底能听见我说话吗。","version":"3.5.0.1190"}
+
+ [ISR Test] 你到底能听见我说话吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第62次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_081_F001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140400756
+ [ISR Test] correct_SpeechEnd:1140401058
+ [ISR Test] correct_SpeechEnd wParam:1900
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.5429000000000001,"rc":0,"semantic":{"slots":{"category":"工作","name":"你在哪里","nameOrig":"你在哪里"}},"service":"contacts","text":"你在哪里工作吗。","version":"3.5.0.1190"}
+
+ [ISR Test] 你在哪里工作吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第63次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_095_F002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140404021
+ [ISR Test] correct_SpeechEnd:1140404255
+ [ISR Test] correct_SpeechEnd wParam:1540
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你姓什么呀。"}
+
+ [ISR Test] 你姓什么呀。
+ [ISR Test] VadSil:0
+ [ISR Test] 第64次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_102_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140407464
+ [ISR Test] correct_SpeechEnd:1140407646
+ [ISR Test] correct_SpeechEnd wParam:1880
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你家里多少人啊。"}
+
+ [ISR Test] 你家里多少人啊。
+ [ISR Test] VadSil:0
+ [ISR Test] 第65次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_109_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140410644
+ [ISR Test] correct_SpeechEnd:1140410951
+ [ISR Test] correct_SpeechEnd wParam:1750
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你就是盗版的。"}
+
+ [ISR Test] 你就是盗版的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第66次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_116_F004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140414147
+ [ISR Test] correct_SpeechEnd:1140414336
+ [ISR Test] correct_SpeechEnd wParam:1700
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你是不是免费的。"}
+
+ [ISR Test] 你是不是免费的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第67次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_123_F005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140418145
+ [ISR Test] correct_SpeechEnd:1140418335
+ [ISR Test] correct_SpeechEnd wParam:1720
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你是什么公司的。"}
+
+ [ISR Test] 你是什么公司的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第68次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_130_F005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140421868
+ [ISR Test] correct_SpeechEnd:1140422055
+ [ISR Test] correct_SpeechEnd wParam:2080
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你是全世界最棒的吗。"}
+
+ [ISR Test] 你是全世界最棒的吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第69次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_144_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140425091
+ [ISR Test] correct_SpeechEnd:1140425316
+ [ISR Test] correct_SpeechEnd wParam:1550
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你是谁做出来的。"}
+
+ [ISR Test] 你是谁做出来的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第70次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_151_F008_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140428443
+ [ISR Test] correct_SpeechEnd:1140428570
+ [ISR Test] correct_SpeechEnd wParam:1780
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你晚餐吃什么。"}
+
+ [ISR Test] 你晚餐吃什么。
+ [ISR Test] VadSil:0
+ [ISR Test] 第71次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_158_F008_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140431609
+ [ISR Test] correct_SpeechEnd:1140432079
+ [ISR Test] correct_SpeechEnd wParam:1380
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"刘小明吗。"}
+
+ [ISR Test] 刘小明吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第72次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_165_F009_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140435095
+ [ISR Test] correct_SpeechEnd:1140435478
+ [ISR Test] correct_SpeechEnd wParam:1600
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"POSITION","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"你爸","poi":"你爸","type":"LOC_POI"}}},"service":"map","text":"你爸在哪呢。","version":"3.5.0.1190"}
+
+ [ISR Test] 你爸在哪呢。
+ [ISR Test] VadSil:0
+ [ISR Test] 第73次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_172_F010_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140438618
+ [ISR Test] correct_SpeechEnd:1140438784
+ [ISR Test] correct_SpeechEnd wParam:1700
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你爸是干什么的。"}
+
+ [ISR Test] 你爸是干什么的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第74次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_193_F012_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140442476
+ [ISR Test] correct_SpeechEnd:1140442670
+ [ISR Test] correct_SpeechEnd wParam:2080
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你的名字太长了记不住。"}
+
+ [ISR Test] 你的名字太长了记不住。
+ [ISR Test] VadSil:0
+ [ISR Test] 第75次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_200_F012_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140446924
+ [ISR Test] correct_SpeechEnd:1140447150
+ [ISR Test] correct_SpeechEnd wParam:2360
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你的意思是你笨还是我们了。"}
+
+ [ISR Test] 你的意思是你笨还是我们了。
+ [ISR Test] VadSil:0
+ [ISR Test] 第76次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_207_M001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140450382
+ [ISR Test] correct_SpeechEnd:1140450670
+ [ISR Test] correct_SpeechEnd wParam:1520
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.4667,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"你的过去","poi":"你的过去","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"你的过去如何。","version":"3.5.0.1190"}
+
+ [ISR Test] 你的过去如何。
+ [ISR Test] VadSil:0
+ [ISR Test] 第77次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_214_F013_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140453595
+ [ISR Test] correct_SpeechEnd:1140453812
+ [ISR Test] correct_SpeechEnd wParam:1640
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你真是太夸张了。"}
+
+ [ISR Test] 你真是太夸张了。
+ [ISR Test] VadSil:0
+ [ISR Test] 第78次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_221_F014_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140458011
+ [ISR Test] correct_SpeechEnd:1140458161
+ [ISR Test] correct_SpeechEnd wParam:2620
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.5091,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"麻将是","poi":"麻将是","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"你知道麻将是怎么玩的吗。","version":"3.5.0.1190"}
+
+ [ISR Test] 你知道麻将是怎么玩的吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第79次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_228_F014_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140461730
+ [ISR Test] correct_SpeechEnd:1140461878
+ [ISR Test] correct_SpeechEnd wParam:2040
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你能听见我说话吗。"}
+
+ [ISR Test] 你能听见我说话吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第80次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_235_M002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140465411
+ [ISR Test] correct_SpeechEnd:1140465605
+ [ISR Test] correct_SpeechEnd wParam:1900
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.2889,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"你说我","poi":"你说我","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"你说我怎么相信你呢。","version":"3.5.0.1190"}
+
+ [ISR Test] 你说我怎么相信你呢。
+ [ISR Test] VadSil:0
+ [ISR Test] 第81次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_242_F015_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140469265
+ [ISR Test] correct_SpeechEnd:1140469341
+ [ISR Test] correct_SpeechEnd wParam:2080
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你这是在威胁我吗。"}
+
+ [ISR Test] 你这是在威胁我吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第82次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_249_F015_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140473212
+ [ISR Test] correct_SpeechEnd:1140473279
+ [ISR Test] correct_SpeechEnd wParam:2300
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.2889,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"底是你笨还是我笨","poi":"底是你笨还是我笨","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"到底是你笨还是我笨。","version":"3.5.0.1190"}
+
+ [ISR Test] 到底是你笨还是我笨。
+ [ISR Test] VadSil:0
+ [ISR Test] 第83次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_277_F017_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140478912
+ [ISR Test] correct_SpeechEnd:1140479207
+ [ISR Test] correct_SpeechEnd wParam:3940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"在天愿作比翼鸟在地愿为林芝。"}
+
+ [ISR Test] 在天愿作比翼鸟在地愿为林芝。
+ [ISR Test] VadSil:0
+ [ISR Test] 第84次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_284_F018_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140485564
+ [ISR Test] correct_SpeechEnd:1140485706
+ [ISR Test] correct_SpeechEnd wParam:4000
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"POSITION","pk_score":0.52,"rc":0,"semantic":{"slots":{"location":{"area":"榆树市","areaAddr":"榆树","city":"CURRENT_CITY","ori_loc":"榆树觉这人企业家","poi":"觉这人企业家","type":"LOC_POI"}}},"service":"map","text":"请问榆树觉这人企业家。","version":"3.5.0.1190"}
+
+ [ISR Test] 请问榆树觉这人企业家。
+ [ISR Test] VadSil:0
+ [ISR Test] 第85次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_291_F019_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140490086
+ [ISR Test] correct_SpeechEnd:1140490261
+ [ISR Test] correct_SpeechEnd wParam:1940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"好花无百日红。"}
+
+ [ISR Test] 好花无百日红。
+ [ISR Test] VadSil:0
+ [ISR Test] 第86次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_298_F019_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140493666
+ [ISR Test] correct_SpeechEnd:1140493918
+ [ISR Test] correct_SpeechEnd wParam:1530
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"就是进不了。"}
+
+ [ISR Test] 就是进不了。
+ [ISR Test] VadSil:0
+ [ISR Test] 第87次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_305_F019_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140500931
+ [ISR Test] correct_SpeechEnd:1140501064
+ [ISR Test] correct_SpeechEnd wParam:5520
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"山阴咸阳天津市芳草无情更仔斜阳外。"}
+
+ [ISR Test] 山阴咸阳天津市芳草无情更仔斜阳外。
+ [ISR Test] VadSil:0
+ [ISR Test] 第88次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_312_F020_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140505367
+ [ISR Test] correct_SpeechEnd:1140505479
+ [ISR Test] correct_SpeechEnd wParam:1900
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"EXIT","pk_score":0.375,"rc":0,"semantic":{"slots":{"name":"怎么样才能"}},"service":"app","text":"怎么样才能关闭你。","version":"3.5.0.1190"}
+
+ [ISR Test] 怎么样才能关闭你。
+ [ISR Test] VadSil:0
+ [ISR Test] 第89次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_319_F020_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140508610
+ [ISR Test] correct_SpeechEnd:1140508838
+ [ISR Test] correct_SpeechEnd wParam:2010
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我准备吃早饭了。"}
+
+ [ISR Test] 我准备吃早饭了。
+ [ISR Test] VadSil:0
+ [ISR Test] 第90次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_326_F020_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140511843
+ [ISR Test] correct_SpeechEnd:1140511991
+ [ISR Test] correct_SpeechEnd wParam:1730
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我就是要欺负你。"}
+
+ [ISR Test] 我就是要欺负你。
+ [ISR Test] VadSil:0
+ [ISR Test] 第91次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_333_F021_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140515098
+ [ISR Test] correct_SpeechEnd:1140515335
+ [ISR Test] correct_SpeechEnd wParam:1460
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我很想认识你。"}
+
+ [ISR Test] 我很想认识你。
+ [ISR Test] VadSil:0
+ [ISR Test] 第92次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_340_F021_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140518369
+ [ISR Test] correct_SpeechEnd:1140518586
+ [ISR Test] correct_SpeechEnd wParam:1820
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我想生个孩子。"}
+
+ [ISR Test] 我想生个孩子。
+ [ISR Test] VadSil:0
+ [ISR Test] 第93次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_347_F021_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140521871
+ [ISR Test] correct_SpeechEnd:1140522011
+ [ISR Test] correct_SpeechEnd wParam:1500
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我想要个小孩儿。"}
+
+ [ISR Test] 我想要个小孩儿。
+ [ISR Test] VadSil:0
+ [ISR Test] 第94次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_354_F021_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140525478
+ [ISR Test] correct_SpeechEnd:1140525603
+ [ISR Test] correct_SpeechEnd wParam:1680
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我用的什么汽车。"}
+
+ [ISR Test] 我用的什么汽车。
+ [ISR Test] VadSil:0
+ [ISR Test] 第95次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_361_M004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140528639
+ [ISR Test] correct_SpeechEnd:1140528988
+ [ISR Test] correct_SpeechEnd wParam:1140
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1121","operation":"PLAY","pk_score":0.75,"rc":0,"semantic":{"slots":{"song":"向往|1","songOrig":"向往"}},"service":"music","text":"我要向往","version":"3.5.0.1190"}
+
+ [ISR Test] 我要向往
+ [ISR Test] VadSil:0
+ [ISR Test] 第96次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_368_M004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140532457
+ [ISR Test] correct_SpeechEnd:1140532573
+ [ISR Test] correct_SpeechEnd wParam:1960
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我觉得你就山寨的。"}
+
+ [ISR Test] 我觉得你就山寨的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第97次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_375_M004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140536296
+ [ISR Test] correct_SpeechEnd:1140536462
+ [ISR Test] correct_SpeechEnd wParam:1980
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我跟你说一下我的名字吧。"}
+
+ [ISR Test] 我跟你说一下我的名字吧。
+ [ISR Test] VadSil:0
+ [ISR Test] 第98次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_382_M004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140540193
+ [ISR Test] correct_SpeechEnd:1140540407
+ [ISR Test] correct_SpeechEnd wParam:2170
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.4,"rc":0,"semantic":{"slots":{"name":"视频"}},"service":"app","text":"推荐一部电影给我看吧。","version":"3.5.0.1190"}
+
+ [ISR Test] 推荐一部电影给我看吧。
+ [ISR Test] VadSil:0
+ [ISR Test] 第99次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_389_M004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140543962
+ [ISR Test] correct_SpeechEnd:1140544079
+ [ISR Test] correct_SpeechEnd wParam:1720
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"明天我要干点什么呢。"}
+
+ [ISR Test] 明天我要干点什么呢。
+ [ISR Test] VadSil:0
+ [ISR Test] 第100次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_396_F022_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140550048
+ [ISR Test] correct_SpeechEnd:1140550171
+ [ISR Test] correct_SpeechEnd wParam:4280
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.4,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"最近有什么好电影推荐一下","poi":"CURRENT_POI","type":"LOC_POI"},"name":"最近有什么好电影推荐一下"}},"service":"lbs","text":"最近有没最近有什么好电影推荐一下。","version":"3.5.0.1190"}
+
+ [ISR Test] 最近有没最近有什么好电影推荐一下。
+ [ISR Test] VadSil:0
+ [ISR Test] 第101次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_403_F022_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140553485
+ [ISR Test] correct_SpeechEnd:1140553712
+ [ISR Test] correct_SpeechEnd wParam:1860
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"有那么夸张吗。"}
+
+ [ISR Test] 有那么夸张吗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第102次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_410_F022_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140557313
+ [ISR Test] correct_SpeechEnd:1140557478
+ [ISR Test] correct_SpeechEnd wParam:2220
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"没你我好无聊啊。"}
+
+ [ISR Test] 没你我好无聊啊。
+ [ISR Test] VadSil:0
+ [ISR Test] 第103次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_417_F022_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140560628
+ [ISR Test] correct_SpeechEnd:1140560806
+ [ISR Test] correct_SpeechEnd wParam:1400
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"玩游戏"}},"service":"app","text":"玩游戏吧。","version":"3.5.0.1190"}
+
+ [ISR Test] 玩游戏吧。
+ [ISR Test] VadSil:0
+ [ISR Test] 第104次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_431_M005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140564331
+ [ISR Test] correct_SpeechEnd:1140564401
+ [ISR Test] correct_SpeechEnd wParam:2040
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"确实是奥口。"}
+
+ [ISR Test] 确实是奥口。
+ [ISR Test] VadSil:0
+ [ISR Test] 第105次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_438_M005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140571887
+ [ISR Test] correct_SpeechEnd:1140572073
+ [ISR Test] correct_SpeechEnd wParam:5600
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"老天有开觉大漠诸君合志微型厅。"}
+
+ [ISR Test] 老天有开觉大漠诸君合志微型厅。
+ [ISR Test] VadSil:0
+ [ISR Test] 第106次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_445_M005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140578247
+ [ISR Test] correct_SpeechEnd:1140578436
+ [ISR Test] correct_SpeechEnd wParam:3840
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"PLAY","pk_score":0.4615,"rc":0,"semantic":{"slots":{"song":"知道不知道|1","songOrig":"知道不知道"}},"service":"music","text":"讯飞汽车语点知道不知道别的。","version":"3.5.0.1190"}
+
+ [ISR Test] 讯飞汽车语点知道不知道别的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第107次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_452_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140581911
+ [ISR Test] correct_SpeechEnd:1140582227
+ [ISR Test] correct_SpeechEnd wParam:1680
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"请不要说脏话。"}
+
+ [ISR Test] 请不要说脏话。
+ [ISR Test] VadSil:0
+ [ISR Test] 第108次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_459_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140585391
+ [ISR Test] correct_SpeechEnd:1140585680
+ [ISR Test] correct_SpeechEnd wParam:1640
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"谁叫你宝贝呀。"}
+
+ [ISR Test] 谁叫你宝贝呀。
+ [ISR Test] VadSil:0
+ [ISR Test] 第109次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_466_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140588872
+ [ISR Test] correct_SpeechEnd:1140589346
+ [ISR Test] correct_SpeechEnd wParam:1520
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"这是什么汽车。"}
+
+ [ISR Test] 这是什么汽车。
+ [ISR Test] VadSil:0
+ [ISR Test] 第110次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_473_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140592801
+ [ISR Test] correct_SpeechEnd:1140593018
+ [ISR Test] correct_SpeechEnd wParam:1820
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"那你老爸是干嘛的。"}
+
+ [ISR Test] 那你老爸是干嘛的。
+ [ISR Test] VadSil:0
+ [ISR Test] 第111次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_480_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140596623
+ [ISR Test] correct_SpeechEnd:1140596782
+ [ISR Test] correct_SpeechEnd wParam:1840
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"随便说一点。"}
+
+ [ISR Test] 随便说一点。
+ [ISR Test] VadSil:0
+ [ISR Test] 第112次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_487_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140603397
+ [ISR Test] correct_SpeechEnd:1140603552
+ [ISR Test] correct_SpeechEnd wParam:4480
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.2471,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"何从","poi":"何从","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","ori_loc":"互联网世界风云变幻莫测我该何","poi":"互联网世界风云变幻莫测我该何","type":"LOC_POI"}}},"service":"map","text":"互联网世界风云变幻莫测我该何去何从。","version":"3.5.0.1190"}
+
+ [ISR Test] 互联网世界风云变幻莫测我该何去何从。
+ [ISR Test] VadSil:0
+ [ISR Test] 第113次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_494_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140611127
+ [ISR Test] correct_SpeechEnd:1140611242
+ [ISR Test] correct_SpeechEnd wParam:5780
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"你又一个苹果我有一个苹果我们交换人格是一个苹果。"}
+
+ [ISR Test] 你又一个苹果我有一个苹果我们交换人格是一个苹果。
+ [ISR Test] VadSil:0
+ [ISR Test] 第114次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_501_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140618315
+ [ISR Test] correct_SpeechEnd:1140618478
+ [ISR Test] correct_SpeechEnd wParam:4540
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我了解在看书的夜曲地上的世界凋谢。"}
+
+ [ISR Test] 我了解在看书的夜曲地上的世界凋谢。
+ [ISR Test] VadSil:0
+ [ISR Test] 第115次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_508_M006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140625879
+ [ISR Test] correct_SpeechEnd:1140625936
+ [ISR Test] correct_SpeechEnd wParam:4400
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"以前的夜里我们尽情的作者我们双溪如何。"}
+
+ [ISR Test] 以前的夜里我们尽情的作者我们双溪如何。
+ [ISR Test] VadSil:0
+ [ISR Test] 第116次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_515_F023_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140634378
+ [ISR Test] correct_SpeechEnd:1140634507
+ [ISR Test] correct_SpeechEnd wParam:5880
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.2231,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"面试是否","poi":"面试是否","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"},"viaLoc":{"city":"CURRENT_CITY","poi":"应该取决于自己是否愿意与眼前的","type":"LOC_POI"}}},"service":"map","text":"面试是否通过应该取决于自己是否愿意与眼前的这个人公式。","version":"3.5.0.1190"}
+
+ [ISR Test] 面试是否通过应该取决于自己是否愿意与眼前的这个人公式。
+ [ISR Test] VadSil:0
+ [ISR Test] 第117次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_529_F024_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140637496
+ [ISR Test] correct_SpeechEnd:1140637865
+ [ISR Test] correct_SpeechEnd wParam:1520
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"胃不舒服啊。"}
+
+ [ISR Test] 胃不舒服啊。
+ [ISR Test] VadSil:0
+ [ISR Test] 第118次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_536_F025_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140641795
+ [ISR Test] correct_SpeechEnd:1140642101
+ [ISR Test] correct_SpeechEnd wParam:2380
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.25,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"},"special":"鱼"}},"service":"restaurant","text":"不胜而被炒鱿鱼啦。","version":"3.5.0.1190"}
+
+ [ISR Test] 不胜而被炒鱿鱼啦。
+ [ISR Test] VadSil:0
+ [ISR Test] 第119次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_543_M007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140647210
+ [ISR Test] correct_SpeechEnd:1140647300
+ [ISR Test] correct_SpeechEnd wParam:3200
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"无语觉得比上学快多了。"}
+
+ [ISR Test] 无语觉得比上学快多了。
+ [ISR Test] VadSil:0
+ [ISR Test] 第120次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_550_M007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140652381
+ [ISR Test] correct_SpeechEnd:1140652538
+ [ISR Test] correct_SpeechEnd wParam:3480
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"好久没打球了今天被人音乐了。"}
+
+ [ISR Test] 好久没打球了今天被人音乐了。
+ [ISR Test] VadSil:0
+ [ISR Test] 第121次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/6dialog/6dialog_557_F026_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140657971
+ [ISR Test] correct_SpeechEnd:1140658051
+ [ISR Test] correct_SpeechEnd wParam:3460
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.3455,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"你整天都在想些什么","poi":"你整天都在想些什么","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"我去你整天都在想些什么。","version":"3.5.0.1190"}
+
+ [ISR Test] 我去你整天都在想些什么。
+ [ISR Test] VadSil:0
+ [ISR Test] 第122次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_001_M097_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140661987
+ [ISR Test] correct_SpeechEnd:1140662200
+ [ISR Test] correct_SpeechEnd wParam:1700
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"合肥市","cityAddr":"合肥","type":"LOC_BASIC"},"startLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"}}},"service":"flight","text":"上海到合肥的机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 上海到合肥的机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第123次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_008_M098_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140666214
+ [ISR Test] correct_SpeechEnd:1140666362
+ [ISR Test] correct_SpeechEnd wParam:2350
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startDate":{"date":"2015-08-01","dateOrig":"建军节","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"建军节去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 建军节去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第124次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_015_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140670624
+ [ISR Test] correct_SpeechEnd:1140670850
+ [ISR Test] correct_SpeechEnd wParam:2810
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.8571,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"虽然去上海的飞机票我想看一下。","version":"3.5.0.1190"}
+
+ [ISR Test] 虽然去上海的飞机票我想看一下。
+ [ISR Test] VadSil:0
+ [ISR Test] 第125次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_022_M101_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140675060
+ [ISR Test] correct_SpeechEnd:1140675153
+ [ISR Test] correct_SpeechEnd wParam:2060
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.76,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"老师节去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 老师节去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第126次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_029_M102_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140679685
+ [ISR Test] correct_SpeechEnd:1140679767
+ [ISR Test] correct_SpeechEnd wParam:2900
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY_TIME","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"厦门市","cityAddr":"厦门","type":"LOC_BASIC"},"startLoc":{"city":"成都市","cityAddr":"成都","type":"LOC_BASIC"}}},"service":"flight","text":"成都到厦门的航班起飞时间。","version":"3.5.0.1190"}
+
+ [ISR Test] 成都到厦门的航班起飞时间。
+ [ISR Test] VadSil:0
+ [ISR Test] 第127次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_036_M072_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140683853
+ [ISR Test] correct_SpeechEnd:1140683993
+ [ISR Test] correct_SpeechEnd wParam:2160
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"芝加哥","cityAddr":"芝加哥","type":"LOC_BASIC"},"startLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"}}},"service":"flight","text":"上海到芝加哥的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 上海到芝加哥的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第128次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_043_M073_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140688290
+ [ISR Test] correct_SpeechEnd:1140688527
+ [ISR Test] correct_SpeechEnd wParam:2440
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"西安市","cityAddr":"西安","type":"LOC_BASIC"},"startDate":{"date":"2015-02-02","dateOrig":"明天","type":"DT_BASIC"},"startLoc":{"city":"武汉市","cityAddr":"武汉","type":"LOC_BASIC"}}},"service":"flight","text":"查询明天武汉到西安的航班。","version":"3.5.0.1190"}
+
+ [ISR Test] 查询明天武汉到西安的航班。
+ [ISR Test] VadSil:0
+ [ISR Test] 第129次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_050_M074_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140693185
+ [ISR Test] correct_SpeechEnd:1140693358
+ [ISR Test] correct_SpeechEnd wParam:2900
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"BOOK","pk_score":0.8333,"rc":0,"semantic":{"slots":{"endLoc":{"city":"北京市","cityAddr":"北京","type":"LOC_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"怎么买一张到北京的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 怎么买一张到北京的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第130次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_057_M048_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140697319
+ [ISR Test] correct_SpeechEnd:1140697425
+ [ISR Test] correct_SpeechEnd wParam:1960
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startDate":{"date":"2015-03-05","dateOrig":"元宵节","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"元宵节去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 元宵节去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第131次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_064_M049_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140701284
+ [ISR Test] correct_SpeechEnd:1140701348
+ [ISR Test] correct_SpeechEnd wParam:2160
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startDate":{"date":"2015-09-27","dateOrig":"中秋","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"中秋去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 中秋去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第132次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_071_M075_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140707146
+ [ISR Test] correct_SpeechEnd:1140707297
+ [ISR Test] correct_SpeechEnd wParam:3900
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"SEARCH","pk_score":0.4375,"rc":0,"semantic":{"slots":{"song":"明天|1","songOrig":"明天"}},"service":"music","text":"帮我查一下明天合肥飞机场查的航班。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下明天合肥飞机场查的航班。
+ [ISR Test] VadSil:0
+ [ISR Test] 第133次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_078_M105_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140712215
+ [ISR Test] correct_SpeechEnd:1140712313
+ [ISR Test] correct_SpeechEnd wParam:2810
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"大连市","cityAddr":"大连","type":"LOC_BASIC"},"startDate":{"date":"2015-02-01","dateOrig":"今天","type":"DT_BASIC"},"startLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"}}},"service":"flight","text":"今天上海到大连的航班。","version":"3.5.0.1190"}
+
+ [ISR Test] 今天上海到大连的航班。
+ [ISR Test] VadSil:0
+ [ISR Test] 第134次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_085_F001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140717008
+ [ISR Test] correct_SpeechEnd:1140717174
+ [ISR Test] correct_SpeechEnd wParam:2780
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"BOOK","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"北京市","cityAddr":"北京","type":"LOC_BASIC"},"startDate":{"date":"2015-02-02","dateOrig":"明天","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"帮我订一张明天去北京的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我订一张明天去北京的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第135次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_092_F002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140721741
+ [ISR Test] correct_SpeechEnd:1140722012
+ [ISR Test] correct_SpeechEnd wParam:2810
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"北京市","cityAddr":"北京","type":"LOC_BASIC"},"startLoc":{"city":"合肥市","cityAddr":"合肥","type":"LOC_BASIC"}}},"service":"flight","text":"查一下合肥到北京的航班。","version":"3.5.0.1190"}
+
+ [ISR Test] 查一下合肥到北京的航班。
+ [ISR Test] VadSil:0
+ [ISR Test] 第136次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_099_F002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140726463
+ [ISR Test] correct_SpeechEnd:1140726623
+ [ISR Test] correct_SpeechEnd wParam:2980
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"成都市","cityAddr":"成都","type":"LOC_BASIC"},"startLoc":{"city":"柳州市","cityAddr":"柳州","type":"LOC_BASIC"}}},"service":"flight","text":"查询一下柳州到成都的机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 查询一下柳州到成都的机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第137次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_106_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140730339
+ [ISR Test] correct_SpeechEnd:1140730547
+ [ISR Test] correct_SpeechEnd wParam:2490
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startDate":{"date":"2015-02-04","dateOrig":"大后天","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"大后天去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 大后天去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第138次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_113_F004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140734966
+ [ISR Test] correct_SpeechEnd:1140735042
+ [ISR Test] correct_SpeechEnd wParam:2940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.7000000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startDate":{"date":"2015-02-01","dateOrig":"今天","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"一个月后的今天去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 一个月后的今天去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第139次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_120_F004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140739389
+ [ISR Test] correct_SpeechEnd:1140739518
+ [ISR Test] correct_SpeechEnd wParam:2740
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startDate":{"date":"2015-02-05","dateOrig":"下个星期四","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"下个星期四去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 下个星期四去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第140次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_127_F005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140743644
+ [ISR Test] correct_SpeechEnd:1140743763
+ [ISR Test] correct_SpeechEnd wParam:2110
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"北京市","cityAddr":"北京","type":"LOC_BASIC"},"startLoc":{"city":"宁波市","cityAddr":"宁波","type":"LOC_BASIC"}}},"service":"flight","text":"宁波到北京的航班。","version":"3.5.0.1190"}
+
+ [ISR Test] 宁波到北京的航班。
+ [ISR Test] VadSil:0
+ [ISR Test] 第141次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_134_F006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140748119
+ [ISR Test] correct_SpeechEnd:1140748202
+ [ISR Test] correct_SpeechEnd wParam:2890
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startLoc":{"city":"北京市","cityAddr":"北京","type":"LOC_BASIC"}}},"service":"flight","text":"查询北京到上海的航班。","version":"3.5.0.1190"}
+
+ [ISR Test] 查询北京到上海的航班。
+ [ISR Test] VadSil:0
+ [ISR Test] 第142次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_141_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140752866
+ [ISR Test] correct_SpeechEnd:1140753036
+ [ISR Test] correct_SpeechEnd wParam:3020
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startLoc":{"city":"合肥市","cityAddr":"合肥","type":"LOC_BASIC"}}},"service":"flight","text":"天友集团合肥到上海的航班。","version":"3.5.0.1190"}
+
+ [ISR Test] 天友集团合肥到上海的航班。
+ [ISR Test] VadSil:0
+ [ISR Test] 第143次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/7flight/7flight_148_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140757097
+ [ISR Test] correct_SpeechEnd:1140757193
+ [ISR Test] correct_SpeechEnd wParam:1980
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"上海市","cityAddr":"上海","type":"LOC_BASIC"},"startDate":{"date":"2016-02-01","dateOrig":"明年","type":"DT_BASIC"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"flight","text":"明年去上海的飞机票。","version":"3.5.0.1190"}
+
+ [ISR Test] 明年去上海的飞机票。
+ [ISR Test] VadSil:0
+ [ISR Test] 第144次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_005_M097_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140760139
+ [ISR Test] correct_SpeechEnd:1140760415
+ [ISR Test] correct_SpeechEnd wParam:1160
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1169","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"音乐"}},"service":"help","text":"怎么听音乐","version":"3.5.0.1190"}
+
+ [ISR Test] 怎么听音乐
+ [ISR Test] VadSil:0
+ [ISR Test] 第145次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_012_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140763616
+ [ISR Test] correct_SpeechEnd:1140763871
+ [ISR Test] correct_SpeechEnd wParam:1740
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1493","operation":"LAUNCH","pk_score":1,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"给我开启导航帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 给我开启导航帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第146次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_019_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140767405
+ [ISR Test] correct_SpeechEnd:1140767981
+ [ISR Test] correct_SpeechEnd wParam:1800
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1434","operation":"LAUNCH","pk_score":1,"rc":0,"semantic":{"slots":{"category":"收音机"}},"service":"help","text":"打开收音机帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 打开收音机帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第147次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_026_M102_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140770620
+ [ISR Test] correct_SpeechEnd:1140771054
+ [ISR Test] correct_SpeechEnd wParam:1280
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1318","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"怎么导航","version":"3.5.0.1190"}
+
+ [ISR Test] 怎么导航
+ [ISR Test] VadSil:0
+ [ISR Test] 第148次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_033_M071_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140774436
+ [ISR Test] correct_SpeechEnd:1140774611
+ [ISR Test] correct_SpeechEnd wParam:1980
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1547","operation":"","pk_score":1,"rc":0,"service":"help","text":"怎么用汽车语音助理","version":"3.5.0.1190"}
+
+ [ISR Test] 怎么用汽车语音助理
+ [ISR Test] VadSil:0
+ [ISR Test] 第149次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_040_M072_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140778368
+ [ISR Test] correct_SpeechEnd:1140778510
+ [ISR Test] correct_SpeechEnd wParam:1940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1488","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"我想看地图帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 我想看地图帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第150次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_047_M074_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140782280
+ [ISR Test] correct_SpeechEnd:1140782362
+ [ISR Test] correct_SpeechEnd wParam:1940
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1695","operation":"","pk_score":0.75,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"如何操作地图帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 如何操作地图帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第151次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_054_M047_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140785814
+ [ISR Test] correct_SpeechEnd:1140786064
+ [ISR Test] correct_SpeechEnd wParam:2100
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.9091,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"告诉我地图是怎么使用呢。","version":"3.5.0.1190"}
+
+ [ISR Test] 告诉我地图是怎么使用呢。
+ [ISR Test] VadSil:0
+ [ISR Test] 第152次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_061_M049_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140789074
+ [ISR Test] correct_SpeechEnd:1140789254
+ [ISR Test] correct_SpeechEnd wParam:1300
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1707","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"导航帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 导航帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第153次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_068_M050_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140791964
+ [ISR Test] correct_SpeechEnd:1140792087
+ [ISR Test] correct_SpeechEnd wParam:1480
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1583","operation":"LAUNCH","pk_score":1,"rc":0,"service":"help","text":"帮我开启帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我开启帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第154次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_075_M075_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140795495
+ [ISR Test] correct_SpeechEnd:1140795685
+ [ISR Test] correct_SpeechEnd wParam:1720
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"1458","rc":4,"text":"你有那些功能"}
+
+ [ISR Test] 你有那些功能
+ [ISR Test] VadSil:0
+ [ISR Test] 第155次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_082_F001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140798590
+ [ISR Test] correct_SpeechEnd:1140798955
+ [ISR Test] correct_SpeechEnd wParam:1480
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1580","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"短信"}},"service":"help","text":"如何发短信","version":"3.5.0.1190"}
+
+ [ISR Test] 如何发短信
+ [ISR Test] VadSil:0
+ [ISR Test] 第156次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_089_F001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140801526
+ [ISR Test] correct_SpeechEnd:1140801752
+ [ISR Test] correct_SpeechEnd wParam:1580
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1483","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"电话"}},"service":"help","text":"电话怎么用","version":"3.5.0.1190"}
+
+ [ISR Test] 电话怎么用
+ [ISR Test] VadSil:0
+ [ISR Test] 第157次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_096_F002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140804811
+ [ISR Test] correct_SpeechEnd:1140805154
+ [ISR Test] correct_SpeechEnd wParam:1700
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1468","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"电话"}},"service":"help","text":"我要电话帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 我要电话帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第158次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_103_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140808103
+ [ISR Test] correct_SpeechEnd:1140808361
+ [ISR Test] correct_SpeechEnd wParam:1440
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1726","operation":"","pk_score":1,"rc":0,"service":"help","text":"查询帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 查询帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第159次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_110_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140812399
+ [ISR Test] correct_SpeechEnd:1140812468
+ [ISR Test] correct_SpeechEnd wParam:2760
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1561","operation":"QUERY","pk_score":0.6154000000000001,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"我想查询导航帮助是什么样的","version":"3.5.0.1190"}
+
+ [ISR Test] 我想查询导航帮助是什么样的
+ [ISR Test] VadSil:0
+ [ISR Test] 第160次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_117_F004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140816692
+ [ISR Test] correct_SpeechEnd:1140816841
+ [ISR Test] correct_SpeechEnd wParam:2700
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"我想知道道和帮助的宫斗。"}
+
+ [ISR Test] 我想知道道和帮助的宫斗。
+ [ISR Test] VadSil:0
+ [ISR Test] 第161次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_124_F005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140821221
+ [ISR Test] correct_SpeechEnd:1140821360
+ [ISR Test] correct_SpeechEnd wParam:2440
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"我想知道如何操作导航。","version":"3.5.0.1190"}
+
+ [ISR Test] 我想知道如何操作导航。
+ [ISR Test] VadSil:0
+ [ISR Test] 第162次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_131_F006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140824744
+ [ISR Test] correct_SpeechEnd:1140824894
+ [ISR Test] correct_SpeechEnd wParam:1800
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1548","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"category":"音乐"}},"service":"help","text":"查看音乐帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 查看音乐帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第163次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_138_F006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140828034
+ [ISR Test] correct_SpeechEnd:1140828121
+ [ISR Test] correct_SpeechEnd wParam:1820
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1629","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"导航"}},"service":"help","text":"地图怎么操作","version":"3.5.0.1190"}
+
+ [ISR Test] 地图怎么操作
+ [ISR Test] VadSil:0
+ [ISR Test] 第164次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/8help/8help_145_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140831320
+ [ISR Test] correct_SpeechEnd:1140831403
+ [ISR Test] correct_SpeechEnd wParam:1680
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"1488","operation":"LAUNCH","pk_score":1,"rc":0,"semantic":{"slots":{"category":"电话"}},"service":"help","text":"开启电话帮助","version":"3.5.0.1190"}
+
+ [ISR Test] 开启电话帮助
+ [ISR Test] VadSil:0
+ [ISR Test] 第165次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_002_M097_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140836895
+ [ISR Test] correct_SpeechEnd:1140837077
+ [ISR Test] correct_SpeechEnd wParam:3980
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.4667,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","keyword":"从吵架时路上的加油站到科大讯飞","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站","nearBy":"从吵架时路上的加油站到科大讯飞","nearName":"加油站"}},"service":"lbs","text":"从吵架时路上的加油站到科大讯飞附近的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 从吵架时路上的加油站到科大讯飞附近的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第166次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_009_M098_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140840866
+ [ISR Test] correct_SpeechEnd:1140841102
+ [ISR Test] correct_SpeechEnd wParam:1660
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.8571,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"去附近的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 去附近的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第167次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_016_M099_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140844341
+ [ISR Test] correct_SpeechEnd:1140844612
+ [ISR Test] correct_SpeechEnd wParam:1360
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"超市","poi":"CURRENT_POI","type":"LOC_POI"},"name":"超市"}},"service":"lbs","text":"周边的超市。","version":"3.5.0.1190"}
+
+ [ISR Test] 周边的超市。
+ [ISR Test] VadSil:0
+ [ISR Test] 第168次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_023_M101_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140849765
+ [ISR Test] correct_SpeechEnd:1140849992
+ [ISR Test] correct_SpeechEnd wParam:3910
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"BOOK","pk_score":1,"rc":0,"semantic":{"slots":{"checkinDate":{"date":"2015-02-01","type":"DT_BASIC"},"location":{"city":"CURRENT_CITY","poi":"飞机场","type":"LOC_POI"},"name":"湾大酒店","roomCount":"一"}},"service":"hotel","text":"帮我在飞机场旁边的湾大酒店订一个房间。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我在飞机场旁边的湾大酒店订一个房间。
+ [ISR Test] VadSil:0
+ [ISR Test] 第169次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_030_M102_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140855300
+ [ISR Test] correct_SpeechEnd:1140855394
+ [ISR Test] correct_SpeechEnd wParam:3320
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.7176,"rc":0,"semantic":{"slots":{"distance":"1000米","location":{"city":"CURRENT_CITY","ori_loc":"家居建材市场","poi":"CURRENT_POI","type":"LOC_POI"},"name":"家居建材市场"}},"service":"lbs","text":"帮我找一下附近一公里的家居建材市场。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我找一下附近一公里的家居建材市场。
+ [ISR Test] VadSil:0
+ [ISR Test] 第170次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_037_M072_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140860888
+ [ISR Test] correct_SpeechEnd:1140861189
+ [ISR Test] correct_SpeechEnd wParam:2820
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.8286,"rc":0,"semantic":{"slots":{"distance":"5000米","location":{"city":"CURRENT_CITY","ori_loc":"合家福","poi":"CURRENT_POI","type":"LOC_POI"},"name":"合家福"}},"service":"lbs","text":"帮我找一下旁边五公里的合家福。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我找一下旁边五公里的合家福。
+ [ISR Test] VadSil:0
+ [ISR Test] 第171次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_044_M073_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140865725
+ [ISR Test] correct_SpeechEnd:1140865880
+ [ISR Test] correct_SpeechEnd wParam:2480
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"帮我找一找附近有没有加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我找一找附近有没有加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第172次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_051_M047_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140869459
+ [ISR Test] correct_SpeechEnd:1140869666
+ [ISR Test] correct_SpeechEnd wParam:1920
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"机场","poi":"CURRENT_POI","type":"LOC_POI"},"name":"机场"}},"service":"lbs","text":"帮我查一下周边的机场。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下周边的机场。
+ [ISR Test] VadSil:0
+ [ISR Test] 第173次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_058_M048_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140873761
+ [ISR Test] correct_SpeechEnd:1140873850
+ [ISR Test] correct_SpeechEnd wParam:2320
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"招商银行","poi":"CURRENT_POI","type":"LOC_POI"},"name":"招商银行"}},"service":"lbs","text":"帮我查一下旁边的招商银行。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下旁边的招商银行。
+ [ISR Test] VadSil:0
+ [ISR Test] 第174次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_065_M049_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140877974
+ [ISR Test] correct_SpeechEnd:1140878232
+ [ISR Test] correct_SpeechEnd wParam:2280
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"帮我查一下附近的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查一下附近的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第175次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_072_M075_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140882602
+ [ISR Test] correct_SpeechEnd:1140882776
+ [ISR Test] correct_SpeechEnd wParam:2600
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"帮我查找周边的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查找周边的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第176次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_079_M105_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140887376
+ [ISR Test] correct_SpeechEnd:1140887512
+ [ISR Test] correct_SpeechEnd wParam:2820
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"帮我查找旁边有没有加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查找旁边有没有加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第177次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_086_F001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140891908
+ [ISR Test] correct_SpeechEnd:1140892058
+ [ISR Test] correct_SpeechEnd wParam:2260
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"帮我查找附近有没有加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 帮我查找附近有没有加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第178次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_093_F002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140896407
+ [ISR Test] correct_SpeechEnd:1140896643
+ [ISR Test] correct_SpeechEnd wParam:2900
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"中国人民银行","poi":"CURRENT_POI","type":"LOC_POI"},"name":"中国人民银行"}},"service":"lbs","text":"我周边的中国人民银行。","version":"3.5.0.1190"}
+
+ [ISR Test] 我周边的中国人民银行。
+ [ISR Test] VadSil:0
+ [ISR Test] 第179次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_100_F002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140900571
+ [ISR Test] correct_SpeechEnd:1140900641
+ [ISR Test] correct_SpeechEnd wParam:2380
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"加油站","type":"LOC_POI"},"nearBy":"0","startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"我想去附近的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 我想去附近的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第180次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_107_F003_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140905374
+ [ISR Test] correct_SpeechEnd:1140905524
+ [ISR Test] correct_SpeechEnd wParam:3180
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"distance":"2000米","location":{"city":"CURRENT_CITY","ori_loc":"银行","poi":"CURRENT_POI","type":"LOC_POI"},"name":"银行"}},"service":"lbs","text":"我想查一下附近二公里范围内的银行。","version":"3.5.0.1190"}
+
+ [ISR Test] 我想查一下附近二公里范围内的银行。
+ [ISR Test] VadSil:0
+ [ISR Test] 第181次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_114_F004_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140910142
+ [ISR Test] correct_SpeechEnd:1140910225
+ [ISR Test] correct_SpeechEnd wParam:2520
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"商场","poi":"CURRENT_POI","type":"LOC_POI"},"name":"商场"}},"service":"lbs","text":"我想查一下附近的商场。","version":"3.5.0.1190"}
+
+ [ISR Test] 我想查一下附近的商场。
+ [ISR Test] VadSil:0
+ [ISR Test] 第182次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_121_F005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140914274
+ [ISR Test] correct_SpeechEnd:1140914351
+ [ISR Test] correct_SpeechEnd wParam:2350
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"诊所","poi":"CURRENT_POI","type":"LOC_POI"},"name":"诊所"}},"service":"lbs","text":"我想查找附近的诊所。","version":"3.5.0.1190"}
+
+ [ISR Test] 我想查找附近的诊所。
+ [ISR Test] VadSil:0
+ [ISR Test] 第183次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_128_F005_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140918293
+ [ISR Test] correct_SpeechEnd:1140918391
+ [ISR Test] correct_SpeechEnd wParam:2000
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.6667000000000001,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"我要区附近的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 我要区附近的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第184次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_135_F006_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140922653
+ [ISR Test] correct_SpeechEnd:1140922730
+ [ISR Test] correct_SpeechEnd wParam:2880
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"atm","poi":"CURRENT_POI","type":"LOC_POI"},"name":"atm"}},"service":"lbs","text":"我要查找附近的atm。","version":"3.5.0.1190"}
+
+ [ISR Test] 我要查找附近的atm。
+ [ISR Test] VadSil:0
+ [ISR Test] 第185次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_142_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140926892
+ [ISR Test] correct_SpeechEnd:1140927033
+ [ISR Test] correct_SpeechEnd wParam:2500
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":0.65,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站怎","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站怎"}},"service":"lbs","text":"我这里附近的加油站怎么去。","version":"3.5.0.1190"}
+
+ [ISR Test] 我这里附近的加油站怎么去。
+ [ISR Test] VadSil:0
+ [ISR Test] 第186次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_149_F007_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140930332
+ [ISR Test] correct_SpeechEnd:1140930556
+ [ISR Test] correct_SpeechEnd wParam:1840
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"checkinDate":{"date":"2015-02-01","type":"DT_BASIC"},"location":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"hotel","text":"搜索附近的酒店。","version":"3.5.0.1190"}
+
+ [ISR Test] 搜索附近的酒店。
+ [ISR Test] VadSil:0
+ [ISR Test] 第187次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_156_F008_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140934579
+ [ISR Test] correct_SpeechEnd:1140934702
+ [ISR Test] correct_SpeechEnd wParam:2340
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"POSITION","pk_score":1,"rc":0,"semantic":{"slots":{"distanceType":"最近","location":{"city":"CURRENT_CITY","ori_loc":"工商银行","poi":"工商银行","type":"LOC_POI"}}},"service":"map","text":"最近的工商银行在哪里。","version":"3.5.0.1190"}
+
+ [ISR Test] 最近的工商银行在哪里。
+ [ISR Test] VadSil:0
+ [ISR Test] 第188次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_163_F009_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140939432
+ [ISR Test] correct_SpeechEnd:1140939497
+ [ISR Test] correct_SpeechEnd wParam:3300
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"distance":"96000米","location":{"city":"CURRENT_CITY","ori_loc":"麦当劳","poi":"CURRENT_POI","type":"LOC_POI"},"name":"麦当劳"}},"service":"lbs","text":"查一下周边九十六公里的麦当劳。","version":"3.5.0.1190"}
+
+ [ISR Test] 查一下周边九十六公里的麦当劳。
+ [ISR Test] VadSil:0
+ [ISR Test] 第189次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_170_F009_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140943118
+ [ISR Test] correct_SpeechEnd:1140943275
+ [ISR Test] correct_SpeechEnd wParam:2160
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"CURRENT_POI","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"查一下旁边的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 查一下旁边的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第190次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_177_F010_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140947669
+ [ISR Test] correct_SpeechEnd:1140947806
+ [ISR Test] correct_SpeechEnd wParam:2960
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.7538,"rc":0,"semantic":{"slots":{"distance":"10000米","location":{"city":"CURRENT_CITY","ori_loc":"招商银行","poi":"CURRENT_POI","type":"LOC_POI"},"name":"招商银行"}},"service":"lbs","text":"查一下附近十公里的招商银行。","version":"3.5.0.1190"}
+
+ [ISR Test] 查一下附近十公里的招商银行。
+ [ISR Test] VadSil:0
+ [ISR Test] 第191次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_184_F011_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140951720
+ [ISR Test] correct_SpeechEnd:1140951929
+ [ISR Test] correct_SpeechEnd wParam:2300
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"distance":"2000米","location":{"city":"CURRENT_CITY","ori_loc":"商场","poi":"CURRENT_POI","type":"LOC_POI"},"name":"商场"}},"service":"lbs","text":"查找附近二公里的商场。","version":"3.5.0.1190"}
+
+ [ISR Test] 查找附近二公里的商场。
+ [ISR Test] VadSil:0
+ [ISR Test] 第192次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_191_F012_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140956407
+ [ISR Test] correct_SpeechEnd:1140956633
+ [ISR Test] correct_SpeechEnd wParam:2700
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6364000000000001,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"加油站","poi":"附近雅公里","type":"LOC_POI"},"name":"加油站"}},"service":"lbs","text":"查找附近雅公里的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 查找附近雅公里的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第193次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_198_F012_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140960836
+ [ISR Test] correct_SpeechEnd:1140960912
+ [ISR Test] correct_SpeechEnd wParam:2640
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","poi":"科大讯飞","type":"LOC_POI"},"name":"加油站","nearBy":"科大讯飞","nearName":"加油站"}},"service":"lbs","text":"查看科大讯飞附近的加油站。","version":"3.5.0.1190"}
+
+ [ISR Test] 查看科大讯飞附近的加油站。
+ [ISR Test] VadSil:0
+ [ISR Test] 第194次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_205_M001_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140964025
+ [ISR Test] correct_SpeechEnd:1140964409
+ [ISR Test] correct_SpeechEnd wParam:1640
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"医院","poi":"CURRENT_POI","type":"LOC_POI"},"name":"医院"}},"service":"lbs","text":"离我最近的医院。","version":"3.5.0.1190"}
+
+ [ISR Test] 离我最近的医院。
+ [ISR Test] VadSil:0
+ [ISR Test] 第195次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_212_F013_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140968424
+ [ISR Test] correct_SpeechEnd:1140968508
+ [ISR Test] correct_SpeechEnd wParam:2400
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"芜湖市","cityAddr":"芜湖","type":"LOC_BASIC"},"name":"四星级酒店","nearBy":"芜湖市","nearName":"四星级酒店"}},"service":"lbs","text":"芜湖市有没有四星级酒店。","version":"3.5.0.1190"}
+
+ [ISR Test] 芜湖市有没有四星级酒店。
+ [ISR Test] VadSil:0
+ [ISR Test] 第196次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_219_F013_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140973780
+ [ISR Test] correct_SpeechEnd:1140973944
+ [ISR Test] correct_SpeechEnd wParam:3320
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"BOOK","pk_score":0.85,"rc":0,"semantic":{"slots":{"checkinDate":{"date":"2015-02-01","type":"DT_BASIC"},"location":{"city":"CURRENT_CITY","poi":"里人民广场","type":"LOC_POI"},"name":"如家酒店","roomCount":"一"}},"service":"hotel","text":"订一间里人民广场不太远的如家酒店。","version":"3.5.0.1190"}
+
+ [ISR Test] 订一间里人民广场不太远的如家酒店。
+ [ISR Test] VadSil:0
+ [ISR Test] 第197次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_226_F014_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140978527
+ [ISR Test] correct_SpeechEnd:1140978605
+ [ISR Test] correct_SpeechEnd wParam:2120
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"公园","poi":"CURRENT_POI","type":"LOC_POI"},"name":"公园"}},"service":"lbs","text":"这附近有没有公园。","version":"3.5.0.1190"}
+
+ [ISR Test] 这附近有没有公园。
+ [ISR Test] VadSil:0
+ [ISR Test] 第198次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_233_M002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140982530
+ [ISR Test] correct_SpeechEnd:1140982708
+ [ISR Test] correct_SpeechEnd wParam:2580
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"distance":"5888米","location":{"city":"CURRENT_CITY","ori_loc":"学校","poi":"CURRENT_POI","type":"LOC_POI"},"name":"学校"}},"service":"lbs","text":"附近五千八百八十八米的学校。","version":"3.5.0.1190"}
+
+ [ISR Test] 附近五千八百八十八米的学校。
+ [ISR Test] VadSil:0
+ [ISR Test] 第199次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_240_M002_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140986643
+ [ISR Test] correct_SpeechEnd:1140986691
+ [ISR Test] correct_SpeechEnd wParam:2040
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"兴业银行","poi":"CURRENT_POI","type":"LOC_POI"},"name":"兴业银行"}},"service":"lbs","text":"附近有没有兴业银行。","version":"3.5.0.1190"}
+
+ [ISR Test] 附近有没有兴业银行。
+ [ISR Test] VadSil:0
+ [ISR Test] 第200次：
+ [ISR Test] /usb1/PcmRes/isr/800_Enc_NoWavHead/9lbs/9lbs_247_F015_coder.wav.pcm
+
+ [ISR Test] ISR_MODE is 1
+ [ISR Test] ISSSRStart success!!!
+ [ISR Test] SR_Speed_Effect:0
+ [ISR Test] After ISSSREndAudioData
+ [ISR Test] time_EndAudioData:1140990290
+ [ISR Test] correct_SpeechEnd:1140990467
+ [ISR Test] correct_SpeechEnd wParam:2060
+ [ISR Test] MSG_Result_Content = {"bislocalresult":"1","language":"zh_cn_mandarin","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.8,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"宾馆","poi":"宾馆","type":"LOC_POI"},"nearBy":"0","startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"附近的宾馆怎么去。","version":"3.5.0.1190"}
+
+ [ISR Test] 附近的宾馆怎么去。
+ [ISR Test] time1:1140991792
+ [ISR Test] time2:1140992508
+ [ISR Test] ISSSRDestroy:716
+ [ISR Test] TestStability_ISR is over!
+

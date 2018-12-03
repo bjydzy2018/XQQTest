@@ -1,0 +1,304 @@
+Init resume 3513 ms
+Create resume 21 ms
+
+导航到河南省开封市尉氏县南曹乡何庄村
+tts proc result resume 117 ms
+
+导导航到华阴市的华鑫国际酒店
+tts proc result resume 62 ms
+
+导航深圳市盐田区沙头角鹏湾一村
+tts proc result resume 63 ms
+
+导航去河南省周口市扶沟县顾家村
+tts proc result resume 67 ms
+
+导航北京市大红门服装批发市场
+tts proc result resume 54 ms
+
+我想去河北省宁晋县艾辛庄三村
+tts proc result resume 59 ms
+
+到大连市甘井子区迎客路郭东街八号
+tts proc result resume 62 ms
+
+导航到湘西自治州雪铁龙4s店
+tts proc result resume 71 ms
+
+导航去内蒙赤峰市敖汉旗丰收乡
+tts proc result resume 60 ms
+
+到江苏省泰州市泰兴市怎么走
+tts proc result resume 62 ms
+
+我要去雨花区万家丽中路鑫天御景湾怎么走
+tts proc result resume 64 ms
+
+帮我导航到宿迁市泗阳县万诚国际
+tts proc result resume 58 ms
+
+到濮阳县五星乡孟寨村张敬明家
+tts proc result resume 83 ms
+
+导航长沙市雨发雨花区妇幼保健院
+tts proc result resume 121 ms
+
+导航到导航到珠海市金山林酒店
+tts proc result resume 64 ms
+
+导航到江西省上饶市广丰县毛村镇后溪村
+tts proc result resume 74 ms
+
+导航河南省安阳市高速公路管理局
+tts proc result resume 62 ms
+
+我要去内蒙古通辽市奈曼旗双合村
+tts proc result resume 72 ms
+
+导航新疆维吾尔族自治区博尔塔拉蒙古自治州农五师
+tts proc result resume 79 ms
+
+导航到射洪县50米大街汇星百货
+tts proc result resume 127 ms
+
+导航到营口鲅鱼圈神驰汽车用品
+tts proc result resume 50 ms
+
+我要去朝阳市赛梦娜汽车美容中心
+tts proc result resume 74 ms
+
+帮我把去大洼县工商所导航打开
+tts proc result resume 56 ms
+
+导航到营口市鲅鱼圈区神驰汽车用品
+tts proc result resume 53 ms
+
+我要去山西首侯马市高村乡东台神村
+tts proc result resume 54 ms
+
+导航到长沙雨花区佐酒左家塘长沙市妇幼保健院
+tts proc result resume 67 ms
+
+呃导航导航到太乙路街道办事处
+tts proc result resume 49 ms
+
+导航到鲅鱼圈区神驰汽车用品总汇
+tts proc result resume 46 ms
+
+导航到四川省射洪县50米大街中段
+tts proc result resume 47 ms
+
+导航到机动车排气污染监督管理所
+tts proc result resume 44 ms
+
+请请帮我导航到重庆市垫江县太平镇红黄蓝幼儿园
+tts proc result resume 58 ms
+
+导航到咸阳市兴平县马嵬驿旅游景点
+tts proc result resume 62 ms
+
+导航到鲅鱼圈神驰汽车用品总汇
+tts proc result resume 69 ms
+
+中南大学湘雅附属医院第一医院
+tts proc result resume 117 ms
+
+我要苏州市常熟市经济开发区大连路
+tts proc result resume 50 ms
+
+我要去沙朗市场你帮我搜索一下路线
+tts proc result resume 54 ms
+
+我要去劳动中路五十八号京电大厦
+tts proc result resume 63 ms
+
+我要去湖北省水利水电职业技术学院南湖校区
+tts proc result resume 72 ms
+
+我要去湖北省水利水电职业技术学院
+tts proc result resume 47 ms
+
+我要去河南省信阳市平桥区上天梯村
+tts proc result resume 98 ms
+
+我要去大连瓦房店亿达家具市场
+tts proc result resume 46 ms
+
+我要去大连瓦房店市亿达旧物市场
+tts proc result resume 46 ms
+
+我要去成都市温江区西班牙森林二期
+tts proc result resume 55 ms
+
+我想去咸阳机场T二航站楼停车场
+tts proc result resume 51 ms
+
+我想去平广西平南县泰成混泥土公司
+tts proc result resume 54 ms
+
+我想去吉利汽车工业有限公司的南门
+tts proc result resume 59 ms
+
+我想去广州市西关外国语实验学校
+tts proc result resume 50 ms
+
+我到常州市广成路广成小区小区
+tts proc result resume 50 ms
+
+山东德扬电子科技有限公司的具体位置
+tts proc result resume 50 ms
+
+去上海市沪青平公路四百五十五号
+tts proc result resume 62 ms
+
+去广州市从化市广州大学华软软件学院
+tts proc result resume 52 ms
+
+请问到请问兰州到礼县路怎么走
+tts proc result resume 52 ms
+
+请帮我查一下山东德阳电子在哪里
+tts proc result resume 64 ms
+
+靖港望城靖港长沙市望城区靖港镇
+tts proc result resume 95 ms
+
+到太原幸福家园老年公寓怎么走
+tts proc result resume 49 ms
+
+到深圳深南大道世界之窗怎么走
+tts proc result resume 104 ms
+
+导航做成都市青羊区光华中心A座
+tts proc result resume 45 ms
+
+导航至涟源市特福莱汽车贸易有限公司
+tts proc result resume 58 ms
+
+导航至成都市青羊区光华中心A座
+tts proc result resume 59 ms
+
+导航至成都市青羊区光华路光华北路
+tts proc result resume 56 ms
+
+导航至成都市青羊区光华北山路
+tts proc result resume 58 ms
+
+导航去幺零五医院合肥市幺零五医院
+tts proc result resume 56 ms
+
+导航去天心区新开铺中南大市场
+tts proc result resume 63 ms
+
+导航去湖南省衡阳市祁东县大江村
+tts proc result resume 55 ms
+
+导航到中国科学技术大学西校区
+tts proc result resume 98 ms
+
+导航到浙江省绍兴市嵊州市嵊州客运站
+tts proc result resume 64 ms
+
+导航到辽宁省鞍山市二一九公园
+tts proc result resume 48 ms
+
+导航到大连金州区胜利路加油站
+tts proc result resume 45 ms
+
+导航到西昌市健康一环路十二号
+tts proc result resume 45 ms
+
+导航到大连金州区瀛海金洲小区
+tts proc result resume 66 ms
+
+导航到咸阳市礼泉下呃礼礼泉县袁家村
+tts proc result resume 62 ms
+
+导航到大连市金州小区瀛海金州
+tts proc result resume 60 ms
+
+导航去唐都逸铤丰田销售有限公司
+tts proc result resume 58 ms
+
+导航到中国科学技术大学南校区
+tts proc result resume 45 ms
+
+去广州市从化市广州大学华软软件学院
+tts proc result resume 110 ms
+
+查找科大讯飞附近三公里的加油站
+tts proc result resume 50 ms
+
+从新华学院导航到望江西路科大讯飞
+tts proc result resume 52 ms
+
+我要去重庆市潼南县小渡镇小渡口
+tts proc result resume 59 ms
+
+我要去伊犁哈萨克自治州伊宁市阿依墩街
+tts proc result resume 49 ms
+
+搜索广州市番禺区东环路一百零三号
+tts proc result resume 54 ms
+
+我要去北京市钟鼓鼓楼中医医院
+tts proc result resume 47 ms
+
+导航大连市金州区瀛海金州小区
+tts proc result resume 49 ms
+
+广州市越秀区一德路广州一德国际玩具文具精品广场
+tts proc result resume 61 ms
+
+杭州市武林门杭州大厦环城北路
+tts proc result resume 50 ms
+
+上海市普陀区海底捞(长寿路店)
+tts proc result resume 50 ms
+
+杭州市江干区新塘路/太平门直街(路口)
+tts proc result resume 46 ms
+
+江苏省常州市钟楼区公园路56号
+tts proc result resume 50 ms
+
+苏州市吴中区宝带西路水香街口
+tts proc result resume 102 ms
+
+上海市宝山区真华路1770号
+tts proc result resume 72 ms
+
+江苏省南京市鼓楼区中山北路129号
+tts proc result resume 64 ms
+
+杭州市杭州市凤起路太平门直街
+tts proc result resume 53 ms
+
+上海市徐汇区双峰北路1-1-临
+tts proc result resume 62 ms
+
+上海市闵行区万象国际ktv虹井路
+tts proc result resume 52 ms
+
+浙江省宁波市江东区世纪大道北段-555号-1
+tts proc result resume 60 ms
+
+上海市闵行区吴中路1171弄-50支弄-1
+tts proc result resume 61 ms
+
+南京市江宁区佳湖东路1912
+tts proc result resume 51 ms
+
+上海市徐汇区东湖路30号-4
+tts proc result resume 54 ms
+
+宁波市江东区彩虹南路飞越百度酒吧
+tts proc result resume 46 ms
+
+上海市闵行区七莘路/中谊路(路口)
+tts proc result resume 48 ms
+
+福建省厦门市思明区厦禾路951号
+tts proc result resume 52 ms
+
+the avg tts proc result resume 61

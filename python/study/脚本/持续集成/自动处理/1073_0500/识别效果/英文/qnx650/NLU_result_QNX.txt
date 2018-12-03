@@ -1,0 +1,849 @@
+{"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"play album all the moon star burns 。"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"back on top"}},"service":"music","text":"play album back on top 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"beautiful offerings"}},"service":"music","text":"play album beautiful offerings 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"burning bridges"}},"service":"music","text":"play album burning bridges 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"bottom feeder"}},"service":"music","text":"play album bottom feeder 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"emotion"}},"service":"music","text":"play album emotion 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"had for"}},"service":"contacts","text":"play album had for the stars 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i am"}},"service":"music","text":"play album i am 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i cry when i laugh"}},"service":"music","text":"play album i cry when i laugh 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"last dance"}},"service":"music","text":"play album last dance 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"album":"light"}},"service":"music","text":"play album light of the dark 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.52,"rc":0,"semantic":{"slots":{"location":{"area":"north district","areaAddr":"north","ori_loc":"north district","type":"LOC_BASIC"}}},"service":"map","text":"play album mobile north district 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"panic stations"}},"service":"music","text":"play album panic stations 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"paper gods"}},"service":"music","text":"play album paper gods 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"right here right now"}},"service":"music","text":"play album right here right now 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.52,"rc":0,"semantic":{"slots":{"category":"original"}},"service":"music","text":"play album the original hi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"threat to survival"}},"service":"music","text":"play album threat to survival 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"turning pages"}},"service":"music","text":"play album turning pages 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"album":"with"}},"service":"music","text":"play album with a generation 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"all over again"}},"service":"music","text":"play album all over again 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","nlocalconfidencescore":"0","rc":4,"text":"play album all the moon star burns 。"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"back on top"}},"service":"music","text":"play album back on top 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"beautiful offerings"}},"service":"music","text":"play album beautiful offerings 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"burning bridges"}},"service":"music","text":"play album burning bridges 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"bottom feeder"}},"service":"music","text":"play album bottom feeder 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"emotion"}},"service":"music","text":"play album emotion 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"had for"}},"service":"contacts","text":"play album had for the stars 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i am"}},"service":"music","text":"play album i am 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i cry when i laugh"}},"service":"music","text":"play album i cry when i laugh 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"last dance"}},"service":"music","text":"play album last dance 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"album":"light"}},"service":"music","text":"play album light of the dark 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.52,"rc":0,"semantic":{"slots":{"location":{"area":"north district","areaAddr":"north","ori_loc":"north district","type":"LOC_BASIC"}}},"service":"map","text":"play album mobile north district 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"panic stations"}},"service":"music","text":"play album panic stations 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"paper gods"}},"service":"music","text":"play album paper gods 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"right here right now"}},"service":"music","text":"play album right here right now 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.52,"rc":0,"semantic":{"slots":{"category":"original"}},"service":"music","text":"play album the original hi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"threat to survival"}},"service":"music","text":"play album threat to survival 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"turning pages"}},"service":"music","text":"play album turning pages 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"album":"with"}},"service":"music","text":"play album with a generation 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"all over again"}},"service":"music","text":"play album all over again 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.44,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album all the moon star burns","poi":"play album all the moon star burns","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album all the moon star burns 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"back on top"}},"service":"music","text":"i want to play album back on top 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"beautiful offerings"}},"service":"music","text":"i want to play album beautiful offerings 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"burning bridges"}},"service":"music","text":"i want to play album burning bridges 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"bottom feeder"}},"service":"music","text":"i want to play album bottom feeder 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"emotion"}},"service":"music","text":"i want to play album emotion 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.4667,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album had for the stars","poi":"play album had for the stars","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album had for the stars 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i am"}},"service":"music","text":"i want to play album i am 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i cry when i laugh"}},"service":"music","text":"i want to play album i cry when i laugh 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"last dance"}},"service":"music","text":"i want to play album last dance 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.4667,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album like of the dark","poi":"play album like of the dark","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album like of the dark 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"mobile orchestra"}},"service":"music","text":"i want to play album mobile orchestra 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"panic stations"}},"service":"music","text":"i want to play album panic stations 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"paper gods"}},"service":"music","text":"i want to play album paper gods 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"right here right now"}},"service":"music","text":"i want to play album right here right now 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.5,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album the original hi","poi":"play album the original hi","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album the original hi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"threat to survival"}},"service":"music","text":"i want to play album threat to survival 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"turning pages"}},"service":"music","text":"i want to play album turning pages 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":0.8,"rc":0,"semantic":{"slots":{"album":"with"}},"service":"music","text":"i want to play album with a generation 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"all over again"}},"service":"music","text":"i want to play album all over again 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.44,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album all the moon star burns","poi":"play album all the moon star burns","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album all the moon star burns 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"back on top"}},"service":"music","text":"i want to play album back on top 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"beautiful offerings"}},"service":"music","text":"i want to play album beautiful offerings 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"burning bridges"}},"service":"music","text":"i want to play album burning bridges 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"bottom feeder"}},"service":"music","text":"i want to play album bottom feeder 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"emotion"}},"service":"music","text":"i want to play album emotion 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.4667,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album had for the stars","poi":"play album had for the stars","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album had for the stars 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i am"}},"service":"music","text":"i want to play album i am 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"i cry when i laugh"}},"service":"music","text":"i want to play album i cry when i laugh 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"last dance"}},"service":"music","text":"i want to play album last dance 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.4667,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album like of the dark","poi":"play album like of the dark","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album like of the dark 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"mobile orchestra"}},"service":"music","text":"i want to play album mobile orchestra 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"panic stations"}},"service":"music","text":"i want to play album panic stations 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"paper gods"}},"service":"music","text":"i want to play album paper gods 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"right here right now"}},"service":"music","text":"i want to play album right here right now 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.5,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"play album the original hi","poi":"play album the original hi","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want to play album the original hi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"threat to survival"}},"service":"music","text":"i want to play album threat to survival 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"turning pages"}},"service":"music","text":"i want to play album turning pages 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":0.8,"rc":0,"semantic":{"slots":{"album":"with"}},"service":"music","text":"i want to play album with a generation 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"album":"all over again"}},"service":"music","text":"i want to play album all over again 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"service":"telephone","text":"answer the telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.6000000000000001,"rc":0,"service":"telephone","text":"answer telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"service":"telephone","text":"answered the phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.6000000000000001,"rc":0,"service":"telephone","text":"answer phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"the telephone"}},"service":"contacts","text":"take up the telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"service":"telephone","text":"take a telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.4,"rc":0,"semantic":{"slots":{"name":"up the"}},"service":"contacts","text":"take up the phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"service":"telephone","text":"take a phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"service":"telephone","text":"if the telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.6000000000000001,"rc":0,"service":"telephone","text":"f telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"service":"telephone","text":"if the phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.6000000000000001,"rc":0,"service":"telephone","text":"a phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"answer"}},"service":"cmd","text":"answer 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"take up"}},"service":"contacts","text":"take up 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"lift"}},"service":"contacts","text":"lift 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.52,"rc":0,"semantic":{"slots":{"name":"answered the"}},"service":"contacts","text":"i want answered the telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"answered telephone"}},"service":"contacts","text":"i want answered telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"name":"answered the"}},"service":"contacts","text":"i want answered the phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.8,"rc":0,"semantic":{"slots":{"name":"answered"}},"service":"contacts","text":"i want answered phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"a cup the telephone","poi":"cup the telephone","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want a cup the telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"a cup telephone","poi":"cup telephone","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want a cup telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"a cup the phone","poi":"cup the phone","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want a cup the phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"name":"take a"}},"service":"contacts","text":"i want take a phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.52,"rc":0,"semantic":{"slots":{"name":"left the"}},"service":"contacts","text":"i want left the telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"name":"listen telephone"}},"service":"contacts","text":"i want to listen telephone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6800000000000001,"rc":0,"semantic":{"slots":{"name":"left the"}},"service":"contacts","text":"i want left the phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"semantic":{"slots":{"source":"phone"}},"service":"music","text":"i want to listen phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.8,"rc":0,"semantic":{"slots":{"name":"answer"}},"service":"contacts","text":"i want to answer 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.8,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"a cup","poi":"cup","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want a cup 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"name":"left"}},"service":"contacts","text":"i want left 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"launch clash"}},"service":"contacts","text":"launch clash of plans 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"launch class"}},"service":"contacts","text":"launch class royal 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"location":{"area":"longshan county","areaAddr":"longshan","ori_loc":"longshan","type":"LOC_BASIC"}}},"service":"map","text":"longshan store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.4,"rc":0,"semantic":{"slots":{"name":"clash of"}},"service":"contacts","text":"open clash of plans 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.4667,"rc":0,"semantic":{"slots":{"name":"classroom l"}},"service":"contacts","text":"open classroom l 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.4667,"rc":0,"semantic":{"slots":{"name":"at store"}},"service":"contacts","text":"open at store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"start class"}},"service":"contacts","text":"start class of plans 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"start plants"}},"service":"contacts","text":"start plants royal 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"start at"}},"service":"contacts","text":"start at store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"and plants"}},"service":"contacts","text":"flash and plants 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"flash real"}},"service":"contacts","text":"flash real 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"store","poi":"CURRENT_POI","type":"LOC_POI"},"name":"store"}},"service":"lbs","text":"store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.4667,"rc":0,"semantic":{"slots":{"name":"lunch clash"}},"service":"contacts","text":"i want lunch clash of plans 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.52,"rc":0,"semantic":{"slots":{"name":"lunch clash"}},"service":"contacts","text":"i want lunch clash royal 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.52,"rc":0,"semantic":{"slots":{"name":"lunch at"}},"service":"contacts","text":"i want lunch at store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.5429000000000001,"rc":0,"semantic":{"slots":{"name":"open clash"}},"service":"contacts","text":"i want to open clash of plans 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"open classroom"}},"service":"contacts","text":"i want to open classroom l 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"open up"}},"service":"contacts","text":"i want to open up store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.4667,"rc":0,"semantic":{"slots":{"name":"star class"}},"service":"contacts","text":"i want star class of plans 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.52,"rc":0,"semantic":{"slots":{"name":"star class"}},"service":"contacts","text":"i want star class real 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"start at"}},"service":"contacts","text":"i want to start at store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"a clash of plans","poi":"clash of plans","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"i want a clash of plans 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"clutch real"}},"service":"contacts","text":"i want clutch real 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"at store"}},"service":"contacts","text":"i want at store 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1033","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"zero","ref":"ZERO"}}},"service":"itemSelect","text":"zero","version":"3.5.0.1190"}
+
+
+
+
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1084","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"three","ref":"ZERO"}}},"service":"itemSelect","text":"three","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1219","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"four","ref":"ZERO"}}},"service":"itemSelect","text":"four","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1092","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"five","ref":"ZERO"}}},"service":"itemSelect","text":"five","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1156","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"six","ref":"ZERO"}}},"service":"itemSelect","text":"six","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1428","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"seven","ref":"ZERO"}}},"service":"itemSelect","text":"seven","version":"3.5.0.1190"}
+
+
+
+
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1249","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one one zero"}},"service":"telephone","text":"one one zero","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1069","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one one nine"}},"service":"telephone","text":"one one nine","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1142","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one one four"}},"service":"telephone","text":"one one four","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1104","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one two zero"}},"service":"telephone","text":"one two zero","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1184","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"nine one one"}},"service":"telephone","text":"nine one one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one zero zero eight six"}},"service":"telephone","text":"one zero zero eight six 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1456","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one zero zero one zero"}},"service":"telephone","text":"one zero zero one zero","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1396","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one zero zero one one"}},"service":"telephone","text":"one zero zero one one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one zero zero zero zero"}},"service":"telephone","text":"one zero zero zero zero 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1375","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one eight six two two two two two one two zero"}},"service":"telephone","text":"one eight six two two two two two one two zero","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1399","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one three seven two two two two two one two zero"}},"service":"telephone","text":"one three seven two two two two two one two zero","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1358","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one eight nine two two two two two one two zero"}},"service":"telephone","text":"one eight nine two two two two two one two zero","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1384","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one three nine two two two two two one two zero"}},"service":"telephone","text":"one three nine two two two two two one two zero","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1331","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one eight six two two two two two one two one"}},"service":"telephone","text":"one eight six two two two two two one two one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1362","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one three seven two two two two two one two one"}},"service":"telephone","text":"one three seven two two two two two one two one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1314","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one eight nine two two two two two one two one"}},"service":"telephone","text":"one eight nine two two two two two one two one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1368","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one three nine two two two two two one two one"}},"service":"telephone","text":"one three nine two two two two two one two one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1347","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one eight six two two two two two one two nine"}},"service":"telephone","text":"one eight six two two two two two one two nine","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1379","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one three seven two two two two two one two nine"}},"service":"telephone","text":"one three seven two two two two two one two nine","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1327","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one eight nine two two two two two one two nine"}},"service":"telephone","text":"one eight nine two two two two two one two nine","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1385","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"one three nine two two two two two one two nine"}},"service":"telephone","text":"one three nine two two two two two one two nine","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1465","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two one"}},"service":"telephone","text":"zero five five one two two two two one two one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1428","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two two"}},"service":"telephone","text":"zero five five one two two two two one two two","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1450","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two three"}},"service":"telephone","text":"zero five five one two two two two one two three","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1468","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two four"}},"service":"telephone","text":"zero five five one two two two two one two four","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1465","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two five"}},"service":"telephone","text":"zero five five one two two two two one two five","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1430","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two six"}},"service":"telephone","text":"zero five five one two two two two one two six","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1457","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two seven"}},"service":"telephone","text":"zero five five one two two two two one two seven","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1438","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two eight"}},"service":"telephone","text":"zero five five one two two two two one two eight","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1473","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five one two two two two one two nine"}},"service":"telephone","text":"zero five five one two two two two one two nine","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1406","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two one"}},"service":"telephone","text":"zero five five three two two two two one two one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1407","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two two"}},"service":"telephone","text":"zero five five three two two two two one two two","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1421","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two three"}},"service":"telephone","text":"zero five five three two two two two one two three","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1410","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two four"}},"service":"telephone","text":"zero five five three two two two two one two four","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1407","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two five"}},"service":"telephone","text":"zero five five three two two two two one two five","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1399","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two six"}},"service":"telephone","text":"zero five five three two two two two one two six","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1422","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two seven"}},"service":"telephone","text":"zero five five three two two two two one two seven","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1407","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two eight"}},"service":"telephone","text":"zero five five three two two two two one two eight","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1412","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"code":"zero five five three two two two two one two nine"}},"service":"telephone","text":"zero five five three two two two two one two nine","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"dental"}},"service":"contacts","text":"dental 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"mobile"}},"service":"contacts","text":"mobile number 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"united"}},"service":"contacts","text":"united number 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"telecom"}},"service":"contacts","text":"telecom number 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"confirm"}},"service":"cmd","text":"confirm 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"confirm"}},"service":"cmd","text":"ok 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"confirm"}},"service":"cmd","text":"yes 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"cancel"}},"service":"cmd","text":"no 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"close"}},"service":"cmd","text":"exit 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"close"}},"service":"cmd","text":"close 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"refuse"}},"service":"contacts","text":"refuse 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"confirm"}},"service":"cmd","text":"confirm 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18"}},"service":"airControl","text":"eighteen degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18.5"}},"service":"airControl","text":"eighteen point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"19"}},"service":"airControl","text":"nineteen degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"19.5"}},"service":"airControl","text":"nineteen point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"20"}},"service":"airControl","text":"twenty degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"20.5"}},"service":"airControl","text":"twenty point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"21"}},"service":"airControl","text":"twenty one degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"21.5"}},"service":"airControl","text":"twenty one point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"22"}},"service":"airControl","text":"twenty two degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"22.5"}},"service":"airControl","text":"twenty two point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"23"}},"service":"airControl","text":"twenty three degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"23.5"}},"service":"airControl","text":"twenty three point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"24"}},"service":"airControl","text":"twenty four degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"24.5"}},"service":"airControl","text":"twenty four point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"25"}},"service":"airControl","text":"twenty five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"25.5"}},"service":"airControl","text":"twenty five point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"26"}},"service":"airControl","text":"twenty six degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"26.5"}},"service":"airControl","text":"twenty six point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"27"}},"service":"airControl","text":"twenty seven degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"27.5"}},"service":"airControl","text":"twenty seven point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"28"}},"service":"airControl","text":"twenty eight degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"28.5"}},"service":"airControl","text":"twenty eight point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"29"}},"service":"airControl","text":"twenty nine degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"29.5"}},"service":"airControl","text":"twenty nine point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"30"}},"service":"airControl","text":"thirty degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"30.5"}},"service":"airControl","text":"thirty point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"31"}},"service":"airControl","text":"thirty one degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"31.5"}},"service":"airControl","text":"thirty one point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"32"}},"service":"airControl","text":"thirty two degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18"}},"service":"airControl","text":"temperature eighteen degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18.5"}},"service":"airControl","text":"temperature eighteen point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"19"}},"service":"airControl","text":"temperature nineteen degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"temperature":"19.5"}},"service":"airControl","text":"temperature and nineteen point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"20"}},"service":"airControl","text":"temperature twenty degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"20.5"}},"service":"airControl","text":"temperature twenty point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"21"}},"service":"airControl","text":"temperature twenty one degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"21.5"}},"service":"airControl","text":"temperature twenty one point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"22"}},"service":"airControl","text":"temperature twenty two degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"22.5"}},"service":"airControl","text":"temperature twenty two point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"23"}},"service":"airControl","text":"temperature twenty three degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"23.5"}},"service":"airControl","text":"temperature twenty three point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"24"}},"service":"airControl","text":"temperature twenty four degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"24.5"}},"service":"airControl","text":"temperature twenty four point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"25"}},"service":"airControl","text":"temperature twenty five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"25.5"}},"service":"airControl","text":"temperature twenty five point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"26"}},"service":"airControl","text":"temperature twenty six degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"26.5"}},"service":"airControl","text":"temperature twenty six point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"27"}},"service":"airControl","text":"temperature twenty seven degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"27.5"}},"service":"airControl","text":"temperature twenty seven point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"28"}},"service":"airControl","text":"temperature twenty eight degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"28.5"}},"service":"airControl","text":"temperature twenty eight point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"29"}},"service":"airControl","text":"temperature twenty nine degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"29.5"}},"service":"airControl","text":"temperature twenty nine point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"temperature":"30"}},"service":"airControl","text":"temperatures thirty degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.84,"rc":0,"semantic":{"slots":{"temperature":"30.5"}},"service":"airControl","text":"temperatures thirty point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.8,"rc":0,"semantic":{"slots":{"temperature":"31"}},"service":"airControl","text":"temperatures thirty one degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.8667,"rc":0,"semantic":{"slots":{"temperature":"31.5"}},"service":"airControl","text":"temperatures thirty one point five degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.8,"rc":0,"semantic":{"slots":{"temperature":"32"}},"service":"airControl","text":"temperatures thirty two degrees 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go back"}},"service":"cmd","text":"back 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go back"}},"service":"cmd","text":"go back 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"help"}},"service":"cmd","text":"help 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"more hint"}},"service":"cmd","text":"more hint 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"more hint"}},"service":"cmd","text":"more hints 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"confirm"}},"service":"cmd","text":"yes 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"one","ref":"ZERO"}}},"service":"itemSelect","text":"number one 。","version":"3.5.0.1190"}
+
+
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"915","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"nine one","ref":"ZERO"}}},"service":"itemSelect","text":"nine one","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"two","ref":"ZERO"}}},"service":"itemSelect","text":"number two 。","version":"3.5.0.1190"}
+
+
+
+
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"three","ref":"ZERO"}}},"service":"itemSelect","text":"number three 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1084","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"three","ref":"ZERO"}}},"service":"itemSelect","text":"three","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"941","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"nine three","ref":"ZERO"}}},"service":"itemSelect","text":"nine three","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"four","ref":"ZERO"}}},"service":"itemSelect","text":"number four 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1219","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"four","ref":"ZERO"}}},"service":"itemSelect","text":"four","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"989","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"nine four","ref":"ZERO"}}},"service":"itemSelect","text":"nine four","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"five","ref":"ZERO"}}},"service":"itemSelect","text":"number five 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"1077","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"five","ref":"ZERO"}}},"service":"itemSelect","text":"five","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"991","operation":"SELECT","pk_score":1,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"nine five","ref":"ZERO"}}},"service":"itemSelect","text":"nine five","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"next page"}},"service":"cmd","text":"next page 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"play control","name":"next song"}},"service":"cmd","text":"next 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"previous page"}},"service":"cmd","text":"previous page 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"category":"play control","name":"previous song"}},"service":"cmd","text":"previous 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"cancel"}},"service":"cmd","text":"no 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"start over"}},"service":"cmd","text":"start over 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"sounds"}},"service":"contacts","text":"sounds 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"cancel"}},"service":"cmd","text":"cancel 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"destination"}},"service":"contacts","text":"destination 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"navigation"}},"service":"app","text":"navigation 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"navigation menu"}},"service":"contacts","text":"navigation menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"navi"}},"service":"contacts","text":"navi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"navi menu"}},"service":"contacts","text":"navi menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"LAUNCH","pk_score":1,"rc":0,"semantic":{"slots":{"name":"navigation"}},"service":"app","text":"go to navigation 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"navi","poi":"navi","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"go to navi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":1,"rc":0,"service":"telephone","text":"phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"service":"telephone","text":"a phone menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":0.7333000000000001,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"phone","poi":"phone","type":"LOC_POI"},"startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"go to phone 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"audio"}},"service":"cmd","text":"audio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"audio"}},"service":"cmd","text":"music 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"radio"}},"service":"app","text":"radio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"audio"}},"service":"cmd","text":"audio menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"audio"}},"service":"cmd","text":"music menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"radio menu"}},"service":"contacts","text":"radio menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"audio"}},"service":"cmd","text":"go to audio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"audio"}},"service":"cmd","text":"go to music 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"LAUNCH","pk_score":1,"rc":0,"service":"radio","text":"go to radio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"climate"}},"service":"cmd","text":"climate 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"climate"}},"service":"cmd","text":"climate control 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"climate"}},"service":"cmd","text":"climate menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"climate"}},"service":"cmd","text":"climate control menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"climate"}},"service":"cmd","text":"go to climate 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"information"}},"service":"cmd","text":"information 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"information"}},"service":"cmd","text":"information menu 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"information"}},"service":"cmd","text":"go to information 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"play artist"}},"service":"cmd","text":"play artist 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"play artist"}},"service":"cmd","text":"play an artist 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"play album"}},"service":"cmd","text":"play album 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"play album"}},"service":"cmd","text":"play an album 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"play playlist"}},"service":"cmd","text":"play playlist 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"play playlist"}},"service":"cmd","text":"play playlist 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"service":"music","text":"play song 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"PLAY","pk_score":1,"rc":0,"service":"music","text":"play a song 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"usb"}},"service":"cmd","text":"usb 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"u s"}},"service":"contacts","text":"u s v 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.4667,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"i park road","street":"i park road","type":"LOC_STREET"}}},"service":"map","text":"i park road 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.4667,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"i park road","street":"i park road","type":"LOC_STREET"}}},"service":"map","text":"i park road 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"usb2"}},"service":"cmd","text":"usb two 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":0.25,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"two","ref":"ZERO"}}},"service":"itemSelect","text":"u s b two 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":0.3333,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"two","ref":"ZERO"}}},"service":"itemSelect","text":"i park two 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SELECT","pk_score":0.3333,"rc":0,"semantic":{"slots":{"serial":{"direct":"+","offset":"two","ref":"ZERO"}}},"service":"itemSelect","text":"i park two 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"bluetooth audio"}},"service":"cmd","text":"bluetooth audio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"s k"}},"service":"contacts","text":"s k 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"auxiliary"}},"service":"cmd","text":"auxiliary 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"oh"}},"service":"contacts","text":"oh 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"u x"}},"service":"contacts","text":"a u x 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"ROUTE","pk_score":1,"rc":0,"semantic":{"slots":{"endLoc":{"city":"CURRENT_CITY","ori_loc":"home","poi":"home","type":"LOC_POI"},"nameType":"USR_DEF","startLoc":{"city":"CURRENT_CITY","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"map","text":"go home 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"dress"}},"service":"contacts","text":"dress 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"enter an address"}},"service":"cmd","text":"enter an address 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"name":"where"}},"service":"contacts","text":"any where 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"find a poi"}},"service":"cmd","text":"find a poi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.52,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"p oh i","poi":"CURRENT_POI","type":"LOC_POI"},"name":"p oh i"}},"service":"lbs","text":"find a p oh i 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"find a poi"}},"service":"cmd","text":"find nearby 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"find a poi"}},"service":"cmd","text":"find nearby poi 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"QUERY","pk_score":0.52,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"p oh i","poi":"CURRENT_POI","type":"LOC_POI"}}},"service":"lbs","text":"find nearby p oh i 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go to preset 5"}},"service":"cmd","text":"go to preset five 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go to preset 4"}},"service":"cmd","text":"go to preset four 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go to preset 3"}},"service":"cmd","text":"go to preset three 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go to preset 2"}},"service":"cmd","text":"go to preset two 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go to preset 1"}},"service":"cmd","text":"go to preset one 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"delete destination"}},"service":"cmd","text":"delete destination 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"delete destination"}},"service":"cmd","text":"delete destinations 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"delete destination"}},"service":"cmd","text":"cancel route 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"previous destination"}},"service":"cmd","text":"previous destination 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"previous destination"}},"service":"cmd","text":"previous destinations 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"go directly"}},"service":"cmd","text":"go directly 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"add to route"}},"service":"cmd","text":"add to route 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"along route"}},"service":"cmd","text":"along route 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"along route"}},"service":"cmd","text":"along my route 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"near destination"}},"service":"cmd","text":"near destination 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"destination assist"}},"service":"cmd","text":"operator support service 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"web search"}},"service":"cmd","text":"web search 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"dial by number"}},"service":"cmd","text":"dial number 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"dial by number"}},"service":"cmd","text":"dial by number 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"call"}},"service":"cmd","text":"call 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"recent calls"}},"service":"contacts","text":"show recent calls 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"show recent"}},"service":"contacts","text":"show recent call 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"call a contact"}},"service":"cmd","text":"call name 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"call a contact"}},"service":"cmd","text":"call a contact 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"call a contact"}},"service":"cmd","text":"call by name 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"radial"}},"service":"contacts","text":"radial 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"REDIAL","pk_score":1,"rc":0,"service":"telephone","text":"redial 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"call back"}},"service":"cmd","text":"call back 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"tune the radio"}},"service":"cmd","text":"tune the radio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"tune a preset"}},"service":"cmd","text":"tune a preset 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"am radio"}},"service":"contacts","text":"i am radio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"LAUNCH","pk_score":1,"rc":0,"semantic":{"slots":{"waveband":"am"}},"service":"radio","text":"a m 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"LAUNCH","pk_score":1,"rc":0,"semantic":{"slots":{"waveband":"fm"}},"service":"radio","text":"fm radio 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"f"}},"service":"contacts","text":"f 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"LAUNCH","pk_score":1,"rc":0,"semantic":{"slots":{"waveband":"fm"}},"service":"radio","text":"fm 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"f"}},"service":"contacts","text":"f 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"OPEN","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"air conditioner on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"OPEN","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"auto air conditioner on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"OPEN","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"automatic air conditioner on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"CLOSE","pk_score":1,"rc":0,"semantic":{"slots":{"device":"fan"}},"service":"airControl","text":"fan off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"CLOSE","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"blower off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"CLOSE","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"air conditioner off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"CLOSE","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"auto air conditioner off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"CLOSE","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"automatic air conditioner off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"mode":"cooling"}},"service":"airControl","text":"ac on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"c on"}},"service":"contacts","text":"a c on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"CLOSE","pk_score":1,"rc":0,"semantic":{"slots":{"mode":"cooling"}},"service":"airControl","text":"ac off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"c off"}},"service":"contacts","text":"a c off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"semantic":{"slots":{"name":"mode on","nameOrig":"mode on"}},"service":"telephone","text":"dial mode on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":0.4667,"rc":0,"semantic":{"slots":{"name":"mode off","nameOrig":"mode off"}},"service":"telephone","text":"dial mode off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"wiper deicer on"}},"service":"cmd","text":"wiper deicer on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"name":"wiper deicer off"}},"service":"cmd","text":"wiper deicer off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"OPEN","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"air conditioner on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.36,"rc":0,"semantic":{"slots":{"mode":"auto"}},"service":"airControl","text":"where auto air conditioner on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"CLOSE","pk_score":1,"rc":0,"semantic":{"slots":{"device":"air-condition"}},"service":"airControl","text":"air conditioner off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":0.36,"rc":0,"semantic":{"slots":{"mode":"auto"}},"service":"airControl","text":"where auto air conditioner off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"POSITION","pk_score":0.6000000000000001,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"the father on","poi":"father on","type":"LOC_POI"}}},"service":"map","text":"where the father on 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"POSITION","pk_score":0.4,"rc":0,"semantic":{"slots":{"location":{"city":"CURRENT_CITY","ori_loc":"did father off","poi":"did father off","type":"LOC_POI"}}},"service":"map","text":"where did father off 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"former"}},"service":"contacts","text":"former 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"+"}},"service":"airControl","text":"turn up temperature 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"DIAL","pk_score":1,"rc":0,"semantic":{"slots":{"name":"jack","nameOrig":"jack"}},"service":"telephone","text":"call jack 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":0.2,"rc":0,"semantic":{"slots":{"name":"color"}},"service":"contacts","text":"color 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"-"}},"service":"airControl","text":"turn down temperature 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"-"}},"service":"airControl","text":"hot 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"+"}},"service":"airControl","text":"a few warmer 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"+"}},"service":"airControl","text":"turn up temperature a little 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"-"}},"service":"airControl","text":"a few cooler 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"-"}},"service":"airControl","text":"turn down temperature a little 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"32"}},"service":"airControl","text":"temperature max 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"32"}},"service":"airControl","text":"temperature maximum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"32"}},"service":"airControl","text":"set temperature max 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"32"}},"service":"airControl","text":"set temperature maximum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18"}},"service":"airControl","text":"temperature min 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18"}},"service":"airControl","text":"temperature minimum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18"}},"service":"airControl","text":"set temperature min 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"temperature":"18"}},"service":"airControl","text":"set temperature minimum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"fanSpeed":"highest"}},"service":"airControl","text":"fan max 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"fanSpeed":"highest"}},"service":"airControl","text":"fan maximum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"device":"fan","fanSpeed":"highest"}},"service":"airControl","text":"fan speed max 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"device":"fan","fanSpeed":"highest"}},"service":"airControl","text":"fan speed maximum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"device":"fan","fanSpeed":"highest"}},"service":"airControl","text":"set fan speed max 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"device":"fan","fanSpeed":"highest"}},"service":"airControl","text":"set fan speed maximum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"","pk_score":1,"rc":0,"semantic":{"slots":{"location":{"area":"xinming city","areaAddr":"xinmin","ori_loc":"xinmin","type":"LOC_BASIC"}}},"service":"map","text":"xinmin 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"fanSpeed":"lowest"}},"service":"airControl","text":"fan minimum 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"device":"fan","fanSpeed":"lowest"}},"service":"airControl","text":"fan speed min 。","version":"3.5.0.1190"}
+
+{"bislocalresult":"1","language":"en_us","nlocalconfidencescore":"0","operation":"SET","pk_score":1,"rc":0,"semantic":{"slots":{"device":"fan"

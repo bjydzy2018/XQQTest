@@ -1,0 +1,1201 @@
+#!MLF!#
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_7_encode.pcm"
+ÎÒÏëÈ¥ºú¼ÒÃí¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_167_encode.pcm"
+ÎÒÒªµ½³¤½­Â·ÓëÌìÉ½Â·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_164_encode.pcm"
+ÎÒÒªÈ¥°×Ã×ÏïºúÍ¬ºÏ·Ê¼ô×ÓÏï½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_27_encode.pcm"
+µ¼º½µ½ÕñĞËÂ·ÓëÏ¼ĞÂÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_1_encode.pcm"
+ÎÒÒªµ½½­ËÕ¶«Ì¨ÊĞÕş¸®¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_321_encode.pcm"
+ÎÒÏëÈ¥º¼ÖİÈÕ±¨Éç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_188_encode.pcm"
+ÎÒÒªµ½¾©¸Û°Ä¸ßËÙÔÀÑô¶«ÊÕ·ÑÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_30_encode.pcm"
+ÎÒÒªÈ¥Óöµ½½ÖÓë´ó±¦Â·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_213_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ°²¶¨ÃÅÍâ´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_117_encode.pcm"
+ÎÒÒªÈ¥µç×ÓÉÌÃ³³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_6_encode.pcm"
+È¥Ò»ÆûÁ¬Ëø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_61_encode.pcm"
+ÎÒÒªÈ¥µÂ¿ËÊ¿¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_71_encode.pcm"
+ÎÒÒªÈ¥ÓÀ¶¨ÃÅÍâ´ó½ÖÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_113_encode.pcm"
+ÎÒÏëµ½Ò»¸ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_138_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ°²¶¨ÃÅÍâ´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_359_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍÅàĞÂ½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_97_encode.pcm"
+±£´æµØÖ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_90_encode.pcm"
+ÎÒĞèÒªµ¼º½
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_171_encode.pcm"
+ÎÒÏëÈ¥º£µÂ´ó¾Æµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_318_encode.pcm"
+ÎÒÏëÈ¥º£ÑÎ±ö¹İ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_84_encode.pcm"
+ÒâÍ¼´óÒ»µã¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_355_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±ÀïºÍÅàĞÂ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_116_encode.pcm"
+ÎÒÒªÈ¥µç×Ó³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_32_encode.pcm"
+ÎÒÏëÈ¥±±Ò»»·Â·Óë·ïÑô½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_143_encode.pcm"
+ÎÒÒªÈ¥´óÈó·¢¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_217_encode.pcm"
+ÎÒÒªÈ¥ããÓø¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_67_encode.pcm"
+ÎÒÏëµ½»Æ±¦¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_183_encode.pcm"
+ÎÒÏëÈ¥°²»Õ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_74_encode.pcm"
+ÎÒÒªÈ¥°á³¡ºúÍ¬ºÍÄÏÂà¹ÄÏï½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_11_encode.pcm"
+µ¼º½µ½ÌìºÓ½ÖÓëĞËÒµ½Ö½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_189_encode.pcm"
+ÎÒÒªµ½¾Å½­»ğ³µÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_133_encode.pcm"
+ÎÒÏëµ½¼ÑÔ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_353_encode.pcm"
+ÎÒÒªÈ¥Ç°ÃÅÎ÷´ó½ÖÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_117_encode.pcm"
+ÎÒÒªÈ¥µç×ÓÉÌÃ³³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_143_encode.pcm"
+ÎÒÒªÈ¥´óÈó·¢¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_265_encode.pcm"
+ÎÒÒªµ½¾£Öİ¾Æµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_76_encode.pcm"
+ÎÒÒªÈ¥±¦³®ºúÍ¬ºÍ¶«ÌĞºúÍ¬½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_230_encode.pcm"
+´ò¿ªÎÒµÄÊÕ²Ø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_107_encode.pcm"
+ÎÒÒªÈ¥°×Ã÷ÌÎ¸çÆ½¼ÛÏç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_309_encode.pcm"
+ÎÒÏëÈ¥°ËÀïÇÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_48_encode.pcm"
+µ¼º½µ½³É¶¼ÓñÁúĞ¡Çø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_193_encode.pcm"
+ÎÒÏëÈ¥»¨Ã÷Â¥¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_49_encode.pcm"
+µ¼º½µ½³Ê¹±ÈËÃñÒøĞĞ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_315_encode.pcm"
+ÎÒÒªµ½¾üÁ¸³ÇÆû³µÁã²¿¼ş³§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_237_encode.pcm"
+ÎÒÒªÈ¥ÓÑÒêºÍÂ·ÓëÊ¯ÑôÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_91_encode.pcm"
+µØÍ¼·Å´ó
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_55_encode.pcm"
+ÎÒÒªÈ¥¹«°²¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_48_encode.pcm"
+µ¼º½µ½³É¶¼ÓñÁúĞ¡Çø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_358_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍ°²»¯ÄÏ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_277_encode.pcm"
+¼ÒÀïÏã¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_245_encode.pcm"
+ÎÒÒªÈ¥»·±±ÂÃºÍÆ½ĞÂ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_210_encode.pcm"
+ÎÒÒªÈ¥Âí¼Ò±¤Î÷Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_10_encode.pcm"
+µ¼º½µ½ÈËÃñ¶«Â·Óë¸ÛÁÖÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_235_encode.pcm"
+ÍË³öµ¼º½
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_330_encode.pcm"
+ÎÒÒªµ½»áÕ¹ÖĞĞÄ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_282_encode.pcm"
+ÎÒÏëÈ¥ºÏ·Ê»ğ³µÎ÷Õ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_325_encode.pcm"
+ÎÒÏëÈ¥°²»ÕÒ½¿Æ´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_93_encode.pcm"
+ÒâÍ¼´óµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_195_encode.pcm"
+µ¼º½µ½ÕñĞËÂ·ÓñÏ¼ĞÂÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_222_encode.pcm"
+ÎÒÒªÈ¥¶«±±´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_164_encode.pcm"
+ÎÒÒªÈ¥°×Ã×ÏïºúÍ¬ºÍ±±¼ô×ÓÏï½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_126_encode.pcm"
+ÎÒÒªÈ¥µ¤ÄáË¹°Ù»õ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_10_encode.pcm"
+µ¼º½µ½ÈËÃñ¶«Â·Óë¸Û±õÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_91_encode.pcm"
+°ÑµØÍ¼·Å´ó¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_143_encode.pcm"
+ÎÒÒªÈ¥´óÈó·¢¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_176_encode.pcm"
+µ¼º½µ½°Ù¼ÒÂ·Óë¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_355_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±ÀïºÍÅàĞÂ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_165_encode.pcm"
+ÎÒÒªÈ¥°×Ã×²ÖºúÍ¬Â·ºÍ¶«ËÄ±±´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_183_encode.pcm"
+ÎÒÏëÈ¥°²»Õ¾çÔº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_209_encode.pcm"
+ÎÒÏëµ½³¤É³Ü½ÈØÖĞÂ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_356_encode.pcm"
+ÎÒÒªÈ¥°²»¯ÄÄÀïºÍ°²»¯±±½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_177_encode.pcm"
+µ¼º½µ½°ëµºÎÂÈª¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_14_encode.pcm"
+ÎÒÏëÈ¥±±¸Ú×Ó½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_296_encode.pcm"
+ÎÒÒªµ½¼ÒÁË¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_136_encode.pcm"
+ÎÒÒªÈ¥¿´ÑîÂ·ÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_43_encode.pcm"
+ÎÒÏëÈ¥ºş±±Ê¡ËæÖİÊĞ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_321_encode.pcm"
+ÎÒÏëÈ¥º¼ÖİÈÕ±¨Éç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_172_encode.pcm"
+ÎÒÏëÈ¥º£¿Ú¹«¹İÒ»ºÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_109_encode.pcm"
+µØ°²ÃÅÍâ´ó½Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_12_encode.pcm"
+µ¼º½µ½ĞÂÖŞÎ²¼â½õ½­µÀ½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_17_encode.pcm"
+ÎÒÏëÈ¥±±¹Ù³¡ºúÍ¬ºÍµÆÊĞ¿Ú´ó½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_202_encode.pcm"
+ÎÒÏëÈ¥±±Ò»»·Â·ÓëÃ÷¹âÂ·½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_148_encode.pcm"
+ÎÒÒªÈ¥ÓÀ¶¨ÃÅÍâ´ó½ÖÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_84_encode.pcm"
+µØÍ¼´óÒ»µã¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_344_encode.pcm"
+ÎÒÏëÈ¥°ÂÌåÖĞĞÄ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_12_encode.pcm"
+µ¼º½µ½ĞÂÖŞÎ²½ÖÓë½õ½­µÀ½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_8_encode.pcm"
+µ¼º½µ½³Âº£ÔÌ»ª¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_9_encode.pcm"
+µ¼º½µ½³ØÖİÊĞÎÚÉ³Õò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_276_encode.pcm"
+ÎÒÒªµ½¼ÃÄÏÊĞÀúÏÂÇø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_238_encode.pcm"
+ÎÒÏëµ½ÒâÊ½·çÇéÇø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_192_encode.pcm"
+ÎÒÏëÈ¥»¢ÇğÂ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_19_encode.pcm"
+ÎÒÒªµ½¾©¸Û°Ä¸ßËÙ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_82_encode.pcm"
+ÉèÎª¹«Ë¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_146_encode.pcm"
+ÎÒÏëµ½ÉòÑôÊĞÎå°®½Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_296_encode.pcm"
+ÎÒÒªµ½¼ÒÁË¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_41_encode.pcm"
+ÎÒÏëÈ¥ºş±±´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_111_encode.pcm"
+ÎÒÒªÈ¥¸·Ñô¶«Õ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_281_encode.pcm"
+ÎÒÏëÈ¥º¼ÖİÎ÷ºş¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_267_encode.pcm"
+ÎÒÏëÈ¥ºş±±Ç±½­¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_357_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍ°²»ªÄĞÅ®²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_194_encode.pcm"
+µ¼º½µ½ĞÂ½­Â·Óë·çÉĞïú½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_185_encode.pcm"
+ÎÒÏëÈ¥°²»ÕÊ¡Á¢¶ùÍ¯Ò½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_25_encode.pcm"
+ÎÒÏëÈ¥»¨Ã÷Â¥¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_95_encode.pcm"
+Ìí¼Óµç×ÓÑÛ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_358_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍ°²»¯ÄÏ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_169_encode.pcm"
+ÎÒÒªµ½ÁúÃúÂ·Óë½¨ÎÄÏß½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_264_encode.pcm"
+ÎÒÒªµ½½ğÌ³¶À×Ô¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_66_encode.pcm"
+ÎÒÒªÈ¥´óÈó·¢¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_242_encode.pcm"
+ÎÒÏëµ½º£µí¾ç³¡¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_85_encode.pcm"
+µØÍ¼Ğ¡Ò»µã¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_6_encode.pcm"
+ÎÒÏëÈ¥ºìÆìÁ¬Ëø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_92_encode.pcm"
+°ÑµØÍ¼ËõĞ¡¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_97_encode.pcm"
+±£´æµØÖ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_208_encode.pcm"
+ÎÒÏëµ½ÆÖ½­Ô·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_308_encode.pcm"
+ÎÒÏëÈ¥»ª¹Ö¼ÍÄî¹İ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_87_encode.pcm"
+ÊÕ²ØÎª¼Ò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_306_encode.pcm"
+ÎÒÒªÈ¥¹¤Å©´ó½Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_71_encode.pcm"
+ÓÀ¶¨ÃÅÍâ´ó½ÖÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_230_encode.pcm"
+´ò¿ªÎÒµÄÊÕ²Ø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_239_encode.pcm"
+ÎÒÏëµ½ºÚÊ¯¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_69_encode.pcm"
+ÎÒÏëµ½ÉòÑôÊĞÎå°®½Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_24_encode.pcm"
+ÎÒÏëÈ¥»¢ÇğÂ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_263_encode.pcm"
+ÎÒÒªµ½½ğ»ªÊĞµÚ¶şÒ½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_157_encode.pcm"
+ÎÒÏëµ½»ªÃ÷Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_292_encode.pcm"
+ÎÒ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_21_encode.pcm"
+ÎÒÒªµ½¾Å½­»ğ³µÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_160_encode.pcm"
+ÎÒÏëµ½ºìÓ°»¨Ô°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_53_encode.pcm"
+ÎÒÏëÈ¥±±Ò»»·Â·ºÍĞÂ°ö²ºÂ·²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_157_encode.pcm"
+ÎÒÏëµ½»ªÃ÷Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_53_encode.pcm"
+ÎÒÏëÈ¥±±Ò»»·Â·ºÍĞÂ°ö²ºÂ·²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_216_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍÊ¤¹Å±±Â·½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_349_encode.pcm"
+ÎÒÒªÈ¥ÓÎ¸®Î÷½ÖÓëºçÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_295_encode.pcm"
+ÎÒÒªµ½¼ÎÓãÉ½ºşÎÂÈª¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_168_encode.pcm"
+ÎÒÒªµ½À¥ÂØÉ½Â·Öé½­Â·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_16_encode.pcm"
+ÎÒÏëÈ¥±±¸ÛÊ±¼äºÍÓÀÉúÏï²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_295_encode.pcm"
+ÎÒÒªµ½¼ÎÓãÉ½ºşÎÂÈª¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_180_encode.pcm"
+ÎÒÒªÈ¥¸£Öİ²ÖÉ½ÇøÊ×É½Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_195_encode.pcm"
+µ¼º½µ½ÕñĞËÂ·ÓëÏ¼ĞÂÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_195_encode.pcm"
+µ¼º½µ½ÕñĞËÂ·ÓëÏ¼ĞÂÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_324_encode.pcm"
+µ¼º½µ½°²ÇìÊĞ¹ãÖÇÄÒ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_299_encode.pcm"
+ÎÒÏëÈ¥º¼ÖİÎ÷ºş¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_330_encode.pcm"
+ÎÒÒªµ½»áÕ¹ÖĞĞÄ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_43_encode.pcm"
+ÎÒÏëÈ¥ºş±±Ê¡ËæÖİÊĞ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_193_encode.pcm"
+ÎÒÏëÈ¥»¨Ã÷Â¥¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_322_encode.pcm"
+µ¼º½µ½°²»ÕÊ¡Î¯µ³Ğ£¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_11_encode.pcm"
+µ¼º½µ½ÌìºÓ½ÖÓëĞËÒµ½Ö½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_29_encode.pcm"
+µ½²ÜÑîÂ·ÓëÖĞÉ½Â·½»²æ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_118_encode.pcm"
+ÎÒÒªcdÀ¼»¨²İ
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_49_encode.pcm"
+µ¼º½µ½³Ê¹±ÈËÃñÒøĞĞ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_113_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_229_encode.pcm"
+´ò¿ªµØÖ·²¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_307_encode.pcm"
+ÎÒÒªÈ¥¹¤ÈËÈÕ±¨Éç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_291_encode.pcm"
+ÎÒÏëÈ¥°ËÂ·¾ü°ìÊÂ´¦¾ÉÖ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_114_encode.pcm"
+ÎÒÏëµ½´óĞíÕò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_25_encode.pcm"
+ÎÒÏëÈ¥»¨Ã÷Â¥¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_215_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ±±Èı»·ÖĞÂ·½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_108_encode.pcm"
+ÎÒÒªÈ¥°×Ã×²Ö¶«ËÄ±±´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_27_encode.pcm"
+µ¼º½µ½ÕñĞËÂ·¼ÎĞÀÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_252_encode.pcm"
+ÎÒÏëµ½¹ğÍõÇÅÎ÷½ÖÓëºìĞÇÂ·¶ş¶Î½»²æ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_84_encode.pcm"
+µØÍ¼´óÒ»µã¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_137_encode.pcm"
+ÎÒÒªÈ¥°²µÂÂ·ºÍÇàÄêºşÄÏ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_145_encode.pcm"
+ÎÒÏëµ½°æÊ½¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_19_encode.pcm"
+ÎÒÒªµ½¾©¸Û°Ä¸ßËÙ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_157_encode.pcm"
+ÎÒÏëµ½»ªÃ÷Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_116_encode.pcm"
+ÎÒÒªÈ¥µç×Ó³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_199_encode.pcm"
+ÎÒÒªÈ¥Óà´ó½ÖÓë¹â»ª¶«½Ö½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_26_encode.pcm"
+µ¼º½µ½ĞÅ½­Â·¹¬±£½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_163_encode.pcm"
+ÎÒÒªÈ¥°²ÇìÂ·ÓëÃÉ³ÇÂ·½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_65_encode.pcm"
+ÎÒÒªÈ¥¹«¹İÒ»ºÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_322_encode.pcm"
+µ¼º½µ½°²»ÕÊ¡Î¯µ³Ğ£¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_182_encode.pcm"
+ÎÒÏëÈ¥°²»Õ´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_121_encode.pcm"
+ÎÒÒªÈ¥¶ùÍ¯Ò½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_220_encode.pcm"
+ÎÒÒªÈ¥ÄÏÔ·Â·ÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_29_encode.pcm"
+µ¼º½µ½²ÜÑîÂ·ÓëÖĞÉ½Â·½»²æ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_241_encode.pcm"
+ÎÒÏëµ½±±³Â¼ÒÁË¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_261_encode.pcm"
+ÎÒÒªÈ¥µØË°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_39_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_6_encode.pcm"
+ÎÒÏëÈ¥ºìÆìÁ¬Ëø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_107_encode.pcm"
+ÎÒÒªÈ¥°×Ã×²ÖºúÍ¬ºÍ±±¼ô×ÓÏï½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_276_encode.pcm"
+ÎÒÒª¿¾³áÊĞÏ½Çø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_15_encode.pcm"
+ÎÒÏëĞíÎ¡±¯ÉË
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_315_encode.pcm"
+¾üÁ¸³ÇÆû³µÅä¼ş³§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_312_encode.pcm"
+ÎÒÏëÈ¥°ËÒ»Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_314_encode.pcm"
+ÎÒÒªµ½¾øÎ¶Ñ¼²±¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_320_encode.pcm"
+ÎÒÏëÈ¥º¼»¦¸ßËÙ³ö¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_166_encode.pcm"
+ÎÒÒªÈ¥°×Ã×Ğ±½ÖºÍµØ°²ÃÅÍâ´ó½Ö²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_213_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ°²¶¨ÃÅÍâ´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_186_encode.pcm"
+ÎÒÒªµ½½õ»ª´ó¾Æµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_215_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ±±Èı»·ÖĞÂ·½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_248_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍ°²»¯ÄÏ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_358_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍ°²»¯ÄÏ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_342_encode.pcm"
+ÎÒÒªÈ¥¶«İ¸ÊĞ»¢ÃÅÕò»ÆºÓÊ±×°³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_142_encode.pcm"
+ÎÒÒªÈ¥¹«¹İÒ»ºÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_215_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ±±Èı»·ÖĞÂ·½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_106_encode.pcm"
+°²ÆßìÅ°²¾²
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_298_encode.pcm"
+ÎÒÏëÈ¥º¼ÖİÎÂµÂÄ·´ó½Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_45_encode.pcm"
+µ¼º½µ½³ÇÑôÇøÎÀÉú¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_199_encode.pcm"
+Ñşº£Çø´ó½ÖÓë¹â»ª¶«½Ö½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_74_encode.pcm"
+È¥ÄÏ²ıºúÍ¬ºÍÏï½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_106_encode.pcm"
+ÎÒÒªÈ¥°®¾´¹ÊÏç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_313_encode.pcm"
+ÎÒÒªµ½¾ÛÔ´±±Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_266_encode.pcm"
+ÎÒÏëÈ¥ºş±±´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_165_encode.pcm"
+ÎÒÒªÈ¥°×Ã×²ÖºúÍ¬Â·ºÍ¶«ËÄ±±´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_309_encode.pcm"
+ÎÒÏëÈ¥°ËÀïÇÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_19_encode.pcm"
+ÎÒÒªµ½¾©¸Û°Ä¸ßËÙ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_175_encode.pcm"
+µ¼º½µ½°×Òø»ğ³µÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_172_encode.pcm"
+ÎÒÏëÈ¥º£¿ÚÂÃ¹İ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_217_encode.pcm"
+ÎÒÒªÈ¥ããÓø¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_62_encode.pcm"
+ÎÒÒªÈ¥µÂÊ¤ÃÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_39_encode.pcm"
+ÎÒÒªµ½½ğÌ³¶«³ö¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_284_encode.pcm"
+µ¼º½µ½²ñÓÍ»ú³§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_28_encode.pcm"
+µ¼º½µ½°ËÒ»Â·Óë±õ½­±±Â·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_126_encode.pcm"
+ÎÒÒªÈ¥µ¤ÄáË¹°Ù»õ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_307_encode.pcm"
+ÈÕ±¨Éç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_39_encode.pcm"
+ÎÒÒªµ½½ğÌ³¶«³ö¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_350_encode.pcm"
+ÎÒÒªÈ¥ÓÑÒêºÍÂ·ÓëÊ¯ÑôÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_91_encode.pcm"
+µØÍ¼·Å´ó
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_302_encode.pcm"
+µ¼º½µ½²ñÓÍ»ú³§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_326_encode.pcm"
+ÎÒÏëÈ¥°²ÕêÇÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_206_encode.pcm"
+ÎÒÏëµ½²×Öİ¶«¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_224_encode.pcm"
+ÎÒÒªÈ¥¶«±±ÁÖÒµ´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_313_encode.pcm"
+ÎÒÒªµ½¾ÛÔ´±±Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_212_encode.pcm"
+ÎÒÒªÈ¥°²µÂÂ·ºÍÇàÄêºşÄÏ½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_284_encode.pcm"
+µ¼º½µ½½ğº£»ú³¡¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_138_encode.pcm"
+ÎÒ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_150_encode.pcm"
+ÎÒÒªÈ¥½»µÀ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_310_encode.pcm"
+ÎÒÏëÈ¥°ËÂ·¾ü°ìÊÂ´¦¾ÉÖ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_163_encode.pcm"
+ÎÒÒªÈ¥°²ÇìÂ·ÓëÃÉ³ÇÂ·½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_248_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍ°²»¯ÄÏ½Ö½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_214_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ±±Èı»·¶«Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_205_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_290_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_188_encode.pcm"
+ÎÒÒªµ½¾©¸Û°Ä¸ßËÙÔÀÑô¶«ÊÕ·ÑÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_261_encode.pcm"
+ÎÒÒªÈ¥µØË°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_138_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ°²¶¨ÃÅÍâ´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_147_encode.pcm"
+ÎÒÏëµ½ºÓ´å¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_152_encode.pcm"
+ÎÒÒªÈ¥°åÇÅÄÏÏïºÍ¶«ËÄ±±´ó½Ö²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_103_encode.pcm"
+ÎÒÏëµ½ºìÁë»¨Ô°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_282_encode.pcm"
+ÎÒÏëÈ¥ºÏ·Ê»ğ³µÎ÷Õ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_352_encode.pcm"
+´øÎÒÈ¥Ã·Ô°Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_40_encode.pcm"
+ÎÒÒªµ½½ğ³¯¾Æµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_129_encode.pcm"
+ÎÒÒªÈ¥µ¾Ïã´å¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_276_encode.pcm"
+ÎÒÒªµ½¼¸ÊĞÏ½Çø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_9_encode.pcm"
+³ØÖİÊĞÎÚÉ³Õò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_185_encode.pcm"
+ÎÒÏëÈ¥°²»ÕÊ¡Á¢¶ùÍ¯Ò½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_130_encode.pcm"
+ÎÒÒªÈ¥ÕÅ¸®Ô°ÓëÖĞÉ½ÄÏÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_207_encode.pcm"
+ÎÒÏëµ½Ê±ÉĞÂ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_235_encode.pcm"
+ÍË³öµ¼º½
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_109_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_182_encode.pcm"
+ÎÒÏëÈ¥°²»Õ´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_31_encode.pcm"
+ÎÒÒª×Ô¼º
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_60_encode.pcm"
+ÎÒÒªÈ¥µÂÇìÒ½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_128_encode.pcm"
+ÎÒÒªÈ¥µ³Ğ£¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_22_encode.pcm"
+ÎÒÏëÈ¥ºşÖİ³¤ĞÅ³¤ÇÅ´å¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_21_encode.pcm"
+ÎÒÒªµ½¾Å½­»ğ³µÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_77_encode.pcm"
+ÎÒÒªÈ¥±¦³®ºúÍ¬ºÍ¶¹¸¯³ØºúÍ¬½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_270_encode.pcm"
+µ¼º½µ½³ÇÑôÇøÎÀÉú¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_1_encode.pcm"
+ÎÒÒªµ½½­ËÕ¶«Ì¨ÊĞÕş¸®¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_64_encode.pcm"
+ÎÒÒªÈ¥µØË°¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_55_encode.pcm"
+ÎÒÒªÈ¥¹«°²¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_176_encode.pcm"
+À´¼ÒÀÖÔ°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_54_encode.pcm"
+ÎÒÏëÈ¥±±Ò»»·Â·ºÍÕ¾Î÷Â·½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_88_encode.pcm"
+ÉèÎª¼Ò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_113_encode.pcm"
+ÎÒÏëµ½Ò»¸ö²Ë¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_336_encode.pcm"
+ÎÒÏëÈ¥Ì«ºÍÂ··âÖÜÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_319_encode.pcm"
+ÎÒÏëÈ¥º®ÖñÔ°ÉÕ¿¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_305_encode.pcm"
+ÎÒÒªÈ¥¸Ê¹ÈÏØÎ÷ÓÎ¼ÇÉú»î¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_40_encode.pcm"
+ÎÒÒªµ½½ğ³¯¾Æµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_108_encode.pcm"
+È¥°ÙÃ×²ÖºúÍ¬ºÍ¶«ËÄ±±´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_240_encode.pcm"
+ÎÒÏëµ½¹ú¼ÒÉ­ÁÖ¹«Ô°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_117_encode.pcm"
+ÎÒÒªÈ¥µç×ÓÉÌÃ³³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_37_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_41_encode.pcm"
+ÎÒÏëÈ¥ºş±±´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_137_encode.pcm"
+ÎÒÒªÈ¥°²µÂÂ·ºÍÄÏ½Ö½»²æ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_62_encode.pcm"
+ÎÒÒªÈ¥µÂÊ¤ÃÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_134_encode.pcm"
+ÎÒÏëµ½³¤É³Ü½ÈØÖĞÂ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_41_encode.pcm"
+ÎÒÏëÈ¥ºş±±´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_284_encode.pcm"
+µ¼º½µ½²ñÓÍ»ú³§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_257_encode.pcm"
+ÎÒÒªÈ¥µÂ¼ÇÒ½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_229_encode.pcm"
+´ò¿ª±Ê¼Ç
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_292_encode.pcm"
+ÎÒÏëÈ¥°ËÒ»¹ã³¡¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_308_encode.pcm"
+ÎÒÏëÈ¥°Ë¹Ö¼ÍÄî¹İ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_230_encode.pcm"
+´ò¿ªÎÒµÄÊÕ²Ø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_64_encode.pcm"
+ÎÒÒªÈ¥µØË°¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_96_encode.pcm"
+Ìì½¾ÉãÏñÍ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_293_encode.pcm"
+ÎÒÏëÈ¥°ËÒ»¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_260_encode.pcm"
+ÎÒÒªÈ¥´óÑó°Ù»õ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_270_encode.pcm"
+µ¼º½µ½³ÇÑôÇøÎÀÉú¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_103_encode.pcm"
+ÎÒÏëµ½ºìÁë»¨Ô°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_278_encode.pcm"
+ÎÒÒªµ½¼ÒÁË¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_170_encode.pcm"
+ÎÒÏëÈ¥¹úÏè¹«Ô¢¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_9_encode.pcm"
+µ¼º½µ½³ØÖİÊĞÉ³Õò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_85_encode.pcm"
+µØÍ¼Ğ¡Ò»µã¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_116_encode.pcm"
+µç×Ó³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_218_encode.pcm"
+·áÔ­´óÏÃ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_285_encode.pcm"
+µ¼º½µ½²ıË¶¿Æ¼¼ÓĞÏŞ¹«Ë¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_169_encode.pcm"
+ÎÒÒªµ½ÁúÃúÂ·Óë½¨ÎÄÏß½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_164_encode.pcm"
+ÎÒÒªÈ¥°×Ã×ÏïºúÍ¬ºÏ·Ê¼ô×ÓÏï½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_71_encode.pcm"
+ÓÀ¶¨ÃÅÍâ´ó½ÖÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_5_encode.pcm"
+ÎÒ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_304_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_102_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_44_encode.pcm"
+ÎÒÏëÈ¥ºşÄÏÊ¡¸¾¶ùÒ½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_62_encode.pcm"
+ÎÒÒªÈ¥µÂÊ¤ÃÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_120_encode.pcm"
+ÎÒÒªÈ¥µş²ÊÉ½¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_348_encode.pcm"
+ÎÒÏëÈ¥°Ë´ó¹Ø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_158_encode.pcm"
+ÎÒÏëµ½ÕÒÀ³É½Çø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_265_encode.pcm"
+ÎÒÒªµ½½ñ³¯¾Æµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_273_encode.pcm"
+µ¼º½µ½±±³½Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_168_encode.pcm"
+ÎÒÒªµ½À¥ÂØÉ½Â·ÓëÖé½­Â·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_79_encode.pcm"
+ÇëÓÃµ¼º½
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_142_encode.pcm"
+ÎÒÒªÈ¥¹«¹İÒ»ºÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_102_encode.pcm"
+ÎÒÏëµ½ÆºÉ½ÈËÃñÒ½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_86_encode.pcm"
+Ìí¼Ó²ŞËù¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_220_encode.pcm"
+ÎÒÒªÈ¥ÄÏÔ·Â·ÔõÃ´×ß¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_184_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_294_encode.pcm"
+..
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_261_encode.pcm"
+ÎÒÒªÈ¥µØË°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_294_encode.pcm"
+ÎÒÒªµ½¼ÃÄÏÊĞÀúÏÂÇø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_352_encode.pcm"
+´øÎÒÈ¥Ã·Ô°Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_338_encode.pcm"
+µ¼º½µ½°üºÓ´óµÀÃñ¿µĞ¡Çø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_146_encode.pcm"
+ÎÒÏëµ½ÉòÑôÊĞÎå°®½Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_159_encode.pcm"
+ÎÒÏëµ½ÅíÉ½ÈËÃñÒ½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_356_encode.pcm"
+ÎÒÒªÈ¥°²»¯ÄÄÀïºÍ°²»¯±±½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_346_encode.pcm"
+ÎÒÏëÈ¥°ÄÃÅ¶¹ÀÌ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_255_encode.pcm"
+´øÎÒÈ¥ÄÏ²ÜÏç»ê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_324_encode.pcm"
+µ¼º½µ½°²ÇìÊĞ·ÄÖ¯ÄÏÂ·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_295_encode.pcm"
+ÎÒÒªµ½¼ÎÓãÉ½ºşÎÂÈª¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_250_encode.pcm"
+ÎÒÒªÈ¥¹«°²¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_159_encode.pcm"
+ÎÒÏëµ½ÅíÉ½ÈËÃñÒ½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_1s_5s/hight_c4_1s_5s_8_encode.pcm"
+µ½³Îº£âù»ª¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_316_encode.pcm"
+ÎÒÒªµ½³¤½­Â·ÓëáÔÉ½±±Â·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_275_encode.pcm"
+ÎÒÒªÈ¥Ò±É½µÀÔºÓëÊ¯ÓÍĞÂ´å½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_34_encode.pcm"
+±±Ò»»·Â·½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_319_encode.pcm"
+ÎÒÏëÈ¥º®ÖñÔ°ÉÕ¿¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_142_encode.pcm"
+ÎÒÒªÈ¥¹«¹İÒ»ºÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_228_encode.pcm"
+¹«Ë¾
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2s_4s/low_c4_2s_4s_288_encode.pcm"
+ÎÒÒªÈ¥¹¤ÈË¾Û±¦Éá¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_313_encode.pcm"
+ÎÒÒªµ½¾ÛÔ´±±Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_1s_5s/low_c4_1s_5s_333_encode.pcm"
+ÎÒÏëÈ¥»ªÈğ³¬ÊĞ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_168_encode.pcm"
+ÎÒÒªµ½À¥ÂØÉ½Â·ÓëÖé½­Â·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_303_encode.pcm"
+µ¼º½µ½²ıË¶¿Æ¼¼ÓĞÏŞ¹«Ë¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_165_encode.pcm"
+ÎÒÒªÈ¥°×Ã×²ÖºúÍ¬ºÍ¶«ËÄ±±´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_82_encode.pcm"
+ÉèÎª¹«Ë¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_175_encode.pcm"
+µ¼º½µ½°×Òø»ğ³µÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_283_encode.pcm"
+µ¼º½µ½±±¾©²©°®Ò½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_185_encode.pcm"
+ÎÒÏëÈ¥°²»ÕÊ¡Á¢¶ùÍ¯Ò½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_6_encode.pcm"
+ÎÒÏëÈ¥ºìÆìÁ¬Ëø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_236_encode.pcm"
+ÎÒÒªÈ¥ÓĞÎ÷½ÖÓëºéÎäÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_205_encode.pcm"
+ÎÒÒªÈ¥ÕÅ¸»Ô´ÓëÖĞÉ½ÄÏÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_287_encode.pcm"
+ÎÒÒªÈ¥¹¤Å©´ó½Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_182_encode.pcm"
+ÎÒÏëÈ¥°²»Õ´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_265_encode.pcm"
+ÎÒÒªµ½½ñ³¯¾Æµê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_94_encode.pcm"
+¼ÇÂ¼ÔÚµØÖ·»ò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_266_encode.pcm"
+ÎÒÏëÈ¥ºş±±´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_120_encode.pcm"
+ÎÒÒªÈ¥µş²ÊÉ½¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_344_encode.pcm"
+ÎÒÏëÈ¥°ÂÌåÖĞĞÄ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_213_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ°²¶¨ÃÅÍâ´ó½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_259_encode.pcm"
+ÎÒÒªÈ¥µÂÊ¤Âğ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_39_encode.pcm"
+ÎÒÒªµ½½ğÌ³¶«³ö¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_286_encode.pcm"
+ÎÒÒªÈ¥¸ÊËàÊ¡Î÷·åÊĞ³¤ÇìÓÍÌïÉú»î»ùµØ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_103_encode.pcm"
+ÎÒÏëµ½»¨Ô°¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_2s_4s/hight_c3_2s_4s_73_encode.pcm"
+ÎÒÒªÈ¥°á³¡ºúÍ¬ºÍ½»µÀ¿ÚÄÏ´ó½Ö½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_152_encode.pcm"
+ÎÒÒªÈ¥°ìÏò¶«ËÄ±±´ó½Ö²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_261_encode.pcm"
+ÎÒÒªÈ¥µØË°¾Ö¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_120_encode.pcm"
+ÎÒÒªÈ¥µş²ÊÉ½¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_290_encode.pcm"
+ÎÒÏëÈ¥°ËÀïÇÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_7_encode.pcm"
+ÎÒÏëÈ¥ºú¼ÒÃí¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_112_encode.pcm"
+ÎÒÏëµ½Õã½­Ê¡ĞÂ²ıÏØ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_239_encode.pcm"
+ÎÒÏëµ½ºÚÊ¯¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_292_encode.pcm"
+ÎÒÏëÈ¥°ËÒ»¹ã³¡¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_2s_4s/low_c3_2s_4s_249_encode.pcm"
+ÎÒÒªÈ¥°²»¯±±½ÖºÍÅàĞÂ½Ö½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_0.5s_5.5s/hight_c4_0.5s_5.5s_67_encode.pcm"
+ÎÒÏëµ½»Æ±¦¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_0.5s_5.5s/low_c3_0.5s_5.5s_80_encode.pcm"
+ÎÒÏëµ¼º½
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2.5s_3.5s/hight_c3_2.5s_3.5s_321_encode.pcm"
+ÎÒÏëÈ¥º¼ÖİÈÕ±¨Éç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_1s_5s/hight_c4_1s_5s_107_encode.pcm"
+ÎÒÒªÈ¥°×Ã×²ÖºúÍ¬ºÍ±±¼ô×ÓÏï½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/low_c4_2.5s_3.5s/low_c4_2.5s_3.5s_326_encode.pcm"
+ÎÒÏëÈ¥°²ÕêÇÅ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_325_encode.pcm"
+ÎÒÏëÈ¥°²»Õ´óÑ§¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_0.5s_5.5s/low_c4_0.5s_5.5s_183_encode.pcm"
+ÎÒÏëÈ¥°²»Õ¾çÔº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_116_encode.pcm"
+ÎÒÒªÈ¥µç×Ó³Ç¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/low_c3_1s_5s/low_c3_1s_5s_234_encode.pcm"
+Æô¶¯µ¼º½
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_170_encode.pcm"
+ÎÒÏëÈ¥¹úÏè¹«Ô¢¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_2s_4s/hight_c3_2s_4s_147_encode.pcm"
+ÎÒÏëµ½ºÓ´å¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/hight_c4_2s_4s/hight_c4_2s_4s_200_encode.pcm"
+ÎÒÏëÈ¥±±Ò»»·Â·Óë·ïÑôÂ·½»²æÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_1s_5s/low_c4_1s_5s_87_encode.pcm"
+ÊÕ²ØÎª¼Ò¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_1s_5s/low_c3_1s_5s_175_encode.pcm"
+µ¼º½µ½°×Òø»ğ³µÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_289_encode.pcm"
+ÎÒÏëÈ¥°Ë¹Ö¼ÍÄî¹İ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_48_encode.pcm"
+µ¼º½µ½³É¶¼ÓñÁúĞ¡Çø¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_313_encode.pcm"
+ÎÒÒªµ½¾ÛÔ´±±Â·¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_333_encode.pcm"
+ÎÒÏëÈ¥»ªÈó³¬ÊĞ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C4åœºæ™¯/low_c4_2s_4s/low_c4_2s_4s_274_encode.pcm"
+µ¼º½µ½³Ê¹±ÈËÃñÒøĞĞ¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2s_4s/hight_c4_2s_4s_44_encode.pcm"
+ÎÒÏëÈ¥ºşÄÏÊ¡»¯Ò½Ôº¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_253_encode.pcm"
+ÎÒÏëµ½¾°»ªÂ·Óë²¨ÀïÈı½Ö½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_304_encode.pcm"
+ÎÒÒªÈ¥¸ÉÏ´µê¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C4åœºæ™¯/LSA/hight_c4_2.5s_3.5s/hight_c4_2.5s_3.5s_188_encode.pcm"
+ÎÒÒªµ½¾©¸Û°Ä¸ßËÙÔÀÑô¶«ÊÕ·ÑÕ¾¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/å¸‚åŒºé™æ­¢å…³çª—å…³ç©ºè°ƒ/LSA/C3åœºæ™¯/hight_c3_1s_5s/hight_c3_1s_5s_295_encode.pcm"
+ÎÒÒªµ½¼ÎÓãÉ½ºşÎÂÈª¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2.5s_3.5s/low_c3_2.5s_3.5s_198_encode.pcm"
+ÇşµÀ½ğÓñ´ó¹âÂ·½»²æ¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_0.5s_5.5s/hight_c3_0.5s_5.5s_139_encode.pcm"
+ÎÒÒªÈ¥°²¶¨Â·ºÍ±±Èı»·¶«Â·²íÂ·¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/hight_c3_1s_5s/hight_c3_1s_5s_54_encode.pcm"
+ÎÒÏëÈ¥±±Ò»»·Â·ºÍÕ¾Î÷Â·½»¿Ú¡£
+.
+"/home/linaro/ATP/test_data/PcmRes/isr/400_ç«¯ç‚¹æ ‡æ³¨/éƒŠåŒºåŠå¼€çª—/C3åœºæ™¯/LSA/low_c3_2s_4s/low_c3_2s_4s_340_encode.pcm"
+ÎÒÒªÈ¥¶«İ¸ÆóÊ¯Á¦¡£
+.

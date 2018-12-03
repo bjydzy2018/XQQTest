@@ -1,0 +1,21 @@
+2017-04-28 13:51:31 Log.py[line:130] INFO set rec result
+2017-04-28 13:51:31 Log.py[line:128] DEBUG GetRecConsistResult.CovResultType(./Resource/SR_Result/Task_Consist/isr_list_time_noencode.txt.txt, ./Resource/SR_Result/perflog.txt,./Resource/out_rec.txt)
+2017-04-28 13:51:31 Log.py[line:130] INFO set rec result success!
+2017-04-28 13:51:31 Log.py[line:128] DEBUG 	Function 'set_rec_result()' run time is : 0.0369999408722 s
+2017-04-28 13:51:31 Log.py[line:130] INFO set suit result
+2017-04-28 13:51:31 Log.py[line:128] DEBUG json_handle.fun(./Resource/sr_time_chinese_local.csv, ./Resource/out_suit.txt)
+2017-04-28 13:51:31 Log.py[line:130] INFO set suit result success!
+2017-04-28 13:51:31 Log.py[line:128] DEBUG 	Function 'set_suit_result()' run time is : 0.0119998455048 s
+2017-04-28 13:51:31 Log.py[line:130] INFO begin compare
+2017-04-28 13:51:31 Log.py[line:128] DEBUG CompareResult.begainCompare(./Resource/out_rec.txt, ./Resource/out_suit.txt)
+2017-04-28 13:51:31 Log.py[line:128] DEBUG result same num : 389
+2017-04-28 13:51:31 Log.py[line:128] DEBUG vad begin same num : 392
+2017-04-28 13:51:31 Log.py[line:128] DEBUG vad end same num : 391
+2017-04-28 13:51:31 Log.py[line:128] DEBUG whole same num : 389
+2017-04-28 13:51:31 Log.py[line:128] DEBUG 	Function 'get_compare_result(recPath,suitPath)' run time is : 0.0339999198914 s
+2017-04-28 13:51:31 Log.py[line:130] INFO end compare
+2017-04-28 13:51:31 Log.py[line:130] INFO write result : ./Result\1.0_common.xls
+2017-04-28 13:51:31 Log.py[line:128] DEBUG 	Function '__write_rate_sheet(rateSheet,Compare())' run time is : 0.0 s
+2017-04-28 13:51:31 Log.py[line:128] DEBUG 	Function '__write_detail_sheet(detailSheet,Compare())' run time is : 0.0330002307892 s
+2017-04-28 13:51:31 Log.py[line:128] DEBUG 	Function 'write_result(resultDir,Compare())' run time is : 0.0650000572205 s
+2017-04-28 13:51:31 Log.py[line:128] DEBUG 	Function 'main()' run time is : 0.15499997139 s

@@ -1,0 +1,120 @@
+ [ISR Test] Open cfg_Dir success: /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/isr_list.cfg
+ [ISR Test] Pcm_Res_Path_Default is /home/linaro/ATP/test_data/PcmRes.
+ [ISR Test] Result_Type_Default is 1.
+ [ISR Test] ISR_Mode_Default is 1.
+ [ISR Test] ISR_Lang_Default is 0.
+ [ISR Test] UpLoadDictModel_Default is 1.
+ [ISR Test] ISS_SR_SCENE_Default is all.
+ [ISR Test] SR_Speed_Effect_Default is 0.
+ [ISR Test] Loop_Num_Default is 1
+ [ISR Test] Pcm_Track_Default is 1
+ [ISR Test] Set_Trace_Default is 0.
+ [ISR Test] Trace_Level_Default is error.
+ [ISR Test] TTS_Mode_Default is 0.
+ [ISR Test] TTS_Speaker_Default is 99.
+ [ISR Test] TTS_Out_Default is 0.
+ [ISR Test] ISS_MVW_SCENE_Default is 1.
+ [ISR Test] Index_Srh is 1
+ [ISR Test] Index_Drop is 1
+ [ISR Test] Loc_Msp_Nli is 1
+ [ISR Test] ISR_Lang is 0
+ [ISR Test] SR_Speed_Effect is 0
+ [ISR Test] Set ISR_MODE = 1
+ [ISR Test] Set IfonlyUpUploadToCloud = 1
+ [ISR Test] Set ISS_SR_SCENE = all
+ [ISR Test] Set Loop_Num = 1
+ [ISR Test] Set Pcm_Track = 1
+ [ISR Test] Set Result_Type = 1
+ [ISR Test] Whether Set trace = 0
+ [ISR Test] Set trace_level = error
+ [ISR Test] Set path_of_pcm_res = /home/linaro/ATP/test_data/PcmRes
+ [ISR Test] Set dictlist_Dir：/home/linaro/ATP/test_data/PcmRes/dictlist_list.txt
+ [ISR Test] ISSSetMachineCode = 0
+ [ISR Test] -----------第1次循环-----------
+ [ISR Test] Open dictlist_Dir success: /home/linaro/ATP/test_data/PcmRes/dictlist_list.txt
+ [ISR Test] Open dict_Dir success: /home/linaro/ATP/test_data/PcmRes/isr/dict/500.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 22046
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 141748764
+ [ISR Test] LocalStatusTime:141780162
+ [ISR Test] LocalSuccessTime:141780162
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 31398
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:1540
+ [ISR Test] Open dict_Dir success: /home/linaro/ATP/test_data/PcmRes/isr/dict/1000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 12605
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 141797339
+ [ISR Test] LocalStatusTime:141832522
+ [ISR Test] LocalSuccessTime:141832522
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 35183
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:930
+ [ISR Test] Open dict_Dir success: /home/linaro/ATP/test_data/PcmRes/isr/dict/1500.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 7853
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 141844618
+ [ISR Test] LocalStatusTime:141866074
+ [ISR Test] LocalSuccessTime:141866074
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 21456
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:294
+ [ISR Test] Open dict_Dir success: /home/linaro/ATP/test_data/PcmRes/isr/dict/2000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 5243
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 141874627
+ [ISR Test] LocalStatusTime:141887588
+ [ISR Test] LocalSuccessTime:141887588
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 12961
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:794
+ [ISR Test] Open dict_Dir success: /home/linaro/ATP/test_data/PcmRes/isr/dict/2500.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 5008
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 141896402
+ [ISR Test] LocalStatusTime:141939261
+ [ISR Test] LocalSuccessTime:141939261
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 42859
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:938
+ [ISR Test] Open dict_Dir success: /home/linaro/ATP/test_data/PcmRes/isr/dict/3000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 16438
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 141959646
+ [ISR Test] LocalStatusTime:141994562
+ [ISR Test] LocalSuccessTime:141994562
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 34916
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:1356
+ [ISR Test] Open dict_Dir success: /home/linaro/ATP/test_data/PcmRes/isr/dict/15000.json
+ [ISR Test] 开始初始化！
+ [ISR Test] Before ISSSRCreate
+ [ISR Test] ISSSRCreate success
+ [ISR Test] After ISSSRCreate,init_creat time = 14377
+ [ISR Test] Create success! Please wait 3s
+ [ISR Test] Before UpLoadDict time = 142013319
+ [ISR Test] LocalStatusTime:142094611
+ [ISR Test] LocalSuccessTime:142094611
+ [ISR Test] ISSSRUpLoadDict to local success,init_upload_dict time = 81292
+ [ISR Test] Upload dict success
+ [ISR Test] ISSSRDestroy:1573
+ [ISR Test] TestStability_ISR is over!
+

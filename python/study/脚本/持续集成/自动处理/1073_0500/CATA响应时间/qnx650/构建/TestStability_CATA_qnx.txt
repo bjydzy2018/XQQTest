@@ -1,0 +1,43 @@
+ [CATA Test] path_of_bin is /usb1/bin
+
+ [CATA Test] cata_res_path : /usb1/bin/CataRes
+
+ [CATA Test] cfg_Dir : /usb1/bin/isr_list.cfg
+
+ [CATA Test] Open cfg_Dir success: /usb1/bin/isr_list.cfg
+ [CATA Test] Pcm_Res_Path_Default is /usb1/PcmRes.
+ [CATA Test] Result_Type_Default is 1.
+ [CATA Test] ISR_Mode_Default is 1.
+ [CATA Test] ISR_Lang_Default is 0.
+ [CATA Test] UpLoadDictModel_Default is 1.
+ [CATA Test] ISS_SR_SCENE_Default is all.
+ [CATA Test] Loop_Num_Default is 1
+ [CATA Test] Pcm_Track_Default is 1
+ [CATA Test] Trace_Level_Default is error.
+ [CATA Test] TTS_Mode_Default is 0.
+ [CATA Test] TTS_Speaker_Default is 99.
+ [CATA Test] TTS_Out_Default is 0.
+ [CATA Test] ISS_MVW_SCENE_Default is 1.
+ [CATA Test] Index_Srh is 1
+ [CATA Test] Index_Drop is 1
+ [CATA Test] file_path : /usb1/PcmRes/cata/Index_in/music10000.txt
+ [CATA Test] file_name: music10000.txt, str_1: music10000
+ [CATA Test] index_efficient length: 55
+ [CATA Test] index_efficient: /usb1/PcmRes/cata/Srh_out/out_index_time_music10000.csv
+ [CATA Test] open index_efficient success : /usb1/PcmRes/cata/Srh_out/out_index_time_music10000.csv
+ [CATA Test] ISSCataIndexCreate return 0
+ [CATA Test] time_Create:63
+ [CATA Test] cata_res_path = /usb1/bin/CataRes
+ [CATA Test] strFileName.c_str()= music10000.bin.
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 16777231, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 174300
+ [CATA Test] end_index time10629
+ [CATA Test] TotalIndex time34114
+ [CATA Test] CATA OVER!

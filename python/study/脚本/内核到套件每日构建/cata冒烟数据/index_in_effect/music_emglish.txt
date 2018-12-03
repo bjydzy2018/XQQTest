@@ -1,0 +1,234 @@
+Title|God Is a Girl|1	Artist|Groove Coverage|1	Album|God Is A Girl|1	Genre||1	Filename||1	add	music_english.bin
+Title|Try Everything|1	Artist|Shakira|1	Album|Try Everything|1	Genre||1	Filename||1	add	music_english.bin
+Title|BLUE|1	Artist|BIGBANG|1	Album|Alive|1	Genre||1	Filename||1	add	music_english.bin
+Title|Song From A Secret Garden|1	Artist|Secret Garden|1	Album|Essential Secret Garden|1	Genre||1	Filename||1	add	music_english.bin
+Title|Hard Out Here|1	Artist|Lily Allen|1	Album|Hard Out Here|1	Genre||1	Filename||1	add	music_english.bin
+Title|Innocence|1	Artist|Avril Lavigne|1	Album|The Best Damn Thing|1	Genre||1	Filename||1	add	music_english.bin
+Title|Yesterday Once More|1	Artist|Carpenters|1	Album|Cliff In Japan|1	Genre||1	Filename||1	add	music_english.bin
+Title|Booty Music|1	Artist|Deep Side|1	Album|Booty Music|1	Genre||1	Filename||1	add	music_english.bin
+Title|Trouble Maker|1	Artist|Trouble Maker|1	Album|Trouble Maker|1	Genre||1	Filename||1	add	music_english.bin
+Title|Poker Face|1	Artist|Lady GaGa|1	Album|The Fame Monster|1	Genre||1	Filename||1	add	music_english.bin
+Title|Love Me Like You Do|1	Artist|Ellie Goulding|1	Album|Delirium|1	Genre||1	Filename||1	add	music_english.bin
+Title|Boyfriend|1	Artist|Justin Bieber|1	Album|Boyfriend|1	Genre||1	Filename||1	add	music_english.bin
+Title|Call Me Maybe|1	Artist|Carly Rae Jepsen|1	Album|Curiosity|1	Genre||1	Filename||1	add	music_english.bin
+Title|Nothing's Gonna Change My Love For You|1	Artist|Westlife|1	Album|The Rose|1	Genre||1	Filename||1	add	music_english.bin
+Title|Immortals|1	Artist|Fall Out Boy|1	Album|Immortals|1	Genre||1	Filename||1	add	music_english.bin
+Title|Someone Like You|1	Artist|Adele|1	Album|Someone Like You|1	Genre||1	Filename||1	add	music_english.bin
+Title|Everybody Hurts|1	Artist|Avril Lavigne|1	Album|Goodbye Lullaby|1	Genre||1	Filename||1	add	music_english.bin
+Title|The Show|1	Artist|Lenka|1	Album|Lenka|1	Genre||1	Filename||1	add	music_english.bin
+Title|Here's To Never Growing Up|1	Artist|Avril Lavigne|1	Album|Avril Lavigne|1	Genre||1	Filename||1	add	music_english.bin
+Title|The Phoenix|1	Artist|Fall Out Boy|1	Album|Save Rock And Roll|1	Genre||1	Filename||1	add	music_english.bin
+Title|pastorale|1	Artist|Secret Garden|1	Album|Songs From A Secret Garden|1	Genre||1	Filename||1	add	music_english.bin
+Title|Till The World Ends|1	Artist|Britney Spears|1	Album|Femme Fatale|1	Genre||1	Filename||1	add	music_english.bin
+Title|Counting Stars|1	Artist|OneRepublic|1	Album|Native|1	Genre||1	Filename||1	add	music_english.bin
+Title|What Makes You Beautiful|1	Artist|One Direction|1	Album|More Than This|1	Genre||1	Filename||1	add	music_english.bin
+Title|Sorry|1	Artist|Justin Bieber|1	Album|Purpose|1	Genre||1	Filename||1	add	music_english.bin
+Title|Bad Romance|1	Artist|Lady GaGa|1	Album|The Monster Ball Tour|1	Genre||1	Filename||1	add	music_english.bin
+Title|As Long As You Love Me|1	Artist|Justin Bieber|1	Album|Believe Acoustic|1	Genre||1	Filename||1	add	music_english.bin
+Title|Faded|1	Artist|Alan Walker|1	Album|Faded|1	Genre||1	Filename||1	add	music_english.bin
+Title|Roar|1	Artist|Katy Perry|1	Album|Prism|1	Genre||1	Filename||1	add	music_english.bin
+Title|Ce Frumoasa E Iubirea|1	Artist|Giulia|1	Album|Primul Pas|1	Genre||1	Filename||1	add	music_english.bin
+Title|Fade|1	Artist|Alan Walker|1	Album|Fade|1	Genre||1	Filename||1	add	music_english.bin
+Title|Fire|1	Artist|Gavin DeGraw|1	Album|Fire|1	Genre||1	Filename||1	add	music_english.bin
+Title|Adagio|1	Artist|Secret Garden|1	Album|Dreamcatcher|1	Genre||1	Filename||1	add	music_english.bin
+Title|Let It Go|1	Artist|Idina Menzel|1	Album|Let It Go Remixes|1	Genre||1	Filename||1	add	music_english.bin
+Title|Latin Girl|1	Artist|Justin Bieber|1	Album|Latin Girl|1	Genre||1	Filename||1	add	music_english.bin
+Title|Try|1	Artist|Colbie Caillat|1	Album|Gypsy Heart Side A|1	Genre||1	Filename||1	add	music_english.bin
+Title|Love Yourself|1	Artist|Justin Bieber|1	Album|Purpose|1	Genre||1	Filename||1	add	music_english.bin
+Title|Centuries|1	Artist|Fall Out Boy|1	Album|Centuries|1	Genre||1	Filename||1	add	music_english.bin
+Title|We Are The World|1	Artist|Michael Jackson|1	Album|The Ultimate Collection|1	Genre||1	Filename||1	add	music_english.bin
+Title|Why Would I Ever|1	Artist|Paula DeAnda|1	Album|Why Would I Ever|1	Genre||1	Filename||1	add	music_english.bin
+Title|On The Radio|1	Artist|Groove Coverage|1	Album|Greatest Hits|1	Genre||1	Filename||1	add	music_english.bin
+Title|The Saltwater Room|1	Artist|Owl City|1	Album|Ocean Eyes|1	Genre||1	Filename||1	add	music_english.bin
+Title|Free Loop|1	Artist|Daniel Powter|1	Album|Free Loop|1	Genre||1	Filename||1	add	music_english.bin
+Title|Apologize|1	Artist|Timbaland|1	Album|Apologize|1	Genre||1	Filename||1	add	music_english.bin
+Title|We Can't Stop|1	Artist|Miley Cyrus|1	Album|Bangerz Tour|1	Genre||1	Filename||1	add	music_english.bin
+Title|Complicated|1	Artist|Avril Lavigne|1	Album|Let Go|1	Genre||1	Filename||1	add	music_english.bin
+Title|Firework|1	Artist|Katy Perry|1	Album|Teenage Dream|1	Genre||1	Filename||1	add	music_english.bin
+Title|Until You|1	Artist|Shayne Ward|1	Album|Breathless|1	Genre||1	Filename||1	add	music_english.bin
+Title|Billie Jean|1	Artist|Michael Jackson|1	Album|The Indispensable Collection|1	Genre||1	Filename||1	add	music_english.bin
+Title|The Dawn|1	Artist|Dreamtale|1	Album|Beyond Reality|1	Genre||1	Filename||1	add	music_english.bin
+Title|Right Now|1	Artist|Akon|1	Album|Freedom|1	Genre||1	Filename||1	add	music_english.bin
+Title|New Divide|1	Artist|Linkin Park|1	Album|Burn it Down|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Knew You Were Trouble.|1	Artist|Taylor Swift|1	Album|I Knew You Were Trouble|1	Genre||1	Filename||1	add	music_english.bin
+Title|Heartbeat|1	Artist|Mat Kearney|1	Album|Heartbeat|1	Genre||1	Filename||1	add	music_english.bin
+Title|Sunshine Girl|1	Artist|moumoon|1	Album|Sunshine Girl|1	Genre||1	Filename||1	add	music_english.bin
+Title|You Belong With Me|1	Artist|Taylor Swift|1	Album|Journey To Fearless The Ultimate Live Experience|1	Genre||1	Filename||1	add	music_english.bin
+Title|Far Away From Home|1	Artist|Groove Coverage|1	Album|Greatest Hits|1	Genre||1	Filename||1	add	music_english.bin
+Title|Only Girl|1	Artist|Rihanna|1	Album|Now That's What I Call 30 Years|1	Genre||1	Filename||1	add	music_english.bin
+Title|Beautiful World|1	Artist|Westlife|1	Album|Greatest Hits|1	Genre||1	Filename||1	add	music_english.bin
+Title|Lemon Tree|1	Artist|Fools Garden|1	Album|Die Ultimative Chartshow|1	Genre||1	Filename||1	add	music_english.bin
+Title|Everybody|1	Artist|Ingrid Michaelson|1	Album|Everybody|1	Genre||1	Filename||1	add	music_english.bin
+Title|You Are Not Alone|1	Artist|Michael Jackson|1	Album|New Years Eve in Brunei|1	Genre||1	Filename||1	add	music_english.bin
+Title|Here With You|1	Artist|Asher Book|1	Album|Here With You|1	Genre||1	Filename||1	add	music_english.bin
+Title|Dying In The Sun|1	Artist|The Cranberries|1	Album|bury the hatchet|1	Genre||1	Filename||1	add	music_english.bin
+Title|Long Live|1	Artist|Taylor Swift|1	Album|Speak Now|1	Genre||1	Filename||1	add	music_english.bin
+Title|Blue Skies|1	Artist|Lenka|1	Album|Blue Skies|1	Genre||1	Filename||1	add	music_english.bin
+Title|Goodbye|1	Artist|Avril Lavigne|1	Album|Goodbye Lullaby|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Want My Tears Back|1	Artist|Nightwish|1	Album|Showtime, Storytime|1	Genre||1	Filename||1	add	music_english.bin
+Title|Wrecking Ball|1	Artist|Miley Cyrus|1	Album|WreckingBall|1	Genre||1	Filename||1	add	music_english.bin
+Title|Diamonds|1	Artist|Rihanna|1	Album|Unapologetic|1	Genre||1	Filename||1	add	music_english.bin
+Title|What Are Words|1	Artist|Chris Medina|1	Album|What Are Words|1	Genre||1	Filename||1	add	music_english.bin
+Title|It's My Life|1	Artist|Bon Jovi|1	Album|Music Rain|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Wanna Go|1	Artist|Britney Spears|1	Album|I Wanna Go|1	Genre||1	Filename||1	add	music_english.bin
+Title|The truth that you leave|1	Artist|Pianoboy|1	Album|The truth that you leave|1	Genre||1	Filename||1	add	music_english.bin
+Title|Smile|1	Artist|Avril Lavigne|1	Album|Walmart Soundcheck|1	Genre||1	Filename||1	add	music_english.bin
+Title|Big Big World|1	Artist|Emilia Rydberg|1	Album|Miss Independent|1	Genre||1	Filename||1	add	music_english.bin
+Title|Not Afraid|1	Artist|Eminem|1	Album|Recovery|1	Genre||1	Filename||1	add	music_english.bin
+Title|Bye Bye Bye|1	Artist|Lovestoned|1	Album|Rising Love|1	Genre||1	Filename||1	add	music_english.bin
+Title|Bye Bye Beautiful|1	Artist|Nightwish|1	Album|Made In Hong Kong|1	Genre||1	Filename||1	add	music_english.bin
+Title|Gotta Have You|1	Artist|The Weepies|1	Album|Say I Am You|1	Genre||1	Filename||1	add	music_english.bin
+Title|Mistletoe|1	Artist|Justin Bieber|1	Album|Under The Mistletoe|1	Genre||1	Filename||1	add	music_english.bin
+Title|Heartbeat Song|1	Artist|Kelly Clarkson|1	Album|Heartbeat Song|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Just Wanna Run|1	Artist|The Downtown Fiction|1	Album|Best I Never Had|1	Genre||1	Filename||1	add	music_english.bin
+Title|Demons|1	Artist|Imagine Dragons|1	Album|Demons|1	Genre||1	Filename||1	add	music_english.bin
+Title|Stay Here Forever|1	Artist|Jewel|1	Album|Sweet And Wild|1	Genre||1	Filename||1	add	music_english.bin
+Title|Beautiful Dirty Rich|1	Artist|Lady GaGa|1	Album|The Fame|1	Genre||1	Filename||1	add	music_english.bin
+Title|Drag Me Down|1	Artist|One Direction|1	Album|Drag Me Down|1	Genre||1	Filename||1	add	music_english.bin
+Title|Let Her Go|1	Artist|Passenger|1	Album|All The Little Lights|1	Genre||1	Filename||1	add	music_english.bin
+Title|Just Dance|1	Artist|Lady GaGa|1	Album|The Monster Ball Tour|1	Genre||1	Filename||1	add	music_english.bin
+Title|Rock n Roll|1	Artist|Avril Lavigne|1	Album|Avril Lavigne|1	Genre||1	Filename||1	add	music_english.bin
+Title|Wild Wild Web|1	Artist|John The Whistler|1	Album|I'm Crazy|1	Genre||1	Filename||1	add	music_english.bin
+Title|You Raise Me Up|1	Artist|Westlife|1	Album|You Raise Me Up|1	Genre||1	Filename||1	add	music_english.bin
+Title|She|1	Artist|Groove Coverage|1	Album|She|1	Genre||1	Filename||1	add	music_english.bin
+Title|Unity|1	Artist|TheFatRat|1	Album|Unity|1	Genre||1	Filename||1	add	music_english.bin
+Title|Right Here Waiting|1	Artist|Richard Marx|1	Album|Now And Forever The Ballads|1	Genre||1	Filename||1	add	music_english.bin
+Title|Some Type Of Love|1	Artist|Charlie Puth|1	Album|Some Type of Love|1	Genre||1	Filename||1	add	music_english.bin
+Title|Better Man|1	Artist|Robbie Williams|1	Album|Sing When You're Winning|1	Genre||1	Filename||1	add	music_english.bin
+Title|Energy Drink|1	Artist|Virtual Riot|1	Album|Energy Drink|1	Genre||1	Filename||1	add	music_english.bin
+Title|A Sky Full Of Stars|1	Artist|Coldplay|1	Album|Ghost Stories|1	Genre||1	Filename||1	add	music_english.bin
+Title|Titanium|1	Artist|David Guetta|1	Album|Absolute Music 69|1	Genre||1	Filename||1	add	music_english.bin
+Title|Remember the Name|1	Artist|Fort Minor|1	Album|The Rising Tied|1	Genre||1	Filename||1	add	music_english.bin
+Title|Whataya Want From Me|1	Artist|Adam Lambert|1	Album|Glam Nation Live|1	Genre||1	Filename||1	add	music_english.bin
+Title|Glad You Came|1	Artist|The Wanted|1	Album|Glad You Came|1	Genre||1	Filename||1	add	music_english.bin
+Title|Breathless|1	Artist|Shayne Ward|1	Album|Breathless|1	Genre||1	Filename||1	add	music_english.bin
+Title|Fiction|1	Artist|BEAST|1	Album|Fiction and Fact|1	Genre||1	Filename||1	add	music_english.bin
+Title|Tik Tok|1	Artist|Avril Lavigne|1	Album|Tik Tok|1	Genre||1	Filename||1	add	music_english.bin
+Title|Oh Ma Baby|1	Artist|BIGBANG|1	Album|Always|1	Genre||1	Filename||1	add	music_english.bin
+Title|Mirrors|1	Artist|Justin Timberlake|1	Album|Mirrors|1	Genre||1	Filename||1	add	music_english.bin
+Title|Almost Lover|1	Artist|A Fine Frenzy|1	Album|Live Session|1	Genre||1	Filename||1	add	music_english.bin
+Title|Can't Get You Out Of My Head|1	Artist|Kylie Minogue|1	Album|Hits of the 00s|1	Genre||1	Filename||1	add	music_english.bin
+Title|Need You Now|1	Artist|Lady Antebellum|1	Album|Golden|1	Genre||1	Filename||1	add	music_english.bin
+Title|What Are You Waiting For?|1	Artist|Nickelback|1	Album|No Fixed Address|1	Genre||1	Filename||1	add	music_english.bin
+Title|Take A Bow|1	Artist|Rihanna|1	Album|Take A Bow|1	Genre||1	Filename||1	add	music_english.bin
+Title|Straight Through My Heart|1	Artist|Backstreet Boys|1	Album|This Is Us|1	Genre||1	Filename||1	add	music_english.bin
+Title|Walk Away|1	Artist|Dia Frampton|1	Album|Red|1	Genre||1	Filename||1	add	music_english.bin
+Title|Celebration|1	Artist|Madonna|1	Album|Celebration|1	Genre||1	Filename||1	add	music_english.bin
+Title|A Place Nearby|1	Artist|Lene Marlin|1	Album|Playing My Game|1	Genre||1	Filename||1	add	music_english.bin
+Title|Leave Out All The Rest|1	Artist|Linkin Park|1	Album|Minutes To Midnight|1	Genre||1	Filename||1	add	music_english.bin
+Title|Wolf Bite|1	Artist|Owl City|1	Album|Ultraviolet|1	Genre||1	Filename||1	add	music_english.bin
+Title|Creepin' Up On You|1	Artist|Darren Hayes|1	Album|Spin|1	Genre||1	Filename||1	add	music_english.bin
+Title|Love With You|1	Artist|TFBOYS|1	Album|Love With You|1	Genre||1	Filename||1	add	music_english.bin
+Title|Without You|1	Artist|Mariah Carey|1	Album|Without You Emotions|1	Genre||1	Filename||1	add	music_english.bin
+Title|Brave|1	Artist|Jennifer Lopez|1	Album|Brave|1	Genre||1	Filename||1	add	music_english.bin
+Title|When I Was Your Man|1	Artist|Bruno Mars|1	Album|Unorthodox Jukebox|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Love You|1	Artist|Stewart Mac|1	Album|I Love You|1	Genre||1	Filename||1	add	music_english.bin
+Title|Take My Hand|1	Artist|Simple Plan|1	Album|Simple Plan|1	Genre||1	Filename||1	add	music_english.bin
+Title|Yellow|1	Artist|Coldplay|1	Album|Trouble Norwegian Live|1	Genre||1	Filename||1	add	music_english.bin
+Title|Hero|1	Artist|Mariah Carey|1	Album|The Ballads|1	Genre||1	Filename||1	add	music_english.bin
+Title|Warriors|1	Artist|Imagine Dragons|1	Album|Warriors|1	Genre||1	Filename||1	add	music_english.bin
+Title|Tomorrow|1	Artist|Olly Murs|1	Album|Never Been Better|1	Genre||1	Filename||1	add	music_english.bin
+Title|Only Love|1	Artist|Trademark|1	Album|Only Love|1	Genre||1	Filename||1	add	music_english.bin
+Title|Rain Over Me|1	Artist|Pitbull|1	Album|Planet Pit|1	Genre||1	Filename||1	add	music_english.bin
+Title|Croatian Rhapsody|1	Artist|Maksim Mrvica|1	Album|Greatest Maksim|1	Genre||1	Filename||1	add	music_english.bin
+Title|We Are One|1	Artist|Kelly Sweet|1	Album|We Are One|1	Genre||1	Filename||1	add	music_english.bin
+Title|Hotel California|1	Artist|The Eagles|1	Album|Greatest Hits|1	Genre||1	Filename||1	add	music_english.bin
+Title|My Bloody Valentine|1	Artist|Tata Young|1	Album|Ready For Love|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Took a Pill In Ibiza|1	Artist|Mike Posner|1	Album|At Night, Alone.|1	Genre||1	Filename||1	add	music_english.bin
+Title|Long Shot|1	Artist|Kelly Clarkson|1	Album|All I Ever Wanted|1	Genre||1	Filename||1	add	music_english.bin
+Title|Let Her Go|1	Artist|Jason Chen|1	Album|Let Her Go|1	Genre||1	Filename||1	add	music_english.bin
+Title|Ghost Town|1	Artist|Adam Lambert|1	Album|Ghost Town|1	Genre||1	Filename||1	add	music_english.bin
+Title|Red|1	Artist|Taylor Swift|1	Album|Red|1	Genre||1	Filename||1	add	music_english.bin
+Title|Wish You Were Here|1	Artist|Avril Lavigne|1	Album|Wish You Were Here|1	Genre||1	Filename||1	add	music_english.bin
+Title|We Are Electric|1	Artist|Flying Steps|1	Album|We Are Electric|1	Genre||1	Filename||1	add	music_english.bin
+Title|That Place In Your Heart|1	Artist|Ronan Hardiman|1	Album|Anthem|1	Genre||1	Filename||1	add	music_english.bin
+Title|You're Beautiful|1	Artist|James Blunt|1	Album|Back To Bedlam|1	Genre||1	Filename||1	add	music_english.bin
+Title|Roc|1	Artist|Nadiya|1	Album|Nadiya|1	Genre||1	Filename||1	add	music_english.bin
+Title|Could This Be Love|1	Artist|Victoria Acosta|1	Album|Could This Be Love|1	Genre||1	Filename||1	add	music_english.bin
+Title|Stay With Me|1	Artist|Sam Smith|1	Album|Stay With Me|1	Genre||1	Filename||1	add	music_english.bin
+Title|Love Runs Out|1	Artist|OneRepublic|1	Album|Love Runs Out|1	Genre||1	Filename||1	add	music_english.bin
+Title|Everybody|1	Artist|Backstreet Boys|1	Album|The Essential Backstreet Boys|1	Genre||1	Filename||1	add	music_english.bin
+Title|Love Story|1	Artist|Taylor Swift|1	Album|Fearless|1	Genre||1	Filename||1	add	music_english.bin
+Title|The Promise|1	Artist|Secret Garden|1	Album|Once In A Red Moon|1	Genre||1	Filename||1	add	music_english.bin
+Title|Valder Fields|1	Artist|Tamas Wells|1	Album|Signs I Can't Read Live at sonorium|1	Genre||1	Filename||1	add	music_english.bin
+Title|Starships|1	Artist|Nicki Minaj|1	Album|Starships|1	Genre||1	Filename||1	add	music_english.bin
+Title|Don't Push Me|1	Artist|Sweetbox|1	Album|Jade|1	Genre||1	Filename||1	add	music_english.bin
+Title|La Song|1	Artist|Rain|1	Album|Rain Effect|1	Genre||1	Filename||1	add	music_english.bin
+Title|Traveling Light|1	Artist|Joel Hanson|1	Album|Traveling Light|1	Genre||1	Filename||1	add	music_english.bin
+Title|Iridescent|1	Artist|Linkin Park|1	Album|Iridescent|1	Genre||1	Filename||1	add	music_english.bin
+Title|Dota|1	Artist|Basshunter|1	Album|Now You're Gone|1	Genre||1	Filename||1	add	music_english.bin
+Title|I'll Be Home|1	Artist|Meghan Trainor|1	Album|Title|1	Genre||1	Filename||1	add	music_english.bin
+Title|Toxic|1	Artist|Britney Spears|1	Album|Life Is a Beach: Live in Miami|1	Genre||1	Filename||1	add	music_english.bin
+Title|Always Come Back To Your Love|1	Artist|Samantha Mumba|1	Album|The Collection|1	Genre||1	Filename||1	add	music_english.bin
+Title|Summer|1	Artist|Calvin Harris|1	Album|SUMMER|1	Genre||1	Filename||1	add	music_english.bin
+Title|Give Me Everything|1	Artist|Pitbull|1	Album|Give Me Everything|1	Genre||1	Filename||1	add	music_english.bin
+Title|Call You Tonight|1	Artist|Whitney Houston|1	Album|I Look To You|1	Genre||1	Filename||1	add	music_english.bin
+Title|Dangerous|1	Artist|Michael Jackson|1	Album|New Years Eve in Brunei|1	Genre||1	Filename||1	add	music_english.bin
+Title|Same Old Love|1	Artist|Selena Gomez|1	Album|Same Old Love|1	Genre||1	Filename||1	add	music_english.bin
+Title|Miracle|1	Artist|Cascada|1	Album|Everytime We Touch|1	Genre||1	Filename||1	add	music_english.bin
+Title|How Do You Do?|1	Artist|Befour|1	Album|How Do You Do|1	Genre||1	Filename||1	add	music_english.bin
+Title|Moonlight Shadow|1	Artist|Groove Coverage|1	Album|Covergirl|1	Genre||1	Filename||1	add	music_english.bin
+Title|Brave Shine|1	Artist|Aimer|1	Album|Brave Shine|1	Genre||1	Filename||1	add	music_english.bin
+Title|only my railgun|1	Artist|fripSide|1	Album|Infinite Synthesis|1	Genre||1	Filename||1	add	music_english.bin
+Title|Casablanca|1	Artist|Bertie Higgins|1	Album|Casablanca|1	Genre||1	Filename||1	add	music_english.bin
+Title|New Thang|1	Artist|Redfoo|1	Album|New Thang|1	Genre||1	Filename||1	add	music_english.bin
+Title|My Dearest|1	Artist|supercell|1	Album|My Dearest|1	Genre||1	Filename||1	add	music_english.bin
+Title|You Can Rely On Me|1	Artist|Jason Mraz|1	Album|Yes!|1	Genre||1	Filename||1	add	music_english.bin
+Title|Only One|1	Artist|BoA|1	Album|Only One|1	Genre||1	Filename||1	add	music_english.bin
+Title|Soledad|1	Artist|Westlife|1	Album|Coast to Coast|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Will Survive|1	Artist|Gloria Gaynor|1	Album|The Best Of Gloria Gaynor|1	Genre||1	Filename||1	add	music_english.bin
+Title|The First Snowflakes|1	Artist|Bandari|1	Album|Rhine River|1	Genre||1	Filename||1	add	music_english.bin
+Title|Chandelier|1	Artist|Sia|1	Album|Chandelier|1	Genre||1	Filename||1	add	music_english.bin
+Title|Love Mail|1	Artist|Nico|1	Album|Love Mail|1	Genre||1	Filename||1	add	music_english.bin
+Title|My Happy Ending|1	Artist|Avril Lavigne|1	Album|Under My Skin|1	Genre||1	Filename||1	add	music_english.bin
+Title|Heartbreaker|1	Artist|Justin Bieber|1	Album|Journals|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Love You|1	Artist|Avril Lavigne|1	Album|Goodbye Lullaby|1	Genre||1	Filename||1	add	music_english.bin
+Title|Anyone Of Us|1	Artist|Gareth Gates|1	Album|The Very Best of Gareth Gates|1	Genre||1	Filename||1	add	music_english.bin
+Title|Bangarang|1	Artist|Skrillex|1	Album|Bangarang|1	Genre||1	Filename||1	add	music_english.bin
+Title|Celebrate|1	Artist|Pitbull|1	Album|Globalization|1	Genre||1	Filename||1	add	music_english.bin
+Title|Fight Song|1	Artist|Rachel Platten|1	Album|Wildfire|1	Genre||1	Filename||1	add	music_english.bin
+Title|Back to December|1	Artist|Taylor Swift|1	Album|Speak Now|1	Genre||1	Filename||1	add	music_english.bin
+Title|Sparks Fly|1	Artist|Taylor Swift|1	Album|Speak Now|1	Genre||1	Filename||1	add	music_english.bin
+Title|Take Me To Church|1	Artist|Hozier|1	Album|Take Me To Church|1	Genre||1	Filename||1	add	music_english.bin
+Title|Breath And Life|1	Artist|Audio Machine|1	Album|Chronicles|1	Genre||1	Filename||1	add	music_english.bin
+Title|Curiosity|1	Artist|Carly Rae Jepsen|1	Album|Kiss|1	Genre||1	Filename||1	add	music_english.bin
+Title|Beautiful Tonight|1	Artist|Westlife|1	Album|Gravity|1	Genre||1	Filename||1	add	music_english.bin
+Title|Floorfiller|1	Artist|Abba Teens|1	Album|Floorfiller|1	Genre||1	Filename||1	add	music_english.bin
+Title|Night Changes|1	Artist|One Direction|1	Album|Four|1	Genre||1	Filename||1	add	music_english.bin
+Title|Walk Me Home|1	Artist|Mandy Moore|1	Album|I Wanna Be With You|1	Genre||1	Filename||1	add	music_english.bin
+Title|Give Your Heart a Break|1	Artist|Demi Lovato|1	Album|Unbroken|1	Genre||1	Filename||1	add	music_english.bin
+Title|See You Again|1	Artist|Jasmine Thompson|1	Album|See You Again|1	Genre||1	Filename||1	add	music_english.bin
+Title|On My Mind|1	Artist|Ellie Goulding|1	Album|On My Mind|1	Genre||1	Filename||1	add	music_english.bin
+Title|Monster|1	Artist|Lady GaGa|1	Album|The Fame Monster|1	Genre||1	Filename||1	add	music_english.bin
+Title|Blue Wonderful|1	Artist|Elton John|1	Album|Wonderful Crazy Night|1	Genre||1	Filename||1	add	music_english.bin
+Title|Best Song Ever|1	Artist|One Direction|1	Album|Best Song Ever|1	Genre||1	Filename||1	add	music_english.bin
+Title|Problem|1	Artist|Ariana Grande|1	Album|Problem|1	Genre||1	Filename||1	add	music_english.bin
+Title|Tomorrow|1	Artist|Avril Lavigne|1	Album|Let Go|1	Genre||1	Filename||1	add	music_english.bin
+Title|Troublemaker|1	Artist|Akon|1	Album|Freedom|1	Genre||1	Filename||1	add	music_english.bin
+Title|When I'm With You|1	Artist|Westlife|1	Album|Back Home|1	Genre||1	Filename||1	add	music_english.bin
+Title|Infinity|1	Artist|Mariah Carey|1	Album|Infinity|1	Genre||1	Filename||1	add	music_english.bin
+Title|On My Own|1	Artist|Ashes Remain|1	Album|What I've Become|1	Genre||1	Filename||1	add	music_english.bin
+Title|That's Why|1	Artist|Michael Learns To Rock|1	Album|The Live Musical Adventures Of Michael Learns To Rock|1	Genre||1	Filename||1	add	music_english.bin
+Title|All of Me|1	Artist|John Legend|1	Album|Love in the Future|1	Genre||1	Filename||1	add	music_english.bin
+Title|When You Say Nothing At All|1	Artist|Ronan Keating|1	Album|Ronan|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Will Always Love You|1	Artist|Whitney Houston|1	Album|Whitney: The Greatest Hits|1	Genre||1	Filename||1	add	music_english.bin
+Title|Boys Boys Boys|1	Artist|Lady GaGa|1	Album|The Fame|1	Genre||1	Filename||1	add	music_english.bin
+Title|Bad Boy|1	Artist|Cascada|1	Album|Everytime We Touch|1	Genre||1	Filename||1	add	music_english.bin
+Title|Last of the Wilds|1	Artist|Nightwish|1	Album|Dark Passion Play|1	Genre||1	Filename||1	add	music_english.bin
+Title|Just One Last Dance|1	Artist|Sarah Connor|1	Album|Key To My Soul|1	Genre||1	Filename||1	add	music_english.bin
+Title|Best Friend|1	Artist|Jason Chen|1	Album|Gravity|1	Genre||1	Filename||1	add	music_english.bin
+Title|Fairy Tale|1	Artist|Michael Learns To Rock|1	Album|Everlasting Love Songs|1	Genre||1	Filename||1	add	music_english.bin
+Title|Bye Bye Love|1	Artist|Backstreet Boys|1	Album|This Is Us|1	Genre||1	Filename||1	add	music_english.bin
+Title|Treat You Better|1	Artist|Shawn Mendes|1	Album|Treat You Better|1	Genre||1	Filename||1	add	music_english.bin
+Title|Shape Of My Heart|1	Artist|Sting|1	Album|Live In Berlin|1	Genre||1	Filename||1	add	music_english.bin
+Title|U Make Me Wanna|1	Artist|Blue|1	Album|The Platinum Collection|1	Genre||1	Filename||1	add	music_english.bin
+Title|CAN'T STOP THE FEELING|1	Artist|Justin Timberlake|1	Album|CAN'T STOP THE FEELING!|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Know You Want Me|1	Artist|Pitbull|1	Album|Pitbull Starring In Rebelution|1	Genre||1	Filename||1	add	music_english.bin
+Title|I Wanna Go|1	Artist|DJ Monaco|1	Album|Welcome to St. Tropez|1	Genre||1	Filename||1	add	music_english.bin
+Title|Here I Am|1	Artist|Bryan Adams|1	Album|Bare Bones|1	Genre||1	Filename||1	add	music_english.bin
+Title|All Rise|1	Artist|Blue|1	Album|The Platinum Collection|1	Genre||1	Filename||1	add	music_english.bin
+Title|Story of My Life|1	Artist|One Direction|1	Album|Midnight Memories|1	Genre||1	Filename||1	add	music_english.bin
+Title|Somebody To Love|1	Artist|Justin Bieber|1	Album|Never Say Never|1	Genre||1	Filename||1	add	music_english.bin
+Title|Shy|1	Artist|Jai Waetford|1	Album|Shy|1	Genre||1	Filename||1	add	music_english.bin
+Title|Out Of My Hands|1	Artist|Jason Mraz|1	Album|Yes!|1	Genre||1	Filename||1	add	music_english.bin
+Title|Superman|1	Artist|Various|1	Album|Hot Shot Code|1	Genre||1	Filename||1	add	music_english.bin

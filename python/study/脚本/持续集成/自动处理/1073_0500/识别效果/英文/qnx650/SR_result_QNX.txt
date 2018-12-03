@@ -1,0 +1,1276 @@
+#!MLF!#
+"/usb1/PcmRes/isr/English/Album/00000001_code.pcm"
+play album all the moon star burns 。
+.
+"/usb1/PcmRes/isr/English/Album/00000002_code.pcm"
+play album back on top 。
+.
+"/usb1/PcmRes/isr/English/Album/00000003_code.pcm"
+play album beautiful offerings 。
+.
+"/usb1/PcmRes/isr/English/Album/00000004_code.pcm"
+play album burning bridges 。
+.
+"/usb1/PcmRes/isr/English/Album/00000005_code.pcm"
+play album bottom feeder 。
+.
+"/usb1/PcmRes/isr/English/Album/00000006_code.pcm"
+play album emotion 。
+.
+"/usb1/PcmRes/isr/English/Album/00000007_code.pcm"
+play album had for the stars 。
+.
+"/usb1/PcmRes/isr/English/Album/00000008_code.pcm"
+play album i am 。
+.
+"/usb1/PcmRes/isr/English/Album/00000009_code.pcm"
+play album i cry when i laugh 。
+.
+"/usb1/PcmRes/isr/English/Album/00000010_code.pcm"
+play album last dance 。
+.
+"/usb1/PcmRes/isr/English/Album/00000011_code.pcm"
+play album light of the dark 。
+.
+"/usb1/PcmRes/isr/English/Album/00000012_code.pcm"
+play album mobile north district 。
+.
+"/usb1/PcmRes/isr/English/Album/00000013_code.pcm"
+play album panic stations 。
+.
+"/usb1/PcmRes/isr/English/Album/00000014_code.pcm"
+play album paper gods 。
+.
+"/usb1/PcmRes/isr/English/Album/00000015_code.pcm"
+play album right here right now 。
+.
+"/usb1/PcmRes/isr/English/Album/00000016_code.pcm"
+play album the original hi 。
+.
+"/usb1/PcmRes/isr/English/Album/00000017_code.pcm"
+play album threat to survival 。
+.
+"/usb1/PcmRes/isr/English/Album/00000018_code.pcm"
+play album turning pages 。
+.
+"/usb1/PcmRes/isr/English/Album/00000019_code.pcm"
+play album with a generation 。
+.
+"/usb1/PcmRes/isr/English/Album/00000020_code.pcm"
+play album all over again 。
+.
+"/usb1/PcmRes/isr/English/Album/00000021_code.pcm"
+play album all the moon star burns 。
+.
+"/usb1/PcmRes/isr/English/Album/00000022_code.pcm"
+play album back on top 。
+.
+"/usb1/PcmRes/isr/English/Album/00000023_code.pcm"
+play album beautiful offerings 。
+.
+"/usb1/PcmRes/isr/English/Album/00000024_code.pcm"
+play album burning bridges 。
+.
+"/usb1/PcmRes/isr/English/Album/00000025_code.pcm"
+play album bottom feeder 。
+.
+"/usb1/PcmRes/isr/English/Album/00000026_code.pcm"
+play album emotion 。
+.
+"/usb1/PcmRes/isr/English/Album/00000027_code.pcm"
+play album had for the stars 。
+.
+"/usb1/PcmRes/isr/English/Album/00000028_code.pcm"
+play album i am 。
+.
+"/usb1/PcmRes/isr/English/Album/00000029_code.pcm"
+play album i cry when i laugh 。
+.
+"/usb1/PcmRes/isr/English/Album/00000030_code.pcm"
+play album last dance 。
+.
+"/usb1/PcmRes/isr/English/Album/00000031_code.pcm"
+play album light of the dark 。
+.
+"/usb1/PcmRes/isr/English/Album/00000032_code.pcm"
+play album mobile north district 。
+.
+"/usb1/PcmRes/isr/English/Album/00000033_code.pcm"
+play album panic stations 。
+.
+"/usb1/PcmRes/isr/English/Album/00000034_code.pcm"
+play album paper gods 。
+.
+"/usb1/PcmRes/isr/English/Album/00000035_code.pcm"
+play album right here right now 。
+.
+"/usb1/PcmRes/isr/English/Album/00000036_code.pcm"
+play album the original hi 。
+.
+"/usb1/PcmRes/isr/English/Album/00000037_code.pcm"
+play album threat to survival 。
+.
+"/usb1/PcmRes/isr/English/Album/00000038_code.pcm"
+play album turning pages 。
+.
+"/usb1/PcmRes/isr/English/Album/00000039_code.pcm"
+play album with a generation 。
+.
+"/usb1/PcmRes/isr/English/Album/00000040_code.pcm"
+play album all over again 。
+.
+"/usb1/PcmRes/isr/English/Album/00000041_code.pcm"
+i want to play album all the moon star burns 。
+.
+"/usb1/PcmRes/isr/English/Album/00000042_code.pcm"
+i want to play album back on top 。
+.
+"/usb1/PcmRes/isr/English/Album/00000043_code.pcm"
+i want to play album beautiful offerings 。
+.
+"/usb1/PcmRes/isr/English/Album/00000044_code.pcm"
+i want to play album burning bridges 。
+.
+"/usb1/PcmRes/isr/English/Album/00000045_code.pcm"
+i want to play album bottom feeder 。
+.
+"/usb1/PcmRes/isr/English/Album/00000046_code.pcm"
+i want to play album emotion 。
+.
+"/usb1/PcmRes/isr/English/Album/00000047_code.pcm"
+i want to play album had for the stars 。
+.
+"/usb1/PcmRes/isr/English/Album/00000048_code.pcm"
+i want to play album i am 。
+.
+"/usb1/PcmRes/isr/English/Album/00000049_code.pcm"
+i want to play album i cry when i laugh 。
+.
+"/usb1/PcmRes/isr/English/Album/00000050_code.pcm"
+i want to play album last dance 。
+.
+"/usb1/PcmRes/isr/English/Album/00000051_code.pcm"
+i want to play album like of the dark 。
+.
+"/usb1/PcmRes/isr/English/Album/00000052_code.pcm"
+i want to play album mobile orchestra 。
+.
+"/usb1/PcmRes/isr/English/Album/00000053_code.pcm"
+i want to play album panic stations 。
+.
+"/usb1/PcmRes/isr/English/Album/00000054_code.pcm"
+i want to play album paper gods 。
+.
+"/usb1/PcmRes/isr/English/Album/00000055_code.pcm"
+i want to play album right here right now 。
+.
+"/usb1/PcmRes/isr/English/Album/00000056_code.pcm"
+i want to play album the original hi 。
+.
+"/usb1/PcmRes/isr/English/Album/00000057_code.pcm"
+i want to play album threat to survival 。
+.
+"/usb1/PcmRes/isr/English/Album/00000058_code.pcm"
+i want to play album turning pages 。
+.
+"/usb1/PcmRes/isr/English/Album/00000059_code.pcm"
+i want to play album with a generation 。
+.
+"/usb1/PcmRes/isr/English/Album/00000060_code.pcm"
+i want to play album all over again 。
+.
+"/usb1/PcmRes/isr/English/Album/00000061_code.pcm"
+i want to play album all the moon star burns 。
+.
+"/usb1/PcmRes/isr/English/Album/00000062_code.pcm"
+i want to play album back on top 。
+.
+"/usb1/PcmRes/isr/English/Album/00000063_code.pcm"
+i want to play album beautiful offerings 。
+.
+"/usb1/PcmRes/isr/English/Album/00000064_code.pcm"
+i want to play album burning bridges 。
+.
+"/usb1/PcmRes/isr/English/Album/00000065_code.pcm"
+i want to play album bottom feeder 。
+.
+"/usb1/PcmRes/isr/English/Album/00000066_code.pcm"
+i want to play album emotion 。
+.
+"/usb1/PcmRes/isr/English/Album/00000067_code.pcm"
+i want to play album had for the stars 。
+.
+"/usb1/PcmRes/isr/English/Album/00000068_code.pcm"
+i want to play album i am 。
+.
+"/usb1/PcmRes/isr/English/Album/00000069_code.pcm"
+i want to play album i cry when i laugh 。
+.
+"/usb1/PcmRes/isr/English/Album/00000070_code.pcm"
+i want to play album last dance 。
+.
+"/usb1/PcmRes/isr/English/Album/00000071_code.pcm"
+i want to play album like of the dark 。
+.
+"/usb1/PcmRes/isr/English/Album/00000072_code.pcm"
+i want to play album mobile orchestra 。
+.
+"/usb1/PcmRes/isr/English/Album/00000073_code.pcm"
+i want to play album panic stations 。
+.
+"/usb1/PcmRes/isr/English/Album/00000074_code.pcm"
+i want to play album paper gods 。
+.
+"/usb1/PcmRes/isr/English/Album/00000075_code.pcm"
+i want to play album right here right now 。
+.
+"/usb1/PcmRes/isr/English/Album/00000076_code.pcm"
+i want to play album the original hi 。
+.
+"/usb1/PcmRes/isr/English/Album/00000077_code.pcm"
+i want to play album threat to survival 。
+.
+"/usb1/PcmRes/isr/English/Album/00000078_code.pcm"
+i want to play album turning pages 。
+.
+"/usb1/PcmRes/isr/English/Album/00000079_code.pcm"
+i want to play album with a generation 。
+.
+"/usb1/PcmRes/isr/English/Album/00000080_code.pcm"
+i want to play album all over again 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000001_code.pcm"
+answer the telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000002_code.pcm"
+answer telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000003_code.pcm"
+answered the phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000004_code.pcm"
+answer phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000005_code.pcm"
+take up the telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000006_code.pcm"
+take a telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000007_code.pcm"
+take up the phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000008_code.pcm"
+take a phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000009_code.pcm"
+if the telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000010_code.pcm"
+f telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000011_code.pcm"
+if the phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000012_code.pcm"
+a phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000013_code.pcm"
+answer 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000014_code.pcm"
+take up 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000015_code.pcm"
+lift 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000016_code.pcm"
+i want answered the telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000017_code.pcm"
+i want answered telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000018_code.pcm"
+i want answered the phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000019_code.pcm"
+i want answered phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000020_code.pcm"
+i want a cup the telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000021_code.pcm"
+i want a cup telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000022_code.pcm"
+i want a cup the phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000023_code.pcm"
+i want take a phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000024_code.pcm"
+i want left the telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000025_code.pcm"
+i want to listen telephone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000026_code.pcm"
+i want left the phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000027_code.pcm"
+i want to listen phone 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000028_code.pcm"
+i want to answer 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000029_code.pcm"
+i want a cup 。
+.
+"/usb1/PcmRes/isr/English/AnswerCall/00000030_code.pcm"
+i want left 。
+.
+"/usb1/PcmRes/isr/English/App/00000001_code.pcm"
+launch clash of plans 。
+.
+"/usb1/PcmRes/isr/English/App/00000002_code.pcm"
+launch class royal 。
+.
+"/usb1/PcmRes/isr/English/App/00000003_code.pcm"
+longshan store 。
+.
+"/usb1/PcmRes/isr/English/App/00000004_code.pcm"
+open clash of plans 。
+.
+"/usb1/PcmRes/isr/English/App/00000005_code.pcm"
+open classroom l 。
+.
+"/usb1/PcmRes/isr/English/App/00000006_code.pcm"
+open at store 。
+.
+"/usb1/PcmRes/isr/English/App/00000007_code.pcm"
+start class of plans 。
+.
+"/usb1/PcmRes/isr/English/App/00000008_code.pcm"
+start plants royal 。
+.
+"/usb1/PcmRes/isr/English/App/00000009_code.pcm"
+start at store 。
+.
+"/usb1/PcmRes/isr/English/App/00000010_code.pcm"
+flash and plants 。
+.
+"/usb1/PcmRes/isr/English/App/00000011_code.pcm"
+flash real 。
+.
+"/usb1/PcmRes/isr/English/App/00000012_code.pcm"
+store 。
+.
+"/usb1/PcmRes/isr/English/App/00000013_code.pcm"
+i want lunch clash of plans 。
+.
+"/usb1/PcmRes/isr/English/App/00000014_code.pcm"
+i want lunch clash royal 。
+.
+"/usb1/PcmRes/isr/English/App/00000015_code.pcm"
+i want lunch at store 。
+.
+"/usb1/PcmRes/isr/English/App/00000016_code.pcm"
+i want to open clash of plans 。
+.
+"/usb1/PcmRes/isr/English/App/00000017_code.pcm"
+i want to open classroom l 。
+.
+"/usb1/PcmRes/isr/English/App/00000018_code.pcm"
+i want to open up store 。
+.
+"/usb1/PcmRes/isr/English/App/00000019_code.pcm"
+i want star class of plans 。
+.
+"/usb1/PcmRes/isr/English/App/00000020_code.pcm"
+i want star class real 。
+.
+"/usb1/PcmRes/isr/English/App/00000021_code.pcm"
+i want to start at store 。
+.
+"/usb1/PcmRes/isr/English/App/00000022_code.pcm"
+i want a clash of plans 。
+.
+"/usb1/PcmRes/isr/English/App/00000023_code.pcm"
+i want clutch real 。
+.
+"/usb1/PcmRes/isr/English/App/00000024_code.pcm"
+i want at store 。
+.
+"/usb1/PcmRes/isr/English/Call/00000001_code.pcm"
+zero
+.
+"/usb1/PcmRes/isr/English/Call/00000002_code.pcm"
+..
+.
+"/usb1/PcmRes/isr/English/Call/00000003_code.pcm"
+..
+.
+"/usb1/PcmRes/isr/English/Call/00000004_code.pcm"
+three
+.
+"/usb1/PcmRes/isr/English/Call/00000005_code.pcm"
+four
+.
+"/usb1/PcmRes/isr/English/Call/00000006_code.pcm"
+five
+.
+"/usb1/PcmRes/isr/English/Call/00000007_code.pcm"
+six
+.
+"/usb1/PcmRes/isr/English/Call/00000008_code.pcm"
+seven
+.
+"/usb1/PcmRes/isr/English/Call/00000009_code.pcm"
+..
+.
+"/usb1/PcmRes/isr/English/Call/00000010_code.pcm"
+..
+.
+"/usb1/PcmRes/isr/English/Call/00000011_code.pcm"
+one one zero
+.
+"/usb1/PcmRes/isr/English/Call/00000012_code.pcm"
+one one nine
+.
+"/usb1/PcmRes/isr/English/Call/00000013_code.pcm"
+one one four
+.
+"/usb1/PcmRes/isr/English/Call/00000014_code.pcm"
+one two zero
+.
+"/usb1/PcmRes/isr/English/Call/00000015_code.pcm"
+nine one one
+.
+"/usb1/PcmRes/isr/English/Call/00000016_code.pcm"
+one zero zero eight six 。
+.
+"/usb1/PcmRes/isr/English/Call/00000017_code.pcm"
+one zero zero one zero
+.
+"/usb1/PcmRes/isr/English/Call/00000018_code.pcm"
+one zero zero one one
+.
+"/usb1/PcmRes/isr/English/Call/00000019_code.pcm"
+one zero zero zero zero 。
+.
+"/usb1/PcmRes/isr/English/Call/00000020_code.pcm"
+one eight six two two two two two one two zero
+.
+"/usb1/PcmRes/isr/English/Call/00000021_code.pcm"
+one three seven two two two two two one two zero
+.
+"/usb1/PcmRes/isr/English/Call/00000022_code.pcm"
+one eight nine two two two two two one two zero
+.
+"/usb1/PcmRes/isr/English/Call/00000023_code.pcm"
+one three nine two two two two two one two zero
+.
+"/usb1/PcmRes/isr/English/Call/00000024_code.pcm"
+one eight six two two two two two one two one
+.
+"/usb1/PcmRes/isr/English/Call/00000025_code.pcm"
+one three seven two two two two two one two one
+.
+"/usb1/PcmRes/isr/English/Call/00000026_code.pcm"
+one eight nine two two two two two one two one
+.
+"/usb1/PcmRes/isr/English/Call/00000027_code.pcm"
+one three nine two two two two two one two one
+.
+"/usb1/PcmRes/isr/English/Call/00000028_code.pcm"
+one eight six two two two two two one two nine
+.
+"/usb1/PcmRes/isr/English/Call/00000029_code.pcm"
+one three seven two two two two two one two nine
+.
+"/usb1/PcmRes/isr/English/Call/00000030_code.pcm"
+one eight nine two two two two two one two nine
+.
+"/usb1/PcmRes/isr/English/Call/00000031_code.pcm"
+one three nine two two two two two one two nine
+.
+"/usb1/PcmRes/isr/English/Call/00000032_code.pcm"
+zero five five one two two two two one two one
+.
+"/usb1/PcmRes/isr/English/Call/00000033_code.pcm"
+zero five five one two two two two one two two
+.
+"/usb1/PcmRes/isr/English/Call/00000034_code.pcm"
+zero five five one two two two two one two three
+.
+"/usb1/PcmRes/isr/English/Call/00000035_code.pcm"
+zero five five one two two two two one two four
+.
+"/usb1/PcmRes/isr/English/Call/00000036_code.pcm"
+zero five five one two two two two one two five
+.
+"/usb1/PcmRes/isr/English/Call/00000037_code.pcm"
+zero five five one two two two two one two six
+.
+"/usb1/PcmRes/isr/English/Call/00000038_code.pcm"
+zero five five one two two two two one two seven
+.
+"/usb1/PcmRes/isr/English/Call/00000039_code.pcm"
+zero five five one two two two two one two eight
+.
+"/usb1/PcmRes/isr/English/Call/00000040_code.pcm"
+zero five five one two two two two one two nine
+.
+"/usb1/PcmRes/isr/English/Call/00000041_code.pcm"
+zero five five three two two two two one two one
+.
+"/usb1/PcmRes/isr/English/Call/00000042_code.pcm"
+zero five five three two two two two one two two
+.
+"/usb1/PcmRes/isr/English/Call/00000043_code.pcm"
+zero five five three two two two two one two three
+.
+"/usb1/PcmRes/isr/English/Call/00000044_code.pcm"
+zero five five three two two two two one two four
+.
+"/usb1/PcmRes/isr/English/Call/00000045_code.pcm"
+zero five five three two two two two one two five
+.
+"/usb1/PcmRes/isr/English/Call/00000046_code.pcm"
+zero five five three two two two two one two six
+.
+"/usb1/PcmRes/isr/English/Call/00000047_code.pcm"
+zero five five three two two two two one two seven
+.
+"/usb1/PcmRes/isr/English/Call/00000048_code.pcm"
+zero five five three two two two two one two eight
+.
+"/usb1/PcmRes/isr/English/Call/00000049_code.pcm"
+zero five five three two two two two one two nine
+.
+"/usb1/PcmRes/isr/English/Cancel/00000001_code.pcm"
+dental 。
+.
+"/usb1/PcmRes/isr/English/Cmdlist/00000001_code.pcm"
+mobile number 。
+.
+"/usb1/PcmRes/isr/English/Cmdlist/00000002_code.pcm"
+united number 。
+.
+"/usb1/PcmRes/isr/English/Cmdlist/00000003_code.pcm"
+telecom number 。
+.
+"/usb1/PcmRes/isr/English/Confirm/00000001_code.pcm"
+confirm 。
+.
+"/usb1/PcmRes/isr/English/Confirm/00000002_code.pcm"
+ok 。
+.
+"/usb1/PcmRes/isr/English/Confirm/00000003_code.pcm"
+yes 。
+.
+"/usb1/PcmRes/isr/English/Confirm/00000004_code.pcm"
+no 。
+.
+"/usb1/PcmRes/isr/English/Confirm/00000005_code.pcm"
+exit 。
+.
+"/usb1/PcmRes/isr/English/Confirm/00000006_code.pcm"
+close 。
+.
+"/usb1/PcmRes/isr/English/Confirm/00000007_code.pcm"
+refuse 。
+.
+"/usb1/PcmRes/isr/English/Contacts/00000001_code.pcm"
+confirm 。
+.
+"/usb1/PcmRes/isr/English/Other/00000001_code.pcm"
+eighteen degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000002_code.pcm"
+eighteen point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000003_code.pcm"
+nineteen degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000004_code.pcm"
+nineteen point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000005_code.pcm"
+twenty degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000006_code.pcm"
+twenty point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000007_code.pcm"
+twenty one degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000008_code.pcm"
+twenty one point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000009_code.pcm"
+twenty two degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000010_code.pcm"
+twenty two point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000011_code.pcm"
+twenty three degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000012_code.pcm"
+twenty three point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000013_code.pcm"
+twenty four degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000014_code.pcm"
+twenty four point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000015_code.pcm"
+twenty five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000016_code.pcm"
+twenty five point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000017_code.pcm"
+twenty six degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000018_code.pcm"
+twenty six point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000019_code.pcm"
+twenty seven degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000020_code.pcm"
+twenty seven point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000021_code.pcm"
+twenty eight degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000022_code.pcm"
+twenty eight point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000023_code.pcm"
+twenty nine degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000024_code.pcm"
+twenty nine point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000025_code.pcm"
+thirty degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000026_code.pcm"
+thirty point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000027_code.pcm"
+thirty one degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000028_code.pcm"
+thirty one point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000029_code.pcm"
+thirty two degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000030_code.pcm"
+temperature eighteen degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000031_code.pcm"
+temperature eighteen point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000032_code.pcm"
+temperature nineteen degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000033_code.pcm"
+temperature and nineteen point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000034_code.pcm"
+temperature twenty degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000035_code.pcm"
+temperature twenty point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000036_code.pcm"
+temperature twenty one degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000037_code.pcm"
+temperature twenty one point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000038_code.pcm"
+temperature twenty two degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000039_code.pcm"
+temperature twenty two point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000040_code.pcm"
+temperature twenty three degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000041_code.pcm"
+temperature twenty three point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000042_code.pcm"
+temperature twenty four degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000043_code.pcm"
+temperature twenty four point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000044_code.pcm"
+temperature twenty five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000045_code.pcm"
+temperature twenty five point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000046_code.pcm"
+temperature twenty six degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000047_code.pcm"
+temperature twenty six point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000048_code.pcm"
+temperature twenty seven degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000049_code.pcm"
+temperature twenty seven point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000050_code.pcm"
+temperature twenty eight degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000051_code.pcm"
+temperature twenty eight point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000052_code.pcm"
+temperature twenty nine degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000053_code.pcm"
+temperature twenty nine point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000054_code.pcm"
+temperatures thirty degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000055_code.pcm"
+temperatures thirty point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000056_code.pcm"
+temperatures thirty one degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000057_code.pcm"
+temperatures thirty one point five degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000058_code.pcm"
+temperatures thirty two degrees 。
+.
+"/usb1/PcmRes/isr/English/Other/00000059_code.pcm"
+back 。
+.
+"/usb1/PcmRes/isr/English/Other/00000060_code.pcm"
+go back 。
+.
+"/usb1/PcmRes/isr/English/Other/00000061_code.pcm"
+help 。
+.
+"/usb1/PcmRes/isr/English/Other/00000062_code.pcm"
+more hint 。
+.
+"/usb1/PcmRes/isr/English/Other/00000063_code.pcm"
+more hints 。
+.
+"/usb1/PcmRes/isr/English/Other/00000064_code.pcm"
+yes 。
+.
+"/usb1/PcmRes/isr/English/Other/00000065_code.pcm"
+number one 。
+.
+"/usb1/PcmRes/isr/English/Other/00000066_code.pcm"
+..
+.
+"/usb1/PcmRes/isr/English/Other/00000067_code.pcm"
+nine one
+.
+"/usb1/PcmRes/isr/English/Other/00000068_code.pcm"
+number two 。
+.
+"/usb1/PcmRes/isr/English/Other/00000069_code.pcm"
+..
+.
+"/usb1/PcmRes/isr/English/Other/00000070_code.pcm"
+..
+.
+"/usb1/PcmRes/isr/English/Other/00000071_code.pcm"
+number three 。
+.
+"/usb1/PcmRes/isr/English/Other/00000072_code.pcm"
+three
+.
+"/usb1/PcmRes/isr/English/Other/00000073_code.pcm"
+nine three
+.
+"/usb1/PcmRes/isr/English/Other/00000074_code.pcm"
+number four 。
+.
+"/usb1/PcmRes/isr/English/Other/00000075_code.pcm"
+four
+.
+"/usb1/PcmRes/isr/English/Other/00000076_code.pcm"
+nine four
+.
+"/usb1/PcmRes/isr/English/Other/00000077_code.pcm"
+number five 。
+.
+"/usb1/PcmRes/isr/English/Other/00000078_code.pcm"
+five
+.
+"/usb1/PcmRes/isr/English/Other/00000079_code.pcm"
+nine five
+.
+"/usb1/PcmRes/isr/English/Other/00000080_code.pcm"
+next page 。
+.
+"/usb1/PcmRes/isr/English/Other/00000081_code.pcm"
+next 。
+.
+"/usb1/PcmRes/isr/English/Other/00000082_code.pcm"
+previous page 。
+.
+"/usb1/PcmRes/isr/English/Other/00000083_code.pcm"
+previous 。
+.
+"/usb1/PcmRes/isr/English/Other/00000084_code.pcm"
+no 。
+.
+"/usb1/PcmRes/isr/English/Other/00000085_code.pcm"
+start over 。
+.
+"/usb1/PcmRes/isr/English/Other/00000086_code.pcm"
+sounds 。
+.
+"/usb1/PcmRes/isr/English/Other/00000087_code.pcm"
+cancel 。
+.
+"/usb1/PcmRes/isr/English/Other/00000088_code.pcm"
+destination 。
+.
+"/usb1/PcmRes/isr/English/Other/00000089_code.pcm"
+navigation 。
+.
+"/usb1/PcmRes/isr/English/Other/00000090_code.pcm"
+navigation menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000091_code.pcm"
+navi 。
+.
+"/usb1/PcmRes/isr/English/Other/00000092_code.pcm"
+navi menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000093_code.pcm"
+go to navigation 。
+.
+"/usb1/PcmRes/isr/English/Other/00000094_code.pcm"
+go to navi 。
+.
+"/usb1/PcmRes/isr/English/Other/00000095_code.pcm"
+phone 。
+.
+"/usb1/PcmRes/isr/English/Other/00000096_code.pcm"
+a phone menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000097_code.pcm"
+go to phone 。
+.
+"/usb1/PcmRes/isr/English/Other/00000098_code.pcm"
+audio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000099_code.pcm"
+music 。
+.
+"/usb1/PcmRes/isr/English/Other/00000100_code.pcm"
+radio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000101_code.pcm"
+audio menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000102_code.pcm"
+music menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000103_code.pcm"
+radio menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000104_code.pcm"
+go to audio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000105_code.pcm"
+go to music 。
+.
+"/usb1/PcmRes/isr/English/Other/00000106_code.pcm"
+go to radio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000107_code.pcm"
+climate 。
+.
+"/usb1/PcmRes/isr/English/Other/00000108_code.pcm"
+climate control 。
+.
+"/usb1/PcmRes/isr/English/Other/00000109_code.pcm"
+climate menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000110_code.pcm"
+climate control menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000111_code.pcm"
+go to climate 。
+.
+"/usb1/PcmRes/isr/English/Other/00000112_code.pcm"
+information 。
+.
+"/usb1/PcmRes/isr/English/Other/00000113_code.pcm"
+information menu 。
+.
+"/usb1/PcmRes/isr/English/Other/00000114_code.pcm"
+go to information 。
+.
+"/usb1/PcmRes/isr/English/Other/00000115_code.pcm"
+play artist 。
+.
+"/usb1/PcmRes/isr/English/Other/00000116_code.pcm"
+play an artist 。
+.
+"/usb1/PcmRes/isr/English/Other/00000117_code.pcm"
+play album 。
+.
+"/usb1/PcmRes/isr/English/Other/00000118_code.pcm"
+play an album 。
+.
+"/usb1/PcmRes/isr/English/Other/00000119_code.pcm"
+play playlist 。
+.
+"/usb1/PcmRes/isr/English/Other/00000120_code.pcm"
+play playlist 。
+.
+"/usb1/PcmRes/isr/English/Other/00000121_code.pcm"
+play song 。
+.
+"/usb1/PcmRes/isr/English/Other/00000122_code.pcm"
+play a song 。
+.
+"/usb1/PcmRes/isr/English/Other/00000123_code.pcm"
+usb 。
+.
+"/usb1/PcmRes/isr/English/Other/00000124_code.pcm"
+u s v 。
+.
+"/usb1/PcmRes/isr/English/Other/00000125_code.pcm"
+i park road 。
+.
+"/usb1/PcmRes/isr/English/Other/00000126_code.pcm"
+i park road 。
+.
+"/usb1/PcmRes/isr/English/Other/00000127_code.pcm"
+usb two 。
+.
+"/usb1/PcmRes/isr/English/Other/00000128_code.pcm"
+u s b two 。
+.
+"/usb1/PcmRes/isr/English/Other/00000129_code.pcm"
+i park two 。
+.
+"/usb1/PcmRes/isr/English/Other/00000130_code.pcm"
+i park two 。
+.
+"/usb1/PcmRes/isr/English/Other/00000131_code.pcm"
+bluetooth audio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000132_code.pcm"
+s k 。
+.
+"/usb1/PcmRes/isr/English/Other/00000133_code.pcm"
+auxiliary 。
+.
+"/usb1/PcmRes/isr/English/Other/00000134_code.pcm"
+oh 。
+.
+"/usb1/PcmRes/isr/English/Other/00000135_code.pcm"
+a u x 。
+.
+"/usb1/PcmRes/isr/English/Other/00000136_code.pcm"
+go home 。
+.
+"/usb1/PcmRes/isr/English/Other/00000137_code.pcm"
+dress 。
+.
+"/usb1/PcmRes/isr/English/Other/00000138_code.pcm"
+enter an address 。
+.
+"/usb1/PcmRes/isr/English/Other/00000139_code.pcm"
+any where 。
+.
+"/usb1/PcmRes/isr/English/Other/00000140_code.pcm"
+find a poi 。
+.
+"/usb1/PcmRes/isr/English/Other/00000141_code.pcm"
+find a p oh i 。
+.
+"/usb1/PcmRes/isr/English/Other/00000142_code.pcm"
+find nearby 。
+.
+"/usb1/PcmRes/isr/English/Other/00000143_code.pcm"
+find nearby poi 。
+.
+"/usb1/PcmRes/isr/English/Other/00000144_code.pcm"
+find nearby p oh i 。
+.
+"/usb1/PcmRes/isr/English/Other/00000145_code.pcm"
+go to preset five 。
+.
+"/usb1/PcmRes/isr/English/Other/00000146_code.pcm"
+go to preset four 。
+.
+"/usb1/PcmRes/isr/English/Other/00000147_code.pcm"
+go to preset three 。
+.
+"/usb1/PcmRes/isr/English/Other/00000148_code.pcm"
+go to preset two 。
+.
+"/usb1/PcmRes/isr/English/Other/00000149_code.pcm"
+go to preset one 。
+.
+"/usb1/PcmRes/isr/English/Other/00000150_code.pcm"
+delete destination 。
+.
+"/usb1/PcmRes/isr/English/Other/00000151_code.pcm"
+delete destinations 。
+.
+"/usb1/PcmRes/isr/English/Other/00000152_code.pcm"
+cancel route 。
+.
+"/usb1/PcmRes/isr/English/Other/00000153_code.pcm"
+previous destination 。
+.
+"/usb1/PcmRes/isr/English/Other/00000154_code.pcm"
+previous destinations 。
+.
+"/usb1/PcmRes/isr/English/Other/00000155_code.pcm"
+go directly 。
+.
+"/usb1/PcmRes/isr/English/Other/00000156_code.pcm"
+add to route 。
+.
+"/usb1/PcmRes/isr/English/Other/00000157_code.pcm"
+along route 。
+.
+"/usb1/PcmRes/isr/English/Other/00000158_code.pcm"
+along my route 。
+.
+"/usb1/PcmRes/isr/English/Other/00000159_code.pcm"
+near destination 。
+.
+"/usb1/PcmRes/isr/English/Other/00000160_code.pcm"
+operator support service 。
+.
+"/usb1/PcmRes/isr/English/Other/00000161_code.pcm"
+web search 。
+.
+"/usb1/PcmRes/isr/English/Other/00000162_code.pcm"
+dial number 。
+.
+"/usb1/PcmRes/isr/English/Other/00000163_code.pcm"
+dial by number 。
+.
+"/usb1/PcmRes/isr/English/Other/00000164_code.pcm"
+call 。
+.
+"/usb1/PcmRes/isr/English/Other/00000165_code.pcm"
+show recent calls 。
+.
+"/usb1/PcmRes/isr/English/Other/00000166_code.pcm"
+show recent call 。
+.
+"/usb1/PcmRes/isr/English/Other/00000167_code.pcm"
+call name 。
+.
+"/usb1/PcmRes/isr/English/Other/00000168_code.pcm"
+call a contact 。
+.
+"/usb1/PcmRes/isr/English/Other/00000169_code.pcm"
+call by name 。
+.
+"/usb1/PcmRes/isr/English/Other/00000170_code.pcm"
+radial 。
+.
+"/usb1/PcmRes/isr/English/Other/00000171_code.pcm"
+redial 。
+.
+"/usb1/PcmRes/isr/English/Other/00000172_code.pcm"
+call back 。
+.
+"/usb1/PcmRes/isr/English/Other/00000173_code.pcm"
+tune the radio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000174_code.pcm"
+tune a preset 。
+.
+"/usb1/PcmRes/isr/English/Other/00000175_code.pcm"
+i am radio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000176_code.pcm"
+a m 。
+.
+"/usb1/PcmRes/isr/English/Other/00000177_code.pcm"
+fm radio 。
+.
+"/usb1/PcmRes/isr/English/Other/00000178_code.pcm"
+f 。
+.
+"/usb1/PcmRes/isr/English/Other/00000179_code.pcm"
+fm 。
+.
+"/usb1/PcmRes/isr/English/Other/00000180_code.pcm"
+f 。
+.
+"/usb1/PcmRes/isr/English/Other/00000181_code.pcm"
+air conditioner on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000182_code.pcm"
+auto air conditioner on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000183_code.pcm"
+automatic air conditioner on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000184_code.pcm"
+fan off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000185_code.pcm"
+blower off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000186_code.pcm"
+air conditioner off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000187_code.pcm"
+auto air conditioner off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000188_code.pcm"
+automatic air conditioner off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000189_code.pcm"
+ac on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000190_code.pcm"
+a c on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000191_code.pcm"
+ac off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000192_code.pcm"
+a c off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000193_code.pcm"
+dial mode on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000194_code.pcm"
+dial mode off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000195_code.pcm"
+wiper deicer on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000196_code.pcm"
+wiper deicer off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000197_code.pcm"
+air conditioner on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000198_code.pcm"
+where auto air conditioner on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000199_code.pcm"
+air conditioner off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000200_code.pcm"
+where auto air conditioner off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000201_code.pcm"
+where the father on 。
+.
+"/usb1/PcmRes/isr/English/Other/00000202_code.pcm"
+where did father off 。
+.
+"/usb1/PcmRes/isr/English/Other/00000203_code.pcm"
+former 。
+.
+"/usb1/PcmRes/isr/English/Other/00000204_code.pcm"
+turn up temperature 。
+.
+"/usb1/PcmRes/isr/English/Other/00000205_code.pcm"
+call jack 。
+.
+"/usb1/PcmRes/isr/English/Other/00000206_code.pcm"
+color 。
+.
+"/usb1/PcmRes/isr/English/Other/00000207_code.pcm"
+turn down temperature 。
+.
+"/usb1/PcmRes/isr/English/Other/00000208_code.pcm"
+hot 。
+.
+"/usb1/PcmRes/isr/English/Other/00000209_code.pcm"
+a few warmer 。
+.
+"/usb1/PcmRes/isr/English/Other/00000210_code.pcm"
+turn up temperature a little 。
+.
+"/usb1/PcmRes/isr/English/Other/00000211_code.pcm"
+a few cooler 。
+.
+"/usb1/PcmRes/isr/English/Other/00000212_code.pcm"
+turn down temperature a little 。
+.
+"/usb1/PcmRes/isr/English/Other/00000213_code.pcm"
+temperature max 。
+.
+"/usb1/PcmRes/isr/English/Other/00000214_code.pcm"
+temperature maximum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000215_code.pcm"
+set temperature max 。
+.
+"/usb1/PcmRes/isr/English/Other/00000216_code.pcm"
+set temperature maximum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000217_code.pcm"
+temperature min 。
+.
+"/usb1/PcmRes/isr/English/Other/00000218_code.pcm"
+temperature minimum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000219_code.pcm"
+set temperature min 。
+.
+"/usb1/PcmRes/isr/English/Other/00000220_code.pcm"
+set temperature minimum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000221_code.pcm"
+fan max 。
+.
+"/usb1/PcmRes/isr/English/Other/00000222_code.pcm"
+fan maximum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000223_code.pcm"
+fan speed max 。
+.
+"/usb1/PcmRes/isr/English/Other/00000224_code.pcm"
+fan speed maximum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000225_code.pcm"
+set fan speed max 。
+.
+"/usb1/PcmRes/isr/English/Other/00000226_code.pcm"
+set fan speed maximum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000227_code.pcm"
+xinmin 。
+.
+"/usb1/PcmRes/isr/English/Other/00000228_code.pcm"
+fan minimum 。
+.
+"/usb1/PcmRes/isr/English/Other/00000229_code.pcm"
+fan speed min 。
+.
+"/usb1/PcmRes/isr/English/Other/00000230_code.pcm"
+fan speed minimum 。
+.

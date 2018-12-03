@@ -1,0 +1,28 @@
+/test.hcliu/dict/dict_M-500.txt
+local time: 8968
+cloud time: 441
+
+/test.hcliu/dict/dict_M-1000.txt
+local time: 11633
+cloud time: 514
+
+/test.hcliu/dict/dict_M-1500.txt
+local time: 14956
+cloud time: 989
+
+/test.hcliu/dict/dict_M-2000.txt
+local time: 19298
+cloud time: 1793
+
+/test.hcliu/dict/dict_M-2500.txt
+local time: 21149
+cloud time: 2167
+
+/test.hcliu/dict/dict_M-3000.txt
+local time: 25544
+cloud time: 3149
+
+/test.hcliu/dict/dict_M-15000.txt
+local time: 143547
+cloud time: 76894
+

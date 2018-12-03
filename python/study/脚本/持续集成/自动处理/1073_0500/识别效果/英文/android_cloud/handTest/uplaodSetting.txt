@@ -1,0 +1,8 @@
+user:{"QQD":null,"id":844,"data_upload":true,"MobilePhoneD":null,"is_sysadmin":0,"name":"hcliu","AddressD":null,"RealNameD":null,"password":"693bcb2a16814a712bd8b397b460ab3d","EmailD":"hcliu@iflytek.com"}
+comlum:time,mem,cpu
+comlumTotal:time,sysmemleft,syscpu,totalpss,totalcpu
+app_info:[{"package_name":"com.iflytek.srbatch","location":"\/data\/data\/com.iflytek.srbatch","version":"1.0","application_name":"SrBatch"}]
+device_info:{"cpu_num":2,"hardware":"freescale","sys_name":"sabresd_6dq-eng 4.3 1.1.1 20141017 dev-keys","phone_type":"SABRESD-MX6DQ","imei":"864341025384143","screen_width":1024,"mac":"00:03:7f:8a:c7:cc","cpu_type":"ARMv7 Processor rev 10 (v7l)","bootloader":"unknown","storage_size":"1.70 GB","android_vesion":"4.3","carrieroperator":"CHINA MOBILE 4G","cpu_freq":996000,"imsi":"460040092110239","sys_version_num":"1.03.26","screen_high":600,"phone_brand":"Freescale","screen_desi":1,"serial":"unknown"}
+DeviceResult:{"test_record_app":[{"package_name":"com.iflytek.srbatch","application_name":"SrBatch","location":"\/data\/data\/com.iflytek.srbatch","icon_md5":"7141a768c71378d16a82124cf38df7fc","version":"1.0","test_record_app_id":2988}],"status":true,"test_record_id":2225}
+tips:MjAxNy0wMS0xNy0xMi0yNy0xMSUzQSVFNiVCNSU4QmFuZHJvaWQlRTglOEIlQjElRTYlOTYlODcl
+RTQlQkElOTElRTclQUIlQUYlRTYlOTUlODglRTYlOUUlOUMlMEElMEE=

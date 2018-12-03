@@ -1,0 +1,5114 @@
+列表,业务,云端标注,本地标注,云端&本地结果对比,是否集内,是否800条,业务名,标注结果,标注操作
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_007_M098_coder.wav.pcm,map,从庐阳区寿春路桥到青阳路,从庐阳区寿春路桥到青阳路,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""area"":""庐阳区"",
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""庐阳区寿春路桥"",
+  ""areaAddr"":""庐阳"",
+  ""poi"":""寿春路桥"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""青阳路"",
+  ""ori_loc"":""青阳路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_014_M099_coder.wav.pcm,map,从我这里到青鸾路怎么去,从我这里到青鸾路怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""青鸾路"",
+  ""ori_loc"":""青鸾路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_021_M101_coder.wav.pcm,map,从我这里怎么去龙泉路,从我这里怎么去龙泉路,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""龙泉路"",
+  ""ori_loc"":""龙泉路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_028_M102_coder.wav.pcm,map,从这里到三和汽车修理有限公司如何去,从这里到三和汽车修理有限公司如何去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""三和汽车修理有限公司"",
+  ""poi"":""三和汽车修理有限公司"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_035_M071_coder.wav.pcm,map,从这里到徽商银行三里庵支行atm怎么去,从这里到徽商银行三里庵支行atm怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""徽商银行三里庵支行atm"",
+  ""poi"":""徽商银行三里庵支行atm"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_042_M073_coder.wav.pcm,map,从这里去九龙路和翠微路交叉路口如何去,从这里去九龙路和翠微路交叉路口如何去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""翠微路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""九龙路"",
+  ""ori_loc"":""九龙路和翠微路交叉路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_049_M074_coder.wav.pcm,map,从这里去抚州市京川大道怎么去,从这里去抚州市京川大道怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""抚州"",
+  ""city"":""抚州市"",
+  ""street"":""京川大道"",
+  ""ori_loc"":""抚州市京川大道"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_056_M048_coder.wav.pcm,map,从这里如何到坝上街,从这里如何到坝上街,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""坝上街"",
+  ""ori_loc"":""坝上街"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_063_M049_coder.wav.pcm,map,从这里导航到四川省攀枝花市米易县米易县农牧局,从这里导航到四川省攀枝花市米易县米易县农牧局,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""米易县"",
+  ""cityAddr"":""攀枝花"",
+  ""province"":""四川省"",
+  ""city"":""攀枝花市"",
+  ""ori_loc"":""四川省攀枝花市米易县米易县农牧局"",
+  ""areaAddr"":""米易"",
+  ""provinceAddr"":""四川"",
+  ""poi"":""米易县农牧局"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_070_M050_coder.wav.pcm,map,从这里怎么去和信大厦,从这里怎么去和信大厦,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""和信大厦"",
+  ""poi"":""和信大厦"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_077_M105_coder.wav.pcm,map,从这里怎么到南环路鑫民超市,从这里怎么到南环路鑫民超市,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""南环路鑫民超市"",
+  ""poi"":""南环路鑫民超市"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_084_F001_coder.wav.pcm,map,从这里怎么去齐齐哈尔市,从这里怎么去齐齐哈尔市,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""齐齐哈尔"",
+  ""city"":""齐齐哈尔市"",
+  ""ori_loc"":""齐齐哈尔市"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_091_F002_coder.wav.pcm,map,如何去潜山县食品药品监督管理局,如何去潜山县食品药品监督管理局,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""潜山县"",
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""潜山县食品药品监督管理局"",
+  ""areaAddr"":""潜山"",
+  ""poi"":""食品药品监督管理局"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_098_F002_coder.wav.pcm,map,洛阳市怎么去,洛阳市怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""洛阳"",
+  ""city"":""洛阳市"",
+  ""ori_loc"":""洛阳市"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_105_F003_coder.wav.pcm,map,辽宁省鞍山市如何去,辽宁省鞍山市如何去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""鞍山"",
+  ""province"":""辽宁省"",
+  ""city"":""鞍山市"",
+  ""ori_loc"":""辽宁省鞍山市"",
+  ""provinceAddr"":""辽宁"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_112_F004_coder.wav.pcm,map,到井岗公交站,到井岗公交站,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""井岗公交站"",
+  ""poi"":""井岗公交站"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_119_F004_coder.wav.pcm,map,到合肥市的舒城路小学,到合肥市的舒城路小学,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""ori_loc"":""合肥市的舒城路小学"",
+  ""poi"":""舒城路小学"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_126_F005_coder.wav.pcm,map,到红府超市如何去,到红府超市如何去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""红府超市"",
+  ""poi"":""红府超市"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_133_F006_coder.wav.pcm,map,去上南路德州路路口如何走,去上南路德州路路口如何走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""上南路德州路路口"",
+  ""ori_loc"":""上南路德州路路口"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_140_F006_coder.wav.pcm,map,去唐桥路,去唐桥路,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""唐桥路"",
+  ""ori_loc"":""唐桥路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_147_F007_coder.wav.pcm,map,去韶关市沙洲路如何走,去韶关市沙洲路如何走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""韶关"",
+  ""city"":""韶关市"",
+  ""street"":""沙洲路"",
+  ""ori_loc"":""韶关市沙洲路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_154_F008_coder.wav.pcm,map,如何到上海市宝山区禾盛源食府,如何到上海市宝山区禾盛源食府,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""宝山区"",
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""ori_loc"":""上海市宝山区禾盛源食府"",
+  ""areaAddr"":""宝山"",
+  ""poi"":""禾盛源食府"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_161_F009_coder.wav.pcm,map,如何去上海市宝山区高境欣苑,如何去上海市宝山区高境欣苑,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""宝山区"",
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""ori_loc"":""上海市宝山区高境欣苑"",
+  ""areaAddr"":""宝山"",
+  ""poi"":""高境欣苑"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_168_F009_coder.wav.pcm,map,如何走才能到四川省德阳市旌阳区香山巷香山小区,如何走才能到四川省德阳市旌阳区香山巷香山小区,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""旌阳区"",
+  ""cityAddr"":""德阳"",
+  ""province"":""四川省"",
+  ""city"":""德阳市"",
+  ""ori_loc"":""四川省德阳市旌阳区香山巷香山小区"",
+  ""areaAddr"":""旌阳"",
+  ""provinceAddr"":""四川"",
+  ""poi"":""香山巷香山小区"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_175_F010_coder.wav.pcm,map,导航到安徽省合作化南路绿城百合公寓,导航到安徽省合作化南路绿城百合公寓,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""province"":""安徽省"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""合作化南路"",
+  ""ori_loc"":""安徽省合作化南路绿城百合公寓"",
+  ""provinceAddr"":""安徽"",
+  ""poi"":""绿城百合公寓"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_182_F011_coder.wav.pcm,map,导航到胡适故居,导航到胡适故居,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""胡适故居"",
+  ""poi"":""胡适故居"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_189_F011_coder.wav.pcm,map,带我到庐州太太,带我到庐州太太,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""庐州太太"",
+  ""poi"":""庐州太太"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_196_F012_coder.wav.pcm,map,带我去北京市朝阳区云顶时尚台球俱乐部,带我去北京市朝阳区云顶时尚台球俱乐部,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""朝阳区"",
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""ori_loc"":""北京市朝阳区云顶时尚台球俱乐部"",
+  ""areaAddr"":""朝阳区"",
+  ""poi"":""云顶时尚台球俱乐部"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_203_M001_coder.wav.pcm,map,帮我导航到北京电影学院,帮我导航到北京电影学院,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""北京电影学院"",
+  ""poi"":""北京电影学院"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_210_M001_coder.wav.pcm,map,帮我查一下从这里到北京北农路7号北京农学院怎么走,帮我查一下从这里到北京北农路七号北京农学院怎么走,FALSE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""street"":""北农路"",
+  ""ori_loc"":""北京北农路七号北京农学院"",
+  ""houseNumber"":""七号"",
+  ""poi"":""北京农学院"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_217_F013_coder.wav.pcm,map,帮我查一下从这里到龙幡路怎么走,帮我查一下从这里到龙幡路怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""龙幡路"",
+  ""ori_loc"":""龙幡路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_224_F014_coder.wav.pcm,map,帮我查一下花冲公园到红豆网吧可以怎么走,帮我查一下花冲公园到红豆网吧可以怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""花冲公园"",
+  ""poi"":""花冲公园"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""红豆网吧"",
+  ""poi"":""红豆网吧"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_231_M002_coder.wav.pcm,map,帮我查查从这里到安徽省怎么走,帮我查查从这里到安徽省怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""province"":""安徽省"",
+  ""ori_loc"":""安徽省"",
+  ""provinceAddr"":""安徽"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_238_M002_coder.wav.pcm,map,帮我查查从这里去安通电子公司宿舍怎么走,帮我查查从这里去安通电子公司宿舍怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""安通电子公司宿舍"",
+  ""poi"":""安通电子公司宿舍"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_245_F015_coder.wav.pcm,map,怎么走才能到胜利路和淮河路交叉路口,怎么走才能到胜利路和淮河路交叉路口,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""淮河路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""胜利路"",
+  ""ori_loc"":""胜利路和淮河路交叉路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_252_F016_coder.wav.pcm,map,我想到天地人科苑该如何走,我想到天地人科苑该如何走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""天地人科苑"",
+  ""poi"":""天地人科苑"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_259_F016_coder.wav.pcm,map,我想到文园小区如何走,我想到文园小区如何走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""文园小区"",
+  ""poi"":""文园小区"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_266_M003_coder.wav.pcm,map,我想到湘潭市五行饭庄怎么走,我想到湘潭市五行饭庄怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""湘潭"",
+  ""city"":""湘潭市"",
+  ""ori_loc"":""湘潭市五行饭庄"",
+  ""poi"":""五行饭庄"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_273_F017_coder.wav.pcm,map,我想去三河大酒店应该怎么走,我想去三河大酒店应该怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""三河大酒店"",
+  ""poi"":""三河大酒店"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_280_F017_coder.wav.pcm,map,我想去五里墩邮政支局该如何走,我想去五里墩邮政支局该如何走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""五里墩邮政支局"",
+  ""poi"":""五里墩邮政支局"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_287_F018_coder.wav.pcm,map,我想去周谷堆路和滨河路岔路口应该怎么走,我想去周谷堆路和滨河路岔路口应该怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""滨河路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""周谷堆路"",
+  ""ori_loc"":""周谷堆路和滨河路岔路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_294_F019_coder.wav.pcm,map,我想去远大路丰张线路口,我想去远大路丰张线路口,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""远大路"",
+  ""ori_loc"":""远大路丰张"",
+  ""poi"":""丰张"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_301_F019_coder.wav.pcm,map,我想导航到合肥市敬亭山路,我想导航到合肥市敬亭山路,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""street"":""敬亭山路"",
+  ""ori_loc"":""合肥市敬亭山路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_308_F019_coder.wav.pcm,map,我想开车到新乡市如何走,我想开车到新乡市如何走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""新乡"",
+  ""city"":""新乡市"",
+  ""ori_loc"":""新乡市"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_315_F020_coder.wav.pcm,map,我想开车去榆林市怎么走,我想开车去榆林市怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""榆林"",
+  ""city"":""榆林市"",
+  ""ori_loc"":""榆林市"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_322_F020_coder.wav.pcm,map,我想知道如何到纵阳路与和平路岔路口,我想知道如何到纵阳路与和平路岔路口,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""和平路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""纵阳路"",
+  ""ori_loc"":""纵阳路与和平路岔路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_329_F020_coder.wav.pcm,map,我想知道怎么到钼都路君山东路路口,我想知道怎么到钼都路君山东路路口,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""君山东路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""钼都路"",
+  ""ori_loc"":""钼都路君山东路路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_336_F021_coder.wav.pcm,map,我要到农家小院该怎么走,我要到农家小院该怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""农家小院"",
+  ""poi"":""农家小院"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_343_F021_coder.wav.pcm,map,我要到闸北区信谊大药房岭南店,我要到闸北区信谊大药房岭南店,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""闸北区"",
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""闸北区信谊大药房岭南店"",
+  ""areaAddr"":""闸北"",
+  ""poi"":""信谊大药房岭南店"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_350_F021_coder.wav.pcm,map,我要去广东省揭阳市普宁市红鑫剪烫沐足城,我要去广东省揭阳市普宁市红鑫剪烫沐足城,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""普宁市"",
+  ""cityAddr"":""揭阳"",
+  ""province"":""广东省"",
+  ""city"":""揭阳市"",
+  ""ori_loc"":""广东省揭阳市普宁市红鑫剪烫沐足城"",
+  ""areaAddr"":""普宁"",
+  ""provinceAddr"":""广东"",
+  ""poi"":""红鑫剪烫沐足城"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_357_F021_coder.wav.pcm,map,我要去闸北区彭浦清真饮食店,我要去闸北区彭浦清真饮食店,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""闸北区"",
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""闸北区彭浦清真饮食店"",
+  ""areaAddr"":""闸北"",
+  ""poi"":""彭浦清真饮食店"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_364_M004_coder.wav.pcm,map,我要如何走才能到百脑汇,我要如何走才能到百脑汇,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""百脑汇"",
+  ""poi"":""百脑汇"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_371_M004_coder.wav.pcm,map,查一下从五里拐小学去宣城路要怎么走,查一下从五里拐小学去宣城路要怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""五里拐小学"",
+  ""poi"":""五里拐小学"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""宣城路"",
+  ""ori_loc"":""宣城路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_378_M004_coder.wav.pcm,map,查一下从这里到庐阳饭店怎么去,查一下从这里到庐阳饭店怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""庐阳饭店"",
+  ""poi"":""庐阳饭店"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_385_M004_coder.wav.pcm,map,查一下从这里去潜山路小学怎么去,查一下从这里去潜山路小学怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""潜山路小学"",
+  ""poi"":""潜山路小学"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_392_F022_coder.wav.pcm,map,查查从红福旅社到太湖路与金寨路交叉路口可以怎么走,查查从红福旅社到太湖路与金寨路交叉路口可以怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""红福旅社"",
+  ""poi"":""红福旅社"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""金寨路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""太湖路"",
+  ""ori_loc"":""太湖路与金寨路交叉路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_399_F022_coder.wav.pcm,map,查查从这里去北京市怎么走,查查从这里去北京市怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""ori_loc"":""北京市"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_406_F022_coder.wav.pcm,map,桃园路到金寨路高架桥,桃园路到金寨路高架桥,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""桃园路"",
+  ""ori_loc"":""桃园路"",
+  ""type"":""LOC_STREET""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""金寨路高架桥"",
+  ""ori_loc"":""金寨路高架桥"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_413_F022_coder.wav.pcm,map,看一下如何去昆明市,看一下如何去昆明市,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""昆明"",
+  ""city"":""昆明市"",
+  ""ori_loc"":""昆明市"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_420_F022_coder.wav.pcm,map,看一下怎么去力天国际大厦,看一下怎么去力天国际大厦,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""力天国际大厦"",
+  ""poi"":""力天国际大厦"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_427_M005_coder.wav.pcm,map,看一下江苏省苏州市如何走,看一下江苏省苏州市如何走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""苏州"",
+  ""province"":""江苏省"",
+  ""city"":""苏州市"",
+  ""ori_loc"":""江苏省苏州市"",
+  ""provinceAddr"":""江苏"",
+  ""type"":""LOC_BASIC""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_434_M005_coder.wav.pcm,map,胜利路和琅琊山路岔路口到汽车城路可以怎么走,胜利路和琅琊山路岔路口到汽车城路可以怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""streets"":""琅琊山路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""胜利路"",
+  ""ori_loc"":""胜利路和琅琊山路岔路口"",
+  ""type"":""LOC_CROSS""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""汽车城路"",
+  ""ori_loc"":""汽车城路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_441_M005_coder.wav.pcm,map,请带我到潜山县槎水蚕桑协会,请带我到潜山县槎水蚕桑协会,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""潜山县"",
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""潜山县槎水蚕桑协会"",
+  ""areaAddr"":""潜山"",
+  ""poi"":""槎水蚕桑协会"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_448_M005_coder.wav.pcm,map,请带我去重庆市沙坪坝区龙湖西永,请带我去重庆市沙坪坝区龙湖西永,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""area"":""沙坪坝区"",
+  ""cityAddr"":""重庆"",
+  ""city"":""重庆市"",
+  ""ori_loc"":""重庆市沙坪坝区龙湖西永"",
+  ""areaAddr"":""沙坪坝"",
+  ""poi"":""龙湖西永"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_455_M006_coder.wav.pcm,map,请问仁爱医院如何去,请问仁爱医院如何去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""仁爱医院"",
+  ""poi"":""仁爱医院"",
+  ""type"":""LOC_POI""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_462_M006_coder.wav.pcm,map,请问日照市泰安路如何去,请问日照市泰安路如何去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""日照"",
+  ""city"":""日照市"",
+  ""street"":""泰安路"",
+  ""ori_loc"":""日照市泰安路"",
+  ""type"":""LOC_STREET""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\10map_route\10map_route_469_M006_coder.wav.pcm,map,长江东路与东二环路交口怎么走,长江东路与东二环路交口怎么走,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""东二环路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""长江东路"",
+  ""ori_loc"":""长江东路与东二环路交口"",
+  ""type"":""LOC_CROSS""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_007_M098_coder.wav.pcm,map,天都路和卧云路岔路口在哪里,天都路和卧云路岔路口在哪里,TRUE,0,是,map,"{
+ ""location"":{
+  ""streets"":""卧云路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""天都路"",
+  ""ori_loc"":""天都路和卧云路岔路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_014_M099_coder.wav.pcm,map,胶州市同心路龙湖路路口在哪,胶州市同心路龙湖路路口在哪,TRUE,0,是,map,"{
+ ""location"":{
+  ""area"":""胶州市"",
+  ""streets"":""龙湖路"",
+  ""street"":""同心路"",
+  ""ori_loc"":""胶州市同心路龙湖路路口"",
+  ""areaAddr"":""胶州"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_021_M101_coder.wav.pcm,map,你知道临沂北路莲程花园生活一区在哪里吗,你知道临沂北路莲程花园生活一区在哪里吗,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""临沂北路"",
+  ""ori_loc"":""临沂北路莲程花园生活一区"",
+  ""poi"":""莲程花园生活一区"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_028_M102_coder.wav.pcm,map,你知道杏花公园在什么地方,你知道杏花公园在什么地方,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""杏花公园"",
+  ""poi"":""杏花公园"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_035_M071_coder.wav.pcm,map,你知道蒲阳大道彼洋休闲中心在哪吗,你知道蒲阳大道彼洋休闲中心在哪吗,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""蒲阳大道"",
+  ""ori_loc"":""蒲阳大道彼洋休闲中心"",
+  ""poi"":""彼洋休闲中心"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_042_M073_coder.wav.pcm,map,大头鞋业在哪个地方,大头鞋业在哪个地方,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""大头鞋业"",
+  ""poi"":""大头鞋业"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_049_M074_coder.wav.pcm,map,定位柳州市城中区独静路桂柳路路口,定位柳州市城中区独静路桂柳路路口,TRUE,0,是,map,"{
+ ""location"":{
+  ""area"":""城中区"",
+  ""cityAddr"":""柳州"",
+  ""streets"":""桂柳路"",
+  ""city"":""柳州市"",
+  ""street"":""独静路"",
+  ""ori_loc"":""柳州市城中区独静路桂柳路路口"",
+  ""areaAddr"":""城中"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_056_M048_coder.wav.pcm,map,帮我找一下四川省成都市在哪里,帮我找一下四川省成都市在哪里,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""成都"",
+  ""province"":""四川省"",
+  ""city"":""成都市"",
+  ""ori_loc"":""四川省成都市"",
+  ""provinceAddr"":""四川"",
+  ""type"":""LOC_BASIC""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_063_M049_coder.wav.pcm,map,帮我找一下新疆维吾尔自治区乌鲁木齐市在哪里,帮我找一下新疆维吾尔自治区乌鲁木齐市在哪里,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""乌鲁木齐"",
+  ""province"":""新疆维吾尔自治区"",
+  ""city"":""乌鲁木齐市"",
+  ""ori_loc"":""新疆维吾尔自治区乌鲁木齐市"",
+  ""provinceAddr"":""新疆"",
+  ""type"":""LOC_BASIC""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_070_M050_coder.wav.pcm,map,帮我找一下石家庄市的位置,帮我找一下石家庄市的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""石家庄"",
+  ""city"":""石家庄市"",
+  ""ori_loc"":""石家庄市"",
+  ""type"":""LOC_BASIC""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_077_M105_coder.wav.pcm,map,帮我搜一下亳州路与长丰路交叉路口的地址,帮我搜一下亳州路与长丰路交叉路口的地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""streets"":""长丰路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""亳州路"",
+  ""ori_loc"":""亳州路与长丰路交叉路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_084_F001_coder.wav.pcm,map,帮我搜一下夺底中路当热东路路口的位置,帮我搜一下夺底中路当热东路路口的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""streets"":""当热东路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""夺底中路"",
+  ""ori_loc"":""夺底中路当热东路路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_091_F002_coder.wav.pcm,map,帮我搜一下禄荣街西青路路口在哪儿,帮我搜一下禄荣街西青路路口在哪儿,TRUE,0,是,map,"{
+ ""location"":{
+  ""streets"":""西青路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""禄荣街"",
+  ""ori_loc"":""禄荣街西青路路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_098_F002_coder.wav.pcm,map,帮我搜一下黔东南苗族侗族自治州在哪个地方,帮我搜一下黔东南苗族侗族自治州在哪个地方,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""黔东南"",
+  ""city"":""黔东南苗族侗族自治州"",
+  ""ori_loc"":""黔东南苗族侗族自治州"",
+  ""type"":""LOC_BASIC""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_105_F003_coder.wav.pcm,map,帮我搜索四牌楼轻工业厅宿舍的地址,帮我搜索四牌楼轻工业厅宿舍的地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""四牌楼轻工业厅宿舍"",
+  ""poi"":""四牌楼轻工业厅宿舍"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_112_F004_coder.wav.pcm,map,帮我搜索烟酒公司宿舍的地址,帮我搜索烟酒公司宿舍的地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""烟酒公司宿舍"",
+  ""poi"":""烟酒公司宿舍"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_119_F004_coder.wav.pcm,map,帮我搜索解放路一段二环路北四段路口在哪里,帮我搜索解放路一段二环路北四段路口在哪里,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""解放路一段"",
+  ""streets"":""二环路北四段"",
+  ""ori_loc"":""解放路一段二环路北四段路口"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_126_F005_coder.wav.pcm,map,帮我查一下合肥岭峡挖掘机经营部的地址,帮我查一下合肥岭峡挖掘机经营部的地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""ori_loc"":""合肥岭峡挖掘机经营部"",
+  ""poi"":""岭峡挖掘机经营部"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_133_F006_coder.wav.pcm,map,帮我查一下新庄小区在哪儿,帮我查一下新庄小区在哪儿,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""新庄小区"",
+  ""poi"":""新庄小区"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_140_F006_coder.wav.pcm,map,帮我查一下福海新居在哪,帮我查一下福海新居在哪,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""福海新居"",
+  ""poi"":""福海新居"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_147_F007_coder.wav.pcm,map,帮我查一下铜陵新村公交公司宿舍在哪个地方,帮我查一下铜陵新村公交公司宿舍在哪个地方,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""铜陵新村公交公司宿舍"",
+  ""poi"":""铜陵新村公交公司宿舍"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_154_F008_coder.wav.pcm,map,帮我查查合家福超市望江路分店的位置,帮我查查合家福超市望江路分店的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""合家福超市望江路分店"",
+  ""poi"":""合家福超市望江路分店"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_161_F009_coder.wav.pcm,map,帮我查查小天鹅干洗肥东店在哪里,帮我查查小天鹅干洗肥东店在哪里,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""小天鹅干洗肥东店"",
+  ""poi"":""小天鹅干洗肥东店"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_168_F009_coder.wav.pcm,map,帮我查查润安货运公司在哪里,帮我查查润安货运公司在哪里,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""润安货运公司"",
+  ""poi"":""润安货运公司"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_175_F010_coder.wav.pcm,map,我想知道哪里有华夏银行,我想知道哪里有华夏银行,TRUE,0,是,map,"{
+ ""location"": {
+ ""city"": ""CURRENT_CITY"",
+ ""type"": ""LOC_POI"",
+ ""ori_loc"": ""华夏银行"",
+ ""poi"": ""华夏银行""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_182_F011_coder.wav.pcm,map,找一下蜀翠园在哪,找一下蜀翠园在哪,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""蜀翠园"",
+  ""poi"":""蜀翠园"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_189_F011_coder.wav.pcm,map,搜一下延安市子长县在哪儿,搜一下延安市子长县在哪儿,TRUE,0,是,map,"{
+ ""location"":{
+  ""area"":""子长县"",
+  ""cityAddr"":""延安"",
+  ""city"":""延安市"",
+  ""ori_loc"":""延安市子长县"",
+  ""areaAddr"":""子长"",
+  ""type"":""LOC_BASIC""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_196_F012_coder.wav.pcm,map,搜一下芜湖市殷三公路六郎水产品市场的位置,搜一下芜湖市殷三公路六郎水产品市场的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""芜湖"",
+  ""city"":""芜湖市"",
+  ""street"":""殷三公路"",
+  ""ori_loc"":""芜湖市殷三公路六郎水产品市场"",
+  ""poi"":""六郎水产品市场"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_203_M001_coder.wav.pcm,map,搜索三十四中的位置,搜索三十四中的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""三十四中"",
+  ""poi"":""三十四中"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_210_M001_coder.wav.pcm,map,搜索华庆路建国自选商场的地址,搜索华庆路建国自选商场的地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""华庆路"",
+  ""ori_loc"":""华庆路建国自选商场"",
+  ""poi"":""建国自选商场"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_217_F013_coder.wav.pcm,map,搜索张掖市南大街农行城关支行的位置,搜索张掖市南大街农行城关支行的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""张掖市"",
+  ""cityAddr"":""张掖"",
+  ""street"":""南大街"",
+  ""ori_loc"":""张掖市南大街农行城关支行"",
+  ""poi"":""农行城关支行"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_224_F014_coder.wav.pcm,map,搜索苏州市兴太路苏州圣依制衣在哪,搜索苏州市兴太路苏州圣依制衣在哪,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""苏州"",
+  ""city"":""苏州市"",
+  ""street"":""兴太路"",
+  ""ori_loc"":""苏州市兴太路苏州圣依制衣"",
+  ""poi"":""苏州圣依制衣"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_231_M002_coder.wav.pcm,map,查一下北京鲍家街43号在哪里,查一下北京鲍家街43号在哪里,FALSE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""street"":""鲍家街"",
+  ""ori_loc"":""北京鲍家街四十三号"",
+  ""houseNumber"":""四十三号"",
+  ""type"":""LOC_STREET""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_238_M002_coder.wav.pcm,map,查一下孝感市应城市蒲阳大道在哪,查一下孝感市应城市蒲阳大道在哪,TRUE,0,是,map,"{
+ ""location"":{
+  ""area"":""应城市"",
+  ""cityAddr"":""孝感"",
+  ""city"":""孝感市"",
+  ""street"":""蒲阳大道"",
+  ""ori_loc"":""孝感市应城市蒲阳大道"",
+  ""areaAddr"":""应城"",
+  ""type"":""LOC_STREET""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_245_F015_coder.wav.pcm,map,查一下苏州市吴中区宝带西路的地址,查一下苏州市吴中区宝带西路的地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""area"":""吴中区"",
+  ""cityAddr"":""苏州"",
+  ""city"":""苏州市"",
+  ""street"":""宝带西路"",
+  ""ori_loc"":""苏州市吴中区宝带西路"",
+  ""areaAddr"":""吴中"",
+  ""type"":""LOC_STREET""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_252_F016_coder.wav.pcm,map,查找北京北农路二号的地址,查找北京北农路二号的地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""street"":""北农路"",
+  ""ori_loc"":""北京北农路二号"",
+  ""houseNumber"":""二号"",
+  ""type"":""LOC_STREET""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_259_F016_coder.wav.pcm,map,查找运城市永济市卓于线运文线路口地址,查找运城市永济市卓于线运文线路口地址,TRUE,0,是,map,"{
+ ""location"":{
+  ""area"":""永济市"",
+  ""cityAddr"":""运城"",
+  ""city"":""运城市"",
+  ""street"":""卓于线"",
+  ""streets"":""运文线"",
+  ""ori_loc"":""运城市永济市卓于线运文线路口"",
+  ""areaAddr"":""永济"",
+  ""type"":""LOC_CROSS""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_266_M003_coder.wav.pcm,map,查查北京市泰华芳酒家在哪儿,查查北京市泰华芳酒家在哪儿,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""ori_loc"":""北京市泰华芳酒家"",
+  ""poi"":""泰华芳酒家"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_273_F017_coder.wav.pcm,map,查查宜春市中国联通新华平价手机城的位置,查查宜春市中国联通新华平价手机城的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""cityAddr"":""宜春"",
+  ""city"":""宜春市"",
+  ""ori_loc"":""宜春市中国联通新华平价手机城"",
+  ""poi"":""中国联通新华平价手机城"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_280_F017_coder.wav.pcm,map,查查瑶海区纪律检查委员会的位置,查查瑶海区纪律检查委员会的位置,TRUE,0,是,map,"{
+ ""location"":{
+  ""area"":""瑶海区"",
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""瑶海区纪律检查委员会"",
+  ""areaAddr"":""瑶海"",
+  ""poi"":""纪律检查委员会"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\11map_locate\11map_locate_287_F018_coder.wav.pcm,map,第30中学在哪儿,第三十中学在哪儿,FALSE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""第三十中学"",
+  ""poi"":""第三十中学"",
+  ""type"":""LOC_POI""
+ }
+}",POSITION
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_002_M097_coder.wav.pcm,map,前方有没有肯德基,前方有没有肯德基,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""肯德基"",
+  ""poi"":""肯德基"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_009_M098_coder.wav.pcm,map,我们现在沿途中的音像店,我们现在沿途中的音像店,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""音像店"",
+  ""poi"":""音像店"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_016_M099_coder.wav.pcm,map,找一下沿途的收费站,找一下沿途的收费站,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""收费站"",
+  ""poi"":""收费站"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_023_M101_coder.wav.pcm,map,搜一下沿途的旅馆,搜一下沿途的旅馆,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""旅馆"",
+  ""poi"":""旅馆"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_030_M102_coder.wav.pcm,map,搜索沿途的洗车场,搜索沿途的洗车场,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""洗车场"",
+  ""poi"":""洗车场"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_037_M072_coder.wav.pcm,map,查一下沿途的汽车维修,查一下沿途的汽车维修,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""汽车维修"",
+  ""poi"":""汽车维修"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_044_M073_coder.wav.pcm,map,查找沿途的建行,查找沿途的建行,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""建行"",
+  ""poi"":""建行"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_051_M047_coder.wav.pcm,map,查查沿途的医院,查查沿途的医院,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""医院"",
+  ""poi"":""医院"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_058_M048_coder.wav.pcm,map,沿途中的迪斯尼,沿途中的迪斯尼,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""迪斯尼"",
+  ""poi"":""迪斯尼"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_065_M049_coder.wav.pcm,map,沿途的必胜客,沿途的必胜客,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""必胜客"",
+  ""poi"":""必胜客"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_072_M075_coder.wav.pcm,map,现在沿途中有茶叶店吧,现在沿途中有茶叶店吧,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""茶叶店"",
+  ""poi"":""茶叶店"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\13map_on_the_way\13map_on_the_way_079_M105_coder.wav.pcm,map,跟我说声沿途中有没有自助餐店,跟我说声沿途中有没有自助餐店,TRUE,0,是,map,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""自助餐店"",
+  ""poi"":""自助餐店"",
+  ""type"":""LOC_POI""
+ },
+ ""queried"":""ON_THE_WAY""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_005_F023_coder.wav.pcm,-,信息给董文杰班主任我孩子表现怎样,信息给董文杰班主任我孩子表现怎样,TRUE,0,是,message,"{
+ ""name"":""董文杰班主任"",
+ ""content"":""我孩子表现怎么样""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_012_F024_coder.wav.pcm,-,发个信息给崔海龙人生已经如此的艰难有些事情就不要拆穿,发个信息给崔海龙人生已经如此的艰难有些事情就不要拆穿,TRUE,0,是,message,"{
+ ""name"":""崔海龙"",
+ ""content"":""人生已经如此的艰难有些事情就不要拆穿""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_019_F024_coder.wav.pcm,-,发个短信息给陈大林帮我去拿一下快递吧,发个短信息给陈大林帮我去拿一下快递吧,TRUE,0,是,message,"{
+ ""name"":""陈大林"",
+ ""content"":""帮我去拿一下快递吧""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_026_F025_coder.wav.pcm,-,发个短信给曹右琦蒋雷雷晚上请我吃饭别忘了哈,发个短信给曹右琦蒋雷雷晚上请我吃饭别忘了哈,TRUE,0,是,message,"{""name"":""曹右琦"",""content"":""蒋雷雷晚上请我吃饭别忘了哈""}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_033_M007_coder.wav.pcm,-,发信息给那斯尔江的尾号1213的号码我今天不回家吃饭了,发信息给那斯尔江的尾号幺二幺三的号码我今天不回家吃饭了,FALSE,0,是,message,"{
+ ""name"":""那斯尔江"",
+ ""tailNum"":""1213"",
+ ""content"":""我今天不回家吃饭了""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_040_M007_coder.wav.pcm,-,发条信息给丁鹏我了勒个去你怎么这样啊看错你了,发条信息给丁鹏我了勒个去你怎么这样啊看错你了,TRUE,0,是,message,"{
+ ""name"":""丁鹏"",
+ ""content"":""我了勒个去你怎么这样啊看错你了""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_047_F026_coder.wav.pcm,-,发条短信给电信客户经理今天看到了一个男神好激动,发条短信给电信客户经理今天看到了一个男神好激动,TRUE,0,是,message,"{
+ ""name"":""电信客户经理"",
+ ""content"":""今天看到了一个男神好激动""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_054_M008_coder.wav.pcm,-,发消息给杜俊明天打球吧,发消息给杜俊明天打球吧,TRUE,0,是,message,"{
+ ""name"":""杜俊"",
+ ""content"":""明天打球吧""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_061_M008_coder.wav.pcm,-,发短信息给包警官快来救我,发短信息给包警官快来救我,TRUE,0,是,message,"{
+ ""name"":""包警官"",
+ ""content"":""快来救我""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_068_M008_coder.wav.pcm,-,发短信息给怡佳月嫂什么时候可以上班,发短信息给怡佳月嫂什么时候可以上班,TRUE,0,是,message,"{
+ ""name"":""怡佳"",
+ ""content"":""月嫂什么时候可以上班""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_075_M008_coder.wav.pcm,-,发短信给华夏银行95577,发短信给华夏银行九五五七七,FALSE,0,是,message,"{
+ ""code"":""95577"",
+ ""name"":""华夏银行""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_082_F027_coder.wav.pcm,-,发短信给小姑说吃正宗的酸菜鱼去哪儿,发短信给小姑说吃正宗的酸菜鱼去哪儿,TRUE,0,是,message,"{
+ ""name"":""小姑"",
+ ""content"":""吃正宗的酸菜鱼去哪儿""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_089_F027_coder.wav.pcm,message,发短信给朱芳雨和双志伟女友,发短信给朱芳雨和双志伟女友,TRUE,0,是,message,"{""name"":""朱芳雨`双志伟女友""}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_096_F027_coder.wav.pcm,-,发短信郑自清据说卖饼子那个大妈也挺挣钱的要不就去卖饼子吧,发短信郑自清据说卖饼子那个大妈也挺挣钱的要不就去卖饼子吧,TRUE,0,是,message,"{
+ ""name"":""郑自清"",
+ ""content"":""据说卖饼子那个大妈也挺挣钱的要不就去卖饼子吧""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_103_F027_coder.wav.pcm,message,帮我发消息给张继立,帮我发消息给张继立,TRUE,0,是,message,"{
+ ""name"":""张继立""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_110_F027_coder.wav.pcm,-,帮我发短信息给张峰内容是黄山大厦在哪里,帮我发短信息给张峰内容是黄山大厦在哪里,TRUE,0,是,message,"{
+ ""name"":""张峰"",
+ ""content"":""黄山大厦在哪里""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_117_M009_coder.wav.pcm,message,帮我发短信给俞健的合肥号码,帮我发短信给俞健的合肥号码,TRUE,0,是,message,"{
+ ""name"":""俞健"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ }
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_124_M009_coder.wav.pcm,message,帮我给默默发短信,帮我给默默发短信,TRUE,0,是,message,"{
+ ""name"":""默默""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_131_M010_coder.wav.pcm,message,我想发个消息,我想发个消息,TRUE,0,是,message,{},SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_138_M010_coder.wav.pcm,message,我想发短信息,我想发短信息,TRUE,0,是,message,{},SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_145_M010_coder.wav.pcm,message,我想要发一条消息,我想要发一条消息,TRUE,0,是,message,{},SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_152_M011_coder.wav.pcm,message,我想要发条消息,我想要发条消息,TRUE,0,是,message,{},SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_159_M011_coder.wav.pcm,message,我想要编辑一条短信,我想要编辑一条短信,TRUE,0,是,message,{},SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_166_M011_coder.wav.pcm,message,我要发个短信,我要发个短信,TRUE,0,是,message,{},SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_173_M011_coder.wav.pcm,message,我要发短消息,我要发短消息,TRUE,0,是,message,{},SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_180_M011_coder.wav.pcm,message,查看已发短信,查看已发短信,TRUE,0,是,message,"{
+ ""category"":""sent""
+}",VIEW
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_187_F028_coder.wav.pcm,message,短信张武旭,短信张武旭,TRUE,0,是,message,"{
+ ""name"":""张武旭""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_194_F028_coder.wav.pcm,-,短信给招行程翠其实黄山也就这么回事,短信给招行程翠其实黄山也就这么回事,TRUE,0,是,message,"{
+ ""name"":""招行程翠"",
+ ""content"":""其实黄山也就这么回事""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_201_F028_coder.wav.pcm,-,简讯给孔莉还没发工资啊没有钱,简讯给孔莉还没发工资啊没有钱,TRUE,0,是,message,"{
+ ""name"":""孔莉"",
+ ""content"":""还没发工资啊没有钱""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_208_F028_coder.wav.pcm,-,给何婷婷电信发短消息帮我买张火车票吧,给何婷婷电信发短消息帮我买张火车票吧,TRUE,0,是,message,"{
+ ""teleOperator"":""电信"",
+ ""name"":""何婷婷"",
+ ""content"":""帮我买张火车票吧""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_215_F029_coder.wav.pcm,-,给基友的北京号发个消息,给基友的北京号发个消息,TRUE,0,是,message,"{
+ ""name"":""基友"",
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ }
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_222_F029_coder.wav.pcm,-,给张杰发条信息过段时间我来看你,给张杰发条信息过段时间我来看你,TRUE,0,是,message,"{
+ ""name"":""张杰"",
+ ""content"":""过段时间我来看你""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_229_F029_coder.wav.pcm,-,给江俊上海发条信息过段时间我来看你,给江俊上海发条信息过段时间我来看你,TRUE,0,是,message,"{
+ ""name"":""江俊"",
+ ""location"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ }
+ ""content"":""过段时间我来看你""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_236_F029_coder.wav.pcm,message,给洪沂慧短消息,给洪沂慧短消息,TRUE,0,是,message,"{
+ ""name"":""洪沂慧""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_243_F030_coder.wav.pcm,message,给绩溪家发信息,给绩溪家发信息,TRUE,0,是,message,"{
+ ""name"":""绩溪家""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_250_F030_coder.wav.pcm,-,给胡箐发信息内容是黄山大厦在哪里,给胡箐发信息内容是黄山大厦在哪里,TRUE,0,是,message,"{
+ ""name"":""胡箐"",
+ ""content"":""黄山大厦在哪里""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_257_F030_coder.wav.pcm,message,给葛运东编写短信,给葛运东编写短信,TRUE,0,是,message,"{
+ ""name"":""葛运东""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_264_F030_coder.wav.pcm,-,给辉达胡经理发短信昨晚的我是歌手你看了吗,给辉达胡经理发短信昨晚的我是歌手你看了吗,TRUE,0,是,message,"{
+ ""name"":""辉达胡经理"",
+ ""content"":""昨晚的我是歌手你看了吗""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_271_M012_coder.wav.pcm,-,给郭辉重庆新短消息今天怎么肚子疼啊,给郭辉重庆新短消息今天怎么肚子疼啊,TRUE,0,是,message,"{
+""name"":""郭辉"",
+""location"":
+{
+ ""cityAddr"":""重庆"",
+  ""city"":""重庆市"",
+  ""type"":""LOC_BASIC""
+},
+""content"":""今天怎么肚子疼啊""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_278_M012_coder.wav.pcm,message,给黄國慶发个短信,给黄國慶发个短信,TRUE,0,是,message,"{
+ ""name"":""黄国庆""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_285_M012_coder.wav.pcm,message,给黄达志编写短信,给黄达志编写短信,TRUE,0,是,message,"{
+ ""name"":""黄达志""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\14message\14message_292_M012_coder.wav.pcm,-,编辑短信给皮亚莉的156号码下班一起回家吧,编辑短信给皮亚莉的幺五六号码下班一起回家吧,FALSE,0,是,message,"{
+ ""name"":""皮亚莉"",
+""headNum"":""156"",
+ ""content"":""下班一起回家吧""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_006_F023_coder.wav.pcm,microblog,我要微博签到,我要微博签到,TRUE,0,是,weibo,"{
+ ""name"":""签到""
+}",GOTO
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_013_F024_coder.wav.pcm,microblog,打开签到,打开签到,TRUE,0,是,weibo,"{
+ ""name"":""签到""
+}",GOTO
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_020_F024_coder.wav.pcm,microblog,查看我的微博私信,查看我的微博私信,TRUE,0,是,weibo,"{
+ ""name"":""私信""
+}",VIEW
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_027_F025_coder.wav.pcm,microblog,查看评论,查看评论,TRUE,0,是,weibo,"{
+ ""name"":""评论""
+}",VIEW
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_034_M007_coder.wav.pcm,microblog,我想发微博今天天气真不错,我想发微博今天天气真不错,TRUE,0,是,weibo,"{
+ ""content"":""今天天气真不错""
+}",PUBLISH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_041_F026_coder.wav.pcm,microblog,我想发微博湖人又输了打了些毛线啊,我想发微博湖人又输了打了些毛线啊,TRUE,0,是,weibo,"{
+ ""content"":""湖人又输了打了些毛线啊""
+}",PUBLISH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_048_F026_coder.wav.pcm,microblog,我想发微博我累个擦好多人啊,我想发微博我累个擦好多人啊,TRUE,0,是,weibo,"{
+ ""content"":""我累个擦好多人啊""
+}",PUBLISH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_055_M008_coder.wav.pcm,microblog,我要发微博泰囧里面的人妖真是比女人还女人啊,我要发微博泰囧里面的人妖真是比女人还女人啊,TRUE,0,是,weibo,"{
+ ""content"":""泰囧里面的人妖真是比女人还女人啊""
+}",PUBLISH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_062_M008_coder.wav.pcm,microblog,我要发微博大企业管理是一个相当复杂的工作,我要发微博大企业管理是一个相当复杂的工作,TRUE,0,是,weibo,"{
+ ""content"":""大企业管理是一个相当复杂的工作""
+}",PUBLISH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\15microblog\15microblog_069_M008_coder.wav.pcm,microblog,我要发微博苹果公司有着高贵的气质没办法人家有钱,我要发微博苹果公司有着高贵的气质没办法人家有钱,TRUE,0,是,weibo,"{
+ ""content"":""苹果公司有着高贵的气质没办法人家有钱""
+}",PUBLISH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_005_F023_coder.wav.pcm,music,五月天的入阵曲,五月天的入阵曲,TRUE,0,是,music,"{
+ ""song"":""入阵曲"",
+ ""artist"":""五月天""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_012_F024_coder.wav.pcm,music,听sd卡里的歌,听sd卡里的歌,TRUE,0,是,music,"{
+ ""source"":""sd""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_019_F024_coder.wav.pcm,music,听一首sd卡里的摇篮曲,听一首sd卡里的摇篮曲,TRUE,0,是,music,"{
+ ""song"":""摇篮曲"",
+ ""source"":""sd""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_026_F025_coder.wav.pcm,music,听一首刘芳的歌,听一首刘芳的歌,TRUE,0,是,music,"{
+ ""artist"":""刘芳""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_033_M007_coder.wav.pcm,music,听一首曲婉婷的我的歌声里,听一首曲婉婷的我的歌声里,TRUE,0,是,music,"{
+ ""song"":""我的歌声里"",
+ ""artist"":""曲婉婷""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_040_M007_coder.wav.pcm,music,听一首爱的主打歌,听一首爱的主打歌,TRUE,0,是,music,"{
+ ""song"":""爱的主打歌""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_047_F026_coder.wav.pcm,music,听一首郝云的活着,听一首郝云的活着,TRUE,0,是,music,"{
+ ""song"":""活着"",
+ ""artist"":""郝云""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_054_M008_coder.wav.pcm,music,听一首飞轮海的歌,听一首飞轮海的歌,TRUE,0,是,music,"{
+ ""artist"":""飞轮海""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_061_M008_coder.wav.pcm,music,听几首凤凰传奇的歌,听几首凤凰传奇的歌,TRUE,0,是,music,"{
+ ""artist"":""凤凰传奇""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_068_M008_coder.wav.pcm,music,听几首杭娇的歌,听几首杭娇的歌,TRUE,0,是,music,"{
+ ""artist"":""杭娇""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_075_M008_coder.wav.pcm,music,听几首陈思涵的歌,听几首陈思涵的歌,TRUE,0,是,music,"{
+ ""artist"":""陈思涵""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_082_F027_coder.wav.pcm,music,听听快乐的音乐,听听快乐的音乐,TRUE,0,是,music,"{
+ ""category"":""快乐""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_089_F027_coder.wav.pcm,music,听李宗盛的歌,听李宗盛的歌,TRUE,0,是,music,"{
+ ""artist"":""李宗盛""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_096_F027_coder.wav.pcm,music,听菲比的歌,听菲比的歌,TRUE,0,是,music,"{
+ ""artist"":""菲比""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_103_F027_coder.wav.pcm,music,听音乐,听音乐,TRUE,0,是,music,{},PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_110_F027_coder.wav.pcm,music,屠洪刚的叶问霜天,屠洪刚的叶问霜天,TRUE,0,是,music,"{
+ ""song"":""叶问霜天"",
+ ""artist"":""屠洪刚""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_117_M009_coder.wav.pcm,music,帮我找徐良与孙羽幽版的七秒钟的记忆,帮我找徐良与孙羽幽版的七秒钟的记忆,TRUE,0,是,music,"{
+ ""song"":""七秒钟的记忆"",
+ ""artist"":""孙羽幽""
+}",SEARCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_124_M009_coder.wav.pcm,music,帮我找黄安版的新鸳鸯蝴蝶梦,帮我找黄安版的新鸳鸯蝴蝶梦,TRUE,0,是,music,"{
+ ""song"":""新鸳鸯蝴蝶梦"",
+ ""artist"":""黄安""
+}",SEARCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_131_M010_coder.wav.pcm,music,我想听ipod里的歌,我想听ipod里的歌,TRUE,0,是,music,"{
+ ""source"":""iPod""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_138_M010_coder.wav.pcm,music,我想听一下宋冬野的董小姐,我想听一下宋冬野的董小姐,TRUE,0,是,music,"{
+ ""song"":""董小姐"",
+ ""artist"":""宋冬野""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_145_M010_coder.wav.pcm,music,我想听一下陈慧琳的记事本,我想听一下陈慧琳的记事本,TRUE,0,是,music,"{
+ ""song"":""记事本"",
+ ""artist"":""陈慧琳""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_152_M011_coder.wav.pcm,music,我想听不是一个人,我想听不是一个人,TRUE,0,是,music,"{
+ ""song"":""不是一个人""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_159_M011_coder.wav.pcm,music,我想听千年等一回,我想听千年等一回,TRUE,0,是,music,"{
+ ""song"":""千年等一回""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_166_M011_coder.wav.pcm,music,我想听平静的音乐,我想听平静的音乐,TRUE,0,是,music,"{
+ ""category"":""平静""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_173_M011_coder.wav.pcm,music,我想听明天你是否依然爱,我想听明天你是否依然爱,TRUE,0,是,music,"{
+ ""weakmatch"":""明天你是否依然爱""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_180_M011_coder.wav.pcm,music,我想听杨丞琳唱的勇敢很好,我想听杨丞琳唱的勇敢很好,TRUE,0,是,music,"{
+ ""song"":""勇敢很好"",
+ ""artist"":""杨丞琳""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_187_F028_coder.wav.pcm,music,我想听欧阳菲菲的感恩的心,我想听欧阳菲菲的感恩的心,TRUE,0,是,music,"{
+ ""song"":""感恩的心"",
+ ""artist"":""欧阳菲菲""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_194_F028_coder.wav.pcm,music,我想听玖月奇迹唱的中国范儿,我想听玖月奇迹唱的中国范儿,TRUE,0,是,music,"{
+ ""song"":""中国范儿"",
+ ""artist"":""玖月奇迹""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_201_F028_coder.wav.pcm,music,我想听自由飞翔,我想听自由飞翔,TRUE,0,是,music,"{
+ ""song"":""自由飞翔""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_208_F028_coder.wav.pcm,music,我想听费翔唱的冬天里的一把火,我想听费翔唱的冬天里的一把火,TRUE,0,是,music,"{
+ ""song"":""冬天里的一把火"",
+ ""artist"":""费翔""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_215_F029_coder.wav.pcm,music,我想听陈冠希的歌,我想听陈冠希的歌,TRUE,0,是,music,"{
+ ""artist"":""陈冠希""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_222_F029_coder.wav.pcm,music,我想听高枫的歌,我想听高枫的歌,TRUE,0,是,music,"{
+ ""artist"":""高枫""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_229_F029_coder.wav.pcm,music,我想要听sd卡里刘德华的歌曲,我想要听sd卡里刘德华的歌曲,TRUE,0,是,music,"{
+ ""artist"":""刘德华"",
+ ""source"":""sd""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_236_F029_coder.wav.pcm,music,我要听cd,我要听cd,TRUE,0,是,music,"{
+ ""source"":""cd""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_243_F030_coder.wav.pcm,music,我要听sd卡里的在水一方,我要听sd卡里的在水一方,TRUE,0,是,music,"{
+ ""song"":""在水一方"",
+ ""source"":""sd""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_250_F030_coder.wav.pcm,music,我要听u盘里she的中国话,我要听u盘里she的中国话,TRUE,0,是,music,"{
+ ""song"":""中国话"",
+ ""artist"":""she"",
+ ""source"":""u盘""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_257_F030_coder.wav.pcm,music,我要听一下usb里的真心英雄这首歌,我要听一下usb里的真心英雄这首歌,TRUE,0,是,music,"{
+ ""song"":""真心英雄"",
+ ""source"":""usb""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_264_F030_coder.wav.pcm,music,我要听一下护花使者这首歌,我要听一下护花使者这首歌,TRUE,0,是,music,"{
+ ""song"":""护花使者""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_271_F030_coder.wav.pcm,music,我要听三弦的音乐,我要听三弦的音乐,TRUE,0,是,music,"{
+ ""category"":""三弦""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_278_F030_coder.wav.pcm,music,我要听冬季到台北来看雨,我要听冬季到台北来看雨,TRUE,0,是,music,"{
+ ""song"":""冬季到台北来看雨""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_285_M012_coder.wav.pcm,music,我要听孙楠的歌,我要听孙楠的歌,TRUE,0,是,music,"{
+ ""artist"":""孙楠""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_292_M012_coder.wav.pcm,music,我要听戴爱玲的歌,我要听戴爱玲的歌,TRUE,0,是,music,"{
+ ""artist"":""戴爱玲""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_299_M012_coder.wav.pcm,music,我要听武艺的舍不得忘记,我要听武艺的舍不得忘记,TRUE,0,是,music,"{
+ ""song"":""舍不得忘记"",
+ ""artist"":""武艺""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_306_M012_coder.wav.pcm,music,我要听王菲与陈奕迅的因为爱情,我要听王菲与陈奕迅的因为爱情,TRUE,0,是,music,"{
+ ""song"":""因为爱情"",
+ ""artist"":""陈奕迅""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_313_M012_coder.wav.pcm,music,我要听许诺的离开这个地方,我要听许诺的离开这个地方,TRUE,0,是,music,"{
+ ""song"":""离开这个地方"",
+ ""artist"":""许诺""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_320_M012_coder.wav.pcm,music,我要听高山流水,我要听高山流水,TRUE,0,是,music,"{
+ ""song"":""高山流水""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_327_M012_coder.wav.pcm,music,播放cd里的一场游戏一场梦,播放cd里的一场游戏一场梦,TRUE,0,是,music,"{
+ ""song"":""一场游戏一场梦"",
+ ""source"":""cd""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_334_F031_coder.wav.pcm,music,播放伤感调频的音乐,播放伤感调频的音乐,TRUE,0,是,music,"{
+ ""category"":""伤感""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_341_F031_coder.wav.pcm,music,播放工作的音乐,播放工作的音乐,TRUE,0,是,music,"{
+ ""category"":""工作""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_348_F031_coder.wav.pcm,music,播放日韩的音乐,播放日韩的音乐,TRUE,0,是,music,"{
+ ""category"":""日韩""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_355_F031_coder.wav.pcm,music,播放爱你,播放爱你,TRUE,0,是,music,"{
+ ""song"":""爱你""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_362_F031_coder.wav.pcm,music,播放莫文蔚和张洪量的广岛之恋,播放莫文蔚和张洪量的广岛之恋,TRUE,0,是,music,"{
+ ""song"":""广岛之恋"",
+ ""artist"":""张洪量""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_369_F031_coder.wav.pcm,music,放一些扎木聂的音乐,放一些扎木聂的音乐,TRUE,0,是,music,"{
+ ""category"":""扎木聂""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_376_F031_coder.wav.pcm,music,放几首二胡的音乐,放几首二胡的音乐,TRUE,0,是,music,"{
+ ""category"":""二胡""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_383_F031_coder.wav.pcm,music,放几首鼓的音乐,放几首鼓的音乐,TRUE,0,是,music,"{
+ ""category"":""鼓""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_390_F031_coder.wav.pcm,music,有声音特效的音乐吗,有声音特效的音乐吗,TRUE,0,是,music,"{
+ ""category"":""声音特效""
+}",SEARCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_397_F031_coder.wav.pcm,music,来一首u盘里的希望,来一首u盘里的希望,TRUE,0,是,music,"{
+ ""song"":""希望"",
+ ""source"":""u盘""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_404_F031_coder.wav.pcm,music,来一首唱的是寂寞,来一首唱的是寂寞,TRUE,0,是,music,"{
+ ""song"":""唱的是寂寞""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_411_F031_coder.wav.pcm,music,来一首沙宝亮的暗香,来一首沙宝亮的暗香,TRUE,0,是,music,"{
+ ""song"":""暗香"",
+ ""artist"":""沙宝亮""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_418_F031_coder.wav.pcm,music,来一首罗中旭的如果你不再爱了,来一首罗中旭的如果你不再爱了,TRUE,0,是,music,"{
+ ""song"":""如果你不再爱了"",
+ ""artist"":""罗中旭""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_425_F031_coder.wav.pcm,music,来几首冯玮君的歌,来几首冯玮君的歌,TRUE,0,是,music,"{
+ ""artist"":""冯玮君""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_432_F031_coder.wav.pcm,music,来几首张镐哲的歌,来几首张镐哲的歌,TRUE,0,是,music,"{
+ ""artist"":""张镐哲""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_439_F031_coder.wav.pcm,music,来几首英语的音乐,来几首英语的音乐,TRUE,0,是,music,"{
+ ""category"":""英语""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_446_F031_coder.wav.pcm,music,来首cd里的小小小孩,来首cd里的小小小孩,TRUE,0,是,music,"{
+ ""song"":""小小小孩"",
+ ""source"":""cd""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_453_F031_coder.wav.pcm,music,来首半梦半醒,来首半梦半醒,TRUE,0,是,music,"{
+ ""song"":""半梦半醒""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_460_F031_coder.wav.pcm,music,来首庞龙的兄弟抱一下,来首庞龙的兄弟抱一下,TRUE,0,是,music,"{
+ ""song"":""兄弟抱一下"",
+ ""artist"":""庞龙""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_467_F031_coder.wav.pcm,music,来首祝你一路顺风,来首祝你一路顺风,TRUE,0,是,music,"{
+ ""song"":""祝你一路顺风""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_474_F031_coder.wav.pcm,music,杨钰莹与毛宁的心雨放给我听一下,杨钰莹与毛宁的心雨放给我听一下,TRUE,0,是,music,"{
+ ""song"":""心雨"",
+ ""artist"":""毛宁""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_481_F031_coder.wav.pcm,music,点播ipod里的歌,点播ipod里的歌,TRUE,0,是,music,"{
+ ""source"":""iPod""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_488_F031_coder.wav.pcm,music,点播光辉岁月,点播光辉岁月,TRUE,0,是,music,"{
+ ""song"":""光辉岁月""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_495_F031_coder.wav.pcm,music,点播放手的勇气,点播放手的勇气,TRUE,0,是,music,"{
+ ""song"":""放手的勇气""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_502_F031_coder.wav.pcm,music,点播爱一回伤一回,点播爱一回伤一回,TRUE,0,是,music,"{
+ ""song"":""爱一回伤一回""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_509_F031_coder.wav.pcm,music,点播陈瑞的歌,点播陈瑞的歌,TRUE,0,是,music,"{
+ ""artist"":""陈瑞""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_516_F031_coder.wav.pcm,music,谢容儿的寂寞能放给我听一下吗,谢容儿的寂寞能放给我听一下吗,TRUE,0,是,music,"{
+ ""song"":""寂寞"",
+ ""artist"":""谢容儿""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_523_F031_coder.wav.pcm,music,高进的歌,高进的歌,TRUE,0,是,music,"{
+ ""artist"":""高进""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_530_F031_coder.wav.pcm,music,把那首你快乐所以我快乐播放一下,把那首你快乐所以我快乐播放一下,TRUE,0,是,music,"{
+ ""song"":""你快乐所以我快乐""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_537_F031_coder.wav.pcm,music,把那首我被青春撞了一下腰播放一下,把那首我被青春撞了一下腰播放一下,TRUE,0,是,music,"{
+ ""song"":""我被青春撞了一下腰""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\16music\16music_544_F031_coder.wav.pcm,music,黄品源的歌,黄品源的歌,TRUE,0,是,music,"{
+ ""artist"":""黄品源""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_007_F023_coder.wav.pcm,news,圣诞节的新闻,圣诞节的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-12-25"",
+  ""dateOrig"":""圣诞节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_014_F024_coder.wav.pcm,news,今天有什么头版新闻,今天有什么头版新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""今天"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_021_F025_coder.wav.pcm,news,清明的新闻,清明的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2016-04-04"",
+  ""dateOrig"":""清明"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_028_F025_coder.wav.pcm,news,国庆节的新闻,国庆节的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2016-10-01"",
+  ""dateOrig"":""国庆节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_035_M007_coder.wav.pcm,news,上午的新闻,上午的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""上午"",
+  ""endDate"":""2015-10-13"",
+  ""time"":""06:00:00"",
+  ""endTime"":""12:00:00"",
+  ""type"":""DT_INTERVAL""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_042_F026_coder.wav.pcm,news,最近上映的电影的新闻,最近上映的电影的新闻,TRUE,0,是,news,"{""datetime"":{""date"":""CURRENT_DAY"",""dateOrig"":""最近"",""type"":""DT_ORIGINAL""},""keyword"":""电影""}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_049_F026_coder.wav.pcm,news,十号有什么新闻,十号有什么新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-11-10"",
+  ""dateOrig"":""十号"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_056_M008_coder.wav.pcm,news,年三十的新闻,年三十的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""dateOrig"":""年三十"",
+  ""type"":""DT_ORIGINAL""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_063_M008_coder.wav.pcm,news,元宵节的新闻,元宵节的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2016-02-22"",
+  ""dateOrig"":""元宵节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_070_M008_coder.wav.pcm,news,我想听娱乐新闻,我想听娱乐新闻,TRUE,0,是,news,"{
+ ""category"":""娱乐""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_077_M008_coder.wav.pcm,news,愚人节的新闻,愚人节的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2016-04-01"",
+  ""dateOrig"":""愚人节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_084_F027_coder.wav.pcm,news,元宵节的新闻,元宵节的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2016-02-22"",
+  ""dateOrig"":""元宵节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_091_F027_coder.wav.pcm,news,中午的新闻,中午的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""中午"",
+  ""endDate"":""2015-10-13"",
+  ""time"":""11:00:00"",
+  ""endTime"":""13:00:00"",
+  ""type"":""DT_INTERVAL""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_098_F027_coder.wav.pcm,news,早上九点的新闻,早上九点的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""早上九点"",
+  ""time"":""09:00:00"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_105_F027_coder.wav.pcm,news,三点半的新闻,三点半的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""三点半"",
+  ""time"":""15:30:00"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_112_M009_coder.wav.pcm,news,周一的新闻,周一的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-19"",
+  ""dateOrig"":""周一"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_119_M009_coder.wav.pcm,news,目前新闻,目前新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""目前"",
+  ""time"":""08:41:50"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_126_M009_coder.wav.pcm,news,我想听百度新闻,我想听百度新闻,TRUE,0,是,news,"{
+ ""media"":""百度""
+}",PLAY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_133_M010_coder.wav.pcm,news,正月月初一的新闻,正月月初一的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""dateOrig"":""月初一"",
+  ""type"":""DT_ORIGINAL""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_140_M010_coder.wav.pcm,news,三点半的新闻,三点半的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""三点半"",
+  ""time"":""15:30:00"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\17news\17news_147_M010_coder.wav.pcm,news,最近国内有什么大的新闻,最近国内有什么大的新闻,TRUE,0,是,news,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""dateOrig"":""最近"",
+  ""type"":""DT_ORIGINAL""
+ },
+ ""location"":{
+  ""country"":""国内"",
+  ""type"":""LOC_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_004_F023_coder.wav.pcm,radio,东莞交通音乐台,东莞交通音乐台,TRUE,1,是,radio,"{
+ ""name"":""东莞交通音乐台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_011_F024_coder.wav.pcm,radio,乌鲁木齐经济广播,乌鲁木齐经济广播,TRUE,1,是,radio,"{
+ ""name"":""乌鲁木齐经济广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_018_F024_coder.wav.pcm,radio,兰州音乐广播,兰州音乐广播,TRUE,1,是,radio,"{
+ ""name"":""兰州交通音乐""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_025_F025_coder.wav.pcm,radio,千岛湖之声,千岛湖之声,TRUE,1,是,radio,"{
+ ""name"":""千岛湖之声""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_032_M007_coder.wav.pcm,radio,南宁交通音乐广播,南宁交通音乐广播,TRUE,1,是,radio,"{
+ ""name"":""南宁交通音乐广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_039_M007_coder.wav.pcm,radio,合肥汽车音乐电台,合肥汽车音乐电台,TRUE,1,是,radio,"{
+ ""name"":""合肥汽车音乐电台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_046_F026_coder.wav.pcm,radio,听南京经济电台,听南京经济电台,TRUE,1,是,radio,"{
+ ""name"":""南京经济台"",
+ ""nameOrig"":""南京经济电台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_053_M008_coder.wav.pcm,radio,听听郑州都市广播,听听郑州都市广播,TRUE,1,是,radio,"{
+ ""name"":""郑州都市广播"",
+ ""nameOrig"":""郑州都市广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_060_M008_coder.wav.pcm,radio,听调频894,听调频八九四,FALSE,1,是,radio,"{
+ ""code"":""89.4"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_067_M008_coder.wav.pcm,radio,听调频1074,听调频一零七四,FALSE,1,是,radio,"{
+ ""code"":""107.4"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_074_M008_coder.wav.pcm,radio,听调频92.7,听调频九二点七,FALSE,1,是,radio,"{
+ ""code"":""92.7"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_081_F027_coder.wav.pcm,radio,听调频888,听调频八八八,FALSE,1,是,radio,"{
+ ""code"":""88.8"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_088_F027_coder.wav.pcm,radio,听长沙品味音乐广播,听长沙品味音乐广播,TRUE,1,是,radio,"{
+ ""name"":""长沙品味音乐广播"",
+ ""nameOrig"":""长沙品味音乐广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_095_F027_coder.wav.pcm,radio,唐山交通文艺广播,唐山交通文艺广播,TRUE,1,是,radio,"{
+ ""name"":""唐山交通文艺广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_102_F027_coder.wav.pcm,radio,大连彩虹网络台,大连彩虹网络台,TRUE,1,是,radio,"{
+ ""name"":""大连彩虹网络台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_109_F027_coder.wav.pcm,radio,宁夏经济广播,宁夏经济广播,TRUE,1,是,radio,"{
+ ""name"":""宁夏经济广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_116_M009_coder.wav.pcm,radio,常州怀旧频率,常州怀旧频率,TRUE,1,是,radio,"{
+ ""name"":""常州怀旧广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_123_M009_coder.wav.pcm,radio,广西新闻综合广播,广西新闻综合广播,TRUE,1,是,radio,"{
+ ""name"":""广西新闻综合广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_130_M009_coder.wav.pcm,radio,徐州交通广播,徐州交通广播,TRUE,1,是,radio,"{
+ ""name"":""徐州交通广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_137_M010_coder.wav.pcm,radio,我想听fm89.2,我想听fm八九点二,FALSE,1,是,radio,"{
+ ""code"":""89.2"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_144_M010_coder.wav.pcm,radio,我想听fm1006,我想听fm一零零六,FALSE,1,是,radio,"{
+ ""code"":""100.6"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_151_M011_coder.wav.pcm,radio,我想听fm926,我想听fm九二六,FALSE,1,是,radio,"{
+ ""code"":""92.6"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_158_M011_coder.wav.pcm,radio,我想听fm945,我想听fm九四五,FALSE,1,是,radio,"{
+ ""code"":""94.5"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_165_M011_coder.wav.pcm,radio,我想听fm1031,我想听fm幺零三幺,FALSE,1,是,radio,"{
+ ""code"":""103.1"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_172_M011_coder.wav.pcm,radio,我想听听江西游友之声,我想听听江西游友之声,TRUE,1,是,radio,"{
+ ""name"":""江西游友之声"",
+ ""nameOrig"":""江西游友之声""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_179_M011_coder.wav.pcm,radio,我想听听长沙城市之音,我想听听长沙城市之音,TRUE,1,是,radio,"{
+ ""name"":""长沙人民广播电台音乐优电台"",
+ ""nameOrig"":""长沙城市之音""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_186_F028_coder.wav.pcm,radio,我想听湖南新闻广播,我想听湖南新闻广播,TRUE,1,是,radio,"{
+ ""name"":""湖南新闻广播"",
+ ""nameOrig"":""湖南新闻广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_193_F028_coder.wav.pcm,radio,我要听听武汉少儿广播,我要听听武汉少儿广播,TRUE,1,是,radio,"{
+ ""name"":""武汉品味936"",
+ ""nameOrig"":""武汉少儿广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_200_F028_coder.wav.pcm,radio,我要听听长沙新闻广播,我要听听长沙新闻广播,TRUE,1,是,radio,"{
+ ""name"":""长沙新闻广播"",
+ ""nameOrig"":""长沙新闻广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_207_F028_coder.wav.pcm,radio,我要听郑州音乐广播,我要听郑州音乐广播,TRUE,1,是,radio,"{
+ ""name"":""郑州音乐广播"",
+ ""nameOrig"":""郑州音乐广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_214_F029_coder.wav.pcm,radio,抚顺交通台,抚顺交通台,TRUE,1,是,radio,"{
+ ""name"":""抚顺交通台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_221_F029_coder.wav.pcm,radio,播放调频fm105.8,播放调频fm一百零五点八,FALSE,1,是,radio,"{
+ ""code"":""105.8"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_228_F029_coder.wav.pcm,radio,播放调频fm936,播放调频fm九三六,FALSE,1,是,radio,"{
+ ""code"":""93.6"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_235_F029_coder.wav.pcm,radio,播放调频fm968,播放调频fm九六八,FALSE,1,是,radio,"{
+ ""code"":""96.8"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_242_F030_coder.wav.pcm,radio,播放调频fm89.6,播放调频fm八十九点六,FALSE,1,是,radio,"{
+ ""code"":""89.6"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_249_F030_coder.wav.pcm,radio,收听am1559,收听am一五五九,FALSE,1,是,radio,"{
+ ""code"":""1559"",
+ ""waveband"":""am""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_256_F030_coder.wav.pcm,radio,收听fm105.3,收听fm一百零五点三,FALSE,1,是,radio,"{
+ ""code"":""105.3"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_263_F030_coder.wav.pcm,radio,收听fm97.2,收听fm九十七点二,FALSE,1,是,radio,"{
+ ""code"":""97.2"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_270_F030_coder.wav.pcm,radio,收听fm96.6,收听fm九十六点六,FALSE,1,是,radio,"{
+ ""code"":""96.6"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_277_F030_coder.wav.pcm,radio,收听fm88.2,收听fm八八点二,FALSE,1,是,radio,"{
+ ""code"":""88.2"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_284_M012_coder.wav.pcm,radio,收听洛阳新闻广播,收听洛阳新闻广播,TRUE,1,是,radio,"{
+ ""name"":""洛阳新闻广播"",
+ ""nameOrig"":""洛阳新闻广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_291_M012_coder.wav.pcm,radio,新疆综合广播,新疆综合广播,TRUE,1,是,radio,"{
+ ""name"":""新疆综合广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_298_M012_coder.wav.pcm,radio,杭州新闻广播,杭州新闻广播,TRUE,1,是,radio,"{
+ ""name"":""杭州新闻广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_305_M012_coder.wav.pcm,radio,汕头交通音乐之声,汕头交通音乐之声,TRUE,1,是,radio,"{
+ ""name"":""汕头交通音乐之声""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_312_M012_coder.wav.pcm,radio,沈阳体育休闲广播,沈阳体育休闲广播,TRUE,1,是,radio,"{
+ ""name"":""沈阳体育休闲广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_319_M012_coder.wav.pcm,radio,济南经济广播,济南经济广播,TRUE,1,是,radio,"{
+ ""name"":""济南经济广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_326_M012_coder.wav.pcm,radio,深圳生活广播,深圳生活广播,TRUE,1,是,radio,"{
+ ""name"":""深圳生活广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_333_M013_coder.wav.pcm,radio,湖北阳光调频广播,湖北阳光调频广播,TRUE,1,是,radio,"{
+ ""name"":""湖北阳光调频广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_340_M013_coder.wav.pcm,radio,牡丹江都市生活,牡丹江都市生活,TRUE,1,是,radio,"{
+ ""name"":""牡丹江都市生活""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_347_M013_coder.wav.pcm,radio,盘锦交通文艺广播,盘锦交通文艺广播,TRUE,1,是,radio,"{
+ ""name"":""盘锦人民广播电台交通文艺广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_354_M013_coder.wav.pcm,radio,糖罐子网络电台,糖罐子网络电台,TRUE,1,是,radio,"{
+ ""name"":""糖罐子网络电台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_361_M013_coder.wav.pcm,radio,肇庆网络电台,肇庆网络电台,TRUE,1,是,radio,"{
+ ""name"":""肇庆网络电台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_368_M013_coder.wav.pcm,radio,西藏都市生活,西藏都市生活,TRUE,1,是,radio,"{
+ ""name"":""西藏都市生活""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_375_M013_coder.wav.pcm,radio,调幅到am1521,调幅到am一千五百二十一,FALSE,1,是,radio,"{
+ ""code"":""1520"",
+ ""waveband"":""am""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_382_M013_coder.wav.pcm,radio,调频106.3,调频一百零六点三,FALSE,1,是,radio,"{
+ ""code"":""106.3"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_389_M013_coder.wav.pcm,radio,调频931,调频九三幺,FALSE,1,是,radio,"{
+ ""code"":""93.1"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_396_M013_coder.wav.pcm,radio,调频879,调频八七九,FALSE,1,是,radio,"{
+ ""code"":""87.9"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_403_M013_coder.wav.pcm,radio,贵阳电台新闻频率,贵阳电台新闻频率,TRUE,1,是,radio,"{
+ ""name"":""贵阳电台新闻频率""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_410_M013_coder.wav.pcm,radio,郑州新闻广播,郑州新闻广播,TRUE,1,是,radio,"{
+ ""name"":""郑州新闻广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_417_M013_coder.wav.pcm,radio,长春交通之声,长春交通之声,TRUE,1,是,radio,"{
+ ""name"":""长春人民广播电台交通广播""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_424_M013_coder.wav.pcm,radio,阳江音乐台,阳江音乐台,TRUE,1,是,radio,"{
+ ""name"":""阳江音乐台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_431_M013_coder.wav.pcm,radio,青苹果电台,青苹果电台,TRUE,1,是,radio,"{
+ ""name"":""青苹果电台""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_438_M013_coder.wav.pcm,radio,fm895,fm八九五,FALSE,1,是,radio,"{
+ ""code"":""89.5"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_445_M013_coder.wav.pcm,radio,fm914,fm九幺四,FALSE,1,是,radio,"{
+ ""code"":""91.4"",
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\18radio\18radio_452_M013_coder.wav.pcm,radio,am1345,am一三四五,FALSE,1,是,radio,"{
+ ""code"":""1345"",
+ ""waveband"":""am""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_002_F023_coder.wav.pcm,restaurant,上海南京路附近著名的小吃,上海南京路附近著名的小吃,TRUE,0,是,restaurant,"{
+ ""category"":""小吃"",
+ ""location"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""street"":""南京路"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_009_F023_coder.wav.pcm,restaurant,中山北路地铁站附近有没有必胜客,中山北路地铁站附近有没有必胜客,TRUE,0,是,restaurant,"{""name"":""必胜客"",""location"":{""city"":""CURRENT_CITY"",""street"":""中山北路"",""poi"":""地铁站"",""type"":""LOC_POI""}}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_016_F024_coder.wav.pcm,restaurant,凯悦酒家有什么特色菜,凯悦酒家有什么特色菜,TRUE,0,是,restaurant,"{
+ ""name"":""凯悦酒家"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_023_F025_coder.wav.pcm,restaurant,北京王府井附近的小吃,北京王府井附近的小吃,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""poi"":""王府井"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""小吃""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_030_F025_coder.wav.pcm,restaurant,合肥包河区女人街有什么实惠的川菜馆,合肥包河区女人街有什么实惠的川菜馆,TRUE,0,是,restaurant,"{
+ ""price"":""实惠"",
+ ""location"":{
+  ""area"":""包河区"",
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""areaAddr"":""包河"",
+  ""poi"":""女人街"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""川菜馆""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_037_M007_coder.wav.pcm,restaurant,合肥市政府最最近的麦当劳在哪里,合肥市政府最最近的麦当劳在哪里,TRUE,0,是,restaurant,"{
+ ""name"":""麦当劳"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""poi"":""合肥市政府"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_044_F026_coder.wav.pcm,restaurant,合肥长江西路上面有阿瓦山寨饭店吗,合肥长江西路上面有阿瓦山寨饭店吗,TRUE,0,是,restaurant,"{
+ ""name"":""阿瓦山寨饭店"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""street"":""长江西路"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_051_M008_coder.wav.pcm,restaurant,哪里有好吃的三河土菜,哪里有好吃的三河土菜,TRUE,0,是,restaurant,"{
+ ""special"":""三河土菜"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_058_M008_coder.wav.pcm,restaurant,帮我找一找乌龙派出所附近的日本料理,帮我找一找乌龙派出所附近的日本料理,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""乌龙派出所"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""日本料理""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_065_M008_coder.wav.pcm,restaurant,我们要吃诸葛烤鱼,我们要吃诸葛烤鱼,TRUE,0,是,restaurant,"{
+ ""name"":""诸葛烤鱼"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_072_M008_coder.wav.pcm,restaurant,我肚子饿了想吃肯德基,我肚子饿了想吃肯德基,TRUE,0,是,restaurant,"{
+ ""name"":""肯德基"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_079_M008_coder.wav.pcm,restaurant,搜索合肥的桂林米粉店,搜索合肥的桂林米粉店,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""桂林米粉店""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_086_F027_coder.wav.pcm,restaurant,搜索附近的餐厅,搜索附近的餐厅,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""餐厅""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_093_F027_coder.wav.pcm,restaurant,望江西路上有什么好吃的,望江西路上有什么好吃的,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""望江西路"",
+  ""type"":""LOC_STREET""
+ },
+ ""category"":""美食""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_100_F027_coder.wav.pcm,restaurant,查一查合肥市第一人民医院附近的烤鸭店,查一查合肥市第一人民医院附近的烤鸭店,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""poi"":""第一人民医院"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""烤鸭店""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_107_F027_coder.wav.pcm,restaurant,查一查美国驻上海领事馆附近的烤鸭店,查一查美国驻上海领事馆附近的烤鸭店,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""驻上海领事馆"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""烤鸭店""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_114_M009_coder.wav.pcm,restaurant,火车站附近有便宜点的饭店吗,火车站附近有便宜点的饭店吗,TRUE,0,是,restaurant,"{
+ ""price"":""便宜"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""火车站"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""饭店""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_121_M009_coder.wav.pcm,restaurant,知不知道滨湖的自助火锅怎么样,知不知道滨湖的自助火锅怎么样,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""area"":""滨湖区"",
+  ""areaAddr"":""滨湖"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""自助火锅""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_128_M009_coder.wav.pcm,restaurant,蜀王火锅店在哪里,蜀王火锅店在哪里,TRUE,0,是,restaurant,"{
+ ""name"":""蜀王火锅店"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""poi"":""合肥市政府"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_135_M010_coder.wav.pcm,restaurant,附近哪里有好的饭店,附近哪里有好的饭店,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""饭店""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_142_M010_coder.wav.pcm,restaurant,附近有好吃的泰国菜吗,附近有好吃的泰国菜吗,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""泰国菜""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\19restaurant\19restaurant_149_M010_coder.wav.pcm,restaurant,高新区有哪些自助餐厅啊,高新区有哪些自助餐厅啊,TRUE,0,是,restaurant,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""高新区"",
+  ""type"":""LOC_POI""
+ },
+ ""category"":""自助餐厅""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_005_M097_coder.wav.pcm,air_control,制冷26度,制冷二十六度,FALSE,1,是,airControl,"{
+ ""mode"":""制冷"",
+ ""temperature"":""26""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_012_M099_coder.wav.pcm,air_control,帮我关下空调,帮我关下空调,TRUE,1,是,airControl,"{
+ ""device"":""空调""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_019_M099_coder.wav.pcm,air_control,帮我把空调打开,帮我把空调打开,TRUE,1,是,airControl,"{
+ ""device"":""空调""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_026_M102_coder.wav.pcm,air_control,帮我把空调风向下,帮我把空调风向下,TRUE,1,是,airControl,"{
+ ""airflowDirection"":""下"",
+ ""device"":""空调""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_033_M071_coder.wav.pcm,air_control,我想关闭空调,我想关闭空调,TRUE,1,是,airControl,"{
+ ""device"":""空调""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_040_M072_coder.wav.pcm,air_control,我想把温度调低一度,我想把温度调低一度,TRUE,1,是,airControl,"{
+ ""temperature"":{
+  ""ref"":""CUR"",
+  ""offset"":""1"",
+  ""direct"":""-"",
+  ""type"":""SPOT""
+ }
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_047_M074_coder.wav.pcm,air_control,我想把风速调大一点,我想把风速调大一点,TRUE,1,是,airControl,"{
+ ""fanSpeed"":""+""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_054_M047_coder.wav.pcm,air_control,我想要空调除霜,我想要空调除霜,TRUE,1,是,airControl,"{
+ ""mode"":""除霜"",
+ ""device"":""空调""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_061_M049_coder.wav.pcm,air_control,我想运行空调,我想运行空调,TRUE,1,是,airControl,"{
+ ""device"":""空调""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_068_M050_coder.wav.pcm,air_control,温度调高,温度调高,TRUE,1,是,airControl,"{
+ ""temperature"":""+""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_075_M075_coder.wav.pcm,air_control,空调手动模式,空调手动模式,TRUE,1,是,airControl,"{
+ ""mode"":""手动"",
+ ""device"":""空调""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_082_F001_coder.wav.pcm,air_control,空调除霜,空调除霜,TRUE,1,是,airControl,"{
+ ""mode"":""除霜"",
+ ""device"":""空调""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_089_F001_coder.wav.pcm,air_control,设定风向为扫风,设定风向为扫风,TRUE,1,是,airControl,"{
+ ""airflowDirection"":""扫风""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\1air_control\1air_control_096_F002_coder.wav.pcm,air_control,风速小一点,风速小一点,TRUE,1,是,airControl,"{
+ ""fanSpeed"":""-""
+}",SET
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_003_F023_coder.wav.pcm,schedule,5月1日下午五点叫我起床记得提醒我,五月一日下午五点叫我起床记得提醒我,FALSE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2016-05-01"",
+  ""timeOrig"":""下午五点"",
+  ""dateOrig"":""五月一日"",
+  ""time"":""17:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""reminder"",
+ ""content"":""叫我起床""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_010_F023_coder.wav.pcm,schedule,下一个科大讯飞前提醒我一下,下一个科大讯飞前提醒我一下,TRUE,0,是,schedule,"{
+ ""name"":""reminder"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""科大讯飞"",
+  ""type"":""LOC_POI""
+ },
+ ""content"":""下一个科大讯飞前提醒我一下""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_017_F024_coder.wav.pcm,schedule,22点提醒,二十二点提醒,FALSE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""二十二点"",
+  ""time"":""22:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""reminder"",
+ ""content"":""二十二点提醒""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_024_F025_coder.wav.pcm,schedule,到下一个长江西路前提醒我下,到下一个长江西路前提醒我下,TRUE,0,是,schedule,"{
+ ""name"":""reminder"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""长江西路"",
+  ""type"":""LOC_POI""
+ },
+ ""content"":""到下一个长江西路前提醒我下""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_031_M007_coder.wav.pcm,schedule,到安徽农业大学时提醒我,到安徽农业大学时提醒我,TRUE,0,是,schedule,"{
+ ""name"":""reminder"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""安徽农业大学"",
+  ""type"":""LOC_POI""
+ },
+ ""content"":""到安徽农业大学时提醒我""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_038_M007_coder.wav.pcm,schedule,周日下午五点闹钟,周日下午五点闹钟,TRUE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2015-10-18"",
+  ""timeOrig"":""下午五点"",
+  ""dateOrig"":""周日"",
+  ""time"":""17:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""clock"",
+ ""content"":""周日下午五点闹钟""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_045_F026_coder.wav.pcm,schedule,定周六早上六点的闹钟,定周六早上六点的闹钟,TRUE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2015-10-17"",
+  ""timeOrig"":""早上六点"",
+  ""dateOrig"":""周六"",
+  ""time"":""06:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""clock"",
+ ""content"":""定周六早上六点的闹钟""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_052_M008_coder.wav.pcm,schedule,快到讯飞大厦时提醒我一下,快到讯飞大厦时提醒我一下,TRUE,0,是,schedule,"{
+ ""name"":""reminder"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""讯飞大厦"",
+  ""type"":""LOC_POI""
+ },
+ ""content"":""快到讯飞大厦时提醒我一下""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_059_M008_coder.wav.pcm,schedule,提醒我4月30号会议安排在下午三点,提醒我四月三十号会议安排在下午三点,FALSE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2016-04-30"",
+  ""timeOrig"":""下午三点"",
+  ""dateOrig"":""四月三十号"",
+  ""time"":""15:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""reminder"",
+ ""content"":""提醒我四月三十号会议安排在下午三点""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_066_M008_coder.wav.pcm,schedule,明早九点后设置闹钟,明早九点后设置闹钟,TRUE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2015-10-14"",
+  ""timeOrig"":""早上九点"",
+  ""dateOrig"":""明天"",
+  ""time"":""09:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""clock"",
+ ""content"":""明早九点后设置闹钟""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_073_M008_coder.wav.pcm,schedule,查找下午的备忘,查找下午的备忘,TRUE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""下午"",
+  ""time"":""14:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""reminder""
+}",VIEW
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_080_M008_coder.wav.pcm,schedule,给我定一个5月1日下午五点的闹铃,给我定一个五月一日下午五点的闹铃,FALSE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2016-05-01"",
+  ""timeOrig"":""下午五点"",
+  ""dateOrig"":""五月一日"",
+  ""time"":""17:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""clock"",
+ ""content"":""给我定一个五月一日下午五点的闹铃""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_087_F027_coder.wav.pcm,schedule,设置一个晚上十一点的提醒,设置一个晚上十一点的提醒,TRUE,0,是,schedule,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""晚上十一点"",
+  ""time"":""23:00:00"",
+  ""type"":""DT_BASIC""
+ },
+ ""name"":""reminder"",
+ ""content"":""设置一个晚上十一点的提醒""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\20schedule\20schedule_094_F027_coder.wav.pcm,schedule,麻烦到长江西路前提醒我下,麻烦到长江西路前提醒我下,TRUE,0,是,schedule,"{
+ ""name"":""reminder"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""长江西路"",
+  ""type"":""LOC_POI""
+ },
+ ""content"":""麻烦到长江西路前提醒我下""
+}",CREATE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_001_F023_coder.wav.pcm,stock,600771今日一股多少钱,六零零七七幺今日一股多少钱,FALSE,0,是,stock,"{""code"":""600771"",""category"":""sh"",""name"":""广誉远""}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_008_F023_coder.wav.pcm,stock,津劝业可以抛了吗,津劝业可以抛了吗,TRUE,0,是,stock,"{""name"":""津劝业"",""category"":""sh"",""code"":""600821""}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_015_F024_coder.wav.pcm,stock,股票代码为002063的分时图,股票代码为零零二零六三的分时图,FALSE,0,是,stock,"{
+ ""code"":""002063"",
+ ""chartType"":""分时图"",
+ ""name"":""远光软件"",
+ ""category"":""sz""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_022_F025_coder.wav.pcm,stock,帮我查万科a的股票信息,帮我查万科a的股票信息,TRUE,0,是,stock,"{
+ ""code"":""000002"",
+ ""name"":""万科a"",
+ ""category"":""sz""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_029_F025_coder.wav.pcm,stock,今天股票价格多少,今天股票价格多少,TRUE,0,是,stock,{},
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_036_M007_coder.wav.pcm,stock,悦达投资今日一股多少钱,悦达投资今日一股多少钱,TRUE,0,是,stock,"{
+ ""code"":""600805"",
+ ""name"":""悦达投资"",
+ ""category"":""sh""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_043_F026_coder.wav.pcm,stock,告诉我马钢股份股票今日收盘价,告诉我马钢股份股票今日收盘价,TRUE,0,是,stock,"{
+ ""code"":""600808"",
+ ""name"":""马钢股份"",
+ ""category"":""sh""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_050_F026_coder.wav.pcm,stock,最近的股票可以买吗,最近的股票可以买吗,TRUE,0,是,stock,{},
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_057_M008_coder.wav.pcm,stock,今天中石化的最高涨值多少,今天中石化的最高涨值多少,TRUE,0,是,stock,"{
+ ""code"":""600028"",
+ ""name"":""中国石化"",
+ ""category"":""sh""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_064_M008_coder.wav.pcm,stock,股票,股票,TRUE,0,是,stock,{},
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_071_M008_coder.wav.pcm,stock,查询王老吉的股票价格,查询王老吉的股票价格,TRUE,0,是,stock,"{
+ ""name"":""王老吉""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_078_M008_coder.wav.pcm,stock,查询沪股大盘的信息,查询沪股大盘的信息,TRUE,0,是,stock,"{
+ ""code"":""000001"",
+ ""name"":""上证指数"",
+ ""category"":""sh""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_085_F027_coder.wav.pcm,stock,查询苹果的股票信息,查询苹果的股票信息,TRUE,0,是,stock,"{
+ ""name"":""苹果""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_092_F027_coder.wav.pcm,stock,56789贝婴美股票在哪个交易所上市的,五六七八九贝婴美股票在哪个交易所上市的,FALSE,0,是,stock,"{
+ ""code"":""56789"",
+ ""name"":""贝婴美""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_099_F027_coder.wav.pcm,stock,查询苹果的股票信息,查询苹果的股票信息,TRUE,0,是,stock,"{
+ ""name"":""苹果""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_106_F027_coder.wav.pcm,stock,查询深股大盘查询,查询深股大盘查询,TRUE,0,是,stock,"{
+ ""code"":""399001"",
+ ""name"":""深证成指"",
+ ""category"":""sz""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_113_M009_coder.wav.pcm,stock,股票日k线,股票日k线,TRUE,0,是,stock,"{
+ ""chartType"":""日k线""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_120_M009_coder.wav.pcm,stock,帮我查询一支股票的价格600784,帮我查询一支股票的价格六零零七八四,FALSE,0,是,stock,"{
+ ""code"":""600784"",
+ ""name"":""鲁银投资"",
+ ""category"":""sh""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_127_M009_coder.wav.pcm,stock,昆明机床昨日收盘时股值是多少,昆明机床昨日收盘时股值是多少,TRUE,0,是,stock,"{
+ ""code"":""600806"",
+ ""name"":""昆明机床"",
+ ""category"":""sh""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_134_M010_coder.wav.pcm,stock,看一下华北制药的价格,看一下华北制药的价格,TRUE,0,是,stock,"{
+ ""code"":""600812"",
+ ""name"":""华北制药"",
+ ""category"":""sh""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_141_M010_coder.wav.pcm,stock,600795的涨跌帮我看一下,六零零七九五的涨跌帮我看一下,FALSE,0,是,stock,"{
+ ""code"":""600795"",
+ ""name"":""国电电力"",
+ ""category"":""sh""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\21stock\21stock_148_M010_coder.wav.pcm,stock,科大讯飞的市值是多少,科大讯飞的市值是多少,TRUE,0,是,stock,"{
+ ""code"":""002230"",
+ ""name"":""科大讯飞"",
+ ""category"":""sz""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_005_F023_coder.wav.pcm,telephone,呼叫中国移动,呼叫中国移动,TRUE,1,是,telephone,"{
+ ""name"":""中国移动客服"",""code"":""10086""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_012_F024_coder.wav.pcm,telephone,呼叫许启雨,呼叫许启雨,TRUE,1,是,telephone,"{
+ ""name"":""许启雨""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_019_F024_coder.wav.pcm,telephone,帮我打一下董文杰班主任的电话,帮我打一下董文杰班主任的电话,TRUE,1,是,telephone,"{
+ ""name"":""董文杰班主任""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_026_F025_coder.wav.pcm,telephone,帮我打电话,帮我打电话,TRUE,1,是,telephone,{},DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_033_M007_coder.wav.pcm,telephone,帮我打给王卓189的号码,帮我打给王卓幺八九的号码,FALSE,1,是,telephone,"{
+ ""headNum"":""189"",
+ ""name"":""王卓""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_040_M007_coder.wav.pcm,telephone,张三业务员的号码打一下,张三业务员的号码打一下,TRUE,1,是,telephone,"{""name"":""张三业务员""}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_047_F026_coder.wav.pcm,telephone,我想打个电话,我想打个电话,TRUE,1,是,telephone,{},DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_054_M008_coder.wav.pcm,telephone,我想打北办司机小张的合肥电话,我想打北办司机小张的合肥电话,TRUE,1,是,telephone,"{
+ ""name"":""北办司机小张"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ }
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_061_M008_coder.wav.pcm,telephone,我想打给5331800,我想打给五三三幺八零零,FALSE,1,是,telephone,"{
+ ""code"":""5331800""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_068_M008_coder.wav.pcm,telephone,我想给黄燕打电话,我想给黄燕打电话,TRUE,1,是,telephone,"{
+ ""name"":""黄燕""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_075_M008_coder.wav.pcm,telephone,我要给15933556688打电话,我要给幺五九三三五五六六八八打电话,FALSE,1,是,telephone,"{
+ ""code"":""15933556688""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_082_F027_coder.wav.pcm,telephone,打个电话给焦炫,打个电话给焦炫,TRUE,1,是,telephone,"{
+ ""name"":""焦炫""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_089_F027_coder.wav.pcm,telephone,打外婆家的固话,打外婆家的固话,TRUE,1,是,telephone,"{
+ ""name"":""外婆家"",
+ ""category"":""固话""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_096_F027_coder.wav.pcm,telephone,打怡佳月嫂的住宅电话,打怡佳月嫂的住宅电话,TRUE,1,是,telephone,"{
+ ""name"":""怡佳月嫂"",
+ ""category"":""住宅""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_103_F027_coder.wav.pcm,telephone,打电话给何炅,打电话给何炅,TRUE,1,是,telephone,"{
+ ""name"":""何炅""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_110_F027_coder.wav.pcm,telephone,打电话给114,打电话给幺幺四,FALSE,1,是,telephone,"{
+ ""code"":""114""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_117_M009_coder.wav.pcm,telephone,打电话给江涛北京,打电话给江涛北京,TRUE,1,是,telephone,"{
+ ""name"":""江涛"",
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ }
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_124_M009_coder.wav.pcm,telephone,打电话给蒋微,打电话给蒋微,TRUE,1,是,telephone,"{
+ ""name"":""蒋微""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_131_M010_coder.wav.pcm,telephone,打给110,打给幺幺零,FALSE,1,是,telephone,"{
+ ""code"":""110""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_138_M010_coder.wav.pcm,telephone,打给焦炫二,打给焦炫二,TRUE,1,是,telephone,"{
+ ""name"":""焦炫二""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_145_M010_coder.wav.pcm,telephone,打给高毅,打给高毅,TRUE,1,是,telephone,"{
+ ""name"":""高毅""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_152_M011_coder.wav.pcm,telephone,打阚春宏日本的号,打阚春宏日本的号,TRUE,1,是,telephone,"{""name"":""阚春宏"",""location"":{""country"":""日本"",""type"":""LOC_BASIC""}}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_159_M011_coder.wav.pcm,telephone,拨一下姜蓓丽的电话,拨一下姜蓓丽的电话,TRUE,1,是,telephone,"{
+ ""name"":""姜蓓丽""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_166_M011_coder.wav.pcm,telephone,拨号13355876510,拨号幺三三五五八七六五幺零,FALSE,1,是,telephone,"{
+ ""code"":""13355876510""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_173_M011_coder.wav.pcm,telephone,拨号绩溪家,拨号绩溪家,TRUE,1,是,telephone,"{""name"":""绩溪家""}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_180_M011_coder.wav.pcm,telephone,拨打1682,拨打零六八二,FALSE,1,是,telephone,"{
+ ""code"":""0682""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_187_F028_coder.wav.pcm,telephone,拨打小张的电话,拨打小张的电话,TRUE,1,是,telephone,"{
+ ""name"":""小张""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_194_F028_coder.wav.pcm,telephone,拨打火警电话,拨打火警电话,TRUE,1,是,telephone,"{
+ ""code"":""119"",
+ ""name"":""火警""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_201_F028_coder.wav.pcm,telephone,拨打白强的151的号码,拨打白强的幺五幺的号码,FALSE,1,是,telephone,"{
+ ""headNum"":""151"",
+ ""name"":""白强""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_208_F028_coder.wav.pcm,telephone,拨打赵于飞,拨打赵于飞,TRUE,1,是,telephone,"{
+ ""name"":""赵于飞""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_215_F029_coder.wav.pcm,telephone,拨打高光来的内蒙的联通的电话,拨打高光来的内蒙的联通的电话,TRUE,1,是,telephone,"{
+ ""teleOperator"":""联通"",
+ ""name"":""高光来"",
+ ""location"":{
+  ""province"":""内蒙古自治区"",
+  ""provinceAddr"":""内蒙古"",
+  ""type"":""LOC_BASIC""
+ }
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_222_F029_coder.wav.pcm,telephone,拨通张三的电话,拨通张三的电话,TRUE,1,是,telephone,"{
+ ""name"":""张三""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_229_F029_coder.wav.pcm,telephone,烦请拨一下张三业务员的电话,烦请拨一下张三业务员的电话,TRUE,1,是,telephone,"{
+ ""name"":""张三业务员""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_236_F029_coder.wav.pcm,telephone,电话给老爸手机,电话给老爸手机,TRUE,1,是,telephone,"{
+ ""name"":""老爸"",
+ ""category"":""手机""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_243_F030_coder.wav.pcm,telephone,给似文竹去个电话,给似文竹去个电话,TRUE,1,是,telephone,"{
+ ""name"":""似文竹""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_250_F030_coder.wav.pcm,telephone,给张三业务员打电话聊聊,给张三业务员打电话聊聊,TRUE,1,是,telephone,"{
+ ""name"":""张三业务员""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_257_F030_coder.wav.pcm,telephone,给我打张三业务员电信的电话,给我打张三业务员电信的电话,TRUE,1,是,telephone,"{
+ ""teleOperator"":""电信"",
+ ""name"":""张三业务员""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_264_F030_coder.wav.pcm,telephone,给王道广136的号码打个电话,给王道广幺三六的号码打个电话,FALSE,1,是,telephone,"{
+ ""headNum"":""136"",
+ ""name"":""王道广""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_271_F030_coder.wav.pcm,telephone,给默默打电话,给默默打电话,TRUE,1,是,telephone,"{
+ ""name"":""默默""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_278_F030_coder.wav.pcm,telephone,请你拨打安邦汪的电话,请你拨打安邦汪的电话,TRUE,1,是,telephone,"{
+ ""name"":""安邦汪""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_285_M012_coder.wav.pcm,telephone,请帮我打电话给徐承的联通号码,请帮我打电话给徐承的联通号码,TRUE,1,是,telephone,"{
+ ""teleOperator"":""联通"",
+ ""name"":""徐承""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_292_M012_coder.wav.pcm,telephone,请打一下张三业务员的固定电话,请打一下张三业务员的固定电话,TRUE,1,是,telephone,"{""name"":""张三业务员"",""category"":""固话""}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_299_M012_coder.wav.pcm,telephone,请拨一下张三业务员的电话,请拨一下张三业务员的电话,TRUE,1,是,telephone,"{
+ ""name"":""张三业务员""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\22telephone\22telephone_306_M012_coder.wav.pcm,telephone,赶紧给杜美凤的办公号码打电话,赶紧给杜美凤的办公号码打电话,TRUE,1,是,telephone,"{
+ ""name"":""杜美凤"",
+ ""category"":""办公""
+}",DIAL
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_005_F023_coder.wav.pcm,traffic,上海浦东新区丁香路的路况好不好,上海浦东新区丁香路的路况好不好,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""area"":""浦东新区"",
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""street"":""丁香路"",
+  ""areaAddr"":""浦东"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_012_F024_coder.wav.pcm,traffic,中国农业大学周围的路况怎么样,中国农业大学周围的路况怎么样,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""中国农业大学"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_019_F024_coder.wav.pcm,traffic,交通中路交通路路口周围堵吗,交通中路交通路路口周围堵吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""streets"":""交通路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""交通中路"",
+  ""type"":""LOC_CROSS""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_026_F025_coder.wav.pcm,traffic,到中山市中山科创电器有限公司的路况怎么样,到中山市中山科创电器有限公司的路况怎么样,TRUE,0,是,traffic,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""中山"",
+  ""city"":""中山市"",
+  ""poi"":""中山科创电器有限公司"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_033_M007_coder.wav.pcm,traffic,到合肥市盛记香辣大龙虾烧烤大王堵车吗,到合肥市盛记香辣大龙虾烧烤大王堵车吗,TRUE,0,是,traffic,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""poi"":""盛记香辣大龙虾烧烤大王"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_040_M007_coder.wav.pcm,traffic,到安徽省科技馆的路况怎么样,到安徽省科技馆的路况怎么样,TRUE,0,是,traffic,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""province"":""安徽省"",
+  ""city"":""CURRENT_CITY"",
+  ""provinceAddr"":""安徽"",
+  ""poi"":""科技馆"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_047_F026_coder.wav.pcm,traffic,到昙华路瓦窑坑街路口的路况如何,到昙华路瓦窑坑街路口的路况如何,TRUE,0,是,traffic,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""streets"":""瓦窑坑街"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""昙华路"",
+  ""type"":""LOC_CROSS""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_054_M008_coder.wav.pcm,traffic,到苏州市金家桥的路况怎么样,到苏州市金家桥的路况怎么样,TRUE,0,是,traffic,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""苏州"",
+  ""city"":""苏州市"",
+  ""poi"":""金家桥"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_061_M008_coder.wav.pcm,traffic,前方的路况好不好,前方的路况好不好,TRUE,0,是,traffic,"{
+ ""direction"":""前方""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_068_M008_coder.wav.pcm,traffic,前面堵车吗,前面堵车吗,TRUE,0,是,traffic,"{
+ ""direction"":""前方""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_075_M008_coder.wav.pcm,traffic,北京丰台路口路况,北京丰台路口路况,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""street"":""丰台路口"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_082_F027_coder.wav.pcm,traffic,北京平和街上向东方向堵不堵,北京平和街上向东方向堵不堵,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""street"":""平和街"",
+  ""type"":""LOC_STREET""
+ },
+ ""direction"":""东""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_089_F027_coder.wav.pcm,traffic,南京秦淮区夫子庙周围的路况好不好,南京秦淮区夫子庙周围的路况好不好,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""area"":""秦淮区"",
+  ""cityAddr"":""南京"",
+  ""city"":""南京市"",
+  ""areaAddr"":""秦淮"",
+  ""poi"":""夫子庙"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_096_F027_coder.wav.pcm,traffic,厦门市思明区堵车吗,厦门市思明区堵车吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""厦门"",
+  ""area"":""思明区"",
+  ""city"":""厦门市"",
+  ""areaAddr"":""思明"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_103_F027_coder.wav.pcm,traffic,合肥市东至路周围的交通状况,合肥市东至路周围的交通状况,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""street"":""东至路"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_110_F027_coder.wav.pcm,traffic,合肥文化泡沫包装材料有限责任周围堵车吗,合肥文化泡沫包装材料有限责任周围堵车吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""poi"":""文化泡沫包装材料有限责任"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_117_M009_coder.wav.pcm,traffic,城东区互助路堵吗,城东区互助路堵吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""area"":""城东区"",
+  ""street"":""互助路"",
+  ""areaAddr"":""城东区"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_124_M009_coder.wav.pcm,traffic,如意胡同上向西方向堵吗,如意胡同上向西方向堵吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""如意胡同"",
+  ""type"":""LOC_STREET""
+ },
+ ""direction"":""西""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_131_M010_coder.wav.pcm,traffic,屯光大道附近堵吗,屯光大道附近堵吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""屯光大道"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_138_M010_coder.wav.pcm,traffic,庐阳区金寨路上向南方向交通状况,庐阳区金寨路上向南方向交通状况,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""area"":""庐阳区"",
+  ""street"":""金寨路"",
+  ""areaAddr"":""庐阳"",
+  ""type"":""LOC_STREET""
+ },
+ ""direction"":""南""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_145_M010_coder.wav.pcm,traffic,成都市蜀汉路附近的路况怎么样,成都市蜀汉路附近的路况怎么样,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""成都"",
+  ""city"":""成都市"",
+  ""street"":""蜀汉路"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_152_M011_coder.wav.pcm,traffic,本溪市明山区解放北二路西芬路路口路况,本溪市明山区解放北二路西芬路路口路况,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""area"":""明山区"",
+  ""cityAddr"":""本溪"",
+  ""streets"":""西芬路"",
+  ""city"":""本溪市"",
+  ""street"":""解放北二路"",
+  ""areaAddr"":""明山"",
+  ""type"":""LOC_CROSS""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_159_M011_coder.wav.pcm,traffic,沈阳市深得线上向北方向路况,沈阳市深得线上向北方向路况,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""沈阳"",
+  ""city"":""沈阳市"",
+  ""poi"":""深得线"",
+  ""type"":""LOC_POI""
+ },
+ ""direction"":""北""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_166_M011_coder.wav.pcm,traffic,温州市滨海二道上向西方向的路况好不好,温州市滨海二道上向西方向的路况好不好,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""温州"",
+  ""city"":""温州市"",
+  ""street"":""滨海二道"",
+  ""type"":""LOC_POI""
+ },
+ ""direction"":""西""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_173_M011_coder.wav.pcm,traffic,环城南路附近堵车吗,环城南路附近堵车吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""环城南路"",
+  ""type"":""LOC_STREET""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_180_M011_coder.wav.pcm,traffic,苏州市竹园路上向南方向堵车吗,苏州市竹园路上向南方向堵车吗,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""cityAddr"":""苏州"",
+  ""city"":""苏州市"",
+  ""street"":""竹园路"",
+  ""type"":""LOC_STREET""
+ },
+ ""direction"":""南""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_187_F028_coder.wav.pcm,traffic,西固区西固巷堵不堵,西固区西固巷堵不堵,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""area"":""西固区"",
+  ""city"":""CURRENT_CITY"",
+  ""areaAddr"":""西固"",
+  ""poi"":""西固巷"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_194_F028_coder.wav.pcm,traffic,连平县的路况好不好,连平县的路况好不好,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""area"":""连平县"",
+  ""areaAddr"":""连平"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_201_F028_coder.wav.pcm,traffic,金康东道附近的路况,金康东道附近的路况,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""金康东道"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_208_F028_coder.wav.pcm,traffic,长江路与潜山路的交叉路口堵不堵,长江路与潜山路的交叉路口堵不堵,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""streets"":""潜山路"",
+  ""city"":""CURRENT_CITY"",
+  ""street"":""长江路"",
+  ""type"":""LOC_CROSS""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\23traffic\23traffic_215_F029_coder.wav.pcm,traffic,黄山路小学附近的路况怎么样,黄山路小学附近的路况怎么样,TRUE,0,是,traffic,"{
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""黄山路小学"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_005_F002_coder.wav.pcm,train,帮我订一张到上海的动车单程的火车票,帮我订一张到上海的动车单程的火车票,TRUE,0,是,train,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""动车"",
+ ""type"":""单程""
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_012_F024_coder.wav.pcm,train,订一张3月3号合肥到哈尔滨的直快软卧,订一张三月三号合肥到哈尔滨的直快软卧,FALSE,0,是,train,"{
+ ""seat"":""软卧"",
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""哈尔滨"",
+  ""city"":""哈尔滨市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""直快"",
+ ""startDate"":{
+  ""date"":""2016-03-03"",
+  ""dateOrig"":""三月三号"",
+  ""type"":""DT_BASIC""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_019_F024_coder.wav.pcm,train,单程合肥到芜湖的普快硬座的火车票,单程合肥到芜湖的普快硬座的火车票,TRUE,0,是,train,"{
+ ""seat"":""硬座"",
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""芜湖"",
+  ""city"":""芜湖市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""普快"",
+ ""type"":""单程""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_026_F025_coder.wav.pcm,train,查一下明天的火车票还有吗,查一下明天的火车票还有吗,TRUE,0,是,train,"{
+ ""startDate"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_033_M007_coder.wav.pcm,train,麻烦订两张3月3号合肥到北京的动车特等座的火车票,麻烦订两张三月三号合肥到北京的动车特等座的火车票,FALSE,0,是,train,"{
+ ""seat"":""特等座"",
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""动车"",
+ ""startDate"":{
+  ""date"":""2016-03-03"",
+  ""dateOrig"":""三月三号"",
+  ""type"":""DT_BASIC""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_040_M007_coder.wav.pcm,train,帮我查一下明天到北京的特快软卧的火车票剩余情况,帮我查一下明天到北京的特快软卧的火车票剩余情况,TRUE,0,是,train,"{
+ ""seat"":""软卧"",
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""特快"",
+ ""startDate"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_047_F026_coder.wav.pcm,train,麻烦订两张到北京的动车特等座的火车票,麻烦订两张到北京的动车特等座的火车票,TRUE,0,是,train,"{
+ ""seat"":""特等座"",
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""动车""
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_054_M008_coder.wav.pcm,train,麻烦帮我查一下3月4号合肥到安庆的空调火车票还有剩余的吗,麻烦帮我查一下三月四号合肥到安庆的空调火车票还有剩余的吗,FALSE,0,是,train,"{
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""安庆"",
+  ""city"":""安庆市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""空调"",
+ ""startDate"":{
+  ""date"":""2016-03-04"",
+  ""dateOrig"":""三月四号"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_061_M008_coder.wav.pcm,train,麻烦订两张动车的火车票,麻烦订两张动车的火车票,TRUE,0,是,train,"{
+ ""category"":""动车""
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_068_M008_coder.wav.pcm,train,这个月的去合肥的火车票,这个月的去合肥的火车票,TRUE,0,是,train,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""这个月"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_075_M008_coder.wav.pcm,train,查询11月9号到10号去上海的火车票,查询十一月九号到十号去上海的火车票,FALSE,0,是,train,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-11-09"",
+  ""endDate"":""2015-11-10"",
+  ""dateOrig"":""十一月九号"",
+  ""type"":""DT_INTERVAL"",
+  ""endDateOrig"":""十号""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_082_F027_coder.wav.pcm,train,元旦去合肥的火车票还有剩余吗,元旦去合肥的火车票还有剩余吗,TRUE,0,是,train,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-01-01"",
+  ""dateOrig"":""元旦"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_089_F027_coder.wav.pcm,train,麻烦帮我查一下3月4号到安庆的空调硬座火车票还有剩余的吗,麻烦帮我查一下三月四号到安庆的空调硬座火车票还有剩余的吗,FALSE,0,是,train,"{
+ ""seat"":""空调硬座"",
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""安庆"",
+  ""city"":""安庆市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-03-04"",
+  ""dateOrig"":""三月四号"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_096_F027_coder.wav.pcm,train,查一下今天合肥到上海的火车票,查一下今天合肥到上海的火车票,TRUE,0,是,train,"{
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""今天"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_103_F027_coder.wav.pcm,train,帮我订一张29号合肥到上海的动车一等座的火车票,帮我订一张二九号合肥到上海的动车一等座的火车票,FALSE,0,是,train,"{
+ ""seat"":""一等座"",
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""动车"",
+ ""startDate"":{
+  ""date"":""2015-11-29"",
+  ""dateOrig"":""二九号"",
+  ""type"":""DT_BASIC""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_110_F027_coder.wav.pcm,train,合肥到上海的火车票4月30号的还有没有,合肥到上海的火车票四月三十号的还有没有,FALSE,0,是,train,"{
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-04-30"",
+  ""dateOrig"":""四月三十号"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_117_M009_coder.wav.pcm,train,麻烦订两张3月3号单程的动车特等座的火车票,麻烦订两张三月三号单程的动车特等座的火车票,FALSE,0,是,train,"{
+ ""seat"":""特等座"",
+ ""category"":""动车"",
+ ""type"":""单程"",
+ ""startDate"":{
+  ""date"":""2016-03-03"",
+  ""dateOrig"":""三月三号"",
+  ""type"":""DT_BASIC""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_124_M009_coder.wav.pcm,train,查一下火车票还有吗,查一下火车票还有吗,TRUE,0,是,train,{},QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_131_M010_coder.wav.pcm,train,帮我订一张合肥到郑州的动车商务座,帮我订一张合肥到郑州的动车商务座,TRUE,0,是,train,"{
+ ""seat"":""商务座"",
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""郑州"",
+  ""city"":""郑州市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""动车""
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_138_M010_coder.wav.pcm,train,帮我订一张单程到上海的动车一等座的火车票,帮我订一张单程到上海的动车一等座的火车票,TRUE,0,是,train,"{
+ ""seat"":""一等座"",
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""category"":""动车"",
+ ""type"":""单程""
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\24train\24train_145_M010_coder.wav.pcm,train,3月的去合肥的火车票,三月的去合肥的火车票,FALSE,0,是,train,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-03-13"",
+  ""dateOrig"":""三月"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_002_F002_coder.wav.pcm,vehicle_info,制动是否正常,制动是否正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""制动""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_009_F002_coder.wav.pcm,vehicle_info,发动机怎么了,发动机怎么了,TRUE,1,是,vehicleInfo,"{
+ ""name"":""发动机""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_016_F024_coder.wav.pcm,vehicle_info,帮忙查一下水温是否正常,帮忙查一下水温是否正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""水温""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_023_F025_coder.wav.pcm,vehicle_info,帮忙检查下刹车系统是否正常,帮忙检查下刹车系统是否正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""刹车""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_030_F025_coder.wav.pcm,vehicle_info,帮忙看看刹车系统是否正常,帮忙看看刹车系统是否正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""刹车""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_037_M007_coder.wav.pcm,vehicle_info,帮我检查下胎压,帮我检查下胎压,TRUE,1,是,vehicleInfo,"{
+ ""name"":""胎压""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_044_F026_coder.wav.pcm,vehicle_info,当前胎压多少,当前胎压多少,TRUE,1,是,vehicleInfo,"{
+ ""name"":""胎压""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_051_M008_coder.wav.pcm,vehicle_info,我想知道空调系统是否正常,我想知道空调系统是否正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""空调""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_058_M008_coder.wav.pcm,vehicle_info,查一下空调系统是否正常,查一下空调系统是否正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""空调""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_065_M008_coder.wav.pcm,vehicle_info,检查一下发动机,检查一下发动机,TRUE,1,是,vehicleInfo,"{
+ ""name"":""发动机""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_072_M008_coder.wav.pcm,vehicle_info,水温是否正常,水温是否正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""水温""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_079_M008_coder.wav.pcm,vehicle_info,看看我的制动是否有问题,看看我的制动是否有问题,TRUE,1,是,vehicleInfo,"{
+ ""name"":""制动""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_086_F027_coder.wav.pcm,vehicle_info,胎压如何,胎压如何,TRUE,1,是,vehicleInfo,"{
+ ""name"":""胎压""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_093_F027_coder.wav.pcm,vehicle_info,请帮我看一下空调系统是不是正常,请帮我看一下空调系统是不是正常,TRUE,1,是,vehicleInfo,"{
+ ""name"":""空调""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\25vehicle\25vehicle_100_F027_coder.wav.pcm,vehicle_info,还能跑多少公里,还能跑多少公里,TRUE,1,是,vehicleInfo,"{
+ ""name"":""油量""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_007_F002_coder.wav.pcm,weather,上海未来一周天气,上海未来一周天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_014_F024_coder.wav.pcm,weather,丹东明天的气温多少度,丹东明天的气温多少度,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""温度"",
+ ""location"":{
+  ""cityAddr"":""丹东"",
+  ""city"":""丹东市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_021_F025_coder.wav.pcm,weather,九江星期日多少度,九江星期日多少度,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-18"",
+  ""dateOrig"":""星期日"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""温度"",
+ ""location"":{
+  ""cityAddr"":""九江"",
+  ""city"":""九江市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_028_F025_coder.wav.pcm,weather,今天有没有下雨,今天有没有下雨,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""今天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""雨"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""questionWord"":""有没有"",
+ ""queryType"":""确认""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_035_M007_coder.wav.pcm,weather,伊春最近会下雨吗,伊春最近会下雨吗,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""最近"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""雨"",
+ ""location"":{
+  ""cityAddr"":""伊春"",
+  ""city"":""伊春市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""questionWord"":""会"",
+ ""queryType"":""确认""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_042_F026_coder.wav.pcm,weather,北京天气,北京天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_049_F026_coder.wav.pcm,weather,南京什么天气,南京什么天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""南京"",
+  ""city"":""南京市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_056_M008_coder.wav.pcm,weather,合肥啥天气,合肥啥天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_063_M008_coder.wav.pcm,weather,合肥明天的天气怎么样,合肥明天的天气怎么样,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_070_M008_coder.wav.pcm,weather,合肥现在冷吗,合肥现在冷吗,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""timeOrig"":""现在"",
+  ""time"":""08:41:42"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""温度"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryValue"":""冷"",
+ ""queryType"":""程度""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_077_M008_coder.wav.pcm,weather,周三天气保定,周三天气保定,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""周三"",
+  ""type"":""DT_BASIC""
+ },
+ ""location"":{
+  ""cityAddr"":""保定"",
+  ""city"":""保定市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_084_F027_coder.wav.pcm,weather,大后天的天气,大后天的天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-16"",
+  ""dateOrig"":""大后天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_091_F027_coder.wav.pcm,weather,天气预报,天气预报,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_098_F027_coder.wav.pcm,weather,帮我查下乌鲁木齐的天气,帮我查下乌鲁木齐的天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""乌鲁木齐"",
+  ""city"":""乌鲁木齐市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_105_F027_coder.wav.pcm,weather,我想知道合肥后天的气温,我想知道合肥后天的气温,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-15"",
+  ""dateOrig"":""后天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""温度"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_112_M009_coder.wav.pcm,weather,播报一下合肥的天气,播报一下合肥的天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_119_M009_coder.wav.pcm,weather,明天什么天气,明天什么天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_126_M009_coder.wav.pcm,weather,明天晴天吗,明天晴天吗,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""晴"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryType"":""确认""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_133_M010_coder.wav.pcm,weather,明晨泰山的气温如何,明晨泰山的气温如何,TRUE,0,是,weather,"{
+ ""datetime"": {
+ ""timeOrig"": ""早上"",
+ ""dateOrig"": ""明天"",
+ ""time"": ""06:00:00"",
+ ""date"": ""2015-10-14"",
+ ""endDate"": ""2015-10-14"",
+ ""endTime"": ""12:00:00"",
+ ""type"": ""DT_INTERVAL""
+  },
+ ""subfocus"":""温度"",
+ ""location"":{
+  ""area"":""泰山区"",
+  ""areaAddr"":""泰山"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_140_M010_coder.wav.pcm,weather,星期天合肥热不热,星期天合肥热不热,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-18"",
+  ""dateOrig"":""星期天"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""温度"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryValue"":""热"",
+ ""queryType"":""程度""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_147_M010_coder.wav.pcm,weather,最近几天有雨吗,最近几天有雨吗,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""dateOrig"":""最近几天"",
+  ""type"":""DT_ORIGINAL""
+ },
+ ""subfocus"":""雨"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""questionWord"":""有"",
+ ""queryType"":""确认""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_154_M011_coder.wav.pcm,weather,最近的天气,最近的天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""最近"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_161_M011_coder.wav.pcm,weather,查一下合肥的天气,查一下合肥的天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_168_M011_coder.wav.pcm,weather,查查中卫星期二会不会下雨,查查中卫星期二会不会下雨,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""星期二"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""雨"",
+ ""location"":{
+  ""cityAddr"":""中卫"",
+  ""city"":""中卫市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""questionWord"":""会不会"",
+ ""queryType"":""确认""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_175_M011_coder.wav.pcm,weather,查询天气,查询天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_182_F028_coder.wav.pcm,weather,玉龙雪山的天气如何,玉龙雪山的天气如何,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""sightspot"":""玉龙雪山"",
+ ""subfocus"":""天气状态"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryType"":""内容""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_189_F028_coder.wav.pcm,weather,跟我讲下合肥的天气,跟我讲下合肥的天气,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""location"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\26weather\26weather_196_F028_coder.wav.pcm,weather,雨大不大,雨大不大,TRUE,0,是,weather,"{
+ ""datetime"":{
+  ""date"":""CURRENT_DAY"",
+  ""type"":""DT_BASIC""
+ },
+ ""subfocus"":""雨"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""queryValue"":""大"",
+ ""queryType"":""程度""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_005_M097_coder.wav.pcm,app,关闭斗地主游戏,关闭斗地主游戏,TRUE,1,是,app,"{
+ ""name"":""斗地主游戏""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_012_M099_coder.wav.pcm,app,蓝牙,蓝牙,TRUE,1,是,app,"{
+ ""name"":""蓝牙""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_019_M099_coder.wav.pcm,app,关闭东方财付通,关闭东方财付通,TRUE,1,是,app,"{
+ ""name"":""东方财付通""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_026_M102_coder.wav.pcm,app,关闭收音机,关闭收音机,TRUE,1,是,app,"{
+ ""name"":""收音机""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_033_M071_coder.wav.pcm,app,关闭音乐,关闭音乐,TRUE,1,是,app,"{
+ ""name"":""音乐""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_040_M072_coder.wav.pcm,app,打开连连看,打开连连看,TRUE,1,是,app,"{
+ ""name"":""连连看""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_047_M074_coder.wav.pcm,app,退出蓝牙,退出蓝牙,TRUE,1,是,app,"{
+ ""name"":""蓝牙""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_054_M047_coder.wav.pcm,app,我想关闭电话,我想关闭电话,TRUE,1,是,app,"{
+ ""name"":""电话""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_061_M049_coder.wav.pcm,app,我想关闭音乐,我想关闭音乐,TRUE,1,是,app,"{
+ ""name"":""音乐""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_068_M050_coder.wav.pcm,app,我想打开短信,我想打开短信,TRUE,1,是,app,"{
+ ""name"":""短信""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_075_M075_coder.wav.pcm,app,我想打开音乐,我想打开音乐,TRUE,1,是,app,"{
+ ""name"":""音乐""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_082_F001_coder.wav.pcm,app,我要关闭导航,我要关闭导航,TRUE,1,是,app,"{
+ ""name"":""导航""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_089_F001_coder.wav.pcm,app,我要关闭百度导航,我要关闭百度导航,TRUE,1,是,app,"{
+ ""name"":""百度导航""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_096_F002_coder.wav.pcm,app,我要打开fm,我要打开fm,TRUE,1,是,radio,"{
+ ""waveband"":""fm""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_103_F003_coder.wav.pcm,app,我要打开短信,我要打开短信,TRUE,1,是,app,"{
+ ""name"":""短信""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_110_F003_coder.wav.pcm,app,我要退出联系人,我要退出联系人,TRUE,1,是,app,"{
+ ""name"":""联系人""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_117_F004_coder.wav.pcm,app,打开收音机,打开收音机,TRUE,1,是,app,"{
+ ""name"":""收音机""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_124_F005_coder.wav.pcm,app,打开音乐,打开音乐,TRUE,1,是,app,"{
+ ""name"":""音乐""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\2app\2app_131_F006_coder.wav.pcm,app,退出音乐,退出音乐,TRUE,1,是,app,"{
+ ""name"":""音乐""
+}",EXIT
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_007_M098_coder.wav.pcm,car_control,关掉下远光灯,关掉下远光灯,TRUE,1,是,carControl,"{
+ ""name"":""远光灯""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_014_M099_coder.wav.pcm,car_control,关掉近光灯,关掉近光灯,TRUE,1,是,carControl,"{
+ ""name"":""近光灯""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_021_M101_coder.wav.pcm,car_control,帮我关掉一下天窗,帮我关掉一下天窗,TRUE,1,是,carControl,"{
+ ""name"":""天窗""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_028_M102_coder.wav.pcm,car_control,帮我打开一下后雾灯,帮我打开一下后雾灯,TRUE,1,是,carControl,"{
+ ""name"":""后雾灯""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_035_M071_coder.wav.pcm,car_control,帮我打开左后车窗,帮我打开左后车窗,TRUE,1,是,carControl,"{
+ ""name"":""左后车窗""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_042_M073_coder.wav.pcm,car_control,开启下右车窗,开启下右车窗,TRUE,1,是,carControl,"{
+ ""name"":""右车窗""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_049_M074_coder.wav.pcm,car_control,开启左车窗,开启左车窗,TRUE,1,是,carControl,"{
+ ""name"":""左车窗""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_056_M048_coder.wav.pcm,car_control,我想关掉一下近光灯,我想关掉一下近光灯,TRUE,1,是,carControl,"{
+ ""name"":""近光灯""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_063_M049_coder.wav.pcm,car_control,我想关掉后备箱,我想关掉后备箱,TRUE,1,是,carControl,"{
+ ""name"":""后备箱""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_070_M050_coder.wav.pcm,car_control,我想关闭下左车窗,我想关闭下左车窗,TRUE,1,是,carControl,"{
+ ""name"":""左车窗""
+}",CLOSE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_077_M105_coder.wav.pcm,car_control,我想开启一下示廓灯,我想开启一下示廓灯,TRUE,1,是,carControl,"{
+ ""name"":""示廓灯""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_084_F001_coder.wav.pcm,car_control,我想开启右前车窗,我想开启右前车窗,TRUE,1,是,carControl,"{
+ ""name"":""右前车窗""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_091_F002_coder.wav.pcm,car_control,我想打开下左车窗,我想打开下左车窗,TRUE,1,是,carControl,"{
+ ""name"":""左车窗""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\3car_control\3car_control_098_F002_coder.wav.pcm,car_control,打开后车窗,打开后车窗,TRUE,1,是,carControl,"{
+ ""name"":""后车窗""
+}",OPEN
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_005_M097_coder.wav.pcm,cmd,上一台,上一台,TRUE,1,是,cmd,"{
+ ""name"":""上一频道"",
+ ""category"":""收音机控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_012_M099_coder.wav.pcm,cmd,下一台,下一台,TRUE,1,是,cmd,"{
+ ""name"":""下一频道"",
+ ""category"":""收音机控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_019_M099_coder.wav.pcm,cmd,关闭声音,关闭声音,TRUE,1,是,cmd,"{
+ ""name"":""静音"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_026_M102_coder.wav.pcm,cmd,切到上首歌,切到上首歌,TRUE,1,是,cmd,"{
+ ""name"":""上一首"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_033_M071_coder.wav.pcm,cmd,切换到上一首歌,切换到上一首歌,TRUE,1,是,cmd,"{
+ ""name"":""上一首"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_040_M072_coder.wav.pcm,cmd,单曲循环,单曲循环,TRUE,1,是,cmd,"{
+ ""name"":""单曲循环"",
+ ""category"":""播放模式""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_047_M074_coder.wav.pcm,cmd,听下一首,听下一首,TRUE,1,是,cmd,"{
+ ""name"":""下一首"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_054_M047_coder.wav.pcm,cmd,声音关闭,声音关闭,TRUE,1,是,cmd,"{
+ ""name"":""静音"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_061_M049_coder.wav.pcm,cmd,大声,大声,TRUE,1,是,cmd,"{
+ ""name"":""音量+"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_068_M050_coder.wav.pcm,cmd,帮我停止播放,帮我停止播放,TRUE,1,是,cmd,"{
+ ""name"":""停止"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_075_M075_coder.wav.pcm,cmd,帮我把音量减小,帮我把音量减小,TRUE,1,是,cmd,"{
+ ""name"":""音量-"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_082_F001_coder.wav.pcm,cmd,帮我换下一曲,帮我换下一曲,TRUE,1,是,cmd,"{
+ ""name"":""下一首"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_089_F001_coder.wav.pcm,cmd,帮我暂停播放,帮我暂停播放,TRUE,1,是,cmd,"{
+ ""name"":""暂停"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_096_F002_coder.wav.pcm,cmd,循环播放,循环播放,TRUE,1,是,cmd,"{
+ ""name"":""顺序循环"",
+ ""category"":""播放模式""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_103_F003_coder.wav.pcm,cmd,我想听上首歌,我想听上首歌,TRUE,1,是,cmd,"{
+ ""name"":""上一首"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_110_F003_coder.wav.pcm,cmd,我想播放,我想播放,TRUE,1,是,cmd,"{
+ ""name"":""播放"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_117_F004_coder.wav.pcm,cmd,我要停止播放,我要停止播放,TRUE,1,是,cmd,"{
+ ""name"":""停止"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_124_F005_coder.wav.pcm,cmd,我要听下一曲,我要听下一曲,TRUE,1,是,cmd,"{
+ ""name"":""下一首"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_131_F006_coder.wav.pcm,cmd,我要暂停,我要暂停,TRUE,1,是,cmd,"{
+ ""name"":""暂停"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_138_F006_coder.wav.pcm,cmd,把声音增强一些,把声音增强一些,TRUE,1,是,cmd,"{
+ ""name"":""音量+"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_145_F007_coder.wav.pcm,cmd,把音量调弱一点,把音量调弱一点,TRUE,1,是,cmd,"{
+ ""name"":""音量-"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_152_F008_coder.wav.pcm,cmd,播放,播放,TRUE,1,是,cmd,"{
+ ""name"":""播放"",
+ ""category"":""曲目控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_159_F008_coder.wav.pcm,cmd,设置单曲循环,设置单曲循环,TRUE,1,是,cmd,"{
+ ""name"":""单曲循环"",
+ ""category"":""播放模式""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_166_F009_coder.wav.pcm,cmd,调高声音,调高声音,TRUE,1,是,cmd,"{
+ ""name"":""音量+"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\4cmd\4cmd_173_F010_coder.wav.pcm,cmd,音量增大一点,音量增大一点,TRUE,1,是,cmd,"{
+ ""name"":""音量+"",
+ ""category"":""音量控制""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_005_M097_coder.wav.pcm,contacts,中国联通客服号码,中国联通客服号码,TRUE,1,是,contacts,"{
+ ""name"":""中国联通客服电话"",""code"":""10010""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_012_M099_coder.wav.pcm,contacts,刘飞烟台的手机号码是多少,刘飞烟台的手机号码是多少,TRUE,1,是,contacts,"{
+ ""name"":""刘飞"",
+""location"":
+{
+ ""cityAddr"":""烟台"",
+  ""city"":""烟台市"",
+  ""type"":""LOC_BASIC""
+},
+ ""category"":""手机""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_019_M099_coder.wav.pcm,contacts,孙广路的电话,孙广路的电话,TRUE,1,是,contacts,"{
+ ""name"":""孙广路""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_026_M102_coder.wav.pcm,contacts,小何的联系方式,小何的联系方式,TRUE,1,是,contacts,"{
+ ""name"":""小何""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_033_M071_coder.wav.pcm,contacts,帮我查一下似小姨夫的号码,帮我查一下似小姨夫的号码,TRUE,1,是,contacts,"{
+ ""name"":""似小姨夫""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_040_M072_coder.wav.pcm,contacts,帮我查一下张峰上海的手机号码,帮我查一下张峰上海的手机号码,TRUE,1,是,contacts,"{
+ ""name"":""张峰"",
+""location"":
+{
+ ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+},
+ ""category"":""手机""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_047_M074_coder.wav.pcm,contacts,帮我查一下王杉的手机号码,帮我查一下王杉的手机号码,TRUE,1,是,contacts,"{
+ ""name"":""王杉"",
+ ""category"":""手机""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_054_M047_coder.wav.pcm,contacts,帮我查一下胡惟晟新的手机号码,帮我查一下胡惟晟新的手机号码,TRUE,1,是,contacts,"{
+ ""name"":""胡惟晟新"",
+ ""category"":""手机""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_061_M049_coder.wav.pcm,contacts,我想知道中国电信肖的号码,我想知道中国电信肖的号码,TRUE,1,是,contacts,"{
+ ""name"":""肖"",""teleOperator"":""电信""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_068_M050_coder.wav.pcm,contacts,我想知道客户经理电信的号码,我想知道客户经理电信的号码,TRUE,1,是,contacts,"{
+ ""teleOperator"":""电信"",
+ ""name"":""客户经理""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_075_M075_coder.wav.pcm,contacts,我想知道葛勇杭州的移动的号码,我想知道葛勇杭州的移动的号码,TRUE,1,是,contacts,"{
+ ""teleOperator"":""移动"",
+ ""name"":""葛勇"",
+ ""location"":{
+  ""cityAddr"":""杭州"",
+  ""city"":""杭州市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_082_F001_coder.wav.pcm,contacts,把中国电信肖的联系方式发给刘飞烟台,把中国电信肖的联系方式发给刘飞烟台,TRUE,1,是,contacts,"{
+ ""receiver"":""刘飞"",
+""receiverLocation"":
+{
+ ""cityAddr"":""烟台"",
+  ""city"":""烟台市"",
+  ""type"":""LOC_BASIC""
+},
+ ""name"":""肖"",
+ ""teleOperator"":""电信"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_089_F001_coder.wav.pcm,contacts,把吴迪的电话发给徐爽自动化所,把吴迪的电话发给徐爽自动化所,TRUE,1,是,contacts,"{
+ ""receiver"":""徐爽自动化所"",
+ ""name"":""吴迪"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_096_F002_coder.wav.pcm,contacts,把小何的联系方式发给中国电信肖,把小何的联系方式发给中国电信肖,TRUE,1,是,contacts,"{
+ ""receiver"":""肖"",
+""teleOperator"":""电信"",
+ ""name"":""小何"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_103_F003_coder.wav.pcm,contacts,把王卓的移动号码发给星星的宣城号码,把王卓的移动号码发给星星的宣城号码,TRUE,1,是,contacts,"{
+ ""receiver"":""星星"", 
+ ""receiverLocation"":
+{
+ ""cityAddr"":""宣城"",
+  ""city"":""宣城市"",
+  ""type"":""LOC_BASIC""
+},
+ ""name"":""王卓"",
+ ""teleOperator"":""移动"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_110_F003_coder.wav.pcm,contacts,把王智国的联系方式发给新亚驾校,把王智国的联系方式发给新亚驾校,TRUE,1,是,contacts,"{
+ ""receiver"":""新亚驾校"",
+ ""name"":""王智国"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_117_F004_coder.wav.pcm,contacts,把王自力的移动号码发给熊厚余,把王自力的移动号码发给熊厚余,TRUE,1,是,contacts,"{
+ ""receiver"":""熊厚余"", 
+ ""name"":""王自力"",
+ ""teleOperator"":""移动"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_124_F005_coder.wav.pcm,contacts,把胡惟晟新的移动号码发给张峰上海,把胡惟晟新的移动号码发给张峰上海,TRUE,1,是,contacts,"{
+ ""receiver"":""张峰上海"", 
+ ""name"":""胡惟晟新"",
+ ""teleOperator"":""移动"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_131_F006_coder.wav.pcm,contacts,搜索张峰上海,搜索张峰上海,TRUE,1,是,contacts,"{
+ ""name"":""张峰"",
+""location"":
+{
+ ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_138_F006_coder.wav.pcm,contacts,搜索联系人葛勇杭州,搜索联系人葛勇杭州,TRUE,1,是,contacts,"{
+ ""name"":""葛勇"",
+ ""location"":{
+  ""cityAddr"":""杭州"",
+  ""city"":""杭州市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_145_F007_coder.wav.pcm,contacts,显示汪言华联系方式,显示汪言华联系方式,TRUE,1,是,contacts,"{
+ ""name"":""汪言华""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_152_F008_coder.wav.pcm,contacts,有张书记的电话吗,有张书记的电话吗,TRUE,1,是,contacts,"{
+ ""name"":""张书记""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_159_F008_coder.wav.pcm,contacts,李四,李四,TRUE,1,是,contacts,"{
+ ""name"":""李四""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_166_F009_coder.wav.pcm,contacts,查一下姚志强,查一下姚志强,TRUE,1,是,contacts,"{
+ ""name"":""姚志强""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_173_F010_coder.wav.pcm,contacts,查一下邵君的电话号码,查一下邵君的电话号码,TRUE,1,是,contacts,"{
+ ""name"":""邵君""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_180_F010_coder.wav.pcm,contacts,查找刘永波的号码,查找刘永波的号码,TRUE,1,是,contacts,"{
+ ""name"":""刘永波""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_187_F011_coder.wav.pcm,contacts,查找史成荣的电信号码,查找史成荣的电信号码,TRUE,1,是,contacts,"{
+ ""teleOperator"":""电信"",
+ ""name"":""史成荣""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_194_F012_coder.wav.pcm,contacts,查找张友国的电信号码,查找张友国的电信号码,TRUE,1,是,contacts,"{
+ ""teleOperator"":""电信"",
+ ""name"":""张友国""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_201_M001_coder.wav.pcm,contacts,查找李刚的电信号码,查找李刚的电信号码,TRUE,1,是,contacts,"{
+ ""teleOperator"":""电信"",
+ ""name"":""李刚""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_208_M001_coder.wav.pcm,contacts,查找李绍山国土的联系方式,查找李绍山国土的联系方式,TRUE,1,是,contacts,"{""name"":""李绍山国土""}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_215_F013_coder.wav.pcm,contacts,查找老爸手机的联通号码,查找老爸手机的联通号码,TRUE,1,是,contacts,"{
+ ""teleOperator"":""联通"",
+ ""name"":""老爸"",
+ ""category"":""手机""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_222_F014_coder.wav.pcm,contacts,查找联系人葛运东,查找联系人葛运东,TRUE,1,是,contacts,"{
+ ""name"":""葛运东""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_229_F014_coder.wav.pcm,contacts,查找葛勇杭州的联通号码,查找葛勇杭州的联通号码,TRUE,1,是,contacts,"{
+ ""teleOperator"":""联通"",
+ ""name"":""葛勇"",
+ ""location"":{
+  ""cityAddr"":""杭州"",
+  ""city"":""杭州市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_236_M002_coder.wav.pcm,contacts,查找陈志刚的联系方式,查找陈志刚的联系方式,TRUE,1,是,contacts,"{
+ ""name"":""陈志刚""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_243_F015_coder.wav.pcm,contacts,查看汪仁芳的手机号码,查看汪仁芳的手机号码,TRUE,1,是,contacts,"{
+ ""name"":""汪仁芳"",
+ ""category"":""手机""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_250_F015_coder.wav.pcm,contacts,查询中国移动客服电话,查询中国移动客服电话,TRUE,1,是,contacts,"{
+ ""name"":""中国移动客服"",""code"":""10086""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_257_F016_coder.wav.pcm,contacts,爱我宝宝淮南的电话,爱我宝宝淮南的电话,TRUE,1,是,contacts,"{
+ ""name"":""爱我宝宝"",
+ ""location"":{
+  ""cityAddr"":""淮南"",
+  ""city"":""淮南市"",
+  ""type"":""LOC_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_264_M003_coder.wav.pcm,contacts,程玮,程玮,TRUE,1,是,contacts,"{
+ ""name"":""程玮""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_271_F017_coder.wav.pcm,contacts,给我查一下王德吉电话,给我查一下王德吉电话,TRUE,1,是,contacts,"{
+ ""name"":""王德吉""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_278_F017_coder.wav.pcm,contacts,联通电话号码,联通电话号码,TRUE,1,是,contacts,"{
+ ""name"":""中国联通客服电话"",""code"":""10010""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_285_F018_coder.wav.pcm,contacts,朱芳雨的号码,朱芳雨的号码,TRUE,1,是,contacts,"{
+ ""name"":""朱芳雨""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_292_F019_coder.wav.pcm,contacts,把默默的电话发给徐勇科长,把默默的电话发给徐勇科长,TRUE,1,是,contacts,"{
+ ""receiver"":""徐勇科长"",
+ ""name"":""默默"",
+ ""channel"":""message""
+}",SEND
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_299_F019_coder.wav.pcm,contacts,车万翔,车万翔,TRUE,1,是,contacts,"{
+ ""name"":""车万翔""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_306_F019_coder.wav.pcm,contacts,陈师傅,陈师傅,TRUE,1,是,contacts,"{
+ ""name"":""陈师傅""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\5contacts\5contacts_313_F020_coder.wav.pcm,contacts,马慧婷电话,马慧婷电话,TRUE,1,是,contacts,"{
+ ""name"":""马慧婷""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_004_M097_coder.wav.pcm,dialog,一曲高歌一尊酒移舟稳卧获芦边,一曲高歌一尊酒移舟稳卧获芦边,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_011_M099_coder.wav.pcm,dialog,丈夫非无泪不洒离别间,丈夫非无泪不洒离别间,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_018_M099_coder.wav.pcm,dialog,不可以说脏话,不可以说脏话,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_025_M101_coder.wav.pcm,dialog,丹枫吹尽鸦声乐又得霜天一日晴,丹枫吹尽鸦声乐又得霜天一日晴,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_032_M071_coder.wav.pcm,dialog,人似秋鸿来有信事如春梦了无痕,人似秋鸿来有信事如春梦了无痕,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_039_M072_coder.wav.pcm,dialog,今天晚餐吃什么,今天晚餐吃什么,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_046_M074_coder.wav.pcm,dialog,介绍你的情况,介绍你的情况,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_053_M047_coder.wav.pcm,dialog,作业忘了做了,作业忘了做了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_060_M048_coder.wav.pcm,dialog,你个小黄鸡,你个小黄鸡,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_067_M050_coder.wav.pcm,dialog,你休息吧把自己关闭,你休息吧把自己关闭,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_074_M075_coder.wav.pcm,dialog,你到底能听见我说话吗,你到底能听见我说话吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_081_F001_coder.wav.pcm,dialog,你在哪里工作啊,你在哪里工作啊,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_095_F002_coder.wav.pcm,dialog,你姓什么呀,你姓什么呀,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_102_F003_coder.wav.pcm,dialog,你家里多少人啊,你家里多少人啊,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_109_F003_coder.wav.pcm,dialog,你就是盗版的,你就是盗版的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_116_F004_coder.wav.pcm,dialog,你是不是免费的,你是不是免费的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_123_F005_coder.wav.pcm,dialog,你是什么公司的,你是什么公司的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_130_F005_coder.wav.pcm,dialog,你是全世界最棒的吗,你是全世界最棒的吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_144_F007_coder.wav.pcm,dialog,你是谁做出来的,你是谁做出来的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_151_F008_coder.wav.pcm,dialog,你晚餐吃什么,你晚餐吃什么,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_158_F008_coder.wav.pcm,dialog,你有小名吗,你有小名吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_165_F009_coder.wav.pcm,dialog,你爸在哪呢,你爸在哪呢,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_172_F010_coder.wav.pcm,dialog,你爸是干什么的,你爸是干什么的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_193_F012_coder.wav.pcm,dialog,你的名字太长了记不住,你的名字太长了记不住,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_200_F012_coder.wav.pcm,dialog,你的意思是你笨还是我笨了,你的意思是你笨还是我笨了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_207_M001_coder.wav.pcm,dialog,你的过去如何,你的过去如何,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_214_F013_coder.wav.pcm,dialog,你真是太夸张了,你真是太夸张了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_221_F014_coder.wav.pcm,dialog,你知道麻将是怎么玩的吗,你知道麻将是怎么玩的吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_228_F014_coder.wav.pcm,dialog,你能听清我说话吗,你能听清我说话吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_235_M002_coder.wav.pcm,dialog,你说我怎么相信你呢,你说我怎么相信你呢,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_242_F015_coder.wav.pcm,dialog,你这是在威胁我吗,你这是在威胁我吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_249_F015_coder.wav.pcm,dialog,到底是你笨还是我笨,到底是你笨还是我笨,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_277_F017_coder.wav.pcm,dialog,在天愿作比翼鸟在地愿为连理枝,在天愿作比翼鸟在地愿为连理枝,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_284_F018_coder.wav.pcm,dialog,天外鱼书绝征人岂念家,天外鱼书绝征人岂念家,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_291_F019_coder.wav.pcm,dialog,好花无百日红,好花无百日红,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_298_F019_coder.wav.pcm,dialog,就是欺负你,就是欺负你,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_305_F019_coder.wav.pcm,dialog,山映斜阳天接水芳草无情更在斜阳外,山映斜阳天接水芳草无情更在斜阳外,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_312_F020_coder.wav.pcm,dialog,怎么样才能关闭你,怎么样才能关闭你,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_319_F020_coder.wav.pcm,dialog,我准备吃早饭了,我准备吃早饭了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_326_F020_coder.wav.pcm,dialog,我就是要欺负你,我就是要欺负你,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_333_F021_coder.wav.pcm,dialog,我很想认识你,我很想认识你,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_340_F021_coder.wav.pcm,dialog,我想生个孩子,我想生个孩子,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_347_F021_coder.wav.pcm,dialog,我想要个小孩,我想要个小孩,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_354_F021_coder.wav.pcm,dialog,我用的什么汽车,我用的什么汽车,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_361_M004_coder.wav.pcm,dialog,我要上网,我要上网,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_368_M004_coder.wav.pcm,dialog,我觉得你就是山寨的,我觉得你就是山寨的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_375_M004_coder.wav.pcm,dialog,我跟你说一下我的名字吧,我跟你说一下我的名字吧,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_382_M004_coder.wav.pcm,dialog,推荐一部电影给我看吧,推荐一部电影给我看吧,TRUE,0,是,dialog,{},
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_389_M004_coder.wav.pcm,dialog,明天我要干点什么呢,明天我要干点什么呢,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_396_F022_coder.wav.pcm,dialog,最近有没最近有什么好电影推荐一下,最近有没最近有什么好电影推荐一下,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_403_F022_coder.wav.pcm,dialog,有那么夸张吗,有那么夸张吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_410_F022_coder.wav.pcm,dialog,没你我好无聊啊,没你我好无聊啊,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_417_F022_coder.wav.pcm,dialog,玩游戏吧,玩游戏吧,TRUE,0,是,app,"{
+ ""category"":""游戏""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_431_M005_coder.wav.pcm,dialog,确实是out了,确实是out了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_438_M005_coder.wav.pcm,dialog,老天犹堪绝大漠诸君何至位新亭,老天犹堪绝大漠诸君何至位新亭,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_445_M005_coder.wav.pcm,dialog,讯飞汽车语点知道不知道别的,讯飞汽车语点知道不知道别的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_452_M006_coder.wav.pcm,dialog,请不要说脏话,请不要说脏话,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_459_M006_coder.wav.pcm,dialog,谁叫你宝贝呀,谁叫你宝贝呀,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_466_M006_coder.wav.pcm,dialog,这是什么汽车,这是什么汽车,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_473_M006_coder.wav.pcm,dialog,那你老爸是干嘛的,那你老爸是干嘛的,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_480_M006_coder.wav.pcm,dialog,随便说一点吗,随便说一点吗,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_487_M006_coder.wav.pcm,dialog,互联网世界风云变幻莫测我该何去何从,互联网世界风云变幻莫测我该何去何从,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_494_M006_coder.wav.pcm,dialog,你有一个苹果我有一个苹果我们交换仍然各自一个苹果,你有一个苹果我有一个苹果我们交换仍然各自一个苹果,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_501_M006_coder.wav.pcm,dialog,我了解离开树的叶属于地上的世界凋谢,我了解离开树的叶属于地上的世界凋谢,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_508_M006_coder.wav.pcm,dialog,以前的夜里我们静静地坐着我们双膝如木,以前的夜里我们静静地坐着我们双膝如木,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_515_F023_coder.wav.pcm,dialog,面试是否通过应该取决于自己是否愿意与眼前的这个人共事,面试是否通过应该取决于自己是否愿意与眼前的这个人共事,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_529_F024_coder.wav.pcm,dialog,胃不舒服啊,胃不舒服啊,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_536_F025_coder.wav.pcm,dialog,不上了被炒鱿鱼了,不上了被炒鱿鱼了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_543_M007_coder.wav.pcm,dialog,我也觉得比上学快多了,我也觉得比上学快多了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_550_M007_coder.wav.pcm,dialog,好久没打球了今天被人给虐了,好久没打球了今天被人给虐了,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\6dialog\6dialog_557_F026_coder.wav.pcm,dialog,我去你整天都在想些什么,我去你整天都在想些什么,TRUE,0,是,dialog,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_001_M097_coder.wav.pcm,flight,上海到合肥的机票,上海到合肥的机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_008_M098_coder.wav.pcm,flight,建军节去上海的飞机票,建军节去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-08-01"",
+  ""dateOrig"":""建军节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_015_M099_coder.wav.pcm,flight,初三去上海的飞机票我想看一下,初三去上海的飞机票我想看一下,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-15"",
+  ""dateOrig"":""初三"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_022_M101_coder.wav.pcm,flight,老师节去上海的飞机票,老师节去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+""startDate"":{
+  ""date"":""2016-09-10"",
+  ""dateOrig"":""老师节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_029_M102_coder.wav.pcm,flight,成都到厦门的航班起飞时间,成都到厦门的航班起飞时间,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""成都"",
+  ""city"":""成都市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""厦门"",
+  ""city"":""厦门市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY_TIME
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_036_M072_coder.wav.pcm,flight,上海到芝加哥的飞机票,上海到芝加哥的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""芝加哥"",
+  ""city"":""芝加哥"",
+  ""type"":""LOC_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_043_M073_coder.wav.pcm,flight,查询明天武汉到西安的航班,查询明天武汉到西安的航班,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""武汉"",
+  ""city"":""武汉市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""西安"",
+  ""city"":""西安市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_050_M074_coder.wav.pcm,flight,买一张到北京的飞机票,买一张到北京的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_057_M048_coder.wav.pcm,flight,元宵节去上海的飞机票,元宵节去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-02-22"",
+  ""dateOrig"":""元宵节"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_064_M049_coder.wav.pcm,flight,中秋去上海的飞机票,中秋去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-09-15"",
+  ""dateOrig"":""中秋"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_071_M075_coder.wav.pcm,flight,帮我查一下明天合肥飞长沙的航班,帮我查一下明天合肥飞长沙的航班,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""长沙"",
+  ""city"":""长沙市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_078_M105_coder.wav.pcm,flight,今天上海到大连的航班,今天上海到大连的航班,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""大连"",
+  ""city"":""大连市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""今天"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_085_F001_coder.wav.pcm,flight,帮我定一张明天去北京的飞机票,帮我定一张明天去北京的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_092_F002_coder.wav.pcm,flight,查下合肥到北京的航班,查下合肥到北京的航班,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_099_F002_coder.wav.pcm,flight,查询一下柳州到成都的机票,查询一下柳州到成都的机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""柳州"",
+  ""city"":""柳州市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""成都"",
+  ""city"":""成都市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_106_F003_coder.wav.pcm,flight,大后天去上海的飞机票,大后天去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-16"",
+  ""dateOrig"":""大后天"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_113_F004_coder.wav.pcm,flight,一个月后的今天去上海的飞机票,一个月后的今天去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-13"",
+  ""dateOrig"":""今天"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_120_F004_coder.wav.pcm,flight,下个星期四去上海的飞机票,下个星期四去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-22"",
+  ""dateOrig"":""下个星期四"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_127_F005_coder.wav.pcm,flight,宁波到北京的航班,宁波到北京的航班,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""宁波"",
+  ""city"":""宁波市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_134_F006_coder.wav.pcm,flight,查询北京到上海的航班,查询北京到上海的航班,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""北京"",
+  ""city"":""北京市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_141_F007_coder.wav.pcm,flight,明天有几班合肥到上海的航班,明天有几班合肥到上海的航班,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""cityAddr"":""合肥"",
+  ""city"":""合肥市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2015-10-14"",
+  ""dateOrig"":""明天"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\7flight\7flight_148_F007_coder.wav.pcm,flight,明年去上海的飞机票,明年去上海的飞机票,TRUE,0,是,flight,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""cityAddr"":""上海"",
+  ""city"":""上海市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""startDate"":{
+  ""date"":""2016-10-13"",
+  ""dateOrig"":""明年"",
+  ""type"":""DT_BASIC""
+ }
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_005_M097_coder.wav.pcm,help,怎么听音乐,怎么听音乐,TRUE,1,是,help,"{
+ ""category"":""音乐""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_012_M099_coder.wav.pcm,help,给我开启导航帮助,给我开启导航帮助,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_019_M099_coder.wav.pcm,help,打开收音机帮助,打开收音机帮助,TRUE,1,是,help,"{
+ ""category"":""收音机""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_026_M102_coder.wav.pcm,help,怎么导航,怎么导航,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_033_M071_coder.wav.pcm,help,怎么用汽车语音助理,怎么用汽车语音助理,TRUE,1,是,help,{},
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_040_M072_coder.wav.pcm,help,我想看地图帮助,我想看地图帮助,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_047_M074_coder.wav.pcm,help,如何操作地图帮助,如何操作地图帮助,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_054_M047_coder.wav.pcm,help,告诉我地图是怎么使用的,告诉我地图是怎么使用的,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_061_M049_coder.wav.pcm,help,导航帮助,导航帮助,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_068_M050_coder.wav.pcm,help,帮我开启帮助,帮我开启帮助,TRUE,1,是,help,{},LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_075_M075_coder.wav.pcm,help,你有哪些功能,你有哪些功能,TRUE,1,是,help,{}, 
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_082_F001_coder.wav.pcm,help,如何发短信,如何发短信,TRUE,1,是,help,"{
+ ""category"":""短信""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_089_F001_coder.wav.pcm,help,电话怎么用,电话怎么用,TRUE,1,是,help,"{
+ ""category"":""电话""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_096_F002_coder.wav.pcm,help,我要电话帮助,我要电话帮助,TRUE,1,是,help,"{
+ ""category"":""电话""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_103_F003_coder.wav.pcm,help,查询帮助,查询帮助,TRUE,1,是,help,{},QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_110_F003_coder.wav.pcm,help,我想查询导航帮助是什么样的,我想查询导航帮助是什么样的,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_117_F004_coder.wav.pcm,help,我想知道导航帮助的功能哦,我想知道导航帮助的功能哦,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_124_F005_coder.wav.pcm,help,我想知道如何操作导航,我想知道如何操作导航,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_131_F006_coder.wav.pcm,help,查看音乐帮助,查看音乐帮助,TRUE,1,是,help,"{
+ ""category"":""音乐""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_138_F006_coder.wav.pcm,help,地图怎么操作,地图怎么操作,TRUE,1,是,help,"{
+ ""category"":""导航""
+}",
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\8help\8help_145_F007_coder.wav.pcm,help,开启电话帮助,开启电话帮助,TRUE,1,是,help,"{
+ ""category"":""电话""
+}",LAUNCH
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_002_M097_coder.wav.pcm,lbs,从长江西路上的加油站到科大讯飞附近的加油站,从长江西路上的加油站到科大讯飞附近的加油站,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""street"":""长江西路"",
+  ""ori_loc"":""长江西路上的加油站"",
+  ""poi"":""加油站"",
+  ""type"":""LOC_POI""
+ },
+""endLoc"": {
+ ""city"": ""CURRENT_CITY"", 
+ ""type"": ""LOC_POI"", 
+ ""keyword"": ""科大讯飞"", 
+ ""poi"": ""加油站""
+ }
+ ""nearName"":""加油站"",
+ ""nearBy"":""科大讯飞""
+ }
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_009_M098_coder.wav.pcm,lbs,去附近的加油站,去附近的加油站,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""加油站"",
+  ""type"":""LOC_POI""
+ },
+ ""nearBy"":""0""
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_016_M099_coder.wav.pcm,lbs,周边的超市,周边的超市,TRUE,0,是,lbs,"{
+ ""name"":""超市"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""超市"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_023_M101_coder.wav.pcm,lbs,帮我在飞机场旁边的湾大酒店订个房间,帮我在飞机场旁边的湾大酒店订个房间,TRUE,0,是,hotel,"{
+ ""name"":""湾大酒店"",
+ ""checkinDate"":{
+  ""date"":""2015-10-13"",
+  ""type"":""DT_BASIC""
+ },
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""飞机场"",
+  ""type"":""LOC_POI""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_030_M102_coder.wav.pcm,lbs,帮我找一下附近5公里的家居建材市场,帮我找一下附近五公里的家居建材市场,FALSE,0,是,lbs,"{
+ ""distance"":""5000米"",
+ ""name"":""家居建材市场"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""家居建材市场"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_037_M072_coder.wav.pcm,lbs,帮我找一找旁边五公里的合家福,帮我找一找旁边五公里的合家福,TRUE,0,是,lbs,"{
+ ""distance"":""5000米"",
+ ""name"":""合家福"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""合家福"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_044_M073_coder.wav.pcm,lbs,帮我找一找附近有没有加油站,帮我找一找附近有没有加油站,TRUE,0,是,lbs,"{
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_051_M047_coder.wav.pcm,lbs,帮我查一下周边的机场,帮我查一下周边的机场,TRUE,0,是,lbs,"{
+ ""name"":""机场"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""机场"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_058_M048_coder.wav.pcm,lbs,帮我查一下旁边的招商银行,帮我查一下旁边的招商银行,TRUE,0,是,lbs,"{
+ ""name"":""招商银行"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""招商银行"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_065_M049_coder.wav.pcm,lbs,帮我查一下附近的加油站,帮我查一下附近的加油站,TRUE,0,是,lbs,"{
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_072_M075_coder.wav.pcm,lbs,帮我查找周边的加油站,帮我查找周边的加油站,TRUE,0,是,lbs,"{
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_079_M105_coder.wav.pcm,lbs,帮我查找旁边有没有加油站,帮我查找旁边有没有加油站,TRUE,0,是,lbs,"{
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_086_F001_coder.wav.pcm,lbs,帮我查找附近有没有加油站,帮我查找附近有没有加油站,TRUE,0,是,lbs,"{
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_093_F002_coder.wav.pcm,lbs,我周边的中国人民银行,我周边的中国人民银行,TRUE,0,是,lbs,"{
+ ""name"":""中国人民银行"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""中国人民银行"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_100_F002_coder.wav.pcm,lbs,我想去附近的加油站,我想去附近的加油站,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""加油站"",
+  ""type"":""LOC_POI""
+ },
+ ""nearBy"":""0""
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_107_F003_coder.wav.pcm,lbs,我想查一下附近二公里范围内的银行,我想查一下附近两公里范围内的银行,FALSE,0,是,lbs,"{
+ ""distance"":""2000米"",
+ ""name"":""银行"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""银行"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_114_F004_coder.wav.pcm,lbs,我想查一下附近的商场,我想查一下附近的商场,TRUE,0,是,lbs,"{
+ ""name"":""商场"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""商场"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_121_F005_coder.wav.pcm,lbs,我想查找附近的诊所,我想查找附近的诊所,TRUE,0,是,lbs,"{
+ ""name"":""诊所"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""诊所"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_128_F005_coder.wav.pcm,lbs,我要去附近的加油站,我要去附近的加油站,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""加油站"",
+  ""type"":""LOC_POI""
+ },
+ ""nearBy"":""0""
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_135_F006_coder.wav.pcm,lbs,我要查找附近的atm,我要查找附近的atm,TRUE,0,是,lbs,"{
+ ""name"":""atm"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""atm"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_142_F007_coder.wav.pcm,lbs,我这里附近的加油站怎么去,我这里附近的加油站怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""加油站"",
+  ""type"":""LOC_POI""
+ },
+ ""nearBy"":""0""
+}",ROUTE
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_149_F007_coder.wav.pcm,lbs,搜索附近的酒店,搜索附近的酒店,TRUE,0,是,lbs,"{
+ ""name"":""酒店"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""酒店"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_156_F008_coder.wav.pcm,lbs,最近的工商银行在哪里,最近的工商银行在哪里,TRUE,0,是,lbs,"{
+ ""name"":""工商银行"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""工商银行"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_163_F009_coder.wav.pcm,lbs,查一下周边96公里的麦当劳,查一下周边九十六公里的麦当劳,FALSE,0,是,restaurant,"{
+""distance"":""96000米"",
+ ""name"":""麦当劳"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+   ""ori_loc"":""麦当劳"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_170_F009_coder.wav.pcm,lbs,查一下旁边的加油站,查一下旁边的加油站,TRUE,0,是,lbs,"{
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_177_F010_coder.wav.pcm,lbs,查一下附近十公里的招商银行,查一下附近十公里的招商银行,TRUE,0,是,lbs,"{
+ ""distance"":""10000米"",
+ ""name"":""招商银行"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""招商银行"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_184_F011_coder.wav.pcm,lbs,查找附近二公里的商场,查找附近两公里的商场,FALSE,0,是,lbs,"{
+ ""distance"":""2000米"",
+ ""name"":""商场"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""商场"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_191_F012_coder.wav.pcm,lbs,查找附近两公里的加油站,查找附近两公里的加油站,TRUE,0,是,lbs,"{
+ ""distance"":""2000米"",
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""加油站"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_198_F012_coder.wav.pcm,lbs,查看科大讯飞附近的加油站,查看科大讯飞附近的加油站,TRUE,0,是,lbs,"{
+ ""name"":""加油站"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""科大讯飞"",
+  ""type"":""LOC_POI""
+ },
+ ""nearName"":""加油站"",
+ ""nearBy"":""科大讯飞""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_205_M001_coder.wav.pcm,lbs,离我最近的医院,离我最近的医院,TRUE,0,是,lbs,"{
+ ""name"":""医院"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""医院"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_212_F013_coder.wav.pcm,lbs,芜湖市有没有四星级酒店,芜湖市有没有四星级酒店,TRUE,0,是,hotel,"{
+ ""checkinDate"":{
+  ""date"":""2015-10-13"",
+  ""type"":""DT_BASIC""
+ },
+ ""location"":{
+  ""cityAddr"":""芜湖"",
+  ""city"":""芜湖市"",
+  ""type"":""LOC_BASIC""
+ },
+ ""hotelLvl"":""四星级""
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_219_F013_coder.wav.pcm,lbs,订一间离人民广场不太远的如家酒店,订一间离人民广场不太远的如家酒店,TRUE,0,是,hotel,"{
+ ""roomCount"":""一"",
+ ""name"":""如家酒店"",
+ ""checkinDate"":{
+  ""date"":""2015-10-13"",
+  ""type"":""DT_BASIC""
+ },
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""人民广场"",
+  ""type"":""LOC_POI""
+ }
+}",BOOK
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_226_F014_coder.wav.pcm,lbs,这附近有没有公园儿,这附近有没有公园儿,TRUE,0,是,lbs,"{
+ ""name"":""公园儿"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""公园儿"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_233_M002_coder.wav.pcm,lbs,附近5888米的学校,附近五千八百八十八米的学校,FALSE,0,是,lbs,"{
+ ""distance"":""5888米"",
+ ""name"":""学校"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""学校"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_240_M002_coder.wav.pcm,lbs,附近有没有兴业银行,附近有没有兴业银行,TRUE,0,是,lbs,"{
+ ""name"":""兴业银行"",
+ ""location"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""兴业银行"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ }
+}",QUERY
+\StorageCard\PcmRes\isr\6000_Enc_NoWavHead\9lbs\9lbs_247_F015_coder.wav.pcm,lbs,附近的宾馆怎么去,附近的宾馆怎么去,TRUE,0,是,map,"{
+ ""startLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""poi"":""CURRENT_POI"",
+  ""type"":""LOC_POI""
+ },
+ ""endLoc"":{
+  ""city"":""CURRENT_CITY"",
+  ""ori_loc"":""宾馆"",
+  ""poi"":""宾馆"",
+  ""type"":""LOC_POI""
+ },
+ ""nearBy"":""0""
+}",ROUTE

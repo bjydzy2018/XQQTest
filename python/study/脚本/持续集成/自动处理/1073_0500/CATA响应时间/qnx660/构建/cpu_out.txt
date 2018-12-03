@@ -1,0 +1,278 @@
+00:41:35
+Computing times...90 processes; 344 threads;
+CPU states: 0.0% idle, 94.0% user, 5.9% kernel
+Memory: 0 total, 576M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+ 12931098     2  10 Rply      0:00:30  86.99% TestStability_CATA_qnx660
+        1    12  10 Rcv       0:00:00   1.64% kernel
+        1     6  10 Rdy       0:00:00   1.45% kernel
+  1052738    11  10 Rcv       0:00:03   1.37% devb-umass
+ 13197403     1  10 Rply      0:00:00   1.37% pidin
+        1    15  12 Rcv       0:00:00   0.99% kernel
+        1    10  10 Rcv       0:00:00   0.91% kernel
+     4101     8  10 Rcv       0:00:00   0.49% devb-sdmmc-mx6_generic
+   766000     2  21 Rcv       0:00:01   0.45% io-pkt-v6-hc
+        1    18  10 Run       0:00:00   0.45% kernel
+
+             Min        Max       Average 
+CPU idle:      0%         0%         0% 
+Mem Avail:   576MB      576MB      576MB  
+Processes:    90         90         90    
+Threads:     344        344        344    
+
+00:41:46
+Computing times...89 processes; 343 threads;
+CPU states: 3.3% idle, 88.4% user, 8.2% kernel
+Memory: 0 total, 568M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+     4101     9  10 Rcv       0:00:00  39.88% devb-sdmmc-mx6_generic
+     4101    13  10 Rcv       0:00:01  10.33% devb-sdmmc-mx6_generic
+     4101    10  10 Rcv       0:00:00   7.41% devb-sdmmc-mx6_generic
+ 12931098     2  10 Rply      0:00:35   6.85% TestStability_CATA_qnx660
+     4101    14  10 Rdy       0:00:00   6.29% devb-sdmmc-mx6_generic
+     4101     8  10 Rcv       0:00:00   4.26% devb-sdmmc-mx6_generic
+        1    12  10 Rcv       0:00:00   4.15% kernel
+        1     7  10 Rcv       0:00:00   2.24% kernel
+     4101     4  21 CdV       0:00:02   2.02% devb-sdmmc-mx6_generic
+     4101     6  10 Rcv       0:00:01   1.91% devb-sdmmc-mx6_generic
+
+             Min        Max       Average 
+CPU idle:      3%         3%         3% 
+Mem Avail:   568MB      568MB      568MB  
+Processes:    89         89         89    
+Threads:     343        343        343    
+
+00:41:48
+Computing times...89 processes; 343 threads;
+CPU states: 21.7% idle, 61.2% user, 17.0% kernel
+Memory: 0 total, 600M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+     4101    11  10 Rcv       0:00:00  13.39% devb-sdmmc-mx6_generic
+     4101    14  10 Rcv       0:00:01  12.08% devb-sdmmc-mx6_generic
+ 12931098     2  10 Dead      0:00:35   9.36% TestStability_CATA_qnx660
+     4101     9  10 Rcv       0:00:01   8.66% devb-sdmmc-mx6_generic
+     4101     8  10 Rcv       0:00:00   7.04% devb-sdmmc-mx6_generic
+        1     7  10 Run       0:00:00   4.73% kernel
+        1     3  10 Rcv       0:00:00   4.73% kernel
+        1    12  10 Rcv       0:00:00   4.33% kernel
+        1     4  10 Rcv       0:00:00   2.11% kernel
+     4101    13  10 Rcv       0:00:01   1.71% devb-sdmmc-mx6_generic
+
+             Min        Max       Average 
+CPU idle:     21%        21%        21% 
+Mem Avail:   600MB      600MB      600MB  
+Processes:    89         89         89    
+Threads:     343        343        343    
+
+00:41:49
+Computing times...88 processes; 341 threads;
+CPU states: 82.7% idle, 7.6% user, 9.5% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1    12  10 Rcv       0:00:00   3.37% kernel
+        1     3  10 Run       0:00:00   3.16% kernel
+     4101    13  10 Rcv       0:00:01   2.42% devb-sdmmc-mx6_generic
+        1     7  10 Rcv       0:00:00   1.89% kernel
+     4101    11  10 Rcv       0:00:00   1.47% devb-sdmmc-mx6_generic
+        1     4  10 Rcv       0:00:00   1.15% kernel
+   766000     2  21 Rcv       0:00:01   0.84% io-pkt-v6-hc
+ 14323736     1  10 Rply      0:00:00   0.63% top
+     4101     9  10 Rcv       0:00:01   0.52% devb-sdmmc-mx6_generic
+   745497     3  10 SigW      0:00:01   0.31% slm
+
+             Min        Max       Average 
+CPU idle:     82%        82%        82% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:50
+Computing times...88 processes; 341 threads;
+CPU states: 75.3% idle, 12.3% user, 12.3% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1     3  10 Rcv       0:00:00   4.18% kernel
+        1     4  10 Rcv       0:00:00   2.64% kernel
+        1     7  10 Run       0:00:00   2.53% kernel
+        1    12  10 Rcv       0:00:00   1.76% kernel
+     4101    11  10 Rcv       0:00:00   1.65% devb-sdmmc-mx6_generic
+     4101     9  10 Rcv       0:00:01   1.54% devb-sdmmc-mx6_generic
+ 14397464     1  10 Rply      0:00:00   1.32% top
+   766000     2  21 Rcv       0:00:01   1.21% io-pkt-v6-hc
+        1    10  10 Rcv       0:00:00   1.21% kernel
+     4101    13  10 Rcv       0:00:01   1.10% devb-sdmmc-mx6_generic
+
+             Min        Max       Average 
+CPU idle:     75%        75%        75% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:51
+Computing times...88 processes; 341 threads;
+CPU states: 84.4% idle, 7.8% user, 7.6% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1     7  10 Run       0:00:00   2.66% kernel
+        1     3  10 Rcv       0:00:00   2.55% kernel
+        1    12  10 Rcv       0:00:00   2.44% kernel
+     4101    13  10 Rcv       0:00:01   1.49% devb-sdmmc-mx6_generic
+     4101    14  10 Rcv       0:00:01   1.17% devb-sdmmc-mx6_generic
+     4101     9  10 Rcv       0:00:01   1.06% devb-sdmmc-mx6_generic
+   766000     2  21 Rcv       0:00:01   0.95% io-pkt-v6-hc
+ 14508056     1  10 Rply      0:00:00   0.85% top
+     4101    11  10 Rcv       0:00:00   0.42% devb-sdmmc-mx6_generic
+   745497     3  10 SigW      0:00:01   0.31% slm
+
+             Min        Max       Average 
+CPU idle:     84%        84%        84% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:53
+Computing times...88 processes; 341 threads;
+CPU states: 75.5% idle, 12.8% user, 11.6% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1     4  10 Rcv       0:00:00   4.01% kernel
+     4101     9  10 Rcv       0:00:01   2.93% devb-sdmmc-mx6_generic
+        1    10  10 Rcv       0:00:00   2.49% kernel
+        1     3  10 Rcv       0:00:00   2.38% kernel
+     4101    11  10 Rcv       0:00:00   1.84% devb-sdmmc-mx6_generic
+        1    12  10 Run       0:00:00   1.41% kernel
+ 14577688     1  10 Rply      0:00:00   1.19% top
+     4101    14  10 Rcv       0:00:01   1.08% devb-sdmmc-mx6_generic
+   766000     2  21 Rcv       0:00:01   0.86% io-pkt-v6-hc
+   745497     3  10 SigW      0:00:01   0.86% slm
+
+             Min        Max       Average 
+CPU idle:     75%        75%        75% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:54
+Computing times...88 processes; 341 threads;
+CPU states: 76.7% idle, 8.5% user, 14.6% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1    12  10 Rcv       0:00:00   6.46% kernel
+        1    10  10 Run       0:00:00   4.05% kernel
+        1    13  10 Rcv       0:00:00   2.52% kernel
+        1     4  10 Rcv       0:00:00   1.64% kernel
+     4101    11  10 Rcv       0:00:00   1.20% devb-sdmmc-mx6_generic
+  1089547     8   9 Rcv       0:00:03   1.09% qdb
+     4101    13  10 Rcv       0:00:01   1.09% devb-sdmmc-mx6_generic
+   766000     2  10 Rcv       0:00:01   0.76% io-pkt-v6-hc
+   745497     3  10 SigW      0:00:01   0.65% slm
+ 14688280     1  10 Rply      0:00:00   0.65% top
+
+             Min        Max       Average 
+CPU idle:     76%        76%        76% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:55
+Computing times...88 processes; 341 threads;
+CPU states: 76.8% idle, 10.0% user, 13.0% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1    13  10 Rcv       0:00:00   4.76% kernel
+        1    12  10 Run       0:00:00   3.32% kernel
+     4101    13  10 Rcv       0:00:01   3.21% devb-sdmmc-mx6_generic
+        1     3  10 Rcv       0:00:00   2.77% kernel
+        1    10  10 Rcv       0:00:00   1.88% kernel
+     4101    14  10 Rcv       0:00:01   1.44% devb-sdmmc-mx6_generic
+     4101     9  10 Rcv       0:00:01   0.77% devb-sdmmc-mx6_generic
+   766000     2  10 Rcv       0:00:01   0.66% io-pkt-v6-hc
+ 14770200     1  10 Rply      0:00:00   0.66% top
+   745497     3  10 SigW      0:00:01   0.55% slm
+
+             Min        Max       Average 
+CPU idle:     76%        76%        76% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:56
+Computing times...90 processes; 343 threads;
+CPU states: 64.8% idle, 14.7% user, 20.4% kernel
+Memory: 0 total, 604M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1    12  10 Run       0:00:00   8.46% kernel
+        1     4  10 Rcv       0:00:00   7.19% kernel
+ 14909524     1  10 Rply      0:00:00   6.77% pidin
+        1    10  10 Run       0:00:00   4.12% kernel
+     4101     9  10 Rcv       0:00:01   1.69% devb-sdmmc-mx6_generic
+     4101    13  10 Rcv       0:00:01   1.58% devb-sdmmc-mx6_generic
+     4101    14  10 Rcv       0:00:01   1.16% devb-sdmmc-mx6_generic
+ 14880792     1  10 Rply      0:00:00   0.74% top
+   766000     2  21 Rcv       0:00:01   0.63% io-pkt-v6-hc
+        1     3  10 Rcv       0:00:00   0.63% kernel
+
+             Min        Max       Average 
+CPU idle:     64%        64%        64% 
+Mem Avail:   604MB      604MB      604MB  
+Processes:    90         90         90    
+Threads:     343        343        343    
+
+00:41:57
+Computing times...88 processes; 341 threads;
+CPU states: 63.3% idle, 13.7% user, 22.9% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1     3  10 Rcv       0:00:00   9.22% kernel
+        1    12  10 Run       0:00:00   5.36% kernel
+        1     2  10 Rcv       0:00:00   5.23% kernel
+     4101    14  10 Rcv       0:00:01   2.86% devb-sdmmc-mx6_generic
+        1     4  10 Rcv       0:00:00   2.24% kernel
+     4101     9  10 Rcv       0:00:01   1.99% devb-sdmmc-mx6_generic
+     4101    13  10 Rcv       0:00:01   1.62% devb-sdmmc-mx6_generic
+   766000     2  21 Rcv       0:00:01   1.12% io-pkt-v6-hc
+ 14954520     1  10 Rply      0:00:00   1.12% top
+   745497     3  10 SigW      0:00:01   0.99% slm
+
+             Min        Max       Average 
+CPU idle:     63%        63%        63% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:58
+Computing times...88 processes; 341 threads;
+CPU states: 83.6% idle, 5.9% user, 10.4% kernel
+Memory: 0 total, 605M avail, page size 4K
+
+      PID   TID PRI STATE    HH:MM:SS    CPU  COMMAND
+        1     2  10 Run       0:00:00   3.79% kernel
+        1     4  10 Rcv       0:00:00   3.26% kernel
+        1     3  10 Rcv       0:00:00   2.52% kernel
+     4101    11  10 Rcv       0:00:00   1.47% devb-sdmmc-mx6_generic
+     4101     8  10 Rcv       0:00:00   0.94% devb-sdmmc-mx6_generic
+        1    12  10 Rcv       0:00:00   0.84% kernel
+     4101    14  10 Rcv       0:00:01   0.73% devb-sdmmc-mx6_generic
+   766000     2  21 Rcv       0:00:01   0.63% io-pkt-v6-hc
+     4101     9  10 Rcv       0:00:01   0.52% devb-sdmmc-mx6_generic
+   745497     3  10 SigW      0:00:01   0.21% slm
+
+             Min        Max       Average 
+CPU idle:     83%        83%        83% 
+Mem Avail:   605MB      605MB      605MB  
+Processes:    88         88         88    
+Threads:     341        341        341    
+
+00:41:59
+Computing times...

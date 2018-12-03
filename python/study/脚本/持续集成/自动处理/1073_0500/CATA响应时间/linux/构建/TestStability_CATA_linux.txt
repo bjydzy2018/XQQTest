@@ -1,0 +1,43 @@
+ [CATA Test] path_of_bin is /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin
+
+ [CATA Test] cata_res_path : /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/CataRes
+
+ [CATA Test] cfg_Dir : /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/isr_list.cfg
+
+ [CATA Test] Open cfg_Dir success: /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/isr_list.cfg
+ [CATA Test] Pcm_Res_Path_Default is /home/linaro/ATP/test_data/PcmRes.
+ [CATA Test] Result_Type_Default is 1.
+ [CATA Test] ISR_Mode_Default is 1.
+ [CATA Test] ISR_Lang_Default is 0.
+ [CATA Test] UpLoadDictModel_Default is 1.
+ [CATA Test] ISS_SR_SCENE_Default is all.
+ [CATA Test] Loop_Num_Default is 1
+ [CATA Test] Pcm_Track_Default is 1
+ [CATA Test] Trace_Level_Default is error.
+ [CATA Test] TTS_Mode_Default is 0.
+ [CATA Test] TTS_Speaker_Default is 99.
+ [CATA Test] TTS_Out_Default is 1.
+ [CATA Test] ISS_MVW_SCENE_Default is 1.
+ [CATA Test] Index_Srh is 1
+ [CATA Test] Index_Drop is 1
+ [CATA Test] file_path : /home/linaro/ATP/test_data/PcmRes/cata/Index_in/music10000.txt
+ [CATA Test] file_name: music10000.txt, str_1: music10000
+ [CATA Test] index_efficient length: 76
+ [CATA Test] index_efficient: /home/linaro/ATP/test_data/PcmRes/cata/Srh_out/out_index_time_music10000.csv
+ [CATA Test] open index_efficient success : /home/linaro/ATP/test_data/PcmRes/cata/Srh_out/out_index_time_music10000.csv
+ [CATA Test] ISSCataIndexCreate return 0
+ [CATA Test] time_Create:22
+ [CATA Test] cata_res_path = /home/linaro/ATP/test_data/SE_iFlytekSpeechSuite/Tags/1073_0500/Project/07.Release/linux.arm/bin/CataRes
+ [CATA Test] strFileName.c_str()= music10000.bin.
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 16777231, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] ERROR!!! ISSCataIndexAddIdxEntity ret 10106, pInst_idx: 465950
+ [CATA Test] end_index time946
+ [CATA Test] TotalIndex time10094
+ [CATA Test] CATA OVER!

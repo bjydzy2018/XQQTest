@@ -1,0 +1,7 @@
+user:{"QQD":null,"id":844,"data_upload":true,"MobilePhoneD":null,"is_sysadmin":0,"name":"hcliu","AddressD":null,"RealNameD":null,"password":"693bcb2a16814a712bd8b397b460ab3d","EmailD":"hcliu@iflytek.com"}
+comlum:time,mem,cpu
+comlumTotal:time,sysmemleft,syscpu,totalpss,totalcpu
+app_info:[{"package_name":"com.iflytek.hcliu.testapispeechsuit30","location":"\/data\/data\/com.iflytek.hcliu.testapispeechsuit30","version":"1.0","application_name":"TestAPISpeechSuit3.0"}]
+device_info:{"cpu_num":2,"hardware":"freescale","sys_name":"sabresd_6dq-eng 4.3 1.1.1 20141017 dev-keys","phone_type":"SABRESD-MX6DQ","imei":"864341025458319","screen_width":1024,"mac":"00:03:7f:85:d4:eb","cpu_type":"ARMv7 Processor rev 10 (v7l)","bootloader":"unknown","storage_size":"1.70 GB","android_vesion":"4.3","carrieroperator":"CHINA MOBILE 4G","cpu_freq":996000,"imsi":"460040092110860","sys_version_num":"1.03.28","screen_high":600,"phone_brand":"Freescale","screen_desi":1,"serial":"unknown"}
+DeviceResult:{"test_record_app":[{"package_name":"com.iflytek.hcliu.testapispeechsuit30","application_name":"TestAPISpeechSuit3.0","location":"\/data\/data\/com.iflytek.hcliu.testapispeechsuit30","icon_md5":"d9465849ff4ff0daa383fd3ca36db9cd","version":"1.0","test_record_app_id":3042}],"status":true,"test_record_id":2274}
+tips:MjAxNy0wMS0yMC0xNy0xMC0wMiUzQQ==

@@ -1,0 +1,1664 @@
+Open Cfg_Dir success.
+ISSMVWCreate success
+open file : list.txt success!
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M010_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 154
+lParam: {"wakeup":1,"nStartBytes":14400,"nEndBytes":60160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M010_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 145
+lParam: {"wakeup":1,"nStartBytes":97920,"nEndBytes":142720}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M010_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M010_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 128
+lParam: {"wakeup":1,"nStartBytes":264320,"nEndBytes":310400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M011_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 125
+lParam: {"wakeup":1,"nStartBytes":355200,"nEndBytes":393600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M011_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 130
+lParam: {"wakeup":1,"nStartBytes":432320,"nEndBytes":470720}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M011_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M011_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 116
+lParam: {"wakeup":1,"nStartBytes":586560,"nEndBytes":622400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M012_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 124
+lParam: {"wakeup":1,"nStartBytes":658560,"nEndBytes":702080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M012_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 96
+lParam: {"wakeup":1,"nStartBytes":738240,"nEndBytes":780800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M012_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M012_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 93
+lParam: {"wakeup":1,"nStartBytes":895040,"nEndBytes":936960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M102_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 152
+lParam: {"wakeup":1,"nStartBytes":972160,"nEndBytes":1017600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M102_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 166
+lParam: {"wakeup":1,"nStartBytes":1053440,"nEndBytes":1102400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M102_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 136
+lParam: {"wakeup":1,"nStartBytes":1137280,"nEndBytes":1185280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M102_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 120
+lParam: {"wakeup":1,"nStartBytes":1221440,"nEndBytes":1268800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M103_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M103_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 141
+lParam: {"wakeup":1,"nStartBytes":1382080,"nEndBytes":1423040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M103_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 136
+lParam: {"wakeup":1,"nStartBytes":1455040,"nEndBytes":1492800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M103_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 236
+lParam: {"wakeup":1,"nStartBytes":1526400,"nEndBytes":1565120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M104_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 187
+lParam: {"wakeup":1,"nStartBytes":1597120,"nEndBytes":1641280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M104_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 143
+lParam: {"wakeup":1,"nStartBytes":1675840,"nEndBytes":1723520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M104_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 189
+lParam: {"wakeup":1,"nStartBytes":1756480,"nEndBytes":1803520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M104_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 116
+lParam: {"wakeup":1,"nStartBytes":1836800,"nEndBytes":1882240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M014_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 152
+lParam: {"wakeup":1,"nStartBytes":1916480,"nEndBytes":1944640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M014_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 145
+lParam: {"wakeup":1,"nStartBytes":1977600,"nEndBytes":2006720}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M014_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 253
+lParam: {"wakeup":1,"nStartBytes":2038400,"nEndBytes":2069760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M014_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M015_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 261
+lParam: {"wakeup":1,"nStartBytes":2164160,"nEndBytes":2201600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M015_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 281
+lParam: {"wakeup":1,"nStartBytes":2233600,"nEndBytes":2268160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M015_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 249
+lParam: {"wakeup":1,"nStartBytes":2298560,"nEndBytes":2333120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M015_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 243
+lParam: {"wakeup":1,"nStartBytes":2363200,"nEndBytes":2397120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M107_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 142
+lParam: {"wakeup":1,"nStartBytes":2427200,"nEndBytes":2461760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M107_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 164
+lParam: {"wakeup":1,"nStartBytes":2496000,"nEndBytes":2530560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M107_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 183
+lParam: {"wakeup":1,"nStartBytes":2564160,"nEndBytes":2601600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M107_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 136
+lParam: {"wakeup":1,"nStartBytes":2633280,"nEndBytes":2672640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M110_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 239
+lParam: {"wakeup":1,"nStartBytes":2708480,"nEndBytes":2747520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M110_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 200
+lParam: {"wakeup":1,"nStartBytes":2778240,"nEndBytes":2813120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M110_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 238
+lParam: {"wakeup":1,"nStartBytes":2843840,"nEndBytes":2880320}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M110_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 197
+lParam: {"wakeup":1,"nStartBytes":2910720,"nEndBytes":2954240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M112_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 249
+lParam: {"wakeup":1,"nStartBytes":2985920,"nEndBytes":3024000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M112_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 233
+lParam: {"wakeup":1,"nStartBytes":3058880,"nEndBytes":3096000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M112_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 198
+lParam: {"wakeup":1,"nStartBytes":3130560,"nEndBytes":3167360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M112_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 202
+lParam: {"wakeup":1,"nStartBytes":3200960,"nEndBytes":3233920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M113_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 234
+lParam: {"wakeup":1,"nStartBytes":3269440,"nEndBytes":3306560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M113_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 223
+lParam: {"wakeup":1,"nStartBytes":3342400,"nEndBytes":3381120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M113_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 245
+lParam: {"wakeup":1,"nStartBytes":3416320,"nEndBytes":3455040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M113_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 239
+lParam: {"wakeup":1,"nStartBytes":3490240,"nEndBytes":3528000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F002_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 187
+lParam: {"wakeup":1,"nStartBytes":3567040,"nEndBytes":3610560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F002_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 168
+lParam: {"wakeup":1,"nStartBytes":3655680,"nEndBytes":3699840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F002_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 227
+lParam: {"wakeup":1,"nStartBytes":3741120,"nEndBytes":3781760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F002_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 237
+lParam: {"wakeup":1,"nStartBytes":3823360,"nEndBytes":3863040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F004_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 168
+lParam: {"wakeup":1,"nStartBytes":3901440,"nEndBytes":3952640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F004_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 221
+lParam: {"wakeup":1,"nStartBytes":3987840,"nEndBytes":4033920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F004_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 208
+lParam: {"wakeup":1,"nStartBytes":4068480,"nEndBytes":4116800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F004_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 233
+lParam: {"wakeup":1,"nStartBytes":4152640,"nEndBytes":4200640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F005_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 242
+lParam: {"wakeup":1,"nStartBytes":4234240,"nEndBytes":4274560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F005_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 223
+lParam: {"wakeup":1,"nStartBytes":4313600,"nEndBytes":4352000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F005_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 229
+lParam: {"wakeup":1,"nStartBytes":4388480,"nEndBytes":4428160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F005_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 249
+lParam: {"wakeup":1,"nStartBytes":4464640,"nEndBytes":4503680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F007_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 205
+lParam: {"wakeup":1,"nStartBytes":4541120,"nEndBytes":4583680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F007_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 197
+lParam: {"wakeup":1,"nStartBytes":4622080,"nEndBytes":4661440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F007_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 219
+lParam: {"wakeup":1,"nStartBytes":4699520,"nEndBytes":4738240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F007_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 222
+lParam: {"wakeup":1,"nStartBytes":4772480,"nEndBytes":4814080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F008_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 200
+lParam: {"wakeup":1,"nStartBytes":4850880,"nEndBytes":4897280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F008_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 152
+lParam: {"wakeup":1,"nStartBytes":4936640,"nEndBytes":4979200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F008_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 162
+lParam: {"wakeup":1,"nStartBytes":5014720,"nEndBytes":5057280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F008_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 184
+lParam: {"wakeup":1,"nStartBytes":5091840,"nEndBytes":5132480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F013_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 146
+lParam: {"wakeup":1,"nStartBytes":5166400,"nEndBytes":5213440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F013_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 112
+lParam: {"wakeup":1,"nStartBytes":5256320,"nEndBytes":5306240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F013_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F013_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 160
+lParam: {"wakeup":1,"nStartBytes":5428160,"nEndBytes":5475200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F016_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 256
+lParam: {"wakeup":1,"nStartBytes":5512640,"nEndBytes":5543040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F016_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 219
+lParam: {"wakeup":1,"nStartBytes":5575360,"nEndBytes":5604160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F016_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 223
+lParam: {"wakeup":1,"nStartBytes":5637120,"nEndBytes":5666560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F016_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 215
+lParam: {"wakeup":1,"nStartBytes":5700480,"nEndBytes":5729920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F101_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 207
+lParam: {"wakeup":1,"nStartBytes":5763520,"nEndBytes":5804800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F101_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 183
+lParam: {"wakeup":1,"nStartBytes":5837440,"nEndBytes":5880000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F101_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 167
+lParam: {"wakeup":1,"nStartBytes":5912960,"nEndBytes":5954880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F101_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 215
+lParam: {"wakeup":1,"nStartBytes":5989760,"nEndBytes":6031680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F105_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 187
+lParam: {"wakeup":1,"nStartBytes":6064960,"nEndBytes":6112640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F105_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 167
+lParam: {"wakeup":1,"nStartBytes":6147840,"nEndBytes":6193600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F105_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 205
+lParam: {"wakeup":1,"nStartBytes":6229120,"nEndBytes":6275840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F105_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 212
+lParam: {"wakeup":1,"nStartBytes":6309120,"nEndBytes":6354880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F106_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 166
+lParam: {"wakeup":1,"nStartBytes":6390400,"nEndBytes":6454400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F106_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 173
+lParam: {"wakeup":1,"nStartBytes":6493440,"nEndBytes":6532800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F106_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 213
+lParam: {"wakeup":1,"nStartBytes":6569280,"nEndBytes":6607360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F106_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 191
+lParam: {"wakeup":1,"nStartBytes":6644160,"nEndBytes":6681920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F108_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 210
+lParam: {"wakeup":1,"nStartBytes":6717440,"nEndBytes":6762240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F108_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 213
+lParam: {"wakeup":1,"nStartBytes":6799040,"nEndBytes":6843840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F108_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 199
+lParam: {"wakeup":1,"nStartBytes":6879040,"nEndBytes":6924480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F108_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 216
+lParam: {"wakeup":1,"nStartBytes":6959040,"nEndBytes":7005440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F109_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 194
+lParam: {"wakeup":1,"nStartBytes":7040320,"nEndBytes":7088640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F109_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 213
+lParam: {"wakeup":1,"nStartBytes":7128320,"nEndBytes":7175360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F109_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 201
+lParam: {"wakeup":1,"nStartBytes":7213120,"nEndBytes":7259200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F109_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 226
+lParam: {"wakeup":1,"nStartBytes":7296960,"nEndBytes":7342400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F111_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 210
+lParam: {"wakeup":1,"nStartBytes":7378240,"nEndBytes":7420160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F111_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 235
+lParam: {"wakeup":1,"nStartBytes":7456640,"nEndBytes":7499200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F111_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 233
+lParam: {"wakeup":1,"nStartBytes":7535680,"nEndBytes":7578560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F111_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 237
+lParam: {"wakeup":1,"nStartBytes":7613440,"nEndBytes":7656000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F114_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 216
+lParam: {"wakeup":1,"nStartBytes":7688960,"nEndBytes":7723840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F114_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 205
+lParam: {"wakeup":1,"nStartBytes":7757760,"nEndBytes":7791360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F114_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 214
+lParam: {"wakeup":1,"nStartBytes":7824640,"nEndBytes":7859840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/F114_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 206
+lParam: {"wakeup":1,"nStartBytes":7893760,"nEndBytes":7929600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M001_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 177
+lParam: {"wakeup":1,"nStartBytes":7965120,"nEndBytes":8003520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M001_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 178
+lParam: {"wakeup":1,"nStartBytes":8036480,"nEndBytes":8074880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M001_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 153
+lParam: {"wakeup":1,"nStartBytes":8107520,"nEndBytes":8143680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M001_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 176
+lParam: {"wakeup":1,"nStartBytes":8176000,"nEndBytes":8213440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M003_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 183
+lParam: {"wakeup":1,"nStartBytes":8243840,"nEndBytes":8280960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M003_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 185
+lParam: {"wakeup":1,"nStartBytes":8309760,"nEndBytes":8348800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M003_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 186
+lParam: {"wakeup":1,"nStartBytes":8378240,"nEndBytes":8417920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M003_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 183
+lParam: {"wakeup":1,"nStartBytes":8450560,"nEndBytes":8489280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M006_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 177
+lParam: {"wakeup":1,"nStartBytes":8522240,"nEndBytes":8565120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M006_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 209
+lParam: {"wakeup":1,"nStartBytes":8599040,"nEndBytes":8642880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M006_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 179
+lParam: {"wakeup":1,"nStartBytes":8675520,"nEndBytes":8717120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M006_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 199
+lParam: {"wakeup":1,"nStartBytes":8751680,"nEndBytes":8793280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M009_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 145
+lParam: {"wakeup":1,"nStartBytes":8827520,"nEndBytes":8872640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M009_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 111
+lParam: {"wakeup":1,"nStartBytes":8908800,"nEndBytes":8954240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M009_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 113
+lParam: {"wakeup":1,"nStartBytes":8989760,"nEndBytes":9032640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X1/M009_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 100
+lParam: {"wakeup":1,"nStartBytes":9069120,"nEndBytes":9114560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M010_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 112
+lParam: {"wakeup":1,"nStartBytes":9152640,"nEndBytes":9196800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M010_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 104
+lParam: {"wakeup":1,"nStartBytes":9236160,"nEndBytes":9280000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M010_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 117
+lParam: {"wakeup":1,"nStartBytes":9317120,"nEndBytes":9360320}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M010_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 123
+lParam: {"wakeup":1,"nStartBytes":9401920,"nEndBytes":9443840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M011_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M011_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M011_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M011_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M012_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 138
+lParam: {"wakeup":1,"nStartBytes":9795520,"nEndBytes":9839680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M012_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 123
+lParam: {"wakeup":1,"nStartBytes":9874880,"nEndBytes":9918080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M012_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 129
+lParam: {"wakeup":1,"nStartBytes":9955840,"nEndBytes":9999360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M012_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 114
+lParam: {"wakeup":1,"nStartBytes":10032000,"nEndBytes":10074880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M102_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M102_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M102_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M102_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M103_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M103_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 106
+lParam: {"wakeup":1,"nStartBytes":10519360,"nEndBytes":10557440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M103_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 116
+lParam: {"wakeup":1,"nStartBytes":10592000,"nEndBytes":10628160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M103_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 97
+lParam: {"wakeup":1,"nStartBytes":10662720,"nEndBytes":10699520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M104_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 115
+lParam: {"wakeup":1,"nStartBytes":10734400,"nEndBytes":10778240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M104_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 86
+lParam: {"wakeup":1,"nStartBytes":10812480,"nEndBytes":10861440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M104_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 122
+lParam: {"wakeup":1,"nStartBytes":10894080,"nEndBytes":10940800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M104_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 134
+lParam: {"wakeup":1,"nStartBytes":10974080,"nEndBytes":11020480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M014_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 157
+lParam: {"wakeup":1,"nStartBytes":11053760,"nEndBytes":11081920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M014_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 164
+lParam: {"wakeup":1,"nStartBytes":11113600,"nEndBytes":11143680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M014_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 156
+lParam: {"wakeup":1,"nStartBytes":11175360,"nEndBytes":11205760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M014_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 141
+lParam: {"wakeup":1,"nStartBytes":11238720,"nEndBytes":11269120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M015_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M015_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M015_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M015_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M107_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M107_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 101
+lParam: {"wakeup":1,"nStartBytes":11634240,"nEndBytes":11664960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M107_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M107_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M110_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M110_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M110_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M110_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M112_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 136
+lParam: {"wakeup":1,"nStartBytes":12124160,"nEndBytes":12157760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M112_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 94
+lParam: {"wakeup":1,"nStartBytes":12197760,"nEndBytes":12228800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M112_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 99
+lParam: {"wakeup":1,"nStartBytes":12270720,"nEndBytes":12303360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M112_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 100
+lParam: {"wakeup":1,"nStartBytes":12338560,"nEndBytes":12369280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M113_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 151
+lParam: {"wakeup":1,"nStartBytes":12407360,"nEndBytes":12443520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M113_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 141
+lParam: {"wakeup":1,"nStartBytes":12481280,"nEndBytes":12517760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M113_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 137
+lParam: {"wakeup":1,"nStartBytes":12554560,"nEndBytes":12591360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M113_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 116
+lParam: {"wakeup":1,"nStartBytes":12629120,"nEndBytes":12663040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F002_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 186
+lParam: {"wakeup":1,"nStartBytes":12704320,"nEndBytes":12747520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F002_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F002_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 195
+lParam: {"wakeup":1,"nStartBytes":12877760,"nEndBytes":12918400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F002_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 184
+lParam: {"wakeup":1,"nStartBytes":12961280,"nEndBytes":13000000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F004_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 92
+lParam: {"wakeup":1,"nStartBytes":13039680,"nEndBytes":13085440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F004_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 96
+lParam: {"wakeup":1,"nStartBytes":13127040,"nEndBytes":13165760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F004_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F004_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 127
+lParam: {"wakeup":1,"nStartBytes":13292480,"nEndBytes":13335360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F005_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 213
+lParam: {"wakeup":1,"nStartBytes":13371200,"nEndBytes":13411840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F005_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 186
+lParam: {"wakeup":1,"nStartBytes":13451520,"nEndBytes":13489280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F005_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F005_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 232
+lParam: {"wakeup":1,"nStartBytes":13602240,"nEndBytes":13641280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F007_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 145
+lParam: {"wakeup":1,"nStartBytes":13677760,"nEndBytes":13720000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F007_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 158
+lParam: {"wakeup":1,"nStartBytes":13759680,"nEndBytes":13798080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F007_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 230
+lParam: {"wakeup":1,"nStartBytes":13836160,"nEndBytes":13874880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F007_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 195
+lParam: {"wakeup":1,"nStartBytes":13909120,"nEndBytes":13950080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F008_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F008_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F008_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F008_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 126
+lParam: {"wakeup":1,"nStartBytes":14228800,"nEndBytes":14269120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F013_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 116
+lParam: {"wakeup":1,"nStartBytes":14304000,"nEndBytes":14347200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F013_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F013_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F013_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F016_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 178
+lParam: {"wakeup":1,"nStartBytes":14649280,"nEndBytes":14679680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F016_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 140
+lParam: {"wakeup":1,"nStartBytes":14713600,"nEndBytes":14741120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F016_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 133
+lParam: {"wakeup":1,"nStartBytes":14775040,"nEndBytes":14803200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F016_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 103
+lParam: {"wakeup":1,"nStartBytes":14838720,"nEndBytes":14868480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F101_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 105
+lParam: {"wakeup":1,"nStartBytes":14901120,"nEndBytes":14938240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F101_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 150
+lParam: {"wakeup":1,"nStartBytes":14975360,"nEndBytes":15015360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F101_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F101_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 115
+lParam: {"wakeup":1,"nStartBytes":15128000,"nEndBytes":15164480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F105_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 171
+lParam: {"wakeup":1,"nStartBytes":15203520,"nEndBytes":15248960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F105_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 169
+lParam: {"wakeup":1,"nStartBytes":15286080,"nEndBytes":15330240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F105_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 176
+lParam: {"wakeup":1,"nStartBytes":15366400,"nEndBytes":15412160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F105_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 189
+lParam: {"wakeup":1,"nStartBytes":15446720,"nEndBytes":15491520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F106_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 138
+lParam: {"wakeup":1,"nStartBytes":15529280,"nEndBytes":15591360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F106_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 175
+lParam: {"wakeup":1,"nStartBytes":15630720,"nEndBytes":15670400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F106_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 161
+lParam: {"wakeup":1,"nStartBytes":15707200,"nEndBytes":15744960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F106_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 189
+lParam: {"wakeup":1,"nStartBytes":15781440,"nEndBytes":15819520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F108_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 123
+lParam: {"wakeup":1,"nStartBytes":15855040,"nEndBytes":15898240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F108_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 164
+lParam: {"wakeup":1,"nStartBytes":15936320,"nEndBytes":15980160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F108_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 172
+lParam: {"wakeup":1,"nStartBytes":16016320,"nEndBytes":16060480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F108_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 151
+lParam: {"wakeup":1,"nStartBytes":16097600,"nEndBytes":16141440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F109_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 144
+lParam: {"wakeup":1,"nStartBytes":16177920,"nEndBytes":16224640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F109_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 87
+lParam: {"wakeup":1,"nStartBytes":16266560,"nEndBytes":16311040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F109_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F109_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 148
+lParam: {"wakeup":1,"nStartBytes":16434880,"nEndBytes":16478400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F111_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F111_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 106
+lParam: {"wakeup":1,"nStartBytes":16596160,"nEndBytes":16636160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F111_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 161
+lParam: {"wakeup":1,"nStartBytes":16673600,"nEndBytes":16714560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F111_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F114_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 206
+lParam: {"wakeup":1,"nStartBytes":16827200,"nEndBytes":16860800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F114_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 172
+lParam: {"wakeup":1,"nStartBytes":16895680,"nEndBytes":16928640}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F114_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 190
+lParam: {"wakeup":1,"nStartBytes":16962560,"nEndBytes":16996480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/F114_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 199
+lParam: {"wakeup":1,"nStartBytes":17031360,"nEndBytes":17066880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M001_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M001_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M001_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M001_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 114
+lParam: {"wakeup":1,"nStartBytes":17315840,"nEndBytes":17348160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M003_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M003_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M003_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M003_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M006_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M006_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M006_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M006_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 99
+lParam: {"wakeup":1,"nStartBytes":17889920,"nEndBytes":17927680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M009_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M009_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M009_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 101
+lParam: {"wakeup":1,"nStartBytes":18128640,"nEndBytes":18168960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X2/M009_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 106
+lParam: {"wakeup":1,"nStartBytes":18208000,"nEndBytes":18251520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M010_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 145
+lParam: {"wakeup":1,"nStartBytes":18288960,"nEndBytes":18334400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M010_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M010_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M010_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 108
+lParam: {"wakeup":1,"nStartBytes":18538560,"nEndBytes":18584320}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M011_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M011_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 105
+lParam: {"wakeup":1,"nStartBytes":18709120,"nEndBytes":18744960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M011_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 143
+lParam: {"wakeup":1,"nStartBytes":18784960,"nEndBytes":18819200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M011_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M012_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M012_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 100
+lParam: {"wakeup":1,"nStartBytes":19010880,"nEndBytes":19056000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M012_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 94
+lParam: {"wakeup":1,"nStartBytes":19093440,"nEndBytes":19136960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M012_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 107
+lParam: {"wakeup":1,"nStartBytes":19169920,"nEndBytes":19212160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M102_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 113
+lParam: {"wakeup":1,"nStartBytes":19247680,"nEndBytes":19289280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M102_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M102_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M102_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M103_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 87
+lParam: {"wakeup":1,"nStartBytes":19579200,"nEndBytes":19623360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M103_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 89
+lParam: {"wakeup":1,"nStartBytes":19657600,"nEndBytes":19696320}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M103_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 143
+lParam: {"wakeup":1,"nStartBytes":19728960,"nEndBytes":19766720}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M103_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 153
+lParam: {"wakeup":1,"nStartBytes":19801600,"nEndBytes":19838400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M104_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 155
+lParam: {"wakeup":1,"nStartBytes":19871360,"nEndBytes":19916800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M104_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 147
+lParam: {"wakeup":1,"nStartBytes":19949760,"nEndBytes":19998400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M104_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 178
+lParam: {"wakeup":1,"nStartBytes":20031040,"nEndBytes":20078400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M104_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 146
+lParam: {"wakeup":1,"nStartBytes":20111360,"nEndBytes":20157760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M014_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 186
+lParam: {"wakeup":1,"nStartBytes":20192000,"nEndBytes":20219840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M014_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 231
+lParam: {"wakeup":1,"nStartBytes":20251520,"nEndBytes":20282240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M014_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 207
+lParam: {"wakeup":1,"nStartBytes":20313600,"nEndBytes":20344000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M014_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 161
+lParam: {"wakeup":1,"nStartBytes":20376000,"nEndBytes":20407360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M015_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M015_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 131
+lParam: {"wakeup":1,"nStartBytes":20509440,"nEndBytes":20542080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M015_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 115
+lParam: {"wakeup":1,"nStartBytes":20573760,"nEndBytes":20606720}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M015_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 138
+lParam: {"wakeup":1,"nStartBytes":20638720,"nEndBytes":20671040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M107_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 158
+lParam: {"wakeup":1,"nStartBytes":20702080,"nEndBytes":20735680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M107_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 173
+lParam: {"wakeup":1,"nStartBytes":20770240,"nEndBytes":20805120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M107_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 161
+lParam: {"wakeup":1,"nStartBytes":20839680,"nEndBytes":20874880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M107_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 97
+lParam: {"wakeup":1,"nStartBytes":20912000,"nEndBytes":20946560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M110_013.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M110_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M110_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M110_016.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M112_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 191
+lParam: {"wakeup":1,"nStartBytes":21261120,"nEndBytes":21297920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M112_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M112_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M112_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 125
+lParam: {"wakeup":1,"nStartBytes":21473600,"nEndBytes":21507520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M113_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 174
+lParam: {"wakeup":1,"nStartBytes":21544640,"nEndBytes":21581440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M113_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 195
+lParam: {"wakeup":1,"nStartBytes":21618240,"nEndBytes":21655680}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M113_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 217
+lParam: {"wakeup":1,"nStartBytes":21691200,"nEndBytes":21729920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M113_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 192
+lParam: {"wakeup":1,"nStartBytes":21766400,"nEndBytes":21802240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F002_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 136
+lParam: {"wakeup":1,"nStartBytes":21842560,"nEndBytes":21884800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F002_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F002_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 164
+lParam: {"wakeup":1,"nStartBytes":22015680,"nEndBytes":22055360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F002_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 190
+lParam: {"wakeup":1,"nStartBytes":22098880,"nEndBytes":22136960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F004_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 148
+lParam: {"wakeup":1,"nStartBytes":22177280,"nEndBytes":22227200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F004_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 197
+lParam: {"wakeup":1,"nStartBytes":22262720,"nEndBytes":22308800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F004_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 165
+lParam: {"wakeup":1,"nStartBytes":22344320,"nEndBytes":22391040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F004_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 204
+lParam: {"wakeup":1,"nStartBytes":22428800,"nEndBytes":22474880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F005_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 226
+lParam: {"wakeup":1,"nStartBytes":22510080,"nEndBytes":22549440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F005_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 214
+lParam: {"wakeup":1,"nStartBytes":22590080,"nEndBytes":22626880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F005_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 205
+lParam: {"wakeup":1,"nStartBytes":22664640,"nEndBytes":22702720}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F005_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 246
+lParam: {"wakeup":1,"nStartBytes":22740480,"nEndBytes":22778560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F007_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 211
+lParam: {"wakeup":1,"nStartBytes":22815360,"nEndBytes":22857280}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F007_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 209
+lParam: {"wakeup":1,"nStartBytes":22896640,"nEndBytes":22935360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F007_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 226
+lParam: {"wakeup":1,"nStartBytes":22973440,"nEndBytes":23012160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F007_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 209
+lParam: {"wakeup":1,"nStartBytes":23047040,"nEndBytes":23088000}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F008_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 144
+lParam: {"wakeup":1,"nStartBytes":23125760,"nEndBytes":23171200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F008_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 118
+lParam: {"wakeup":1,"nStartBytes":23211200,"nEndBytes":23253440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F008_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 91
+lParam: {"wakeup":1,"nStartBytes":23289920,"nEndBytes":23331520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F008_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 89
+lParam: {"wakeup":1,"nStartBytes":23365760,"nEndBytes":23407040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F013_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 154
+lParam: {"wakeup":1,"nStartBytes":23441280,"nEndBytes":23486400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F013_014.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F013_015.wav
+
+wav format, skip 44 bytes in the head
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F013_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 159
+lParam: {"wakeup":1,"nStartBytes":23702080,"nEndBytes":23747520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F016_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 234
+lParam: {"wakeup":1,"nStartBytes":23787520,"nEndBytes":23816960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F016_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 207
+lParam: {"wakeup":1,"nStartBytes":23850240,"nEndBytes":23878400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F016_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 211
+lParam: {"wakeup":1,"nStartBytes":23911680,"nEndBytes":23940800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F016_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 225
+lParam: {"wakeup":1,"nStartBytes":23975360,"nEndBytes":24004160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F101_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 214
+lParam: {"wakeup":1,"nStartBytes":24038400,"nEndBytes":24079040}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F101_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 136
+lParam: {"wakeup":1,"nStartBytes":24116160,"nEndBytes":24154560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F101_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 170
+lParam: {"wakeup":1,"nStartBytes":24187200,"nEndBytes":24229440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F101_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 214
+lParam: {"wakeup":1,"nStartBytes":24264640,"nEndBytes":24305600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F105_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 170
+lParam: {"wakeup":1,"nStartBytes":24340160,"nEndBytes":24386880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F105_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 166
+lParam: {"wakeup":1,"nStartBytes":24424000,"nEndBytes":24468160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F105_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 184
+lParam: {"wakeup":1,"nStartBytes":24504640,"nEndBytes":24550400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F105_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 202
+lParam: {"wakeup":1,"nStartBytes":24585280,"nEndBytes":24629760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F106_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 166
+lParam: {"wakeup":1,"nStartBytes":24666560,"nEndBytes":24728960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F106_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 177
+lParam: {"wakeup":1,"nStartBytes":24768000,"nEndBytes":24807360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F106_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 205
+lParam: {"wakeup":1,"nStartBytes":24844800,"nEndBytes":24881920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F106_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 189
+lParam: {"wakeup":1,"nStartBytes":24919680,"nEndBytes":24956480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F108_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 193
+lParam: {"wakeup":1,"nStartBytes":24992960,"nEndBytes":25036480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F108_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 169
+lParam: {"wakeup":1,"nStartBytes":25074560,"nEndBytes":25117760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F108_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 173
+lParam: {"wakeup":1,"nStartBytes":25154240,"nEndBytes":25197760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F108_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 186
+lParam: {"wakeup":1,"nStartBytes":25234240,"nEndBytes":25279360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F109_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 169
+lParam: {"wakeup":1,"nStartBytes":25315520,"nEndBytes":25363200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F109_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 203
+lParam: {"wakeup":1,"nStartBytes":25403840,"nEndBytes":25449600}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F109_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 196
+lParam: {"wakeup":1,"nStartBytes":25488640,"nEndBytes":25533440}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F109_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 206
+lParam: {"wakeup":1,"nStartBytes":25572480,"nEndBytes":25616960}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F111_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 113
+lParam: {"wakeup":1,"nStartBytes":25654400,"nEndBytes":25695360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F111_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 211
+lParam: {"wakeup":1,"nStartBytes":25732480,"nEndBytes":25773760}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F111_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 221
+lParam: {"wakeup":1,"nStartBytes":25810240,"nEndBytes":25853120}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F111_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 207
+lParam: {"wakeup":1,"nStartBytes":25888640,"nEndBytes":25930560}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F114_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 188
+lParam: {"wakeup":1,"nStartBytes":25964800,"nEndBytes":25998080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F114_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 196
+lParam: {"wakeup":1,"nStartBytes":26032640,"nEndBytes":26065920}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F114_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 179
+lParam: {"wakeup":1,"nStartBytes":26099840,"nEndBytes":26134080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/F114_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 194
+lParam: {"wakeup":1,"nStartBytes":26168960,"nEndBytes":26204160}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M001_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 206
+lParam: {"wakeup":1,"nStartBytes":26239680,"nEndBytes":26278080}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M001_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 189
+lParam: {"wakeup":1,"nStartBytes":26310720,"nEndBytes":26348800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M001_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 135
+lParam: {"wakeup":1,"nStartBytes":26382400,"nEndBytes":26418240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M001_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 196
+lParam: {"wakeup":1,"nStartBytes":26451200,"nEndBytes":26487360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M003_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 176
+lParam: {"wakeup":1,"nStartBytes":26518080,"nEndBytes":26555520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M003_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 190
+lParam: {"wakeup":1,"nStartBytes":26584320,"nEndBytes":26623360}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M003_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 171
+lParam: {"wakeup":1,"nStartBytes":26653120,"nEndBytes":26692480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M003_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 157
+lParam: {"wakeup":1,"nStartBytes":26724800,"nEndBytes":26763840}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M006_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 115
+lParam: {"wakeup":1,"nStartBytes":26799040,"nEndBytes":26838400}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M006_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 87
+lParam: {"wakeup":1,"nStartBytes":26874560,"nEndBytes":26915520}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M006_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 109
+lParam: {"wakeup":1,"nStartBytes":26950720,"nEndBytes":26988800}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M006_016.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 161
+lParam: {"wakeup":1,"nStartBytes":27026880,"nEndBytes":27067200}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M009_013.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 129
+lParam: {"wakeup":1,"nStartBytes":27102720,"nEndBytes":27146240}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M009_014.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 124
+lParam: {"wakeup":1,"nStartBytes":27184640,"nEndBytes":27228480}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M009_015.wav
+
+wav format, skip 44 bytes in the head
+Ivw success!!场景是：1 ID是：0 得分是： 143
+lParam: {"wakeup":1,"nStartBytes":27265280,"nEndBytes":27306880}
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-1/X3/M009_016.wav
+wav format, skip 44 bytes in the head
+       唤醒次数,         总次数
+            290,            360

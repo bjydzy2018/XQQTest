@@ -1,0 +1,13 @@
+2017-05-15 15:34:42 Log.py[line:130] INFO set suit result
+2017-05-15 15:34:42 Log.py[line:128] DEBUG ReadPOIXPResult.main(./Resource/isssr.log, ./Resource/out_suit.txt)
+2017-05-15 15:34:42 Log.py[line:130] INFO set suit result success!
+2017-05-15 15:34:42 Log.py[line:128] DEBUG 	Function 'set_suit_result()' run time is : 0.165999889374 s
+2017-05-15 15:34:42 Log.py[line:130] INFO begin compare
+2017-05-15 15:34:42 Log.py[line:128] DEBUG same rate : 1.0
+2017-05-15 15:34:42 Log.py[line:128] DEBUG 	Function 'get_compare_result(recPath,suitPath)' run time is : 0.0160000324249 s
+2017-05-15 15:34:42 Log.py[line:130] INFO end compare
+2017-05-15 15:34:42 Log.py[line:130] INFO write result : ./Result\1.0_Ï¸Á£¶È.xls
+2017-05-15 15:34:42 Log.py[line:128] DEBUG 	Function '__write_rate_sheet(rateSheet,Compare())' run time is : 0.0 s
+2017-05-15 15:34:42 Log.py[line:128] DEBUG 	Function '__write_detail_sheet(detailSheet,Compare())' run time is : 0.158999919891 s
+2017-05-15 15:34:43 Log.py[line:128] DEBUG 	Function 'write_result(resultDir,Compare())' run time is : 0.420000076294 s
+2017-05-15 15:34:43 Log.py[line:128] DEBUG 	Function 'main()' run time is : 0.608000040054 s

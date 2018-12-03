@@ -1,0 +1,8 @@
+2017-05-05 15:40:30 Log.py[line:130] INFO get suit result
+2017-05-05 15:40:30 Log.py[line:128] DEBUG 	Function 'get_suit_result()' run time is : 0.061999797821 s
+2017-05-05 15:40:30 Log.py[line:130] INFO get rec result
+2017-05-05 15:40:31 Log.py[line:128] DEBUG 	Function 'get_rec_result()' run time is : 0.538000106812 s
+2017-05-05 15:40:31 Log.py[line:130] INFO begin compare
+2017-05-05 15:40:31 Log.py[line:128] DEBUG .//192.168.28.101/套件测试集/唤醒/Daily-Consistent/一致性测试集/cancel/cancel/M019-2.M019-2_227.wav
+2017-05-05 15:40:31 Log.py[line:128] DEBUG 鏃堕棿
+2017-05-05 15:40:35 Log.py[line:128] DEBUG 2017-05-05_15-40-30

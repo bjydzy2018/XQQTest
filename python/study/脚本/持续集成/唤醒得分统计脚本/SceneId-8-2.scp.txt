@@ -1,0 +1,1331 @@
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_001.wav 1
+Time:0h:0m:0s:250ms - 0h:0m:0s:690ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=10701, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_002.wav 1
+Time:0h:0m:1s:190ms - 0h:0m:1s:640ms, n1PassCMScore=-32768, n2PassCMScore=88, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=10406, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_003.wav 1
+Time:0h:0m:2s:150ms - 0h:0m:2s:580ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=6805, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_004.wav 1
+Time:0h:0m:3s:70ms - 0h:0m:3s:520ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=10682, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_005.wav 1
+Time:0h:0m:4s:10ms - 0h:0m:4s:460ms, n1PassCMScore=-32768, n2PassCMScore=125, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=17404, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_006.wav 1
+Time:0h:0m:4s:970ms - 0h:0m:5s:480ms, n1PassCMScore=-32768, n2PassCMScore=168, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=6185, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_007.wav 1
+Time:0h:0m:5s:950ms - 0h:0m:6s:620ms, n1PassCMScore=-32768, n2PassCMScore=128, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=3831, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_008.wav 1
+Time:0h:0m:7s:170ms - 0h:0m:8s:40ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=88, WakeUp,  KeyID=1, nResID=0, fSNR=12364, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_009.wav 1
+Time:0h:0m:8s:510ms - 0h:0m:9s:250ms, n1PassCMScore=-32768, n2PassCMScore=137, nFrame=75, WakeUp,  KeyID=1, nResID=0, fSNR=6579, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_010.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_010.wav 1
+Time:0h:0m:9s:770ms - 0h:0m:10s:580ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=9781, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_011.wav 1
+Time:0h:0m:11s:70ms - 0h:0m:12s:520ms, n1PassCMScore=-32768, n2PassCMScore=112, nFrame=146, WakeUp,  KeyID=1, nResID=0, fSNR=8892, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_012.wav 1
+Time:0h:0m:13s:30ms - 0h:0m:14s:570ms, n1PassCMScore=-32768, n2PassCMScore=60, nFrame=155, WakeUp,  KeyID=1, nResID=0, fSNR=11361, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_013.wav 1
+Time:0h:0m:15s:110ms - 0h:0m:16s:570ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=147, WakeUp,  KeyID=1, nResID=0, fSNR=12793, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_014.wav 1
+Time:0h:0m:17s:170ms - 0h:0m:18s:560ms, n1PassCMScore=-32768, n2PassCMScore=77, nFrame=140, WakeUp,  KeyID=1, nResID=0, fSNR=3679, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F001_挂断_015.wav 1
+Time:0h:0m:19s:130ms - 0h:0m:20s:410ms, n1PassCMScore=-32768, n2PassCMScore=70, nFrame=129, WakeUp,  KeyID=1, nResID=0, fSNR=5623, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_001.wav 1
+Time:0h:0m:21s:10ms - 0h:0m:21s:510ms, n1PassCMScore=-32768, n2PassCMScore=125, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=3908, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_002.wav 1
+Time:0h:0m:21s:990ms - 0h:0m:22s:510ms, n1PassCMScore=-32768, n2PassCMScore=122, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=6825, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_003.wav 1
+Time:0h:0m:22s:990ms - 0h:0m:23s:530ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=7471, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_004.wav 1
+Time:0h:0m:24s:10ms - 0h:0m:24s:500ms, n1PassCMScore=-32768, n2PassCMScore=80, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=7781, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_005.wav 1
+Time:0h:0m:24s:990ms - 0h:0m:25s:480ms, n1PassCMScore=-32768, n2PassCMScore=101, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=8429, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_006.wav 1
+Time:0h:0m:25s:970ms - 0h:0m:26s:580ms, n1PassCMScore=-32768, n2PassCMScore=143, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=5621, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_007.wav 1
+Time:0h:0m:27s:30ms - 0h:0m:27s:710ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=9822, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_008.wav 1
+Time:0h:0m:28s:190ms - 0h:0m:28s:750ms, n1PassCMScore=-32768, n2PassCMScore=105, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=2256, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_009.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_009.wav 1
+Time:0h:0m:29s:210ms - 0h:0m:29s:780ms, n1PassCMScore=-32768, n2PassCMScore=114, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=8805, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_010.wav 1
+Time:0h:0m:30s:270ms - 0h:0m:30s:890ms, n1PassCMScore=-32768, n2PassCMScore=160, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=9932, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_011.wav 1
+Time:0h:0m:31s:350ms - 0h:0m:32s:260ms, n1PassCMScore=-32768, n2PassCMScore=128, nFrame=92, WakeUp,  KeyID=1, nResID=0, fSNR=5090, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_012.wav 1
+Time:0h:0m:32s:730ms - 0h:0m:33s:710ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=99, WakeUp,  KeyID=1, nResID=0, fSNR=5161, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_013.wav 1
+Time:0h:0m:34s:190ms - 0h:0m:35s:150ms, n1PassCMScore=-32768, n2PassCMScore=107, nFrame=97, WakeUp,  KeyID=1, nResID=0, fSNR=6381, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_014.wav 1
+Time:0h:0m:35s:630ms - 0h:0m:36s:570ms, n1PassCMScore=-32768, n2PassCMScore=143, nFrame=95, WakeUp,  KeyID=1, nResID=0, fSNR=7276, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F002_挂断_015.wav 1
+Time:0h:0m:37s:30ms - 0h:0m:37s:970ms, n1PassCMScore=-32768, n2PassCMScore=123, nFrame=95, WakeUp,  KeyID=1, nResID=0, fSNR=8361, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_002.wav 1
+Time:0h:0m:39s:340ms - 0h:0m:39s:730ms, n1PassCMScore=-32768, n2PassCMScore=64, nFrame=40, WakeUp,  KeyID=1, nResID=0, fSNR=10423, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_004.wav 1
+Time:0h:0m:41s:190ms - 0h:0m:41s:610ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=5681, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_005.wav 1
+Time:0h:0m:42s:120ms - 0h:0m:42s:550ms, n1PassCMScore=-32768, n2PassCMScore=60, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=9855, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_006.wav 1
+Time:0h:0m:43s:80ms - 0h:0m:43s:630ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=4822, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_007.wav 1
+Time:0h:0m:44s:190ms - 0h:0m:44s:810ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=12171, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_008.wav 1
+Time:0h:0m:45s:390ms - 0h:0m:46s:10ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=11336, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_009.wav 1
+Time:0h:0m:46s:570ms - 0h:0m:47s:240ms, n1PassCMScore=-32768, n2PassCMScore=162, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=9658, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_010.wav 1
+Time:0h:0m:47s:830ms - 0h:0m:48s:520ms, n1PassCMScore=-32768, n2PassCMScore=132, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=2720, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_011.wav 1
+Time:0h:0m:49s:90ms - 0h:0m:50s:170ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=109, WakeUp,  KeyID=1, nResID=0, fSNR=8633, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_012.wav 1
+Time:0h:0m:50s:770ms - 0h:0m:51s:860ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=110, WakeUp,  KeyID=1, nResID=0, fSNR=6040, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_013.wav 1
+Time:0h:0m:52s:430ms - 0h:0m:53s:370ms, n1PassCMScore=-32768, n2PassCMScore=107, nFrame=95, WakeUp,  KeyID=1, nResID=0, fSNR=19121, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_014.wav 1
+Time:0h:0m:54s:110ms - 0h:0m:55s:210ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=111, WakeUp,  KeyID=1, nResID=0, fSNR=4142, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_015.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F003_挂断_015.wav 1
+Time:0h:0m:55s:870ms - 0h:0m:56s:970ms, n1PassCMScore=-32768, n2PassCMScore=71, nFrame=111, WakeUp,  KeyID=1, nResID=0, fSNR=12792, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_001.wav 1
+Time:0h:0m:57s:530ms - 0h:0m:58s:50ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=11527, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_002.wav 1
+Time:0h:0m:58s:570ms - 0h:0m:59s:150ms, n1PassCMScore=-32768, n2PassCMScore=137, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=9404, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_003.wav 1
+Time:0h:0m:59s:670ms - 0h:1m:0s:230ms, n1PassCMScore=-32768, n2PassCMScore=149, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=10850, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_004.wav 1
+Time:0h:1m:0s:730ms - 0h:1m:1s:280ms, n1PassCMScore=-32768, n2PassCMScore=162, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=9254, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_005.wav 1
+Time:0h:1m:1s:850ms - 0h:1m:2s:390ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=5952, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_006.wav 1
+Time:0h:1m:2s:950ms - 0h:1m:3s:540ms, n1PassCMScore=-32768, n2PassCMScore=156, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=7648, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_007.wav 1
+Time:0h:1m:4s:30ms - 0h:1m:4s:640ms, n1PassCMScore=-32768, n2PassCMScore=111, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=1239, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_008.wav 1
+Time:0h:1m:5s:130ms - 0h:1m:5s:930ms, n1PassCMScore=-32768, n2PassCMScore=103, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=7293, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_009.wav 1
+Time:0h:1m:6s:430ms - 0h:1m:7s:230ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=4412, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_010.wav 1
+Time:0h:1m:7s:710ms - 0h:1m:8s:530ms, n1PassCMScore=-32768, n2PassCMScore=107, nFrame=83, WakeUp,  KeyID=1, nResID=0, fSNR=8565, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_011.wav 1
+Time:0h:1m:9s:80ms - 0h:1m:10s:380ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=131, WakeUp,  KeyID=1, nResID=0, fSNR=647, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_013.wav 1
+Time:0h:1m:12s:650ms - 0h:1m:13s:960ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=132, WakeUp,  KeyID=1, nResID=0, fSNR=3749, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_014.wav 1
+Time:0h:1m:14s:430ms - 0h:1m:15s:690ms, n1PassCMScore=-32768, n2PassCMScore=129, nFrame=127, WakeUp,  KeyID=1, nResID=0, fSNR=239, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F004_挂断_015.wav 1
+Time:0h:1m:16s:190ms - 0h:1m:17s:500ms, n1PassCMScore=-32768, n2PassCMScore=77, nFrame=132, WakeUp,  KeyID=1, nResID=0, fSNR=3047, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_001.wav 1
+Time:0h:1m:17s:990ms - 0h:1m:18s:430ms, n1PassCMScore=-32768, n2PassCMScore=91, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=12713, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_002.wav 1
+Time:0h:1m:18s:910ms - 0h:1m:19s:320ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=10284, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_003.wav 1
+Time:0h:1m:19s:790ms - 0h:1m:20s:200ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=4816, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_004.wav 1
+Time:0h:1m:20s:710ms - 0h:1m:21s:160ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=12679, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_005.wav 1
+Time:0h:1m:21s:650ms - 0h:1m:22s:140ms, n1PassCMScore=-32768, n2PassCMScore=75, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=8185, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_006.wav 1
+Time:0h:1m:22s:630ms - 0h:1m:23s:260ms, n1PassCMScore=-32768, n2PassCMScore=222, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=12874, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_007.wav 1
+Time:0h:1m:23s:750ms - 0h:1m:24s:380ms, n1PassCMScore=-32768, n2PassCMScore=164, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=6398, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_008.wav 1
+Time:0h:1m:24s:850ms - 0h:1m:25s:450ms, n1PassCMScore=-32768, n2PassCMScore=173, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=9279, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_009.wav 1
+Time:0h:1m:25s:930ms - 0h:1m:26s:530ms, n1PassCMScore=-32768, n2PassCMScore=172, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=3198, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_010.wav 1
+Time:0h:1m:27s:10ms - 0h:1m:27s:620ms, n1PassCMScore=-32768, n2PassCMScore=168, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=8019, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_011.wav 1
+Time:0h:1m:28s:140ms - 0h:1m:28s:890ms, n1PassCMScore=-32768, n2PassCMScore=67, nFrame=76, WakeUp,  KeyID=1, nResID=0, fSNR=7368, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_012.wav 1
+Time:0h:1m:29s:350ms - 0h:1m:30s:360ms, n1PassCMScore=-32768, n2PassCMScore=83, nFrame=102, WakeUp,  KeyID=1, nResID=0, fSNR=8880, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_013.wav 1
+Time:0h:1m:30s:870ms - 0h:1m:31s:880ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=102, WakeUp,  KeyID=1, nResID=0, fSNR=11444, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_014.wav 1
+Time:0h:1m:32s:430ms - 0h:1m:33s:370ms, n1PassCMScore=-32768, n2PassCMScore=107, nFrame=95, WakeUp,  KeyID=1, nResID=0, fSNR=12423, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\F005_挂断_015.wav 1
+Time:0h:1m:33s:900ms - 0h:1m:34s:940ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=105, WakeUp,  KeyID=1, nResID=0, fSNR=11941, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_002.wav 1
+Time:0h:1m:36s:370ms - 0h:1m:36s:810ms, n1PassCMScore=-32768, n2PassCMScore=135, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=6308, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_003.wav 1
+Time:0h:1m:37s:270ms - 0h:1m:37s:680ms, n1PassCMScore=-32768, n2PassCMScore=95, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=5417, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_004.wav 1
+Time:0h:1m:38s:170ms - 0h:1m:38s:590ms, n1PassCMScore=-32768, n2PassCMScore=109, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=4127, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_005.wav 1
+Time:0h:1m:39s:50ms - 0h:1m:39s:450ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=41, WakeUp,  KeyID=1, nResID=0, fSNR=4232, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_006.wav 1
+Time:0h:1m:39s:920ms - 0h:1m:40s:430ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=8730, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_007.wav 1
+Time:0h:1m:40s:910ms - 0h:1m:41s:430ms, n1PassCMScore=-32768, n2PassCMScore=163, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=10324, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_008.wav 1
+Time:0h:1m:41s:930ms - 0h:1m:42s:450ms, n1PassCMScore=-32768, n2PassCMScore=141, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=7112, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_009.wav 1
+Time:0h:1m:42s:910ms - 0h:1m:43s:430ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=9222, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_010.wav 1
+Time:0h:1m:43s:910ms - 0h:1m:44s:410ms, n1PassCMScore=-32768, n2PassCMScore=171, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=7980, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_011.wav 1
+Time:0h:1m:44s:910ms - 0h:1m:45s:630ms, n1PassCMScore=-32768, n2PassCMScore=177, nFrame=73, WakeUp,  KeyID=1, nResID=0, fSNR=5240, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_012.wav 1
+Time:0h:1m:46s:110ms - 0h:1m:46s:870ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=2562, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_013.wav 1
+Time:0h:1m:47s:410ms - 0h:1m:48s:130ms, n1PassCMScore=-32768, n2PassCMScore=167, nFrame=73, WakeUp,  KeyID=1, nResID=0, fSNR=4837, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_014.wav 1
+Time:0h:1m:48s:700ms - 0h:1m:49s:400ms, n1PassCMScore=-32768, n2PassCMScore=121, nFrame=71, WakeUp,  KeyID=1, nResID=0, fSNR=3084, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M001_挂断_015.wav 1
+Time:0h:1m:49s:890ms - 0h:1m:50s:640ms, n1PassCMScore=-32768, n2PassCMScore=141, nFrame=76, WakeUp,  KeyID=1, nResID=0, fSNR=4027, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_001.wav 1
+Time:0h:1m:51s:210ms - 0h:1m:51s:610ms, n1PassCMScore=-32768, n2PassCMScore=66, nFrame=41, WakeUp,  KeyID=1, nResID=0, fSNR=3119, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_002.wav 1
+Time:0h:1m:52s:70ms - 0h:1m:52s:510ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=4402, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_003.wav 1
+Time:0h:1m:52s:990ms - 0h:1m:53s:410ms, n1PassCMScore=-32768, n2PassCMScore=101, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=3127, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_004.wav 1
+Time:0h:1m:53s:890ms - 0h:1m:54s:330ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=3772, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_005.wav 1
+Time:0h:1m:54s:790ms - 0h:1m:55s:200ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=2652, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_006.wav 1
+Time:0h:1m:55s:690ms - 0h:1m:56s:180ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=2528, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_007.wav 1
+Time:0h:1m:56s:650ms - 0h:1m:57s:160ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=3108, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_008.wav 1
+Time:0h:1m:57s:650ms - 0h:1m:58s:140ms, n1PassCMScore=-32768, n2PassCMScore=142, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=3922, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_009.wav 1
+Time:0h:1m:58s:630ms - 0h:1m:59s:90ms, n1PassCMScore=-32768, n2PassCMScore=111, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=2072, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_010.wav 1
+Time:0h:1m:59s:570ms - 0h:2m:0s:100ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=1923, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_011.wav 1
+Time:0h:2m:0s:570ms - 0h:2m:1s:460ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=90, WakeUp,  KeyID=1, nResID=0, fSNR=1023, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_012.wav 1
+Time:0h:2m:1s:970ms - 0h:2m:2s:690ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=73, WakeUp,  KeyID=1, nResID=0, fSNR=1280, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_013.wav 1
+Time:0h:2m:3s:170ms - 0h:2m:3s:990ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=83, WakeUp,  KeyID=1, nResID=0, fSNR=1791, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_014.wav 1
+Time:0h:2m:4s:490ms - 0h:2m:5s:300ms, n1PassCMScore=-32768, n2PassCMScore=75, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=1774, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M002_挂断_015.wav 1
+Time:0h:2m:5s:750ms - 0h:2m:6s:590ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=85, WakeUp,  KeyID=1, nResID=0, fSNR=1159, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_001.wav 1
+Time:0h:2m:7s:70ms - 0h:2m:7s:680ms, n1PassCMScore=-32768, n2PassCMScore=166, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=6394, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_002.wav 1
+Time:0h:2m:8s:170ms - 0h:2m:8s:710ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=1933, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_003.wav 1
+Time:0h:2m:9s:190ms - 0h:2m:9s:770ms, n1PassCMScore=-32768, n2PassCMScore=139, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=6664, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_004.wav 1
+Time:0h:2m:10s:230ms - 0h:2m:10s:800ms, n1PassCMScore=-32768, n2PassCMScore=171, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=4891, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_005.wav 1
+Time:0h:2m:11s:250ms - 0h:2m:11s:750ms, n1PassCMScore=-32768, n2PassCMScore=195, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=8228, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_006.wav 1
+Time:0h:2m:12s:230ms - 0h:2m:12s:870ms, n1PassCMScore=-32768, n2PassCMScore=156, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=5503, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_007.wav 1
+Time:0h:2m:13s:330ms - 0h:2m:14s:120ms, n1PassCMScore=-32768, n2PassCMScore=160, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=9345, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_008.wav 1
+Time:0h:2m:14s:590ms - 0h:2m:15s:350ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=5156, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_009.wav 1
+Time:0h:2m:15s:850ms - 0h:2m:16s:570ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=73, WakeUp,  KeyID=1, nResID=0, fSNR=6228, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_010.wav 1
+Time:0h:2m:17s:70ms - 0h:2m:17s:830ms, n1PassCMScore=-32768, n2PassCMScore=132, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=7833, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_011.wav 1
+Time:0h:2m:18s:350ms - 0h:2m:19s:510ms, n1PassCMScore=-32768, n2PassCMScore=130, nFrame=117, WakeUp,  KeyID=1, nResID=0, fSNR=7344, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_012.wav 1
+Time:0h:2m:19s:990ms - 0h:2m:21s:180ms, n1PassCMScore=-32768, n2PassCMScore=131, nFrame=120, WakeUp,  KeyID=1, nResID=0, fSNR=3651, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_013.wav 1
+Time:0h:2m:21s:710ms - 0h:2m:22s:740ms, n1PassCMScore=-32768, n2PassCMScore=132, nFrame=104, WakeUp,  KeyID=1, nResID=0, fSNR=523, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_014.wav 1
+Time:0h:2m:23s:210ms - 0h:2m:24s:290ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=109, WakeUp,  KeyID=1, nResID=0, fSNR=4765, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_015.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M003_挂断_015.wav 1
+Time:0h:2m:24s:770ms - 0h:2m:25s:810ms, n1PassCMScore=-32768, n2PassCMScore=139, nFrame=105, WakeUp,  KeyID=1, nResID=0, fSNR=3745, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_001.wav 1
+Time:0h:2m:26s:310ms - 0h:2m:26s:740ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=4715, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_002.wav 1
+Time:0h:2m:27s:250ms - 0h:2m:27s:700ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=5026, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_003.wav 1
+Time:0h:2m:28s:230ms - 0h:2m:28s:640ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=5844, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_004.wav 1
+Time:0h:2m:29s:170ms - 0h:2m:29s:590ms, n1PassCMScore=-32768, n2PassCMScore=109, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=306, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_005.wav 1
+Time:0h:2m:30s:120ms - 0h:2m:30s:530ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=2415, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_007.wav 1
+Time:0h:2m:32s:270ms - 0h:2m:32s:910ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=3135, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_008.wav 1
+Time:0h:2m:33s:450ms - 0h:2m:34s:90ms, n1PassCMScore=-32768, n2PassCMScore=91, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=1884, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_009.wav 1
+Time:0h:2m:34s:650ms - 0h:2m:35s:210ms, n1PassCMScore=-32768, n2PassCMScore=132, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=2640, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_010.wav 1
+Time:0h:2m:35s:780ms - 0h:2m:36s:430ms, n1PassCMScore=-32768, n2PassCMScore=73, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=613, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_012.wav 1
+Time:0h:2m:38s:570ms - 0h:2m:39s:860ms, n1PassCMScore=-32768, n2PassCMScore=96, nFrame=130, WakeUp,  KeyID=1, nResID=0, fSNR=3993, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_014.wav 1
+Time:0h:2m:42s:130ms - 0h:2m:43s:310ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=119, WakeUp,  KeyID=1, nResID=0, fSNR=2506, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M004_挂断_015.wav 1
+Time:0h:2m:43s:850ms - 0h:2m:45s:230ms, n1PassCMScore=-32768, n2PassCMScore=105, nFrame=139, WakeUp,  KeyID=1, nResID=0, fSNR=4751, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_003.wav 1
+Time:0h:2m:47s:390ms - 0h:2m:47s:800ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=3911, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_005.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_006.wav 1
+Time:0h:2m:49s:930ms - 0h:2m:50s:510ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=170, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_007.wav 1
+Time:0h:2m:50s:980ms - 0h:2m:51s:610ms, n1PassCMScore=-32768, n2PassCMScore=194, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=3340, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_008.wav 1
+Time:0h:2m:52s:70ms - 0h:2m:52s:690ms, n1PassCMScore=-32768, n2PassCMScore=163, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=5932, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_009.wav 1
+Time:0h:2m:53s:130ms - 0h:2m:53s:750ms, n1PassCMScore=-32768, n2PassCMScore=170, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=3998, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_010.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_010.wav 1
+Time:0h:2m:54s:210ms - 0h:2m:54s:830ms, n1PassCMScore=-32768, n2PassCMScore=156, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=3832, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_011.wav 1
+Time:0h:2m:55s:290ms - 0h:2m:56s:160ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=88, WakeUp,  KeyID=1, nResID=0, fSNR=3985, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_012.wav 1
+Time:0h:2m:56s:650ms - 0h:2m:57s:580ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=94, WakeUp,  KeyID=1, nResID=0, fSNR=2265, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_013.wav 1
+Time:0h:2m:58s:40ms - 0h:2m:59s:10ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=98, WakeUp,  KeyID=1, nResID=0, fSNR=3123, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_014.wav 1
+Time:0h:2m:59s:510ms - 0h:3m:0s:410ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=91, WakeUp,  KeyID=1, nResID=0, fSNR=2951, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_015.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断高架中档\M005_挂断_015.wav 1
+Time:0h:3m:0s:890ms - 0h:3m:1s:770ms, n1PassCMScore=-32768, n2PassCMScore=135, nFrame=89, WakeUp,  KeyID=1, nResID=0, fSNR=4720, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_001.wav 1
+Time:0h:3m:2s:310ms - 0h:3m:2s:720ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=4901, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_002.wav 1
+Time:0h:3m:3s:230ms - 0h:3m:3s:670ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=3418, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_004.wav 1
+Time:0h:3m:5s:90ms - 0h:3m:5s:540ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=5426, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_005.wav 1
+Time:0h:3m:6s:30ms - 0h:3m:6s:500ms, n1PassCMScore=-32768, n2PassCMScore=125, nFrame=48, WakeUp,  KeyID=1, nResID=0, fSNR=11976, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_006.wav 1
+Time:0h:3m:6s:990ms - 0h:3m:7s:480ms, n1PassCMScore=-32768, n2PassCMScore=147, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=3798, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_007.wav 1
+Time:0h:3m:7s:990ms - 0h:3m:8s:640ms, n1PassCMScore=-32768, n2PassCMScore=95, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=822, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_008.wav 1
+Time:0h:3m:9s:180ms - 0h:3m:10s:80ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=91, WakeUp,  KeyID=1, nResID=0, fSNR=5689, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_009.wav 1
+Time:0h:3m:10s:550ms - 0h:3m:11s:270ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=73, WakeUp,  KeyID=1, nResID=0, fSNR=15961, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_010.wav 1
+Time:0h:3m:11s:790ms - 0h:3m:12s:560ms, n1PassCMScore=-32768, n2PassCMScore=128, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=14053, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_011.wav 1
+Time:0h:3m:13s:110ms - 0h:3m:14s:520ms, n1PassCMScore=-32768, n2PassCMScore=71, nFrame=142, WakeUp,  KeyID=1, nResID=0, fSNR=3814, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_014.wav 1
+Time:0h:3m:19s:190ms - 0h:3m:20s:570ms, n1PassCMScore=-32768, n2PassCMScore=81, nFrame=139, WakeUp,  KeyID=1, nResID=0, fSNR=9931, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F001_挂断_015.wav 1
+Time:0h:3m:21s:160ms - 0h:3m:22s:430ms, n1PassCMScore=-32768, n2PassCMScore=59, nFrame=128, WakeUp,  KeyID=1, nResID=0, fSNR=13707, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_001.wav 1
+Time:0h:3m:23s:40ms - 0h:3m:23s:520ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=1386, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_002.wav 1
+Time:0h:3m:24s:10ms - 0h:3m:24s:540ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=18232, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_003.wav 1
+Time:0h:3m:25s:30ms - 0h:3m:25s:540ms, n1PassCMScore=-32768, n2PassCMScore=75, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=19690, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_004.wav 1
+Time:0h:3m:26s:30ms - 0h:3m:26s:510ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=7886, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_005.wav 1
+Time:0h:3m:27s:10ms - 0h:3m:27s:500ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=3079, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_006.wav 1
+Time:0h:3m:27s:990ms - 0h:3m:28s:570ms, n1PassCMScore=-32768, n2PassCMScore=122, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=3568, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_007.wav 1
+Time:0h:3m:29s:50ms - 0h:3m:29s:700ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=4477, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_009.wav 1
+Time:0h:3m:31s:230ms - 0h:3m:31s:790ms, n1PassCMScore=-32768, n2PassCMScore=112, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=10758, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_010.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_010.wav 1
+Time:0h:3m:32s:290ms - 0h:3m:32s:890ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=7367, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_011.wav 1
+Time:0h:3m:33s:390ms - 0h:3m:34s:270ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=89, WakeUp,  KeyID=1, nResID=0, fSNR=4138, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_012.wav 1
+Time:0h:3m:34s:750ms - 0h:3m:35s:730ms, n1PassCMScore=-32768, n2PassCMScore=108, nFrame=99, WakeUp,  KeyID=1, nResID=0, fSNR=5732, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_013.wav 1
+Time:0h:3m:36s:210ms - 0h:3m:37s:120ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=92, WakeUp,  KeyID=1, nResID=0, fSNR=4413, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_014.wav 1
+Time:0h:3m:37s:670ms - 0h:3m:38s:530ms, n1PassCMScore=-32768, n2PassCMScore=83, nFrame=87, WakeUp,  KeyID=1, nResID=0, fSNR=643, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_015.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F002_挂断_015.wav 1
+Time:0h:3m:39s:70ms - 0h:3m:39s:970ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=91, WakeUp,  KeyID=1, nResID=0, fSNR=3424, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_002.wav 1
+Time:0h:3m:41s:350ms - 0h:3m:41s:740ms, n1PassCMScore=-32768, n2PassCMScore=69, nFrame=40, WakeUp,  KeyID=1, nResID=0, fSNR=6270, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_003.wav 1
+Time:0h:3m:42s:270ms - 0h:3m:42s:710ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=8119, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_004.wav 1
+Time:0h:3m:43s:210ms - 0h:3m:43s:590ms, n1PassCMScore=-32768, n2PassCMScore=54, nFrame=39, WakeUp,  KeyID=1, nResID=0, fSNR=8969, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_005.wav 1
+Time:0h:3m:44s:150ms - 0h:3m:44s:540ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=40, WakeUp,  KeyID=1, nResID=0, fSNR=17214, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_006.wav 1
+Time:0h:3m:45s:90ms - 0h:3m:45s:650ms, n1PassCMScore=-32768, n2PassCMScore=134, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=18489, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_007.wav 1
+Time:0h:3m:46s:230ms - 0h:3m:46s:850ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=3117, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_008.wav 1
+Time:0h:3m:47s:410ms - 0h:3m:48s:0ms, n1PassCMScore=-32768, n2PassCMScore=134, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=16440, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_009.wav 1
+Time:0h:3m:48s:590ms - 0h:3m:49s:220ms, n1PassCMScore=-32768, n2PassCMScore=64, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=7094, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_010.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_010.wav 1
+Time:0h:3m:49s:870ms - 0h:3m:50s:540ms, n1PassCMScore=-32768, n2PassCMScore=83, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=3879, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_011.wav 1
+Time:0h:3m:51s:110ms - 0h:3m:52s:200ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=110, WakeUp,  KeyID=1, nResID=0, fSNR=20035, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_012.wav 1
+Time:0h:3m:52s:790ms - 0h:3m:53s:870ms, n1PassCMScore=-32768, n2PassCMScore=104, nFrame=109, WakeUp,  KeyID=1, nResID=0, fSNR=13729, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_013.wav 1
+Time:0h:3m:54s:450ms - 0h:3m:55s:510ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=107, WakeUp,  KeyID=1, nResID=0, fSNR=12759, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F003_挂断_015.wav 1
+Time:0h:3m:57s:870ms - 0h:3m:58s:970ms, n1PassCMScore=-32768, n2PassCMScore=102, nFrame=111, WakeUp,  KeyID=1, nResID=0, fSNR=12361, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_001.wav 1
+Time:0h:3m:59s:530ms - 0h:4m:0s:70ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=14315, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_002.wav 1
+Time:0h:4m:0s:590ms - 0h:4m:1s:150ms, n1PassCMScore=-32768, n2PassCMScore=121, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=4633, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_003.wav 1
+Time:0h:4m:1s:710ms - 0h:4m:2s:230ms, n1PassCMScore=-32768, n2PassCMScore=98, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=1595, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_004.wav 1
+Time:0h:4m:2s:750ms - 0h:4m:3s:300ms, n1PassCMScore=-32768, n2PassCMScore=141, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=2774, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_005.wav 1
+Time:0h:4m:3s:880ms - 0h:4m:4s:410ms, n1PassCMScore=-32768, n2PassCMScore=134, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=3598, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_006.wav 1
+Time:0h:4m:4s:970ms - 0h:4m:5s:540ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=1838, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_007.wav 1
+Time:0h:4m:6s:50ms - 0h:4m:6s:640ms, n1PassCMScore=-32768, n2PassCMScore=139, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=3457, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_008.wav 1
+Time:0h:4m:7s:130ms - 0h:4m:7s:930ms, n1PassCMScore=-32768, n2PassCMScore=109, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=3401, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_009.wav 1
+Time:0h:4m:8s:450ms - 0h:4m:9s:220ms, n1PassCMScore=-32768, n2PassCMScore=61, nFrame=78, WakeUp,  KeyID=1, nResID=0, fSNR=3472, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_010.wav 1
+Time:0h:4m:9s:730ms - 0h:4m:10s:550ms, n1PassCMScore=-32768, n2PassCMScore=79, nFrame=83, WakeUp,  KeyID=1, nResID=0, fSNR=3930, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_011.wav 1
+Time:0h:4m:11s:30ms - 0h:4m:12s:310ms, n1PassCMScore=-32768, n2PassCMScore=90, nFrame=129, WakeUp,  KeyID=1, nResID=0, fSNR=4656, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_012.wav 1
+Time:0h:4m:12s:850ms - 0h:4m:14s:170ms, n1PassCMScore=-32768, n2PassCMScore=56, nFrame=133, WakeUp,  KeyID=1, nResID=0, fSNR=4122, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_013.wav 1
+Time:0h:4m:14s:670ms - 0h:4m:15s:920ms, n1PassCMScore=-32768, n2PassCMScore=53, nFrame=126, WakeUp,  KeyID=1, nResID=0, fSNR=6117, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F004_挂断_014.wav 1
+Time:0h:4m:16s:460ms - 0h:4m:17s:660ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=121, WakeUp,  KeyID=1, nResID=0, fSNR=1117, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_001.wav 1
+Time:0h:4m:20s:60ms - 0h:4m:20s:450ms, n1PassCMScore=-32768, n2PassCMScore=85, nFrame=40, WakeUp,  KeyID=1, nResID=0, fSNR=7045, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_002.wav 1
+Time:0h:4m:20s:930ms - 0h:4m:21s:330ms, n1PassCMScore=-32768, n2PassCMScore=56, nFrame=41, WakeUp,  KeyID=1, nResID=0, fSNR=9714, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_003.wav 1
+Time:0h:4m:21s:810ms - 0h:4m:22s:240ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=14792, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_004.wav 1
+Time:0h:4m:22s:730ms - 0h:4m:23s:210ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=16655, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_005.wav 1
+Time:0h:4m:23s:690ms - 0h:4m:24s:170ms, n1PassCMScore=-32768, n2PassCMScore=63, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=203, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_006.wav 1
+Time:0h:4m:24s:660ms - 0h:4m:25s:270ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=7887, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_007.wav 1
+Time:0h:4m:25s:790ms - 0h:4m:26s:400ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=11050, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_008.wav 1
+Time:0h:4m:26s:900ms - 0h:4m:27s:470ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=238, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_009.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_009.wav 1
+Time:0h:4m:27s:950ms - 0h:4m:28s:520ms, n1PassCMScore=-32768, n2PassCMScore=111, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=2589, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_010.wav 1
+Time:0h:4m:29s:30ms - 0h:4m:29s:620ms, n1PassCMScore=-32768, n2PassCMScore=154, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=8279, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_011.wav 1
+Time:0h:4m:30s:130ms - 0h:4m:30s:860ms, n1PassCMScore=-32768, n2PassCMScore=134, nFrame=74, WakeUp,  KeyID=1, nResID=0, fSNR=11433, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_013.wav 1
+Time:0h:4m:32s:890ms - 0h:4m:33s:860ms, n1PassCMScore=-32768, n2PassCMScore=132, nFrame=98, WakeUp,  KeyID=1, nResID=0, fSNR=10747, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_014.wav 1
+Time:0h:4m:34s:430ms - 0h:4m:35s:350ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=93, WakeUp,  KeyID=1, nResID=0, fSNR=8922, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\F005_挂断_015.wav 1
+Time:0h:4m:35s:910ms - 0h:4m:36s:970ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=107, WakeUp,  KeyID=1, nResID=0, fSNR=14092, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_002.wav 1
+Time:0h:4m:38s:410ms - 0h:4m:38s:830ms, n1PassCMScore=-32768, n2PassCMScore=80, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=7319, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_003.wav 1
+Time:0h:4m:39s:310ms - 0h:4m:39s:720ms, n1PassCMScore=-32768, n2PassCMScore=77, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=2877, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_004.wav 1
+Time:0h:4m:40s:190ms - 0h:4m:40s:610ms, n1PassCMScore=-32768, n2PassCMScore=81, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=5194, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_005.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_005.wav 1
+Time:0h:4m:41s:70ms - 0h:4m:41s:510ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=6035, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_006.wav 1
+Time:0h:4m:41s:950ms - 0h:4m:42s:450ms, n1PassCMScore=-32768, n2PassCMScore=156, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=2088, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_007.wav 1
+Time:0h:4m:42s:930ms - 0h:4m:43s:440ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=6978, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_008.wav 1
+Time:0h:4m:43s:950ms - 0h:4m:44s:490ms, n1PassCMScore=-32768, n2PassCMScore=112, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=5991, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_009.wav 1
+Time:0h:4m:44s:950ms - 0h:4m:45s:440ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=543, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_010.wav 1
+Time:0h:4m:45s:930ms - 0h:4m:46s:380ms, n1PassCMScore=-32768, n2PassCMScore=130, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=6508, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_011.wav 1
+Time:0h:4m:46s:950ms - 0h:4m:47s:580ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=113, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_012.wav 1
+Time:0h:4m:48s:150ms - 0h:4m:48s:830ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=596, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M001_挂断_014.wav 1
+Time:0h:4m:50s:690ms - 0h:4m:51s:400ms, n1PassCMScore=-32768, n2PassCMScore=139, nFrame=72, WakeUp,  KeyID=1, nResID=0, fSNR=318, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_003.wav 1
+Time:0h:4m:55s:10ms - 0h:4m:55s:420ms, n1PassCMScore=-32768, n2PassCMScore=75, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=1118, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_004.wav 1
+Time:0h:4m:55s:920ms - 0h:4m:56s:340ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=4422, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_005.wav 1
+Time:0h:4m:56s:810ms - 0h:4m:57s:230ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=1990, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_006.wav 1
+Time:0h:4m:57s:710ms - 0h:4m:58s:200ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=4134, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_008.wav 1
+Time:0h:4m:59s:690ms - 0h:5m:0s:140ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=187, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_009.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_009.wav 1
+Time:0h:5m:0s:650ms - 0h:5m:1s:140ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=1021, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_010.wav 1
+Time:0h:5m:1s:610ms - 0h:5m:2s:120ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=1599, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_011.wav 1
+Time:0h:5m:2s:600ms - 0h:5m:3s:490ms, n1PassCMScore=-32768, n2PassCMScore=104, nFrame=90, WakeUp,  KeyID=1, nResID=0, fSNR=1699, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_012.wav 1
+Time:0h:5m:3s:970ms - 0h:5m:4s:700ms, n1PassCMScore=-32768, n2PassCMScore=63, nFrame=74, WakeUp,  KeyID=1, nResID=0, fSNR=231, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_013.wav 1
+Time:0h:5m:5s:200ms - 0h:5m:6s:10ms, n1PassCMScore=-32768, n2PassCMScore=70, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=1704, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_014.wav 1
+Time:0h:5m:6s:520ms - 0h:5m:7s:330ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=2102, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M002_挂断_015.wav 1
+Time:0h:5m:7s:770ms - 0h:5m:8s:620ms, n1PassCMScore=-32768, n2PassCMScore=123, nFrame=86, WakeUp,  KeyID=1, nResID=0, fSNR=4027, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_001.wav 1
+Time:0h:5m:9s:90ms - 0h:5m:9s:730ms, n1PassCMScore=-32768, n2PassCMScore=140, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=3570, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_002.wav 1
+Time:0h:5m:10s:190ms - 0h:5m:10s:720ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=9613, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_003.wav 1
+Time:0h:5m:11s:210ms - 0h:5m:11s:800ms, n1PassCMScore=-32768, n2PassCMScore=131, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=16078, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_004.wav 1
+Time:0h:5m:12s:250ms - 0h:5m:12s:810ms, n1PassCMScore=-32768, n2PassCMScore=146, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=11042, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_005.wav 1
+Time:0h:5m:13s:280ms - 0h:5m:13s:770ms, n1PassCMScore=-32768, n2PassCMScore=129, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=29665, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_006.wav 1
+Time:0h:5m:14s:230ms - 0h:5m:14s:910ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=42892, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_007.wav 1
+Time:0h:5m:15s:350ms - 0h:5m:16s:150ms, n1PassCMScore=-32768, n2PassCMScore=117, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=29161, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_008.wav 1
+Time:0h:5m:16s:610ms - 0h:5m:17s:400ms, n1PassCMScore=-32768, n2PassCMScore=127, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=5214, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_009.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_009.wav 1
+Time:0h:5m:17s:870ms - 0h:5m:18s:610ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=75, WakeUp,  KeyID=1, nResID=0, fSNR=8516, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_010.wav 1
+Time:0h:5m:19s:90ms - 0h:5m:19s:870ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=10264, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_011.wav 1
+Time:0h:5m:20s:370ms - 0h:5m:21s:510ms, n1PassCMScore=-32768, n2PassCMScore=84, nFrame=115, WakeUp,  KeyID=1, nResID=0, fSNR=1040, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_012.wav 1
+Time:0h:5m:22s:30ms - 0h:5m:23s:210ms, n1PassCMScore=-32768, n2PassCMScore=84, nFrame=119, WakeUp,  KeyID=1, nResID=0, fSNR=1035, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_013.wav 1
+Time:0h:5m:23s:740ms - 0h:5m:24s:740ms, n1PassCMScore=-32768, n2PassCMScore=120, nFrame=101, WakeUp,  KeyID=1, nResID=0, fSNR=2475, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M003_挂断_015.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_001.wav 1
+Time:0h:5m:28s:330ms - 0h:5m:28s:750ms, n1PassCMScore=-32768, n2PassCMScore=66, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=572, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_003.wav 1
+Time:0h:5m:30s:270ms - 0h:5m:30s:740ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=48, WakeUp,  KeyID=1, nResID=0, fSNR=687, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_004.wav 1
+Time:0h:5m:31s:200ms - 0h:5m:31s:580ms, n1PassCMScore=-32768, n2PassCMScore=61, nFrame=39, WakeUp,  KeyID=1, nResID=0, fSNR=288, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_005.wav 1
+Time:0h:5m:32s:150ms - 0h:5m:32s:530ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=39, WakeUp,  KeyID=1, nResID=0, fSNR=671, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_008.wav 1
+Time:0h:5m:35s:480ms - 0h:5m:36s:80ms, n1PassCMScore=-32768, n2PassCMScore=70, nFrame=61, WakeUp,  KeyID=1, nResID=0, fSNR=2151, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_010.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M004_挂断_015.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_005.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_006.wav 1
+Time:0h:5m:51s:990ms - 0h:5m:52s:510ms, n1PassCMScore=-32768, n2PassCMScore=57, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=71, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_008.wav 1
+Time:0h:5m:54s:150ms - 0h:5m:54s:660ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=175, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_009.wav 1
+Time:0h:5m:55s:210ms - 0h:5m:55s:730ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=320, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_010.wav 1
+Time:0h:5m:56s:270ms - 0h:5m:56s:820ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=410, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_011.wav 1
+Time:0h:5m:57s:330ms - 0h:5m:58s:130ms, n1PassCMScore=-32768, n2PassCMScore=69, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=755, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_012.wav 1
+Time:0h:5m:58s:720ms - 0h:5m:59s:570ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=86, WakeUp,  KeyID=1, nResID=0, fSNR=433, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_014.wav 1
+Time:0h:6m:1s:530ms - 0h:6m:2s:390ms, n1PassCMScore=-32768, n2PassCMScore=68, nFrame=87, WakeUp,  KeyID=1, nResID=0, fSNR=975, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断郊区开窗\M005_挂断_015.wav 1
+Time:0h:6m:2s:910ms - 0h:6m:3s:770ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=87, WakeUp,  KeyID=1, nResID=0, fSNR=534, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_001.wav 1
+Time:0h:6m:4s:290ms - 0h:6m:4s:720ms, n1PassCMScore=-32768, n2PassCMScore=77, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=17114, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_002.wav 1
+Time:0h:6m:5s:220ms - 0h:6m:5s:680ms, n1PassCMScore=-32768, n2PassCMScore=98, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=85463, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_003.wav 1
+Time:0h:6m:6s:170ms - 0h:6m:6s:610ms, n1PassCMScore=-32768, n2PassCMScore=55, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=28256, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_004.wav 1
+Time:0h:6m:7s:100ms - 0h:6m:7s:540ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=129610, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_005.wav 1
+Time:0h:6m:8s:40ms - 0h:6m:8s:480ms, n1PassCMScore=-32768, n2PassCMScore=138, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=106557, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_006.wav 1
+Time:0h:6m:9s:0ms - 0h:6m:9s:500ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=8518, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_007.wav 1
+Time:0h:6m:9s:990ms - 0h:6m:10s:670ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=69, WakeUp,  KeyID=1, nResID=0, fSNR=24230, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_008.wav 1
+Time:0h:6m:11s:210ms - 0h:6m:12s:80ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=88, WakeUp,  KeyID=1, nResID=0, fSNR=77681, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_009.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_009.wav 1
+Time:0h:6m:12s:580ms - 0h:6m:13s:300ms, n1PassCMScore=-32768, n2PassCMScore=53, nFrame=73, WakeUp,  KeyID=1, nResID=0, fSNR=14227, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_010.wav 1
+Time:0h:6m:13s:810ms - 0h:6m:14s:570ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=24002, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_011.wav 1
+Time:0h:6m:15s:90ms - 0h:6m:16s:450ms, n1PassCMScore=-32768, n2PassCMScore=64, nFrame=137, WakeUp,  KeyID=1, nResID=0, fSNR=5009, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_013.wav 1
+Time:0h:6m:19s:150ms - 0h:6m:20s:710ms, n1PassCMScore=-32768, n2PassCMScore=52, nFrame=157, WakeUp,  KeyID=1, nResID=0, fSNR=25787, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_014.wav 1
+Time:0h:6m:21s:190ms - 0h:6m:22s:560ms, n1PassCMScore=-32768, n2PassCMScore=73, nFrame=138, WakeUp,  KeyID=1, nResID=0, fSNR=58968, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F001_挂断_015.wav 1
+Time:0h:6m:23s:170ms - 0h:6m:24s:480ms, n1PassCMScore=-32768, n2PassCMScore=65, nFrame=132, WakeUp,  KeyID=1, nResID=0, fSNR=6168, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_001.wav 1
+Time:0h:6m:25s:40ms - 0h:6m:25s:520ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=123515, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_002.wav 1
+Time:0h:6m:26s:10ms - 0h:6m:26s:480ms, n1PassCMScore=-32768, n2PassCMScore=115, nFrame=48, WakeUp,  KeyID=1, nResID=0, fSNR=19092, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_003.wav 1
+Time:0h:6m:27s:50ms - 0h:6m:27s:500ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=523, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_004.wav 1
+Time:0h:6m:28s:40ms - 0h:6m:28s:500ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=1353, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_005.wav 1
+Time:0h:6m:29s:20ms - 0h:6m:29s:500ms, n1PassCMScore=-32768, n2PassCMScore=135, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=27874, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_006.wav 1
+Time:0h:6m:30s:0ms - 0h:6m:30s:570ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=20353, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_009.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_009.wav 1
+Time:0h:6m:33s:230ms - 0h:6m:33s:790ms, n1PassCMScore=-32768, n2PassCMScore=80, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=2950, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_010.wav 1
+Time:0h:6m:34s:300ms - 0h:6m:34s:870ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=31563, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_011.wav 1
+Time:0h:6m:35s:420ms - 0h:6m:36s:270ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=86, WakeUp,  KeyID=1, nResID=0, fSNR=281, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_012.wav 1
+Time:0h:6m:36s:760ms - 0h:6m:37s:720ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=97, WakeUp,  KeyID=1, nResID=0, fSNR=7240, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_013.wav 1
+Time:0h:6m:38s:210ms - 0h:6m:39s:150ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=95, WakeUp,  KeyID=1, nResID=0, fSNR=47926, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_014.wav 1
+Time:0h:6m:39s:650ms - 0h:6m:40s:570ms, n1PassCMScore=-32768, n2PassCMScore=85, nFrame=93, WakeUp,  KeyID=1, nResID=0, fSNR=6459, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_015.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F002_挂断_015.wav 1
+Time:0h:6m:41s:50ms - 0h:6m:41s:970ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=93, WakeUp,  KeyID=1, nResID=0, fSNR=5090, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_004.wav 1
+Time:0h:6m:45s:220ms - 0h:6m:45s:650ms, n1PassCMScore=-32768, n2PassCMScore=59, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=27794, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_005.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_005.wav 1
+Time:0h:6m:46s:150ms - 0h:6m:46s:580ms, n1PassCMScore=-32768, n2PassCMScore=59, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=10251, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_006.wav 1
+Time:0h:6m:47s:90ms - 0h:6m:47s:660ms, n1PassCMScore=-32768, n2PassCMScore=144, nFrame=58, WakeUp,  KeyID=1, nResID=0, fSNR=69693, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_007.wav 1
+Time:0h:6m:48s:230ms - 0h:6m:48s:870ms, n1PassCMScore=-32768, n2PassCMScore=130, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=141790, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_008.wav 1
+Time:0h:6m:49s:410ms - 0h:6m:50s:40ms, n1PassCMScore=-32768, n2PassCMScore=119, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=59395, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_009.wav 1
+Time:0h:6m:50s:590ms - 0h:6m:51s:240ms, n1PassCMScore=-32768, n2PassCMScore=145, nFrame=66, WakeUp,  KeyID=1, nResID=0, fSNR=11907, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_010.wav 1
+Time:0h:6m:51s:850ms - 0h:6m:52s:560ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=72, WakeUp,  KeyID=1, nResID=0, fSNR=4249, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_011.wav 1
+Time:0h:6m:53s:160ms - 0h:6m:54s:170ms, n1PassCMScore=-32768, n2PassCMScore=70, nFrame=102, WakeUp,  KeyID=1, nResID=0, fSNR=1184, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_013.wav 1
+Time:0h:6m:56s:470ms - 0h:6m:57s:490ms, n1PassCMScore=-32768, n2PassCMScore=80, nFrame=103, WakeUp,  KeyID=1, nResID=0, fSNR=20085, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_014.wav 1
+Time:0h:6m:58s:130ms - 0h:6m:59s:250ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=113, WakeUp,  KeyID=1, nResID=0, fSNR=18177, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F003_挂断_015.wav 1
+Time:0h:6m:59s:890ms - 0h:7m:0s:990ms, n1PassCMScore=-32768, n2PassCMScore=78, nFrame=111, WakeUp,  KeyID=1, nResID=0, fSNR=8346, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_001.wav 1
+Time:0h:7m:1s:550ms - 0h:7m:2s:60ms, n1PassCMScore=-32768, n2PassCMScore=99, nFrame=52, WakeUp,  KeyID=1, nResID=0, fSNR=17398, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_002.wav 1
+Time:0h:7m:2s:590ms - 0h:7m:3s:170ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=17432, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_003.wav 1
+Time:0h:7m:3s:690ms - 0h:7m:4s:270ms, n1PassCMScore=-32768, n2PassCMScore=129, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=2207, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_004.wav 1
+Time:0h:7m:4s:770ms - 0h:7m:5s:290ms, n1PassCMScore=-32768, n2PassCMScore=138, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=4991, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_005.wav 1
+Time:0h:7m:5s:870ms - 0h:7m:6s:430ms, n1PassCMScore=-32768, n2PassCMScore=122, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=7839, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_006.wav 1
+Time:0h:7m:6s:990ms - 0h:7m:7s:570ms, n1PassCMScore=-32768, n2PassCMScore=156, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=7863, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_007.wav 1
+Time:0h:7m:8s:50ms - 0h:7m:8s:660ms, n1PassCMScore=-32768, n2PassCMScore=181, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=8515, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_008.wav 1
+Time:0h:7m:9s:130ms - 0h:7m:9s:930ms, n1PassCMScore=-32768, n2PassCMScore=88, nFrame=81, WakeUp,  KeyID=1, nResID=0, fSNR=11915, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_009.wav 1
+Time:0h:7m:10s:430ms - 0h:7m:11s:220ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=6762, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_010.wav 1
+Time:0h:7m:11s:730ms - 0h:7m:12s:540ms, n1PassCMScore=-32768, n2PassCMScore=61, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=3504, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_011.wav 1
+Time:0h:7m:13s:30ms - 0h:7m:14s:370ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=135, WakeUp,  KeyID=1, nResID=0, fSNR=3461, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_012.wav 1
+Time:0h:7m:14s:850ms - 0h:7m:16s:190ms, n1PassCMScore=-32768, n2PassCMScore=60, nFrame=135, WakeUp,  KeyID=1, nResID=0, fSNR=8196, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_013.wav 1
+Time:0h:7m:16s:670ms - 0h:7m:17s:990ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=133, WakeUp,  KeyID=1, nResID=0, fSNR=7956, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_014.wav 1
+Time:0h:7m:18s:470ms - 0h:7m:19s:750ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=129, WakeUp,  KeyID=1, nResID=0, fSNR=7650, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F004_挂断_015.wav 1
+Time:0h:7m:20s:210ms - 0h:7m:21s:540ms, n1PassCMScore=-32768, n2PassCMScore=111, nFrame=134, WakeUp,  KeyID=1, nResID=0, fSNR=6783, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_001.wav 1
+Time:0h:7m:22s:40ms - 0h:7m:22s:460ms, n1PassCMScore=-32768, n2PassCMScore=68, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=23422, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_002.wav 1
+Time:0h:7m:22s:930ms - 0h:7m:23s:350ms, n1PassCMScore=-32768, n2PassCMScore=102, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=18811, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_003.wav 1
+Time:0h:7m:23s:810ms - 0h:7m:24s:260ms, n1PassCMScore=-32768, n2PassCMScore=104, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=46687, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_004.wav 1
+Time:0h:7m:24s:740ms - 0h:7m:25s:190ms, n1PassCMScore=-32768, n2PassCMScore=100, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=32994, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_005.wav 1
+Time:0h:7m:25s:670ms - 0h:7m:26s:170ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=37491, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_006.wav 1
+Time:0h:7m:26s:650ms - 0h:7m:27s:280ms, n1PassCMScore=-32768, n2PassCMScore=201, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=24235, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_007.wav 1
+Time:0h:7m:27s:770ms - 0h:7m:28s:400ms, n1PassCMScore=-32768, n2PassCMScore=150, nFrame=64, WakeUp,  KeyID=1, nResID=0, fSNR=34702, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_008.wav 1
+Time:0h:7m:28s:870ms - 0h:7m:29s:490ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=63, WakeUp,  KeyID=1, nResID=0, fSNR=50744, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_009.wav 1
+Time:0h:7m:29s:930ms - 0h:7m:30s:570ms, n1PassCMScore=-32768, n2PassCMScore=155, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=48502, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_011.wav 1
+Time:0h:7m:32s:150ms - 0h:7m:32s:890ms, n1PassCMScore=-32768, n2PassCMScore=141, nFrame=75, WakeUp,  KeyID=1, nResID=0, fSNR=4878, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_012.wav 1
+Time:0h:7m:33s:370ms - 0h:7m:34s:380ms, n1PassCMScore=-32768, n2PassCMScore=58, nFrame=102, WakeUp,  KeyID=1, nResID=0, fSNR=28504, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_013.wav 1
+Time:0h:7m:34s:910ms - 0h:7m:35s:820ms, n1PassCMScore=-32768, n2PassCMScore=67, nFrame=92, WakeUp,  KeyID=1, nResID=0, fSNR=4064, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_014.wav 1
+Time:0h:7m:36s:440ms - 0h:7m:37s:370ms, n1PassCMScore=-32768, n2PassCMScore=116, nFrame=94, WakeUp,  KeyID=1, nResID=0, fSNR=42446, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\F005_挂断_015.wav 1
+Time:0h:7m:37s:920ms - 0h:7m:39s:0ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=109, WakeUp,  KeyID=1, nResID=0, fSNR=62606, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_002.wav 1
+Time:0h:7m:40s:410ms - 0h:7m:40s:840ms, n1PassCMScore=-32768, n2PassCMScore=87, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=6953, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_003.wav 1
+Time:0h:7m:41s:310ms - 0h:7m:41s:730ms, n1PassCMScore=-32768, n2PassCMScore=88, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=18421, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_004.wav 1
+Time:0h:7m:42s:190ms - 0h:7m:42s:630ms, n1PassCMScore=-32768, n2PassCMScore=86, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=36909, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_006.wav 1
+Time:0h:7m:43s:980ms - 0h:7m:44s:420ms, n1PassCMScore=-32768, n2PassCMScore=72, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=5738, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_007.wav 1
+Time:0h:7m:44s:970ms - 0h:7m:45s:420ms, n1PassCMScore=-32768, n2PassCMScore=69, nFrame=46, WakeUp,  KeyID=1, nResID=0, fSNR=187, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_008.wav 1
+Time:0h:7m:45s:950ms - 0h:7m:46s:480ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=4337, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_009.wav 1
+Time:0h:7m:46s:950ms - 0h:7m:47s:440ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=4454, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_010.wav 1
+Time:0h:7m:47s:930ms - 0h:7m:48s:430ms, n1PassCMScore=-32768, n2PassCMScore=157, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=4650, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_011.wav 1
+Time:0h:7m:48s:970ms - 0h:7m:49s:610ms, n1PassCMScore=-32768, n2PassCMScore=94, nFrame=65, WakeUp,  KeyID=1, nResID=0, fSNR=1755, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_012.wav 1
+Time:0h:7m:50s:160ms - 0h:7m:50s:870ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=72, WakeUp,  KeyID=1, nResID=0, fSNR=2112, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_013.wav 1
+Time:0h:7m:51s:450ms - 0h:7m:52s:150ms, n1PassCMScore=-32768, n2PassCMScore=130, nFrame=71, WakeUp,  KeyID=1, nResID=0, fSNR=5025, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_014.wav 1
+Time:0h:7m:52s:690ms - 0h:7m:53s:430ms, n1PassCMScore=-32768, n2PassCMScore=150, nFrame=75, WakeUp,  KeyID=1, nResID=0, fSNR=7033, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M001_挂断_015.wav 1
+Time:0h:7m:53s:910ms - 0h:7m:54s:670ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=77, WakeUp,  KeyID=1, nResID=0, fSNR=9487, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_001.wav 1
+Time:0h:7m:55s:240ms - 0h:7m:55s:630ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=40, WakeUp,  KeyID=1, nResID=0, fSNR=2623, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_003.wav 1
+Time:0h:7m:57s:20ms - 0h:7m:57s:450ms, n1PassCMScore=-32768, n2PassCMScore=88, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=3678, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_004.wav 1
+Time:0h:7m:57s:940ms - 0h:7m:58s:350ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=42, WakeUp,  KeyID=1, nResID=0, fSNR=10196, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_005.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_005.wav 1
+Time:0h:7m:58s:810ms - 0h:7m:59s:230ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=43, WakeUp,  KeyID=1, nResID=0, fSNR=6638, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_006.wav 1
+Time:0h:7m:59s:710ms - 0h:8m:0s:210ms, n1PassCMScore=-32768, n2PassCMScore=93, nFrame=51, WakeUp,  KeyID=1, nResID=0, fSNR=3040, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_007.wav 1
+Time:0h:8m:0s:670ms - 0h:8m:1s:210ms, n1PassCMScore=-32768, n2PassCMScore=77, nFrame=55, WakeUp,  KeyID=1, nResID=0, fSNR=3432, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_008.wav 1
+Time:0h:8m:1s:680ms - 0h:8m:2s:170ms, n1PassCMScore=-32768, n2PassCMScore=139, nFrame=50, WakeUp,  KeyID=1, nResID=0, fSNR=2377, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_009.wav 1
+Time:0h:8m:2s:650ms - 0h:8m:3s:110ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=5087, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_010.wav 1
+Time:0h:8m:3s:600ms - 0h:8m:4s:130ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=54, WakeUp,  KeyID=1, nResID=0, fSNR=11235, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_011.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_014.wav 1
+Time:0h:8m:8s:510ms - 0h:8m:9s:350ms, n1PassCMScore=-32768, n2PassCMScore=105, nFrame=85, WakeUp,  KeyID=1, nResID=0, fSNR=2220, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M002_挂断_015.wav 1
+Time:0h:8m:9s:780ms - 0h:8m:10s:620ms, n1PassCMScore=-32768, n2PassCMScore=120, nFrame=85, WakeUp,  KeyID=1, nResID=0, fSNR=4543, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_001.wav 1
+Time:0h:8m:11s:70ms - 0h:8m:11s:730ms, n1PassCMScore=-32768, n2PassCMScore=139, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=25012, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_002.wav 1
+Time:0h:8m:12s:210ms - 0h:8m:12s:730ms, n1PassCMScore=-32768, n2PassCMScore=162, nFrame=53, WakeUp,  KeyID=1, nResID=0, fSNR=12447, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_003.wav 1
+Time:0h:8m:13s:210ms - 0h:8m:13s:790ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=40828, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_004.wav 1
+Time:0h:8m:14s:250ms - 0h:8m:14s:830ms, n1PassCMScore=-32768, n2PassCMScore=196, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=13903, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_005.wav 1
+Time:0h:8m:15s:280ms - 0h:8m:15s:760ms, n1PassCMScore=-32768, n2PassCMScore=170, nFrame=49, WakeUp,  KeyID=1, nResID=0, fSNR=82341, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_006.wav 1
+Time:0h:8m:16s:250ms - 0h:8m:16s:920ms, n1PassCMScore=-32768, n2PassCMScore=157, nFrame=68, WakeUp,  KeyID=1, nResID=0, fSNR=8195, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_007.wav 1
+Time:0h:8m:17s:360ms - 0h:8m:18s:170ms, n1PassCMScore=-32768, n2PassCMScore=160, nFrame=82, WakeUp,  KeyID=1, nResID=0, fSNR=66284, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_008.wav 1
+Time:0h:8m:18s:620ms - 0h:8m:19s:410ms, n1PassCMScore=-32768, n2PassCMScore=130, nFrame=80, WakeUp,  KeyID=1, nResID=0, fSNR=58187, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_009.wav 1
+Time:0h:8m:19s:870ms - 0h:8m:20s:620ms, n1PassCMScore=-32768, n2PassCMScore=113, nFrame=76, WakeUp,  KeyID=1, nResID=0, fSNR=4198, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_010.wav 1
+Time:0h:8m:21s:80ms - 0h:8m:21s:860ms, n1PassCMScore=-32768, n2PassCMScore=96, nFrame=79, WakeUp,  KeyID=1, nResID=0, fSNR=21199, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_011.wav 1
+Time:0h:8m:22s:370ms - 0h:8m:23s:520ms, n1PassCMScore=-32768, n2PassCMScore=97, nFrame=116, WakeUp,  KeyID=1, nResID=0, fSNR=49707, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_013.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_014.wav 1
+Time:0h:8m:27s:210ms - 0h:8m:28s:280ms, n1PassCMScore=-32768, n2PassCMScore=64, nFrame=108, WakeUp,  KeyID=1, nResID=0, fSNR=22481, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M003_挂断_015.wav 1
+Time:0h:8m:28s:820ms - 0h:8m:29s:860ms, n1PassCMScore=-32768, n2PassCMScore=79, nFrame=105, WakeUp,  KeyID=1, nResID=0, fSNR=276, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_001.wav 1
+Time:0h:8m:30s:340ms - 0h:8m:30s:770ms, n1PassCMScore=-32768, n2PassCMScore=121, nFrame=44, WakeUp,  KeyID=1, nResID=0, fSNR=33276, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_002.wav 1
+Time:0h:8m:31s:280ms - 0h:8m:31s:750ms, n1PassCMScore=-32768, n2PassCMScore=106, nFrame=48, WakeUp,  KeyID=1, nResID=0, fSNR=36582, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_003.wav 1
+Time:0h:8m:32s:240ms - 0h:8m:32s:700ms, n1PassCMScore=-32768, n2PassCMScore=121, nFrame=47, WakeUp,  KeyID=1, nResID=0, fSNR=25621, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_004.wav 1
+Time:0h:8m:33s:190ms - 0h:8m:33s:630ms, n1PassCMScore=-32768, n2PassCMScore=70, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=33623, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_005.wav 1
+Time:0h:8m:34s:130ms - 0h:8m:34s:570ms, n1PassCMScore=-32768, n2PassCMScore=107, nFrame=45, WakeUp,  KeyID=1, nResID=0, fSNR=42342, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_006.wav 1
+Time:0h:8m:35s:50ms - 0h:8m:35s:740ms, n1PassCMScore=-32768, n2PassCMScore=76, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=50613, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_007.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_007.wav 1
+Time:0h:8m:36s:310ms - 0h:8m:36s:970ms, n1PassCMScore=-32768, n2PassCMScore=126, nFrame=67, WakeUp,  KeyID=1, nResID=0, fSNR=34311, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_008.wav 1
+Time:0h:8m:37s:460ms - 0h:8m:38s:150ms, n1PassCMScore=-32768, n2PassCMScore=74, nFrame=70, WakeUp,  KeyID=1, nResID=0, fSNR=7921, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_009.wav 1
+Time:0h:8m:38s:670ms - 0h:8m:39s:250ms, n1PassCMScore=-32768, n2PassCMScore=124, nFrame=59, WakeUp,  KeyID=1, nResID=0, fSNR=13500, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_010.wav 1
+Time:0h:8m:39s:710ms - 0h:8m:40s:450ms, n1PassCMScore=-32768, n2PassCMScore=92, nFrame=75, WakeUp,  KeyID=1, nResID=0, fSNR=12472, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_011.wav 1
+Time:0h:8m:40s:890ms - 0h:8m:42s:100ms, n1PassCMScore=-32768, n2PassCMScore=62, nFrame=122, WakeUp,  KeyID=1, nResID=0, fSNR=47158, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_013.wav 1
+Time:0h:8m:44s:400ms - 0h:8m:45s:660ms, n1PassCMScore=-32768, n2PassCMScore=68, nFrame=127, WakeUp,  KeyID=1, nResID=0, fSNR=12770, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_014.wav 1
+Time:0h:8m:46s:160ms - 0h:8m:47s:330ms, n1PassCMScore=-32768, n2PassCMScore=51, nFrame=118, WakeUp,  KeyID=1, nResID=0, fSNR=24495, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M004_挂断_015.wav 1
+Time:0h:8m:47s:870ms - 0h:8m:49s:240ms, n1PassCMScore=-32768, n2PassCMScore=71, nFrame=138, WakeUp,  KeyID=1, nResID=0, fSNR=44099, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_001.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_002.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_003.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_004.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_005.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_006.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_006.wav 1
+Time:0h:8m:53s:950ms - 0h:8m:54s:510ms, n1PassCMScore=-32768, n2PassCMScore=119, nFrame=57, WakeUp,  KeyID=1, nResID=0, fSNR=5196, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_007.wav 1
+Time:0h:8m:55s:30ms - 0h:8m:55s:620ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=3416, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_008.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_008.wav 1
+Time:0h:8m:56s:90ms - 0h:8m:56s:680ms, n1PassCMScore=-32768, n2PassCMScore=152, nFrame=60, WakeUp,  KeyID=1, nResID=0, fSNR=10229, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_009.wav 1
+Time:0h:8m:57s:210ms - 0h:8m:57s:760ms, n1PassCMScore=-32768, n2PassCMScore=136, nFrame=56, WakeUp,  KeyID=1, nResID=0, fSNR=8039, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_010.wav 1
+Time:0h:8m:58s:230ms - 0h:8m:58s:840ms, n1PassCMScore=-32768, n2PassCMScore=179, nFrame=62, WakeUp,  KeyID=1, nResID=0, fSNR=8085, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_011.wav 1
+Time:0h:8m:59s:300ms - 0h:9m:0s:160ms, n1PassCMScore=-32768, n2PassCMScore=110, nFrame=87, WakeUp,  KeyID=1, nResID=0, fSNR=20203, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_012.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_012.wav 1
+Time:0h:9m:0s:650ms - 0h:9m:1s:560ms, n1PassCMScore=-32768, n2PassCMScore=66, nFrame=92, WakeUp,  KeyID=1, nResID=0, fSNR=2524, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_013.wav 1
+Time:0h:9m:2s:90ms - 0h:9m:3s:20ms, n1PassCMScore=-32768, n2PassCMScore=118, nFrame=94, WakeUp,  KeyID=1, nResID=0, fSNR=542, 		
+
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_014.wav 1
+\\192.168.24.45\个人文件管理(2)\jjcai2\唤醒测试集\SceneId-8\挂断\挂断市区半开窗\M005_挂断_014.wav 1
+Time:0h:9m:3s:520ms - 0h:9m:4s:400ms, n1PassCMScore=-32768, n2PassCMScore=89, nFrame=89, WakeUp,  KeyID=1, nResID=0, fSNR=803, 		
+
+--------Wrap引擎版本:5.0.1011--------------
+--------一遍引擎版本:Ivw3.6.2001--------------
+--------二遍引擎版本:Ivw4.0.1016--------------
+
+===============================================================================================
+TestList=F:\0_支持\车载效果分析\1_车载一致性\car\scp\SceneId8-2.scp
+1PassRes=2PassRes=
+			KeyID = 0, Thresh = 0
+			KeyID = 1, Thresh = 0
+			KeyID = 2, Thresh = 0
+TestResID = 0, KeyID = 1
+b2PassOfflineTest=0
+Enter2PassThr=0
+Enter2PassExtMS=[0,0]
+bTestNoise=0
+
+bCreateObjPerPCM = 0
+bResetObjPerPCM = 0
+nSNRThresh = 1
+nSNRSkipNoiseMS = 0
+nSNRNoiseMS = 400
+nSNRCMThrDIF = 20
+nSNREndSilMS = 30
+Support nKeywordMaxMS = 4000
+Support nKeywordMinMS = 100
+-----------------------------------------------------------------------------------------------
+--------------------------唤醒率统计-----------------------------------
+测试总次数=450, 唤醒次数=383, 唤醒率=85.1%
+Test cmd res = 1
+		ResID 0, Keyword1: TestPcmNum=450, WakeupNum=383, Rate=85.1%
+		同一资源串扰次数=0, 串扰率=0.0%
+		不同资源串扰次数=0, 串扰率=0.0%
+-------Male PcmAll=225, wakeup = 178, rate = 79.1%
+-------Female PcmAll=225, wakeup = 205, rate = 91.1%
+
+-----------------------------------------------------------------------------------------------
+Total Time =0h:9m
+-----------------------------------------------------------------------------------------------
+连续无法唤醒最大次数 = 12
+一遍唤醒出结果硬延时时长范围 = [32767ms, -32767ms]

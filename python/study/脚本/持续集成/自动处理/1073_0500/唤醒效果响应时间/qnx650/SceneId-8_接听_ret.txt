@@ -1,0 +1,451 @@
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:106,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":106, "wakeup":1, "nStartBytes":8320, "nEndBytes":25600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_002-0.7s.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_003-0.7s.wav	nMvwScene:8,nMvwId:0,nMvwScore:134,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":134, "wakeup":1, "nStartBytes":73280, "nEndBytes":87680}	290
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_004-0.7s.wav	nMvwScene:8,nMvwId:0,nMvwScore:80,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":80, "wakeup":1, "nStartBytes":105600, "nEndBytes":121600}	332
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_005-0.8s.wav	nMvwScene:8,nMvwId:0,nMvwScore:124,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":138560, "nEndBytes":155520}	262
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_006-0.9s.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":172480, "nEndBytes":193920}	382
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_007-1.0s.wav	nMvwScene:8,nMvwId:0,nMvwScore:175,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":175, "wakeup":1, "nStartBytes":213440, "nEndBytes":236160}	315
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_008-1.1s.wav	nMvwScene:8,nMvwId:0,nMvwScore:123,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":123, "wakeup":1, "nStartBytes":255680, "nEndBytes":279680}	222
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_009-1.1s.wav	nMvwScene:8,nMvwId:0,nMvwScore:143,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":143, "wakeup":1, "nStartBytes":297920, "nEndBytes":323200}	252
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_010-1.2s.wav	nMvwScene:8,nMvwId:0,nMvwScore:138,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":138, "wakeup":1, "nStartBytes":342080, "nEndBytes":365440}	129
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_011-1.6s.wav	nMvwScene:8,nMvwId:0,nMvwScore:84,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":383680, "nEndBytes":425280}	277
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_012-1.5s.wav	nMvwScene:8,nMvwId:0,nMvwScore:128,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":443200, "nEndBytes":479680}	275
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_013-2s.wav	nMvwScene:8,nMvwId:0,nMvwScore:52,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":500160, "nEndBytes":548480}	300
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:68,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":68, "wakeup":1, "nStartBytes":574080, "nEndBytes":619200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F001_接听_015-1.8s.wav	nMvwScene:8,nMvwId:0,nMvwScore:53,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":645440, "nEndBytes":688640}	325
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_001-0.7s.wav	nMvwScene:8,nMvwId:0,nMvwScore:76,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":76, "wakeup":1, "nStartBytes":713920, "nEndBytes":728640}	326
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_002-0.8s.wav	nMvwScene:8,nMvwId:0,nMvwScore:105,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":105, "wakeup":1, "nStartBytes":746880, "nEndBytes":761920}	226
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_003-0.8s.wav	nMvwScene:8,nMvwId:0,nMvwScore:74,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":74, "wakeup":1, "nStartBytes":779840, "nEndBytes":794880}	227
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_004-0.8s.wav	nMvwScene:8,nMvwId:0,nMvwScore:148,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":148, "wakeup":1, "nStartBytes":812480, "nEndBytes":828800}	270
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_005-0.8s.wav	nMvwScene:8,nMvwId:0,nMvwScore:73,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":73, "wakeup":1, "nStartBytes":846400, "nEndBytes":863680}	277
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_006-0.8s.wav	nMvwScene:8,nMvwId:0,nMvwScore:97,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":881280, "nEndBytes":898240}	299
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_007-0.9s.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":916160, "nEndBytes":936960}	327
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:100,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":956480, "nEndBytes":978880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":997440, "nEndBytes":1021440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:98,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":98, "wakeup":1, "nStartBytes":1039360, "nEndBytes":1062720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:126,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":1138240, "nEndBytes":1174400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_013.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:109,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":109, "wakeup":1, "nStartBytes":1243840, "nEndBytes":1279680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F002_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:124,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":1295680, "nEndBytes":1333440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_005.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:86,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":1518080, "nEndBytes":1536000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:109,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":109, "wakeup":1, "nStartBytes":1557120, "nEndBytes":1576000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:80,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":80, "wakeup":1, "nStartBytes":1597120, "nEndBytes":1615040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:100,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":1637120, "nEndBytes":1655680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:89,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":89, "wakeup":1, "nStartBytes":1679040, "nEndBytes":1697600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_012.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:53,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":1834560, "nEndBytes":1866240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:51,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":1892160, "nEndBytes":1929600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F003_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:59,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":59, "wakeup":1, "nStartBytes":1949760, "nEndBytes":1978240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:120,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":2006080, "nEndBytes":2021760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:189,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":189, "wakeup":1, "nStartBytes":2040000, "nEndBytes":2055680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":2075520, "nEndBytes":2091200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:116,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":2111040, "nEndBytes":2127680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:123,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":123, "wakeup":1, "nStartBytes":2145280, "nEndBytes":2161280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:142,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":142, "wakeup":1, "nStartBytes":2180160, "nEndBytes":2202240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:133,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":133, "wakeup":1, "nStartBytes":2223040, "nEndBytes":2244480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:159,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":159, "wakeup":1, "nStartBytes":2267200, "nEndBytes":2290240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":2312000, "nEndBytes":2336640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:162,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":2357440, "nEndBytes":2379200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:120,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":2402240, "nEndBytes":2433280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":2456000, "nEndBytes":2489280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:141,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":141, "wakeup":1, "nStartBytes":2510400, "nEndBytes":2541760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:120,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":2563520, "nEndBytes":2595200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F004_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:107,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":2615360, "nEndBytes":2648960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:55,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":55, "wakeup":1, "nStartBytes":2668480, "nEndBytes":2680960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:89,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":89, "wakeup":1, "nStartBytes":2697920, "nEndBytes":2712000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:52,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":2730240, "nEndBytes":2743040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:98,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":98, "wakeup":1, "nStartBytes":2791360, "nEndBytes":2804800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_006.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:120,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":2852800, "nEndBytes":2870720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:125,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":125, "wakeup":1, "nStartBytes":2889600, "nEndBytes":2906560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:154,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":154, "wakeup":1, "nStartBytes":2925120, "nEndBytes":2943680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":2962560, "nEndBytes":2979200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:130,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":130, "wakeup":1, "nStartBytes":2997440, "nEndBytes":3022080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:87,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":87, "wakeup":1, "nStartBytes":3042240, "nEndBytes":3072320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:115,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":3090560, "nEndBytes":3117120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:128,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":3136960, "nEndBytes":3162560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/F005_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:126,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":3181120, "nEndBytes":3206080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:127,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":3227200, "nEndBytes":3242560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:53,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":3260480, "nEndBytes":3274560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:65,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":65, "wakeup":1, "nStartBytes":3292160, "nEndBytes":3304960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:81,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":81, "wakeup":1, "nStartBytes":3353280, "nEndBytes":3366080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:127,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":3382400, "nEndBytes":3398720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:140,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":3414720, "nEndBytes":3432640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:117,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":117, "wakeup":1, "nStartBytes":3448640, "nEndBytes":3465600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:121,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":121, "wakeup":1, "nStartBytes":3482560, "nEndBytes":3500160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:128,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":3518720, "nEndBytes":3533440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:162,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":3551040, "nEndBytes":3572480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:162,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":3590080, "nEndBytes":3613440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:148,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":148, "wakeup":1, "nStartBytes":3631040, "nEndBytes":3654080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:145,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":145, "wakeup":1, "nStartBytes":3673280, "nEndBytes":3695680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M001_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":3712960, "nEndBytes":3733440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:159,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":159, "wakeup":1, "nStartBytes":3752000, "nEndBytes":3766080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":3812800, "nEndBytes":3824960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:107,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":107, "wakeup":1, "nStartBytes":3842880, "nEndBytes":3855680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:125,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":125, "wakeup":1, "nStartBytes":3873600, "nEndBytes":3887360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_006.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:116,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":3937600, "nEndBytes":3949120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:100,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":3969600, "nEndBytes":3986240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:141,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":141, "wakeup":1, "nStartBytes":4004160, "nEndBytes":4021120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":4038720, "nEndBytes":4055360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:168,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":168, "wakeup":1, "nStartBytes":4073280, "nEndBytes":4092800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:115,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":4112960, "nEndBytes":4132480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:124,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":4151360, "nEndBytes":4169600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:130,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":130, "wakeup":1, "nStartBytes":4187200, "nEndBytes":4208960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M002_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:132,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":132, "wakeup":1, "nStartBytes":4228480, "nEndBytes":4249600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:146,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":146, "wakeup":1, "nStartBytes":4269120, "nEndBytes":4291520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:104,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":104, "wakeup":1, "nStartBytes":4308800, "nEndBytes":4324480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:76,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":76, "wakeup":1, "nStartBytes":4340800, "nEndBytes":4354880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:138,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":138, "wakeup":1, "nStartBytes":4371200, "nEndBytes":4385280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:71,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":71, "wakeup":1, "nStartBytes":4401280, "nEndBytes":4415680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:165,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":165, "wakeup":1, "nStartBytes":4431040, "nEndBytes":4447040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:154,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":154, "wakeup":1, "nStartBytes":4464000, "nEndBytes":4485120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_008.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:174,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":174, "wakeup":1, "nStartBytes":4537920, "nEndBytes":4559680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:115,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":4576960, "nEndBytes":4601600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:131,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":131, "wakeup":1, "nStartBytes":4618560, "nEndBytes":4647680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:76,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":76, "wakeup":1, "nStartBytes":4663680, "nEndBytes":4687360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:126,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":4706880, "nEndBytes":4745920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:129,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":129, "wakeup":1, "nStartBytes":4762560, "nEndBytes":4803840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M003_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:102,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":102, "wakeup":1, "nStartBytes":4820800, "nEndBytes":4856000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:176,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":176, "wakeup":1, "nStartBytes":4873280, "nEndBytes":4887360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:112,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":4906560, "nEndBytes":4920000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:172,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":172, "wakeup":1, "nStartBytes":4938240, "nEndBytes":4953600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:167,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":167, "wakeup":1, "nStartBytes":4971840, "nEndBytes":4987200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:164,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":5005440, "nEndBytes":5022400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:111,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":111, "wakeup":1, "nStartBytes":5040320, "nEndBytes":5064640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:122,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":122, "wakeup":1, "nStartBytes":5084160, "nEndBytes":5100800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:140,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":5119040, "nEndBytes":5136960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:142,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":142, "wakeup":1, "nStartBytes":5154880, "nEndBytes":5173440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:139,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":139, "wakeup":1, "nStartBytes":5192000, "nEndBytes":5211520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:120,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":5230400, "nEndBytes":5263040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:141,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":141, "wakeup":1, "nStartBytes":5283200, "nEndBytes":5315200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:128,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":5335360, "nEndBytes":5368000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":5385920, "nEndBytes":5417600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M004_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:145,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":145, "wakeup":1, "nStartBytes":5440000, "nEndBytes":5468800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:77,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":77, "wakeup":1, "nStartBytes":5489600, "nEndBytes":5501760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:93,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":93, "wakeup":1, "nStartBytes":5519680, "nEndBytes":5530240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:110,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":110, "wakeup":1, "nStartBytes":5547520, "nEndBytes":5559040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:70,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":70, "wakeup":1, "nStartBytes":5577280, "nEndBytes":5588160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:88,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":88, "wakeup":1, "nStartBytes":5606720, "nEndBytes":5618560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:149,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":149, "wakeup":1, "nStartBytes":5637120, "nEndBytes":5651200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:160,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":160, "wakeup":1, "nStartBytes":5669440, "nEndBytes":5685440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":5703360, "nEndBytes":5721280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":5739200, "nEndBytes":5757120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:170,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":170, "wakeup":1, "nStartBytes":5775680, "nEndBytes":5792320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:145,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":145, "wakeup":1, "nStartBytes":5809600, "nEndBytes":5835200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":5854080, "nEndBytes":5879360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:147,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":147, "wakeup":1, "nStartBytes":5898560, "nEndBytes":5921600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:149,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":149, "wakeup":1, "nStartBytes":5942080, "nEndBytes":5966080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听高架中档/M005_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:142,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":142, "wakeup":1, "nStartBytes":5985600, "nEndBytes":6009280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":6064000, "nEndBytes":6077120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:92,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":92, "wakeup":1, "nStartBytes":6095360, "nEndBytes":6109120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:76,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":76, "wakeup":1, "nStartBytes":6127040, "nEndBytes":6142720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:72,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":72, "wakeup":1, "nStartBytes":6160320, "nEndBytes":6176000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_006.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:161,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":161, "wakeup":1, "nStartBytes":6235200, "nEndBytes":6258240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:151,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":151, "wakeup":1, "nStartBytes":6277120, "nEndBytes":6301120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:183,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":183, "wakeup":1, "nStartBytes":6320000, "nEndBytes":6345280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:180,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":180, "wakeup":1, "nStartBytes":6362560, "nEndBytes":6387520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:64,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":64, "wakeup":1, "nStartBytes":6407040, "nEndBytes":6446080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:114,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":114, "wakeup":1, "nStartBytes":6465600, "nEndBytes":6501760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:51,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":6522560, "nEndBytes":6576000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:52,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":6595840, "nEndBytes":6642880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F001_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:58,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":58, "wakeup":1, "nStartBytes":6667840, "nEndBytes":6707200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:104,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":104, "wakeup":1, "nStartBytes":6768640, "nEndBytes":6783680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:127,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":6801280, "nEndBytes":6816640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:103,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":103, "wakeup":1, "nStartBytes":6867840, "nEndBytes":6885440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:121,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":121, "wakeup":1, "nStartBytes":6902720, "nEndBytes":6920640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:144,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":144, "wakeup":1, "nStartBytes":6937280, "nEndBytes":6959360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:104,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":104, "wakeup":1, "nStartBytes":6976960, "nEndBytes":7001920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:130,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":130, "wakeup":1, "nStartBytes":7019200, "nEndBytes":7043200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:114,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":114, "wakeup":1, "nStartBytes":7061440, "nEndBytes":7085120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:132,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":132, "wakeup":1, "nStartBytes":7159360, "nEndBytes":7196160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_013.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_014.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F002_接听_015.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_005.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:87,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":87, "wakeup":1, "nStartBytes":7539840, "nEndBytes":7560320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:115,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":7578240, "nEndBytes":7598720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:130,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":130, "wakeup":1, "nStartBytes":7618240, "nEndBytes":7640320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:81,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":81, "wakeup":1, "nStartBytes":7658560, "nEndBytes":7678720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:101,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":7700160, "nEndBytes":7723200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:120,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":7742400, "nEndBytes":7779520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":7798720, "nEndBytes":7837120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:58,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":58, "wakeup":1, "nStartBytes":7856640, "nEndBytes":7894080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:96,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":7913920, "nEndBytes":7951040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F003_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:96,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":7971200, "nEndBytes":8007360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":8027840, "nEndBytes":8042880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:162,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":8061760, "nEndBytes":8076800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:156,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":156, "wakeup":1, "nStartBytes":8096960, "nEndBytes":8112320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:159,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":159, "wakeup":1, "nStartBytes":8132800, "nEndBytes":8148480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:146,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":146, "wakeup":1, "nStartBytes":8167040, "nEndBytes":8183360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:174,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":174, "wakeup":1, "nStartBytes":8201280, "nEndBytes":8223680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:164,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":164, "wakeup":1, "nStartBytes":8244800, "nEndBytes":8265920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:173,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":173, "wakeup":1, "nStartBytes":8288960, "nEndBytes":8312000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:165,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":165, "wakeup":1, "nStartBytes":8333440, "nEndBytes":8358720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:165,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":165, "wakeup":1, "nStartBytes":8379200, "nEndBytes":8401280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:128,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":8423680, "nEndBytes":8456000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:126,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":8477760, "nEndBytes":8510400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:122,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":122, "wakeup":1, "nStartBytes":8532160, "nEndBytes":8564160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:138,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":138, "wakeup":1, "nStartBytes":8584960, "nEndBytes":8616640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F004_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:106,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":106, "wakeup":1, "nStartBytes":8637440, "nEndBytes":8670720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:114,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":114, "wakeup":1, "nStartBytes":8690240, "nEndBytes":8702400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:103,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":103, "wakeup":1, "nStartBytes":8720000, "nEndBytes":8733760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:88,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":88, "wakeup":1, "nStartBytes":8751680, "nEndBytes":8764800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:100,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":8812480, "nEndBytes":8826560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_006.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":8874880, "nEndBytes":8892800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:149,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":149, "wakeup":1, "nStartBytes":8911360, "nEndBytes":8929600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:121,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":121, "wakeup":1, "nStartBytes":8946880, "nEndBytes":8966720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:97,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":8984640, "nEndBytes":8999360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_012.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:115,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":9112000, "nEndBytes":9139520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:138,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":138, "wakeup":1, "nStartBytes":9158720, "nEndBytes":9184640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/F005_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":9203520, "nEndBytes":9230400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:137,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":137, "wakeup":1, "nStartBytes":9248320, "nEndBytes":9264320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:53,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":9313280, "nEndBytes":9327680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:54,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":54, "wakeup":1, "nStartBytes":9344000, "nEndBytes":9358080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:57,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":57, "wakeup":1, "nStartBytes":9375680, "nEndBytes":9387520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:123,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":123, "wakeup":1, "nStartBytes":9403840, "nEndBytes":9420160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:150,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":150, "wakeup":1, "nStartBytes":9436480, "nEndBytes":9454400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":9471040, "nEndBytes":9487040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:57,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":57, "wakeup":1, "nStartBytes":9505280, "nEndBytes":9521600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:89,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":89, "wakeup":1, "nStartBytes":9540480, "nEndBytes":9555840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:162,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":9611840, "nEndBytes":9635840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:161,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":161, "wakeup":1, "nStartBytes":9653440, "nEndBytes":9676800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_014.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M001_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:143,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":143, "wakeup":1, "nStartBytes":9733120, "nEndBytes":9755840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:123,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":123, "wakeup":1, "nStartBytes":9773760, "nEndBytes":9787840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:67,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":67, "wakeup":1, "nStartBytes":9804480, "nEndBytes":9816960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:73,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":73, "wakeup":1, "nStartBytes":9834560, "nEndBytes":9847360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":9865280, "nEndBytes":9877440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:61,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":61, "wakeup":1, "nStartBytes":9894720, "nEndBytes":9908800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_006.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:100,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":9957440, "nEndBytes":9971840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:86,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":9992000, "nEndBytes":10009280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:133,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":133, "wakeup":1, "nStartBytes":10026560, "nEndBytes":10042880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:101,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":10061120, "nEndBytes":10077120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:150,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":150, "wakeup":1, "nStartBytes":10134080, "nEndBytes":10154240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":10172480, "nEndBytes":10192000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:122,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":122, "wakeup":1, "nStartBytes":10208960, "nEndBytes":10231360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M002_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:166,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":166, "wakeup":1, "nStartBytes":10249920, "nEndBytes":10272000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:154,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":154, "wakeup":1, "nStartBytes":10290240, "nEndBytes":10313600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:98,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":98, "wakeup":1, "nStartBytes":10330560, "nEndBytes":10345600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:81,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":81, "wakeup":1, "nStartBytes":10362240, "nEndBytes":10375680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:125,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":125, "wakeup":1, "nStartBytes":10392640, "nEndBytes":10406080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:79,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":79, "wakeup":1, "nStartBytes":10422720, "nEndBytes":10436160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":10452800, "nEndBytes":10468800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:138,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":138, "wakeup":1, "nStartBytes":10485440, "nEndBytes":10506240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_008.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:152,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":152, "wakeup":1, "nStartBytes":10559680, "nEndBytes":10580480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:153,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":153, "wakeup":1, "nStartBytes":10598400, "nEndBytes":10623040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:133,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":133, "wakeup":1, "nStartBytes":10639680, "nEndBytes":10669120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:99,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":99, "wakeup":1, "nStartBytes":10684800, "nEndBytes":10709120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":10728000, "nEndBytes":10767360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:124,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":10784320, "nEndBytes":10825280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M003_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:93,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":93, "wakeup":1, "nStartBytes":10841920, "nEndBytes":10877440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:183,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":183, "wakeup":1, "nStartBytes":10926400, "nEndBytes":10941760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:140,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":10959680, "nEndBytes":10975360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:167,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":167, "wakeup":1, "nStartBytes":10993600, "nEndBytes":11008640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:185,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":185, "wakeup":1, "nStartBytes":11026880, "nEndBytes":11043520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:167,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":167, "wakeup":1, "nStartBytes":11061760, "nEndBytes":11086400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:128,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":11105600, "nEndBytes":11122240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:153,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":153, "wakeup":1, "nStartBytes":11140800, "nEndBytes":11158720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:146,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":146, "wakeup":1, "nStartBytes":11176640, "nEndBytes":11195200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:163,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":163, "wakeup":1, "nStartBytes":11214080, "nEndBytes":11233600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:168,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":168, "wakeup":1, "nStartBytes":11252160, "nEndBytes":11286400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:166,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":166, "wakeup":1, "nStartBytes":11304640, "nEndBytes":11338240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:176,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":176, "wakeup":1, "nStartBytes":11357120, "nEndBytes":11390400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":11409280, "nEndBytes":11441280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M004_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:101,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":11463680, "nEndBytes":11492160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:99,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":99, "wakeup":1, "nStartBytes":11512000, "nEndBytes":11524480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:89,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":89, "wakeup":1, "nStartBytes":11542080, "nEndBytes":11552320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:116,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":11568960, "nEndBytes":11581760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:57,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":57, "wakeup":1, "nStartBytes":11628480, "nEndBytes":11641280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:150,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":150, "wakeup":1, "nStartBytes":11658880, "nEndBytes":11673280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:101,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":11691520, "nEndBytes":11707200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:128,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":128, "wakeup":1, "nStartBytes":11725120, "nEndBytes":11743040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:174,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":174, "wakeup":1, "nStartBytes":11760960, "nEndBytes":11778880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:159,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":159, "wakeup":1, "nStartBytes":11797440, "nEndBytes":11814080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:140,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":11875520, "nEndBytes":11901760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:157,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":157, "wakeup":1, "nStartBytes":11920320, "nEndBytes":11945600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":11963520, "nEndBytes":11988160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听郊区开窗/M005_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:144,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":144, "wakeup":1, "nStartBytes":12006720, "nEndBytes":12031680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:70,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":70, "wakeup":1, "nStartBytes":12051840, "nEndBytes":12065600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:65,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":65, "wakeup":1, "nStartBytes":12147520, "nEndBytes":12163200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:86,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":12180800, "nEndBytes":12197120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:52,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":12217280, "nEndBytes":12240320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:154,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":154, "wakeup":1, "nStartBytes":12256640, "nEndBytes":12279360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:102,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":102, "wakeup":1, "nStartBytes":12299200, "nEndBytes":12321600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:135,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":135, "wakeup":1, "nStartBytes":12340800, "nEndBytes":12365440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:131,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":131, "wakeup":1, "nStartBytes":12383680, "nEndBytes":12407040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:106,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":106, "wakeup":1, "nStartBytes":12427840, "nEndBytes":12465280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:52,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":12488320, "nEndBytes":12516160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_013.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:52,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":12616000, "nEndBytes":12663360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F001_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:54,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":54, "wakeup":1, "nStartBytes":12689280, "nEndBytes":12731520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:51,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":12789760, "nEndBytes":12805120}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:59,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":59, "wakeup":1, "nStartBytes":12822400, "nEndBytes":12835840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:53,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":53, "wakeup":1, "nStartBytes":12856320, "nEndBytes":12870720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:84,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":12888640, "nEndBytes":12905600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":12923520, "nEndBytes":12939200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:152,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":152, "wakeup":1, "nStartBytes":12958400, "nEndBytes":12978880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:132,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":132, "wakeup":1, "nStartBytes":12997440, "nEndBytes":13022080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:79,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":79, "wakeup":1, "nStartBytes":13041280, "nEndBytes":13063040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:83,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":83, "wakeup":1, "nStartBytes":13084160, "nEndBytes":13104320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:51,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":13182400, "nEndBytes":13217600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_013.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_014.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F002_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:101,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":13339200, "nEndBytes":13375040}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_005.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:71,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":71, "wakeup":1, "nStartBytes":13561600, "nEndBytes":13580480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:78,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":78, "wakeup":1, "nStartBytes":13599680, "nEndBytes":13619520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:116,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":116, "wakeup":1, "nStartBytes":13639680, "nEndBytes":13656960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:124,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":13679360, "nEndBytes":13699200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:83,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":83, "wakeup":1, "nStartBytes":13721920, "nEndBytes":13740800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_012.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:55,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":55, "wakeup":1, "nStartBytes":13877440, "nEndBytes":13913920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_014.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F003_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:79,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":79, "wakeup":1, "nStartBytes":13991360, "nEndBytes":14027840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:109,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":109, "wakeup":1, "nStartBytes":14048960, "nEndBytes":14064640}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:150,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":150, "wakeup":1, "nStartBytes":14082240, "nEndBytes":14098560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:127,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":14118080, "nEndBytes":14132480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:139,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":139, "wakeup":1, "nStartBytes":14153920, "nEndBytes":14169280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:127,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":14187200, "nEndBytes":14203200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:56,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":56, "wakeup":1, "nStartBytes":14225920, "nEndBytes":14245440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:85,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":85, "wakeup":1, "nStartBytes":14267520, "nEndBytes":14284800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_008.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:65,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":65, "wakeup":1, "nStartBytes":14356480, "nEndBytes":14376320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:126,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":14399680, "nEndBytes":14420160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:94,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":14447040, "nEndBytes":14476160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:100,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":14499200, "nEndBytes":14531200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:144,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":144, "wakeup":1, "nStartBytes":14552320, "nEndBytes":14584320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:163,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":163, "wakeup":1, "nStartBytes":14605760, "nEndBytes":14637760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F004_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:96,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":96, "wakeup":1, "nStartBytes":14657600, "nEndBytes":14691520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:97,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":97, "wakeup":1, "nStartBytes":14711040, "nEndBytes":14722880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:86,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":86, "wakeup":1, "nStartBytes":14740160, "nEndBytes":14753600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:69,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":69, "wakeup":1, "nStartBytes":14834240, "nEndBytes":14846720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_006.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:169,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":169, "wakeup":1, "nStartBytes":14894400, "nEndBytes":14912960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:133,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":133, "wakeup":1, "nStartBytes":14931840, "nEndBytes":14948800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:160,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":160, "wakeup":1, "nStartBytes":14968000, "nEndBytes":14986240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:111,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":111, "wakeup":1, "nStartBytes":15004800, "nEndBytes":15022720}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:120,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":120, "wakeup":1, "nStartBytes":15039040, "nEndBytes":15065920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:71,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":71, "wakeup":1, "nStartBytes":15084480, "nEndBytes":15114560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:77,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":77, "wakeup":1, "nStartBytes":15133440, "nEndBytes":15160000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:122,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":122, "wakeup":1, "nStartBytes":15179200, "nEndBytes":15203520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/F005_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:122,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":122, "wakeup":1, "nStartBytes":15224000, "nEndBytes":15250240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:161,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":161, "wakeup":1, "nStartBytes":15269440, "nEndBytes":15284800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:51,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":15333440, "nEndBytes":15347840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:78,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":78, "wakeup":1, "nStartBytes":15364800, "nEndBytes":15378240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:79,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":79, "wakeup":1, "nStartBytes":15395840, "nEndBytes":15408000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:115,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":115, "wakeup":1, "nStartBytes":15425280, "nEndBytes":15440960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:112,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":15456960, "nEndBytes":15475200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:62,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":62, "wakeup":1, "nStartBytes":15492160, "nEndBytes":15507520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_009.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:101,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":15526080, "nEndBytes":15547840}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":15634240, "nEndBytes":15656320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_013.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:52,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":52, "wakeup":1, "nStartBytes":15715520, "nEndBytes":15737280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M001_接听_015.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_004.wav	nMvwScene:8,nMvwId:0,nMvwScore:51,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":51, "wakeup":1, "nStartBytes":15885760, "nEndBytes":15902080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_005.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_006.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:54,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":54, "wakeup":1, "nStartBytes":15979200, "nEndBytes":15992960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_008.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:66,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":66, "wakeup":1, "nStartBytes":16047680, "nEndBytes":16062400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_010.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:60,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":60, "wakeup":1, "nStartBytes":16156480, "nEndBytes":16174400}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:88,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":88, "wakeup":1, "nStartBytes":16194880, "nEndBytes":16212800}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:69,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":69, "wakeup":1, "nStartBytes":16231680, "nEndBytes":16252480}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M002_接听_015.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:60,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":60, "wakeup":1, "nStartBytes":16312960, "nEndBytes":16333440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_005.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:140,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":16473280, "nEndBytes":16489280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_007.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:140,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":16544320, "nEndBytes":16562880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:147,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":147, "wakeup":1, "nStartBytes":16580160, "nEndBytes":16601600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:93,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":93, "wakeup":1, "nStartBytes":16618880, "nEndBytes":16642880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:99,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":99, "wakeup":1, "nStartBytes":16660160, "nEndBytes":16688960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:69,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":69, "wakeup":1, "nStartBytes":16706240, "nEndBytes":16731200}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:84,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":84, "wakeup":1, "nStartBytes":16751040, "nEndBytes":16788160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:62,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":62, "wakeup":1, "nStartBytes":16804800, "nEndBytes":16845760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M003_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:81,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":81, "wakeup":1, "nStartBytes":16863360, "nEndBytes":16897600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_001.wav	nMvwScene:8,nMvwId:0,nMvwScore:169,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":169, "wakeup":1, "nStartBytes":16915520, "nEndBytes":16929280}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_002.wav	nMvwScene:8,nMvwId:0,nMvwScore:124,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":124, "wakeup":1, "nStartBytes":16947840, "nEndBytes":16961920}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_003.wav	nMvwScene:8,nMvwId:0,nMvwScore:113,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":113, "wakeup":1, "nStartBytes":16980800, "nEndBytes":16996160}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_005.wav	nMvwScene:8,nMvwId:0,nMvwScore:162,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":162, "wakeup":1, "nStartBytes":17048000, "nEndBytes":17064000}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:136,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":136, "wakeup":1, "nStartBytes":17082560, "nEndBytes":17106880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:129,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":129, "wakeup":1, "nStartBytes":17126080, "nEndBytes":17143360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:126,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":126, "wakeup":1, "nStartBytes":17161600, "nEndBytes":17178880}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:155,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":155, "wakeup":1, "nStartBytes":17198080, "nEndBytes":17215680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:140,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":140, "wakeup":1, "nStartBytes":17234880, "nEndBytes":17254080}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_011.wav	nMvwScene:8,nMvwId:0,nMvwScore:158,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":158, "wakeup":1, "nStartBytes":17272960, "nEndBytes":17306560}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:101,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":101, "wakeup":1, "nStartBytes":17325120, "nEndBytes":17360320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_013.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_014.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M004_接听_015.wav	nMvwScene:8,nMvwId:0,nMvwScore:94,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":94, "wakeup":1, "nStartBytes":17480640, "nEndBytes":17512960}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_001.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_002.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_003.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_004.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_005.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_006.wav	nMvwScene:8,nMvwId:0,nMvwScore:118,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":118, "wakeup":1, "nStartBytes":17679680, "nEndBytes":17693760}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_007.wav	nMvwScene:8,nMvwId:0,nMvwScore:119,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":119, "wakeup":1, "nStartBytes":17712000, "nEndBytes":17727680}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_008.wav	nMvwScene:8,nMvwId:0,nMvwScore:163,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":163, "wakeup":1, "nStartBytes":17745600, "nEndBytes":17763520}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_009.wav	nMvwScene:8,nMvwId:0,nMvwScore:112,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":112, "wakeup":1, "nStartBytes":17781440, "nEndBytes":17799360}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_010.wav	nMvwScene:8,nMvwId:0,nMvwScore:125,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":125, "wakeup":1, "nStartBytes":17818240, "nEndBytes":17834240}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_011.wav	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_012.wav	nMvwScene:8,nMvwId:0,nMvwScore:100,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":100, "wakeup":1, "nStartBytes":17897280, "nEndBytes":17921600}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_013.wav	nMvwScene:8,nMvwId:0,nMvwScore:127,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":127, "wakeup":1, "nStartBytes":17940800, "nEndBytes":17965440}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_014.wav	nMvwScene:8,nMvwId:0,nMvwScore:122,lParam:{"nMvwScene":8, "nMvwId":0, "nMvwScore":122, "wakeup":1, "nStartBytes":17984640, "nEndBytes":18008320}	
+/MVWTestSuite/MVWTestEffect_WithTime/SceneId-8/接听/接听市区半开窗/M005_接听_015.wav	
+vwLabel：8-接听, 尝试唤醒次数：450, 唤醒成功次数：360，成功率：80.000000%，平均唤醒响应时间：279

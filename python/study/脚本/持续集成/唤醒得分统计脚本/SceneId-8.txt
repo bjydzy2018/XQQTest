@@ -1,0 +1,2102 @@
+Open Cfg_Dir success.
+ISSMVWCreate success
+open file : list.txt success!
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M010_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 176
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M010_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 151
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M010_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 196
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M010_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 198
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M011_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 68
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M011_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M011_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 65
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M011_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 87
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M012_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 141
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M012_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 90
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M012_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 127
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M012_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 130
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M102_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 183
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M102_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 164
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M102_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M102_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 128
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M103_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 121
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M103_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 160
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M103_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M103_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 162
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M104_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 168
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M104_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M104_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M104_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M014_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M014_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 134
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M014_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 193
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M014_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 164
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M015_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 177
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M015_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 178
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M015_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 156
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M015_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M107_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 151
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M107_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 119
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M107_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 165
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M107_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M110_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 69
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M110_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 53
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M110_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 120
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M110_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 107
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M112_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 135
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M112_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M112_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 150
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M112_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 154
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M113_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M113_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 154
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M113_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 185
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M113_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F002_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 141
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F002_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F002_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F002_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F004_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F004_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 112
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F004_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F004_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F005_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 147
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F005_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 135
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F005_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 165
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F005_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F007_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 185
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F007_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F007_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 170
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F007_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 151
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F008_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 130
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F008_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 171
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F008_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 173
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F008_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F013_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 154
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F013_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 112
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F013_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 156
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F013_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 135
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F016_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 154
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F016_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 127
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F016_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 154
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F016_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F101_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F101_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F101_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 63
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F101_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F105_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 174
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F105_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 67
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F105_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 149
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F105_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F106_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 89
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F106_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F106_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 58
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F106_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 101
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F108_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 177
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F108_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 194
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F108_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 173
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F108_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 163
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F109_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F109_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 78
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F109_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 137
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F109_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 113
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F111_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F111_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F111_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 155
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F111_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F114_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F114_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 131
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F114_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 155
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/F114_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M001_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M001_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 90
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M001_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 77
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M001_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M003_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M003_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M003_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 166
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M003_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M006_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 186
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M006_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 169
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M006_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 167
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M006_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M009_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 121
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M009_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 120
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M009_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X1/M009_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 130
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M010_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 169
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M010_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M010_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 87
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M010_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M011_149.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M011_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M011_151.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M011_152.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M012_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M012_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 73
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M012_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M012_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M102_149.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M102_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 105
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M102_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 80
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M102_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 56
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M103_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M103_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M103_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 61
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M103_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M104_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 146
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M104_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 120
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M104_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M104_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M014_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 114
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M014_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M014_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M014_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M015_149.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M015_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M015_151.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M015_152.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M107_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 93
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M107_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 80
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M107_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 56
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M107_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 58
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M110_149.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M110_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M110_151.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M110_152.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M112_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M112_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 81
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M112_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M112_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M113_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 60
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M113_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M113_151.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M113_152.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F002_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 52
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F002_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 87
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F002_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 90
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F002_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 78
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F004_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F004_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 90
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F004_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 105
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F004_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 55
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F005_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F005_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F005_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F005_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 77
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F007_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F007_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F007_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 115
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F007_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F008_149.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F008_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F008_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 103
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F008_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 100
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F013_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F013_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F013_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F013_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F016_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 112
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F016_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F016_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 79
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F016_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F101_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F101_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 86
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F101_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F101_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F105_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F105_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F105_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 79
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F105_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 154
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F106_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F106_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 95
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F106_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F106_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 68
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F108_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F108_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F108_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F108_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F109_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 73
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F109_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F109_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 168
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F109_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F111_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 91
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F111_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F111_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F111_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F114_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F114_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F114_151.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/F114_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 126
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M001_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M001_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M001_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 93
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M001_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M003_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 67
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M003_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M003_151.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M003_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 52
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M006_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M006_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M006_151.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M006_152.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M009_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 149
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M009_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M009_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 63
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X2/M009_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 120
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M010_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M010_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 84
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M010_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M010_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 160
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M011_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 81
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M011_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M011_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 73
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M011_152.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M012_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M012_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M012_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 87
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M012_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 51
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M102_149.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M102_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 81
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M102_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 54
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M102_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 56
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M103_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 113
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M103_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 105
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M103_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M103_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 115
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M104_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M104_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 89
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M104_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M104_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M014_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 173
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M014_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 166
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M014_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 170
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M014_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 171
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M015_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 81
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M015_150.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M015_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 68
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M015_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 54
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M107_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 116
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M107_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 120
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M107_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 149
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M107_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 128
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M110_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 128
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M110_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M110_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M110_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 64
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M112_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M112_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 138
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M112_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M112_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 150
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M113_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 153
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M113_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M113_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 156
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M113_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 123
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F002_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 95
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F002_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 113
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F002_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 121
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F002_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F004_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 146
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F004_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 99
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F004_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 135
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F004_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F005_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F005_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 140
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F005_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F005_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 125
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F007_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 141
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F007_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 110
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F007_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 125
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F007_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 116
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F008_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F008_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F008_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 119
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F008_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F013_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F013_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 93
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F013_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F013_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 138
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F016_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 137
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F016_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 119
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F016_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 123
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F016_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F101_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 100
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F101_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F101_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 66
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F101_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F105_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 162
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F105_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 164
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F105_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 153
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F105_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F106_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F106_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F106_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 58
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F106_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 120
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F108_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F108_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 153
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F108_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 123
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F108_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F109_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F109_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 116
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F109_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 162
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F109_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F111_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F111_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 156
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F111_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 126
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F111_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F114_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 166
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F114_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 75
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F114_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/F114_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 137
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M001_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M001_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M001_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 112
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M001_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M003_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 147
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M003_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 165
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M003_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 162
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M003_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 140
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M006_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M006_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M006_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 95
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M006_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M009_149.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M009_150.wav
+Ivw success!!场景是：8 ID是：2 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M009_151.wav
+Ivw success!!场景是：8 ID是：2 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/X3/M009_152.wav
+Ivw success!!场景是：8 ID是：2 得分是： 126
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 91
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 119
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 128
+Ivw success!!场景是：8 ID是：1 得分是： 189
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 137
+Ivw success!!场景是：8 ID是：1 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 131
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 142
+Ivw success!!场景是：8 ID是：1 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 51
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 58
+Ivw success!!场景是：8 ID是：1 得分是： 59
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F001_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 80
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 128
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 83
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 105
+Ivw success!!场景是：8 ID是：1 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 134
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 116
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 111
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F002_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 114
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 60
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 51
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+Ivw success!!场景是：8 ID是：1 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 133
+Ivw success!!场景是：8 ID是：1 得分是： 91
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 119
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F003_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 147
+Ivw success!!场景是：8 ID是：1 得分是： 146
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 134
+Ivw success!!场景是：8 ID是：1 得分是： 127
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 150
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 116
+Ivw success!!场景是：8 ID是：1 得分是： 103
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 87
+Ivw success!!场景是：8 ID是：1 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 53
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 73
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F004_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 125
+Ivw success!!场景是：8 ID是：1 得分是： 71
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 77
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 80
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 90
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 103
+Ivw success!!场景是：8 ID是：1 得分是： 227
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 156
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 180
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 186
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 153
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 83
+Ivw success!!场景是：8 ID是：1 得分是： 95
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/F005_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 151
+Ivw success!!场景是：8 ID是：1 得分是： 94
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 112
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 71
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 184
+Ivw success!!场景是：8 ID是：1 得分是： 126
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 180
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 190
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 166
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M001_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 69
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 94
+Ivw success!!场景是：8 ID是：1 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 93
+Ivw success!!场景是：8 ID是：1 得分是： 90
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 155
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 128
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 75
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 112
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 67
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M002_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 63
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 112
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 167
+Ivw success!!场景是：8 ID是：1 得分是： 142
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 146
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 167
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 172
+Ivw success!!场景是：8 ID是：1 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 125
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 126
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 119
+Ivw success!!场景是：8 ID是：1 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M003_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 131
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 100
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 116
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 86
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 123
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 66
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 83
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M004_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 101
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 103
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 145
+Ivw success!!场景是：8 ID是：1 得分是： 195
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 166
+Ivw success!!场景是：8 ID是：1 得分是： 147
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 86
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 110
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断高架中档/M005_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 130
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 131
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 62
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 68
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 55
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 120
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 150
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 93
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 131
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 60
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F001_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 58
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 115
+Ivw success!!场景是：8 ID是：1 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 86
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 99
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 95
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 67
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 97
+Ivw success!!场景是：8 ID是：1 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 128
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F002_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 58
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 60
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 83
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 84
+Ivw success!!场景是：8 ID是：1 得分是： 80
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 110
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 107
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 56
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F003_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 86
+Ivw success!!场景是：8 ID是：1 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 127
+Ivw success!!场景是：8 ID是：1 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 89
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 140
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 69
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 75
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 107
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 51
+Ivw success!!场景是：8 ID是：1 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F004_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 80
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 110
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 84
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 77
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 150
+Ivw success!!场景是：8 ID是：1 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 146
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 128
+Ivw success!!场景是：8 ID是：1 得分是： 65
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 130
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/F005_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 137
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 67
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 94
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 121
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 132
+Ivw success!!场景是：8 ID是：1 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 62
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M001_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 155
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 52
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 75
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 81
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 51
+Ivw success!!场景是：8 ID是：1 得分是： 62
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 113
+Ivw success!!场景是：8 ID是：1 得分是： 55
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M002_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 84
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 110
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 124
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 84
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 126
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 135
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 121
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 131
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 84
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 73
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 94
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 123
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M003_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 64
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 71
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 59
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 51
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M004_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 55
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 90
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 56
+Ivw success!!场景是：8 ID是：1 得分是： 64
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断郊区开窗/M005_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 64
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 123
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 55
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 53
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 138
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 119
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 54
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 52
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F001_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 77
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 62
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 116
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 129
+Ivw success!!场景是：8 ID是：1 得分是： 74
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 72
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 75
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 82
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 78
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F002_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 88
+Ivw success!!场景是：8 ID是：1 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 59
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 74
+Ivw success!!场景是：8 ID是：1 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 140
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 119
+Ivw success!!场景是：8 ID是：1 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 56
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F003_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 79
+Ivw success!!场景是：8 ID是：1 得分是： 114
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 133
+Ivw success!!场景是：8 ID是：1 得分是： 128
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 151
+Ivw success!!场景是：8 ID是：1 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 163
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 79
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 63
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 101
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 58
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 86
+Ivw success!!场景是：8 ID是：1 得分是： 134
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F004_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 114
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 87
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 102
+Ivw success!!场景是：8 ID是：1 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 193
+Ivw success!!场景是：8 ID是：1 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 149
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 151
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 57
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/F005_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 114
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 102
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 93
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 71
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 59
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 119
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 107
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 107
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 93
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M001_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 70
+Ivw success!!场景是：8 ID是：1 得分是： 67
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 79
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 62
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 78
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 80
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 60
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M002_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 92
+Ivw success!!场景是：8 ID是：1 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 127
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 170
+Ivw success!!场景是：8 ID是：1 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 179
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_005.wav
+Ivw success!!场景是：8 ID是：1 得分是： 167
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_009.wav
+Ivw success!!场景是：8 ID是：1 得分是： 141
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 125
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M003_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 72
+Ivw success!!场景是：8 ID是：1 得分是： 88
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_002.wav
+Ivw success!!场景是：8 ID是：1 得分是： 105
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_003.wav
+Ivw success!!场景是：8 ID是：1 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_004.wav
+Ivw success!!场景是：8 ID是：1 得分是： 89
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_006.wav
+Ivw success!!场景是：8 ID是：1 得分是： 93
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 85
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 151
+Ivw success!!场景是：8 ID是：1 得分是： 55
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 130
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 109
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_012.wav
+Ivw success!!场景是：8 ID是：1 得分是： 72
+Ivw success!!场景是：8 ID是：1 得分是： 55
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 87
+Ivw success!!场景是：8 ID是：1 得分是： 61
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M004_挂断_015.wav
+Ivw success!!场景是：8 ID是：1 得分是： 92
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_007.wav
+Ivw success!!场景是：8 ID是：1 得分是： 133
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_008.wav
+Ivw success!!场景是：8 ID是：1 得分是： 154
+Ivw success!!场景是：8 ID是：1 得分是： 122
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_010.wav
+Ivw success!!场景是：8 ID是：1 得分是： 135
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_011.wav
+Ivw success!!场景是：8 ID是：1 得分是： 169
+Ivw success!!场景是：8 ID是：1 得分是： 118
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_013.wav
+Ivw success!!场景是：8 ID是：1 得分是： 78
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_014.wav
+Ivw success!!场景是：8 ID是：1 得分是： 119
+Ivw success!!场景是：8 ID是：1 得分是： 97
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/挂断/挂断市区半开窗/M005_挂断_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_001.wav
+Ivw success!!场景是：8 ID是：1 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_003.wav
+Ivw success!!场景是：8 ID是：0 得分是： 165
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 184
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 155
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 177
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 106
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F001_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_005.wav
+Ivw success!!场景是：8 ID是：0 得分是： 182
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F002_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 111
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F003_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 197
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 122
+Ivw success!!场景是：8 ID是：0 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 170
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F004_接听_015.wav
+Ivw success!!场景是：8 ID是：0 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/F005_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 169
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_012.wav
+Ivw success!!场景是：8 ID是：0 得分是： 167
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_013.wav
+Ivw success!!场景是：8 ID是：0 得分是： 163
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M001_接听_015.wav
+Ivw success!!场景是：8 ID是：0 得分是： 146
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_001.wav
+Ivw success!!场景是：8 ID是：0 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_003.wav
+Ivw success!!场景是：8 ID是：0 得分是： 135
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 75
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 113
+Ivw success!!场景是：8 ID是：0 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 134
+Ivw success!!场景是：8 ID是：0 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_012.wav
+Ivw success!!场景是：8 ID是：0 得分是： 127
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 98
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M002_接听_015.wav
+Ivw success!!场景是：8 ID是：0 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 125
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_004.wav
+Ivw success!!场景是：8 ID是：0 得分是： 96
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_005.wav
+Ivw success!!场景是：8 ID是：0 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 182
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 187
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 157
+Ivw success!!场景是：8 ID是：0 得分是： 123
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M003_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_003.wav
+Ivw success!!场景是：8 ID是：0 得分是： 203
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_005.wav
+Ivw success!!场景是：8 ID是：0 得分是： 180
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_006.wav
+Ivw success!!场景是：8 ID是：0 得分是： 192
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 141
+Ivw success!!场景是：8 ID是：0 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 136
+Ivw success!!场景是：8 ID是：0 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 113
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M004_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_001.wav
+Ivw success!!场景是：8 ID是：0 得分是： 145
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 170
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听高架中档/M005_接听_015.wav
+Ivw success!!场景是：8 ID是：0 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 129
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 165
+Ivw success!!场景是：8 ID是：0 得分是： 192
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 190
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 91
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F001_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_005.wav
+Ivw success!!场景是：8 ID是：0 得分是： 201
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 160
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F002_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F003_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 184
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 170
+Ivw success!!场景是：8 ID是：0 得分是： 164
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 191
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 170
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 153
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F004_接听_015.wav
+Ivw success!!场景是：8 ID是：0 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/F005_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_012.wav
+Ivw success!!场景是：8 ID是：0 得分是： 219
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_013.wav
+Ivw success!!场景是：8 ID是：0 得分是： 184
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 194
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M001_接听_015.wav
+Ivw success!!场景是：8 ID是：0 得分是： 196
+Ivw success!!场景是：8 ID是：0 得分是： 173
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_001.wav
+Ivw success!!场景是：8 ID是：0 得分是： 136
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 130
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 117
+Ivw success!!场景是：8 ID是：0 得分是： 70
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_012.wav
+Ivw success!!场景是：8 ID是：0 得分是： 144
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M002_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_001.wav
+Ivw success!!场景是：8 ID是：0 得分是： 177
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_005.wav
+Ivw success!!场景是：8 ID是：0 得分是： 143
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 148
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 141
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 158
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_012.wav
+Ivw success!!场景是：8 ID是：0 得分是： 131
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M003_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_001.wav
+Ivw success!!场景是：8 ID是：0 得分是： 117
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_003.wav
+Ivw success!!场景是：8 ID是：0 得分是： 165
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_005.wav
+Ivw success!!场景是：8 ID是：0 得分是： 194
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_006.wav
+Ivw success!!场景是：8 ID是：0 得分是： 231
+Ivw success!!场景是：8 ID是：0 得分是： 184
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 150
+Ivw success!!场景是：8 ID是：0 得分是： 198
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 192
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 178
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_012.wav
+Ivw success!!场景是：8 ID是：0 得分是： 199
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_013.wav
+Ivw success!!场景是：8 ID是：0 得分是： 193
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 209
+Ivw success!!场景是：8 ID是：0 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M004_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 159
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_013.wav
+Ivw success!!场景是：8 ID是：0 得分是： 163
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听郊区开窗/M005_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 132
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F001_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F002_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F003_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 151
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 89
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 76
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 137
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_013.wav
+Ivw success!!场景是：8 ID是：0 得分是： 166
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 183
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F004_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_002.wav
+Ivw success!!场景是：8 ID是：0 得分是： 108
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 170
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/F005_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_001.wav
+Ivw success!!场景是：8 ID是：0 得分是： 177
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_012.wav
+Ivw success!!场景是：8 ID是：0 得分是： 126
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M001_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 70
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_014.wav
+Ivw success!!场景是：8 ID是：0 得分是： 104
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M002_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_007.wav
+Ivw success!!场景是：8 ID是：0 得分是： 139
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_009.wav
+Ivw success!!场景是：8 ID是：0 得分是： 146
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M003_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_006.wav
+Ivw success!!场景是：8 ID是：0 得分是： 171
+Ivw success!!场景是：8 ID是：0 得分是： 152
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_008.wav
+Ivw success!!场景是：8 ID是：0 得分是： 143
+Ivw success!!场景是：8 ID是：0 得分是： 167
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_010.wav
+Ivw success!!场景是：8 ID是：0 得分是： 161
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_011.wav
+Ivw success!!场景是：8 ID是：0 得分是： 157
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M004_接听_015.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_001.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_002.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_003.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_004.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_005.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_006.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_007.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_008.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_009.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_010.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_011.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_012.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_013.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_014.wav
+E:/project/SE_iFlytekSpeechSuite/Tags/Build1071/Project/07.Release/win32/bin/PcmRes/mvw/SceneId-8/接听/接听市区半开窗/M005_接听_015.wav
+       唤醒次数,         总次数
+            837,           1260
