@@ -1,3 +1,0 @@
-2017-05-05 14:55:37 Log.py[line:130] INFO get suit result
-2017-05-05 14:55:37 Log.py[line:128] DEBUG 	Function 'get_suit_result()' run time is : 0.0640001296997 s
-2017-05-05 14:55:37 Log.py[line:130] INFO get rec result

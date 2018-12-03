@@ -1,4 +1,0 @@
-2017-04-19 10:49:22 Log.py[line:130] INFO get suit result
-2017-04-19 10:49:22 Log.py[line:128] DEBUG 	Function 'get_suit_result()' run time is : 0.00200009346008 s
-2017-04-19 10:49:22 Log.py[line:130] INFO get rec result
-2017-04-19 10:49:22 Log.py[line:128] DEBUG 	Function 'get_rec_result()' run time is : 0.085000038147 s

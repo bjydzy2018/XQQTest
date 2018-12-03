@@ -1,1 +1,0 @@
-2017-04-19 15:16:42 Log.py[line:130] INFO get suit result

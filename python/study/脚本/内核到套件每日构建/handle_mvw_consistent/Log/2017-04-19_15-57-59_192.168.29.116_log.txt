@@ -1,5 +1,0 @@
-2017-04-19 15:57:59 Log.py[line:130] INFO get suit result
-2017-04-19 15:57:59 Log.py[line:128] DEBUG 	Function 'get_suit_result()' run time is : 0.00200009346008 s
-2017-04-19 15:57:59 Log.py[line:130] INFO get rec result
-2017-04-19 15:57:59 Log.py[line:128] DEBUG 	Function 'get_rec_result()' run time is : 0.00200009346008 s
-2017-04-19 15:57:59 Log.py[line:130] INFO begin compare

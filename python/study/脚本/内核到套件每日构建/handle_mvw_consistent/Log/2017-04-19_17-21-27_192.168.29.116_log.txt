@@ -1,7 +1,0 @@
-2017-04-19 17:21:27 Log.py[line:130] INFO get suit result
-2017-04-19 17:21:27 Log.py[line:128] DEBUG 	Function 'get_suit_result()' run time is : 0.000999927520752 s
-2017-04-19 17:21:27 Log.py[line:130] INFO get rec result
-2017-04-19 17:21:27 Log.py[line:128] DEBUG 	Function 'get_rec_result()' run time is : 0.000999927520752 s
-2017-04-19 17:21:27 Log.py[line:130] INFO begin compare
-2017-04-19 17:21:27 Log.py[line:128] DEBUG ./MVWTestSuite/MVWTestEffect_WithTime/SceneId-1/X3/M015_014.wav
-2017-04-19 17:21:27 Log.py[line:128] DEBUG 时间:2017-04-19_17-21-27
