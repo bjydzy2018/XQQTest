@@ -1,0 +1,146 @@
+=============================================================
+	iFlyTEK log file
+	Subject :    TestISS-AIUI log
+	Created-Time :    17/07/22-04:28:14 031
+	Application: E:\Project\SE_ISS3.0\Tags\SE_ISS_AIUI_1110\Project\07.Release\win32\bin\Release\TestISS-AIUI.exe 2017-07-21 18:23:24
+	Module:        
+	PID: 9756 (0x261c) Version: 
+=============================================================
+[17/07/22-04:28:14 047][INF][Px261c][Tx1bb8] run tests in main process
+[17/07/22-04:28:14 047][INF][Px261c][Tx1bb8] start uploaddict batch Test
+[17/07/22-04:28:14 109][DBG][Px261c][Tx1bb8] MachineCode:ThisIsALongFakeMachineCodeForAIUI
+[17/07/22-04:28:14 109][DBG][Px261c][Tx1bb8] ISSSetMachineCode return 0
+[17/07/22-04:28:14 156][INF][Px261c][Tx0894] cloud init sr success
+[17/07/22-04:28:14 156][DBG][Px261c][Tx1bb8] ISSSRCreate return 0
+[17/07/22-04:28:14 171][DBG][Px261c][Tx0894] get callback msg: 20013_ISS_SR_MSG_CloudInitStatus, wParam: 0
+[17/07/22-04:28:16 293][INF][Px261c][Tx17d8] init sr success
+[17/07/22-04:28:16 293][DBG][Px261c][Tx17d8] get callback msg: 20000_ISS_SR_MSG_InitStatus, wParam: 0
+[17/07/22-04:28:16 309][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-500.txt
+[17/07/22-04:28:16 324][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:28:16 324][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:28:16 745][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 400, lParam: sync data error, dataType=3
+[17/07/22-04:28:25 029][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:28:25 029][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:28:25 029][DBG][Px261c][Tx1bb8] upload dict resume:8725.000000 ms
+[17/07/22-04:28:25 045][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:28:30 037][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-1000.txt
+[17/07/22-04:28:30 099][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:28:30 099][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:28:30 427][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:28:31 472][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:28:31 472][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:28:31 472][DBG][Px261c][Tx1bb8] upload dict resume:1425.000000 ms
+[17/07/22-04:28:31 472][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:28:36 479][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-1500.txt
+[17/07/22-04:28:36 542][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:28:36 557][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:28:37 088][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:28:38 040][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:28:38 040][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:28:38 040][DBG][Px261c][Tx1bb8] upload dict resume:1563.000000 ms
+[17/07/22-04:28:38 055][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:28:43 047][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-2000.txt
+[17/07/22-04:28:43 141][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:28:43 156][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:28:43 468][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:28:45 028][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:28:45 028][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:28:45 044][DBG][Px261c][Tx1bb8] upload dict resume:1979.000000 ms
+[17/07/22-04:28:45 044][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:28:50 036][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-2500.txt
+[17/07/22-04:28:50 192][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:28:50 208][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:28:50 566][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:28:52 438][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:28:52 454][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:28:52 454][DBG][Px261c][Tx1bb8] upload dict resume:2407.000000 ms
+[17/07/22-04:28:52 454][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:28:57 462][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-3000.txt
+[17/07/22-04:28:57 664][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:28:57 680][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:28:58 070][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:29:00 472][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:29:00 472][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:29:00 488][DBG][Px261c][Tx1bb8] upload dict resume:3012.000000 ms
+[17/07/22-04:29:00 488][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:29:05 480][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-5000.txt
+[17/07/22-04:29:05 730][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:29:05 761][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:29:06 291][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:29:10 800][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:29:10 800][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:29:10 800][DBG][Px261c][Tx1bb8] upload dict resume:5312.000000 ms
+[17/07/22-04:29:10 815][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:29:15 807][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-10000.txt
+[17/07/22-04:29:16 213][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:29:16 229][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:29:17 118][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:29:28 241][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:29:28 241][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:29:28 241][DBG][Px261c][Tx1bb8] upload dict resume:12424.000000 ms
+[17/07/22-04:29:28 256][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:29:33 248][DBG][Px261c][Tx1bb8] dictFullName:dict/contactDict-15000.txt
+[17/07/22-04:29:33 841][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:29:33 841][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:29:35 073][DBG][Px261c][Tx0894] get callback msg: 20002_ISS_SR_MSG_UpLoadDictToCloudStatus, wParam: 0, lParam: sync data sucess, dataType=3
+[17/07/22-04:29:56 180][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:29:56 196][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:29:56 196][DBG][Px261c][Tx1bb8] upload dict resume:22934.000000 ms
+[17/07/22-04:29:56 196][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:01 204][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-500.txt
+[17/07/22-04:30:01 282][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:01 297][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:02 311][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:02 311][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:02 327][DBG][Px261c][Tx1bb8] upload dict resume:1116.000000 ms
+[17/07/22-04:30:02 327][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:07 319][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-1000.txt
+[17/07/22-04:30:07 459][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:07 459][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:07 724][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:07 724][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:07 724][DBG][Px261c][Tx1bb8] upload dict resume:394.000000 ms
+[17/07/22-04:30:07 724][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:12 732][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-2000.txt
+[17/07/22-04:30:12 857][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:12 873][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:13 216][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:13 216][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:13 216][DBG][Px261c][Tx1bb8] upload dict resume:480.000000 ms
+[17/07/22-04:30:13 216][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:18 223][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-3000.txt
+[17/07/22-04:30:18 457][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:18 457][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:18 894][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:18 910][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:18 910][DBG][Px261c][Tx1bb8] upload dict resume:674.000000 ms
+[17/07/22-04:30:18 910][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:23 917][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-4000.txt
+[17/07/22-04:30:24 183][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:24 183][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:24 697][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:24 713][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:24 713][DBG][Px261c][Tx1bb8] upload dict resume:789.000000 ms
+[17/07/22-04:30:24 713][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:29 705][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-5000.txt
+[17/07/22-04:30:30 017][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:30 017][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:30 641][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:30 641][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:30 641][DBG][Px261c][Tx1bb8] upload dict resume:930.000000 ms
+[17/07/22-04:30:30 657][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:35 649][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-10000.txt
+[17/07/22-04:30:36 226][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:36 226][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:37 302][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:37 302][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:37 318][DBG][Px261c][Tx1bb8] upload dict resume:1651.000000 ms
+[17/07/22-04:30:37 318][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:42 310][DBG][Px261c][Tx1bb8] dictFullName:dict/musicDict-15000.txt
+[17/07/22-04:30:43 121][DBG][Px261c][Tx1bb8] ISSSRUpLoadDict return 0
+[17/07/22-04:30:43 121][DBG][Px261c][Tx1bb8] waiting for uploading dict
+[17/07/22-04:30:44 666][DBG][Px261c][Tx26c4] get callback msg: 20001_ISS_SR_MSG_UpLoadDictToLocalStatus, wParam: 0, lParam: 
+[17/07/22-04:30:44 666][DBG][Px261c][Tx1bb8] upload dict success
+[17/07/22-04:30:44 666][DBG][Px261c][Tx1bb8] upload dict resume:2342.000000 ms
+[17/07/22-04:30:44 666][DBG][Px261c][Tx1bb8] after uploading dict, sleep 5s
+[17/07/22-04:30:52 200][DBG][Px261c][Tx1bb8] ISSSRDestroy return 0

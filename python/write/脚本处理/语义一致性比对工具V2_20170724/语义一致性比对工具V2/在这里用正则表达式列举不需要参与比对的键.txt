@@ -1,0 +1,16 @@
+slots.startLoc.mean_extra
+slots.viaLoc.mean_extra
+slots.endLoc.mean_extra
+slots.landmark.mean_extra
+slots.keyword.mean_extra
+slots.operation
+slots.startLoc.topic
+slots.endLoc.topic
+slots.landmark.topic
+slots.avoidLoc.topic
+slots.viaLoc.topic
+slots.keyword.topic
+slots.datetime.date
+slots.datetime.time
+slots.exclude#.*
+slots.startDate.date

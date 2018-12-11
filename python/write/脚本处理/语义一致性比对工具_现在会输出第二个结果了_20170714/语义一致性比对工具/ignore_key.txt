@@ -1,0 +1,14 @@
+semantic.slots.startLoc.mean_extra
+semantic.slots.viaLoc.mean_extra
+semantic.slots.endLoc.mean_extra
+semantic.slots.landmark.mean_extra
+semantic.slots.keyword.mean_extra
+semantic.slots.operation
+semantic.slots.startLoc.topic
+semantic.slots.endLoc.topic
+semantic.slots.landmark.topic
+semantic.slots.avoidLoc.topic
+semantic.slots.viaLoc.topic
+semantic.slots.keyword.topic
+semantic.slots.datetime.date
+semantic.slots.startDate.date
