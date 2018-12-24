@@ -1,0 +1,69 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\armeabi-v7a\libaiui.so => app\src\main\jniLibs\armeabi-v7a\libaiui.so
+* libs\armeabi-v7a\libAiuiToolMainFunc.so => app\src\main\jniLibs\armeabi-v7a\libAiuiToolMainFunc.so
+* libs\armeabi-v7a\libcata-jni.so => app\src\main\jniLibs\armeabi-v7a\libcata-jni.so
+* libs\armeabi-v7a\libcata.so => app\src\main\jniLibs\armeabi-v7a\libcata.so
+* libs\armeabi-v7a\libcataIndex.so => app\src\main\jniLibs\armeabi-v7a\libcataIndex.so
+* libs\armeabi-v7a\libiau-jni.so => app\src\main\jniLibs\armeabi-v7a\libiau-jni.so
+* libs\armeabi-v7a\libichip-jni.so => app\src\main\jniLibs\armeabi-v7a\libichip-jni.so
+* libs\armeabi-v7a\libiFlyNLI.so => app\src\main\jniLibs\armeabi-v7a\libiFlyNLI.so
+* libs\armeabi-v7a\libiFlyPResBuild.so => app\src\main\jniLibs\armeabi-v7a\libiFlyPResBuild.so
+* libs\armeabi-v7a\libimvw-jni.so => app\src\main\jniLibs\armeabi-v7a\libimvw-jni.so
+* libs\armeabi-v7a\libisr-jni.so => app\src\main\jniLibs\armeabi-v7a\libisr-jni.so
+* libs\armeabi-v7a\libissauth.so => app\src\main\jniLibs\armeabi-v7a\libissauth.so
+* libs\armeabi-v7a\libitts-jni.so => app\src\main\jniLibs\armeabi-v7a\libitts-jni.so
+* libs\armeabi-v7a\libkernel.so => app\src\main\jniLibs\armeabi-v7a\libkernel.so
+* libs\armeabi-v7a\libmsc.so => app\src\main\jniLibs\armeabi-v7a\libmsc.so
+* libs\armeabi-v7a\libnamext.so => app\src\main\jniLibs\armeabi-v7a\libnamext.so
+* libs\armeabi-v7a\libSearchForNli.so => app\src\main\jniLibs\armeabi-v7a\libSearchForNli.so
+* libs\armeabi-v7a\libSpWord.so => app\src\main\jniLibs\armeabi-v7a\libSpWord.so
+* libs\armeabi-v7a\libttpy-jni.so => app\src\main\jniLibs\armeabi-v7a\libttpy-jni.so
+* libs\armeabi-v7a\libw_ivw.so => app\src\main\jniLibs\armeabi-v7a\libw_ivw.so
+* libs\armeabi-v7a\libw_ivwgram.so => app\src\main\jniLibs\armeabi-v7a\libw_ivwgram.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
