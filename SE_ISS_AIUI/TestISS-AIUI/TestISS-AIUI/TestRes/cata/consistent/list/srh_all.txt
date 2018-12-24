@@ -1,0 +1,622 @@
+OGIE-001	(field=Name,query=丁二宝,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-002	(field=phone_Number,query=13456834623,fuzzy=0,searchType=KEYBOARD)	5	nameAdd.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-003	(field=Name_姓名_  34- ,query=CPT刘工,fuzzy=0,searchType=KEYBOARD)	5	nameAdd.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-004	(field=,query=CPT刘工,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-005	(field=姓名,query=1车班,fuzzy=0,searchType=KEYBOARD)	5	nameAdd.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-006	(field=姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名,query=CPT刘工,fuzzy=0,searchType=KEYBOARD)	5	nameAdd.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-007	(field=姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名1,query=CPT刘工,fuzzy=0,searchType=KEYBOARD)	5	nameAdd.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-008	(field=Number,query=9332,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-009	(field=Name,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=182,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-010	(field=Name,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=18246499687,fuzzy=0,searchType=KEYBOARD)&(field=phone_Number,query=182,fuzzy=0,searchType=KEYBOARD)&(field=姓名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name1,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name2,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name3,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name4,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name5,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name6,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name7,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name8,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name9,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name10,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name11,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name12,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name13,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name14,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name15,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name16,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name17,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name18,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name19,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name20,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name21,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name22,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name23,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name24,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name25,query=汪小珍,fuzzy=0,searchType=KEYBOARD)	5	nameAdd.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-011	(field=Name,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=18246499687,fuzzy=0,searchType=KEYBOARD)&(field=phone_Number,query=182,fuzzy=0,searchType=KEYBOARD)&(field=姓名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name1,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name2,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name3,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name4,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name5,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name6,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name7,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名姓名,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name8,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name9,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name10,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name11,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name12,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name13,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name14,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name15,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name16,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name17,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name18,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name19,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name20,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name21,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name22,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name23,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name24,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name25,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name25,query=汪小珍,fuzzy=0,searchType=KEYBOARD)	5	nameAdd.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-012	(query=9332,fuzzy=0,searchType=keyboard)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-013	(field=Name,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Name,query=182,fuzzy=0,searchType=KEYBOARD	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-014	(field=Name,query=丁二宝candy%^&*()_+寶寶寶寶감사합니다.ありがとうございますｎｉｈａｏａ.,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-015	(field=Name,query=<Name> 丁二宝<\Name>,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-016	(field=Name,query="Name" : "丁二宝",fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-017	(field=Name,query=|'1=1',fuzzy=0,searchType=keyboard)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-018	(field=Name,query=,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-019	(field=Name,query=      ,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-020	(field=Name,query=丁芳二哥,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-021	(field=Name,query=9426986,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-022	(field=Name,query=丁芳二可,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-023	(field=Name,query=34997,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-0001	(field=Name,query=34997,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-024	(field=Name,query=东莞岳先森,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-0002	(field=Name,query=东莞岳先森,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-025	(field=Name,query=东莞岳先森,fuzzy=0,searchType=othertype)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-026	(field=Name,query=东莞岳先森,fuzzy=0,searchType=-1.0)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-027	(field=Name,query=东莞岳先森,fuzzy=0,searchType=searchTypee" : "keyboard")	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-028	(field=Name,query=妈,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-001	(field=Name,query=妈,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-029	(field=Name,query=赵云,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-002	(field=Name,query=赵云,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-030	(field=Name,query=于英发,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-003	(field=Name,query=于英发,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-031	(field=Name,query=谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗姗姗,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-004	(field=Name,query=谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗姗姗,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-001	(field=Name,query=32hf123143uhfjdroir9qduw-e]49853,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-002	(field=Name,query=32hf123143uhfjdroir9qduw-e]49853,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-003	(field=Name,query=wuroiwhroahuhuafiuwehruhairhuayh,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-004	(field=Name,query=wuroiwhroahuhuafiuwehruhairhuayh,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-032	(field=Name,query=谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗姗姗姗,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-005	(field=Name,query=谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗谢姗姗姗姗姗,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-005	(field=Name,query=fjdroir9qduw-e]498537598270$%%^*&,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-006	(field=Name,query=fjdroir9qduw-e]498537598270$%%^*&,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-007	(field=Name,query=*Q#^9聚会多好看就好28huighewuroiwhroahuh,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+IndexLength-008	(field=Name,query=*Q#^9聚会多好看就好28huighewuroiwhroahuh,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-033	(field=Name,query=Duia_臺灣代購,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-006	(field=Name,query=Duia_臺灣代購,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-001	(field=Name,query=韓笑1,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-002	(field=Name,query=韓笑1,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-003	(field=Name,query=hanxiao1,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-004	(field=Name,query=42694261,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-005	(field=Name,query=491,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-006	(field=Name,query=鴻粵宋建軍移動電話[廣東廣,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-007	(field=Name,query=鴻粵宋建軍移動電話[廣東廣,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-008	(field=Name,query=hongyuesongjianjunyidongdianhua,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-009	(field=Name,query=466498376645426586,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+fantizi-010	(field=Name,query=497559334,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-034	(field=Name,query=司機小曇,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-007	(field=Name,query=司機小曇,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-035	(field=Name,query=어머니,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-008	(field=Name,query=어머니,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-036	(field=Name,query=かあさん,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-009	(field=Name,query=かあさん,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-037	(field=Name,query=我要代购飞机票,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-010	(field=Name,query=我要代购飞机票,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-038	(field=Name,query=要代购飞机票吗,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-011	(field=Name,query=要代购飞机票吗,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-039	(field=Name,query=园园花店23,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-012	(field=Name,query=园园花店23,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-040	(field=Name,query=代购中国飞机票,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-013	(field=Name,query=代购中国飞机票,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-041	(field=Name,query=要代购个飞机票,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-014	(field=Name,query=要代购个飞机票,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-042	(field=Name,query=同事是12,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-015	(field=Name,query=同事是12,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-043	(field=Name,query=打丁敏敏的网新科技网站哦,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-016	(field=Name,query=打丁敏敏的网新科技网站哦,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-044	(field=Name,query=妈你拉,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-017	(field=Name,query=妈你拉,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-045	(field=Name,query=Abby,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-018	(field=Name,query=Abby,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-046	(field=Name,query=网新科技,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-019	(field=Name,query=网新科技,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-047	(field=Name,query=二宝,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-020	(field=Name,query=二宝,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-048	(field=Name,query=周县长,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-021	(field=Name,query=周县长,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-049	(field=Title,query=爱我的人和我爱的人,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-022	(field=Title,query=爱我的人和我爱的人,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-050	(field=Name,query=叮俊新号,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-023	(field=Name,query=叮俊新号,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-051	(field=Name,query=丁俊心好,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-024	(field=Name,query=丁俊心好,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-052	(field=Name,query=丁俊信号,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-025	(field=Name,query=丁俊信号,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-053	(field=Name,query=知心城晋家们,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-026	(field=Name,query=知心城晋家们,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-054	(field=Name,query=知心城进家门,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-027	(field=Name,query=知心城进家门,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-055	(field=Name,query=之心城进家们,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-028	(field=Name,query=之心城进家们,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-056	(field=Name,query=可吴晓敏经大理科大讯飞非,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-029	(field=Name,query=可吴晓敏经大理科大讯飞非,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-057	(field=Name,query=丁惠岭迅飞,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-030	(field=Name,query=丁惠岭迅飞,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-058	(field=Name,query=中国银房,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-031	(field=Name,query=中国银房,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-059	(field=Name,query=脏凯,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-032	(field=Name,query=脏凯,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-060	(field=Name,query=中美存水,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-033	(field=Name,query=中美存水,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-061	(field=Name,query=汪式创合肥项目部,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-034	(field=Name,query=汪式创合肥项目部,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-062	(field=Name,query=买房小你,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-035	(field=Name,query=买房小你,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-063	(field=Name,query=易超姨乎,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-036	(field=Name,query=易超姨乎,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-064	(field=Name,query=刘家入大哥,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-037	(field=Name,query=刘家入大哥,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-065	(field=Name,query=养…德道,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-038	(field=Name,query=养…德道,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-066	(field=Name,query=王锡分宏力通,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-039	(field=Name,query=王锡分宏力通,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-067	(field=Name,query=之心城经家门,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-040	(field=Name,query=之心城经家门,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-068	(field=Name,query=中国两通张然懋,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-041	(field=Name,query=中国两通张然懋,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-069	(field=Name,query=还飞鸿,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-042	(field=Name,query=还飞鸿,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-070	(field=Name,query=杨帆,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-043	(field=Name,query=杨帆,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-071	(field=Name,query=曾恒,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-044	(field=Name,query=曾恒,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-072	(field=Name,query=赤峰,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-045	(field=Name,query=赤峰,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-073	(field=Name,query=师洋,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-046	(field=Name,query=师洋,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-074	(field=Name,query=尼清,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-047	(field=Name,query=尼清,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-075	(field=Name,query=喊还,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-048	(field=Name,query=喊还,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-076	(field=Name,query=汝香,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-049	(field=Name,query=汝香,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+mohuyin-001	(field=App,query=a,fuzzy=0,searchType=KEYBOARD)	5	app.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+mohuyin-002	(field=App,query=a,fuzzy=1,searchType=KEYBOARD)	5	app.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+mohuyin-003	(field=Name,query=黎光,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+mohuyin-004	(field=Name,query=黎光,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+mohuyin-005	(field=Name,query=逆光,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+mohuyin-006	(field=Name,query=逆光,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-0001	(field=number,query=9,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0002	(field=number,query=8,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0003	(field=number,query=7,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0004	(field=number,query=6,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0005	(field=number,query=5,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0006	(field=number,query=4,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0007	(field=number,query=3,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0008	(field=number,query=2,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0009	(field=number,query=1,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0010	(field=number,query=0,fuzzy=0,searchType=KEYBOARD)	5	Num2.bin;INDEX;FIRST
+New-0011	(field=number,query=0,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0012	(field=number,query=九,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0013	(field=number,query=八,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0014	(field=number,query=七,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0015	(field=number,query=六,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0016	(field=number,query=五,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0017	(field=number,query=四,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0018	(field=number,query=三,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0019	(field=number,query=二,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0020	(field=number,query=一,fuzzy=0,searchType=KEYBOARD)	5	Num1.bin;INDEX;FIRST
+New-0021	(field=number,query=一,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0022	(field=number,query=零,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0023	(field=number,query=十,fuzzy=0,searchType=KEYBOARD)	5	Num1.bin;INDEX;FIRST
+New-0024	(field=number,query=十,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0025	(field=number,query=10,fuzzy=0,searchType=KEYBOARD)	5	Num2.bin;INDEX;FIRST
+New-0026	(field=number,query=10,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0027	(field=number,query=一百,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0028	(field=number,query=100,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0029	(field=number,query=一千,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0030	(field=number,query=1000,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0031	(field=number,query=一万,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0032	(field=number,query=10000,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0033	(field=number,query=一亿,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0034	(field=number,query=100000000,fuzzy=1,searchType=SR)	5	Nu2.bin;INDEX;FIRST
+New-0035	(field=number,query=两,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0036	(field=number,query=2,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0037	(field=number,query=幺,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0038	(field=number,query=1,fuzzy=1,searchType=SR)	5	Num2.bin;INDEX;FIRST
+New-0039	(field=number,query=一八零四,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0040	(field=number,query=一千八百零四,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+New-0041	(field=number,query=1804,fuzzy=1,searchType=SR)	5	Num1.bin;INDEX;FIRST
+OGIE-104	(field=Name,query=4,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-077	(field=Name,query=4,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-105	(field=Name,query=57,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-078	(field=Name,query=57,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-106	(field=Name,query=130,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-079	(field=Name,query=130,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-107	(field=Name,query=11111111111111111111111111111111,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-080	(field=Name,query=11111111111111111111111111111111,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-0020	(field=Name,query=崔舜一河南中久置业东区崔舜一河南中久置业东区崔舜一河南中久置业东,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-081	(field=Name,query=崔舜一河南中久置业东区崔舜一河南中久置业东区崔舜一河南中久置业东,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-108	(field=Name,query=111111111111111111111111111111111,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-082	(field=Name,query=111111111111111111111111111111111,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-109	(field=Name,query=阿是4,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-083	(field=Name,query=阿是4,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-110	(field=Name,query=577,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-084	(field=Name,query=577,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-111	(field=Name,query=01052893,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-085	(field=Name,query=01052893,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-112	(field=Name,query=0528935,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-086	(field=Name,query=0528935,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-113	(field=Name,query=893544,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-087	(field=Name,query=893544,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-114	(field=Name,query=0105544,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-088	(field=Name,query=0105544,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-115	(field=Name,query=ZHAOYUN,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-089	(field=Name,query=ZHAOYUN,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-116	(field=Name,query=zhaoyun,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-090	(field=Name,query=zhaoyun,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-117	(field=Name,query=ZhaoYun,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-091	(field=Name,query=ZhaoYun,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-118	(field=Name,query=57fangdong,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-092	(field=Name,query=57fangdong,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-119	(field=Name,query=Abbyzhangyu,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-093	(field=Name,query=Abbyzhangyu,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-120	(field=Name,query=zhao云,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-094	(field=Name,query=zhao云,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-121	(field=Name,query=zhaoyu,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-095	(field=Name,query=zhaoyu,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-122	(field=Name,query=zhaoy,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-096	(field=Name,query=zhaoy,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-123	(field=Name,query=zhayun,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-097	(field=Name,query=zhayun,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-124	(field=Name,query=uyingfa,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-098	(field=Name,query=uyingfa,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-125	(field=Name,query=yuingfa,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-099	(field=Name,query=yuingfa,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-126	(field=Name,query=yuyinga,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-100	(field=Name,query=yuyinga,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-127	(field=Name,query=danyanfeng,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-101	(field=Name,query=danyanfeng,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-0014	(field=Name,query=shanyanfeng,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-102	(field=Name,query=shanyanfeng,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-0015	(field=Name,query=chenglaoshi,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-103	(field=Name,query=chenglaoshi,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-0016	(field=Name,query=shenglaoshi,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-104	(field=Name,query=shenglaoshi,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-0017	(field=Name,query=laoxi,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-105	(field=Name,query=laoxi,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-0018	(field=Name,query=laoji,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-106	(field=Name,query=laoji,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-001	(field=Name,query=bao,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=9986,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-T9-001	(field=Name,query=226,fuzzy=0,searchType=T9)&(field=Number,query=9986,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-002	(field=Name,query=pu,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=9986,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-T9-002	(field=Name,query=78,fuzzy=0,searchType=T9)&(field=Number,query=9986,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-003	(field=Name,query=bu,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=9986,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-T9-003	(field=Name,query=28,fuzzy=0,searchType=T9)&(field=Number,query=9986,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-004	(field=Name,query=daduo,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-T9-004	(field=Name,query=32386,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-005	(field=Name,query=daidu,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-006	(field=Name,query=daiduo,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-007	(field=Name,query=dadu,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-008	(field=Name,query=laxia,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-009	(field=Name,query=laoxia,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-010	(field=Name,query=luoxia,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-011	(field=Name,query=laozhen,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-012	(field=Name,query=luobang,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-013	(field=Name,query=zhuoluo,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-014	(field=Name,query=zhaohuo,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-015	(field=Name,query=dengzhe,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+duoyinzi-016	(field=Name,query=zhaoshu,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-133	(field=Artist,query=LADYGAGA,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-107	(field=Artist,query=LADYGAGA,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-134	(field=Artist,query=lady gaga,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-108	(field=Artist,query=lady gaga,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-135	(field=Artist,query=LAdyGaga,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-109	(field=Artist,query=LAdyGaga,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-136	(field=Name,query=XCPT刘工,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-110	(field=Name,query=XCPT刘工,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-137	(field=Title,query=what Are You Gonna Be My Girl,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-111	(field=Title,query=what Are You Gonna Be My Girl,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-138	(field=Name,query=CPTX刘工,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-112	(field=Name,query=CPTX刘工,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-139	(field=Title,query=Are You Gonna Be My Girl or boy,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-113	(field=Title,query=Are You Gonna Be My Girl or boy,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-140	(field=Name,query=XAnnieAmlogicY,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-114	(field=Name,query=XAnnieAmlogicY,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-141	(field=Title,query=what Are You Gonna Be My Girl or boy,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-115	(field=Title,query=what Are You Gonna Be My Girl or boy,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-142	(field=Name,query=AnnieXYAmlogic,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-116	(field=Name,query=AnnieXYAmlogic,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-143	(field=Title,query=Are You Gonna could Be My Girl,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-117	(field=Title,query=Are You Gonna could Be My Girl,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-144	(field=Name,query=XAnnieYAmlogic,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-118	(field=Name,query=XAnnieYAmlogic,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-145	(field=Title,query=what Are You Gonna could Be My Girl,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-119	(field=Title,query=what Are You Gonna could Be My Girl,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-146	(field=Name,query=XAnnieYAmlogicZ,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-120	(field=Name,query=XAnnieYAmlogicZ,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-147	(field=Title,query=Are You Gonna Be My Girl,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-121	(field=Title,query=Are You Gonna Be My Girl,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-148	(field=Title,query=Are You Gonna Be My Girl,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-122	(field=Title,query=Are You Gonna Be My Girl,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-149	(field=Name,query=Ceoffrey Dennis,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-123	(field=Name,query=Ceoffrey Dennis,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-150	(field=Name,query=George Dennis,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-124	(field=Name,query=George Dennis,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-151	(field=Name,query=Gaofrrey Dennis,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-125	(field=Name,query=Gaofrrey Dennis,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-152	(field=Title,query=All Ahout You,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-126	(field=Title,query=All Ahout You,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-153	(field=Name,query=Geoffrey Dennjs,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-127	(field=Name,query=Geoffrey Dennjs,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-154	(field=Title,query=All About u,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-128	(field=Title,query=All About u,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-155	(field=Name,query=nenevo,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-129	(field=Name,query=nenevo,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-156	(field=Title,query=Ara You Gonna Ben My Girl,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-130	(field=Title,query=Ara You Gonna Ben My Girl,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-157	(field=Name,query=lemova,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-131	(field=Name,query=lemova,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-158	(field=Title,query=Are You Gonna Ben My boy,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-132	(field=Title,query=Are You Gonna Ben My boy,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-159	(field=Name,query=nemova,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-133	(field=Name,query=nemova,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-160	(field=Title,query=were You Gonna Ben My boy,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-134	(field=Title,query=were You Gonna Ben My boy,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-161	(field=Title,query=aaaaaaAre You Gonna Beeeeeee My Girlgggggggg,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-135	(field=Title,query=aaaaaaAre You Gonna Beeeeeee My Girlgggggggg,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-162	(field=Title,query=All what Your,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-136	(field=Title,query=All what Your,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-163	(field=Name,query=Annie,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-137	(field=Name,query=Annie,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-164	(field=Name,query=ieAmlo,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-138	(field=Name,query=ieAmlo,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-165	(field=Name,query=Amlogic,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-139	(field=Name,query=Amlogic,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-166	(field=Name,query=Anlogic,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-140	(field=Name,query=Anlogic,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-167	(field=Name,query=Abby张宇,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-141	(field=Name,query=Abby张宇,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-168	(field=Name,query=Abby张宇,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-142	(field=Name,query=Abby张宇,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-169	(field=Name,query=JanetBehnson131,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-143	(field=Name,query=JanetBehnson131,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-170	(field=Name,query=JeremyLin林书豪00,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-144	(field=Name,query=JeremyLin林书豪00,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-171	(field=Name,query=Lin林书豪,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-145	(field=Name,query=Lin林书豪,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-172	(field=Name,query=Jeremy林书豪,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-146	(field=Name,query=Jeremy林书豪,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-0019	(field=Name,query=Abby张宇=,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-147	(field=Name,query=Abby张宇=,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-173	(field=Name,query=Abby张宇(),fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-148	(field=Name,query=Abby张宇(),fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-0003	(field=Name,query=Abby张宇,,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-0004	(field=Name,query=Abby张宇,,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-174	(field=Name,query=Abby张宇_.§№☆★○●◎◇◆□℃‰€°¤〓↓↑←→※▲△■＃＆＠＼︿＿￣―♂♀├┝┞┟┠┡┢┣│┆┊┋┇┃┫┪┩┨┧┦┥┤┼┽┾┿╀╁╂╃╋╊╉╈╇╆╅╄≈≡≠≤≥＜＞≮≯∷±＋－×÷／∫∮∝∞∴∵∈∩∪∏∑∨∧⊥∥∠⌒⊙≌∽√ァィゥヴェ，（）ォ,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-149	(field=Name,query=Abby张宇_.§№☆★○●◎◇◆□℃‰€°¤〓↓↑←→※▲△■＃＆＠＼︿＿￣―♂♀├┝┞┟┠┡┢┣│┆┊┋┇┃┫┪┩┨┧┦┥┤┼┽┾┿╀╁╂╃╋╊╉╈╇╆╅╄≈≡≠＝≤≥＜＞≮≯∷±＋－×÷／∫∮∝∞∴∵∈∩∪∏∑∨∧⊥∥∠⌒⊙≌∽√ァィゥヴ，（）ェォ,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-175	(field=Name,query=Abby张宇_.カヵキクケコアイウエオガギグゲゴなにぬねのはひふへほゑぱぴぷぺぽばびぶべぼēéěèīíǐìㄈㄌㄏㄒㄖㄙㄩㄝㄡㄥлмнопрстЛМНОПРСТαβγδΑΒΓΔ，。、《》？；‘、：“|【】{}~！@#￥%……&*——+-〖〗，（）々～,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-150	(field=Name,query=Abby张宇_.カヵキクケコアイウエオガギグゲゴなにぬねのはひふへほゑぱぴぷぺぽばびぶべぼēéěèīíǐìㄈㄌㄏㄒㄖㄙㄩㄝㄡㄥлмнопрстЛМНОПРСТαβγδΑΒΓΔ，。、《》？；‘、：“|【】{}~！@#￥%……&*（）——+-，（）〖〗々～,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+teshuzifu-001	(field=Name,query=S.H.E_.“|【】{}~！@#￥%……&*（）——+=-〖〗,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+teshuzifu-002	(field=Name,query=谢姗姗@yahoo.com_=-〖〗々～,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-176	(field=Name,query=ZDFZS,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-151	(field=Name,query=ZDFZS,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-177	(field=Name,query=zdfzs,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-152	(field=Name,query=ZDFZS,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-178	(field=Name,query=zdFZs,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-153	(field=Name,query=ZDFZS,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+shouzimu-001	(field=Name,query=AHYYGB,fuzzy=0,searchType=KEYBOARD)	10	name.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND
+OGIE-179	(field=Name,query=dyhls50zx,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-154	(field=Name,query=dyhls50zx,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-180	(field=Name,query=gcm,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-155	(field=Name,query=gcm,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-181	(field=Name,query=dfzs,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-156	(field=Name,query=dfzs,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-182	(field=Name,query=zdzs,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-157	(field=Name,query=zdzs,fuzzy=1,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-183	(field=Name,query=9975,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-158	(field=Name,query=9975,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-001	(field=Name,query=43633739336647,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-002	(field=Name,query=10010,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-003	(field=Name,query=7947995,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-004	(field=Name,query=5733,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-005	(field=Name,query=49898836323,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-006	(field=Name,query=72694644794269426543,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-007	(field=Name,query=5732643664,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-008	(field=Name,query=48946898836323,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-009	(field=Name,query=222,fuzzy=0,searchType=T9)|(field=Number,query=222,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-010	(field=Number,query=222,fuzzy=0,searchType=T9)|(field=Name,query=222,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-001	(field=Name,query=94264,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-184	(field=Name,query=9426986,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-159	(field=Name,query=9426986,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-011	(field=Name,query=2785484664,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-012	(field=Name,query=27854,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-013	(field=Name,query=54645426466432742509,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-014	(field=Name,query=55437509,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-015	(field=Name,query=32653,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-185	(field=Name,query=3344664,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-160	(field=Name,query=3344664,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-186	(field=Name,query=82643344664,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-161	(field=Name,query=82643344664,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-187	(field=Number,query=145485,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-162	(field=Number,query=145485,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-188	(field=Name,query=11,fuzzy=0,searchType=T9)	0	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-163	(field=Name,query=11,fuzzy=1,searchType=T9)	0	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-189	(field=Name,query=62,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-164	(field=Name,query=62,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-016	(field=Name,query=87975,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-017	(field=Name,query=996624,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-018	(field=Name,query=55,fuzzy=0,searchType=T9)	10	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-019	(field=Name,query=29,fuzzy=0,searchType=T9)	10	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-shouzimu-020	(field=Name,query=522,fuzzy=0,searchType=T9)	10	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-190	(field=Name,query=482644664,fuzzy=0,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-165	(field=Name,query=482644664,fuzzy=1,searchType=T9)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+T9-002	(field=Name,query=9426,fuzzy=0,searchType=T9)	20	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-191	(field=Name,query=57,fuzzy=0,searchType=KEYBOARD)|(field=Number,query=57,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-166	(field=Name,query=57,fuzzy=1,searchType=SR)|(field=Number,query=57,fuzzy=1,searchType=SR)	20	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-192	(field=Title,query=她说,fuzzy=0,searchType=KEYBOARD)|(field=Album,query=她说,fuzzy=0,searchType=KEYBOARD)|(field=Genre,query=她说,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-167	(field=Title,query=她说,fuzzy=1,searchType=SR)|(field=Album,query=她说,fuzzy=1,searchType=SR)|(field=Genre,query=她说,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-193	(field=Title,query=破天荒,fuzzy=0,searchType=KEYBOARD)|(field=Album,query=破天荒,fuzzy=0,searchType=KEYBOARD)|(field=Genre,query=破天荒,fuzzy=0,searchType=KEYBOARD)|(field=歌手,query=破天荒,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-168	(field=Title,query=破天荒,fuzzy=1,searchType=SR)|(field=Album,query=破天荒,fuzzy=1,searchType=SR)|(field=Genre,query=破天荒,fuzzy=1,searchType=SR)|(field=歌手,query=破天荒,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-194	(field=Title,query=发如雪,fuzzy=0,searchType=KEYBOARD)|(field=FileName,query=发如雪,fuzzy=0,searchType=KEYBOARD)|(field=Genre,query=发如雪,fuzzy=0,searchType=KEYBOARD)|(field=Artist,query=发如雪,fuzzy=0,searchType=KEYBOARD)|(field=Album,query=发如雪,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-169	(field=Title,query=发如雪,fuzzy=1,searchType=SR)|(field=FileName,query=发如雪,fuzzy=1,searchType=SR)|(field=Genre,query=发如雪,fuzzy=1,searchType=SR)|(field=Artist,query=发如雪,fuzzy=1,searchType=SR)|(field=Album,query=发如雪,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-195	(field=Name,query=至上励合,fuzzy=0,searchType=KEYBOARD)|(field=Artist,query=至上励合,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-170	(field=Name,query=至上励合,fuzzy=1,searchType=SR)|(field=Artist,query=至上励合,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-196	(field=Name,query=张凯,fuzzy=0,searchType=KEYBOARD)|(field=Artist,query=五月天,fuzzy=0,searchType=KEYBOARD)|(field=电台核心名称,query=安徽音乐广播,fuzzy=0,searchType=KEYBOARD)	20	music.bin;INDEX;FIRST|radio.bin;INDEX;FIRST|name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-171	(field=Name,query=张凯,fuzzy=1,searchType=SR)|(field=Artist,query=五月天,fuzzy=1,searchType=SR)|(field=电台核心名称,query=安徽音乐广播,fuzzy=1,searchType=SR)	20	music.bin;INDEX;FIRST|radio.bin;INDEX;FIRST|name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-197	(field=Name,query=张凯,fuzzy=0,searchType=KEYBOARD)|(field=Artist,query=五月天,fuzzy=0,searchType=KEYBOARD)|(field=电台核心名称,query=安徽音乐广播,fuzzy=0,searchType=KEYBOARD)|(field=App,query=pptv聚力,fuzzy=0,searchType=KEYBOARD)	20	music.binINDEX;FIRST|radio.bin;INDEX;FIRST|app.bin;INDEX;FIRST|name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-172	(field=Name,query=张凯,fuzzy=1,searchType=SR)|(field=Artist,query=五月天,fuzzy=1,searchType=SR)|(field=电台核心名称,query=安徽音乐广播,fuzzy=1,searchType=SR)|(field=App,query=pptv聚力,fuzzy=1,searchType=SR)	20	music.binINDEX;FIRST|radio.bin;INDEX;FIRST|app.bin;INDEX;FIRST|name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-198	(field=Name,query=张凯,fuzzy=0,searchType=KEYBOARD)|(field=Artist,query=五月天,fuzzy=0,searchType=KEYBOARD)|(field=电台核心名称,query=安徽音乐广播,fuzzy=0,searchType=KEYBOARD)|(field=App,query=pptv聚力,fuzzy=0,searchType=KEYBOARD)|(field=flight,query=民航,fuzzy=0,searchType=KEYBOARD)	5	music.bin;radio.bin;app.bin;name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-173	(field=Name,query=张凯,fuzzy=1,searchType=SR)|(field=Artist,query=五月天,fuzzy=1,searchType=SR)|(field=电台核心名称,query=安徽音乐广播,fuzzy=1,searchType=SR)|(field=App,query=pptv聚力,fuzzy=1,searchType=SR)|(field=flight,query=民航,fuzzy=1,searchType=SR)	5	music.bin;radio.bin;app.bin;name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-199	(field=Name,query=Abby张宇,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=152,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-174	(field=Name,query=Abby张宇,fuzzy=1,searchType=SR)&(field=Number,query=152,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-200	(field=Title,query=她说,fuzzy=0,searchType=KEYBOARD)&(field=Album,query=她说,fuzzy=0,searchType=KEYBOARD)&(field=Genre,query=Other,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-175	(field=Title,query=她说,fuzzy=1,searchType=SR)&(field=Album,query=她说,fuzzy=1,searchType=SR)&(field=Genre,query=Other,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-201	(field=Title,query=我不爱你了,fuzzy=0,searchType=KEYBOARD)&(field=Album,query=相反的我,fuzzy=0,searchType=KEYBOARD)&(field=Genre,query=other,fuzzy=0,searchType=KEYBOARD)&(field=Artist,query=张芸京,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-176	(field=Title,query=我不爱你了,fuzzy=1,searchType=SR)&(field=Album,query=相反的我,fuzzy=1,searchType=SR)&(field=Genre,query=other,fuzzy=1,searchType=SR)&(field=Artist,query=张芸京,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-202	(field=Name,query=张凯,fuzzy=0,searchType=KEYBOARD)&(field=Artist,query=五月天,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-177	(field=Name,query=张凯,fuzzy=1,searchType=SR)&(field=Artist,query=五月天,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-203	(field=Name,query=张凯,fuzzy=0,searchType=KEYBOARD)&(field=Name,query=五月天,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-178	(field=Name,query=张凯,fuzzy=1,searchType=SR)&(field=Name,query=五月天,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-204	(field=AppType,query=导航,fuzzy=0,searchType=SR)	20	app.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-179	(field=AppType,query=导航,fuzzy=1,searchType=SR)	20	app.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-205	(field=Name,query=诺基亚,fuzzy=0,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-180	(field=Name,query=诺基亚,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-206	(field=电台核心名称,query=安庆交通音乐频道,fuzzy=0,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-181	(field=电台核心名称,query=安庆交通音乐频道,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bieming-001	(field=Name,query=猪八戒,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bieming-002	(field=Name,query=天蓬元帅,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bieming-003	(field=Name,query=二师兄,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-207	(field=Name,query=六小龄童,fuzzy=0,searchType=KEYBOARD)	-1	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-182	(field=Name,query=六小龄童,fuzzy=1,searchType=SR)	-1	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-208	(field=Name,query=六小龄童,fuzzy=0,searchType=KEYBOARD)	0	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-183	(field=Name,query=六小龄童,fuzzy=1,searchType=SR)	0	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-209	(field=Name,query=六小龄童,fuzzy=0,searchType=KEYBOARD)	1	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-184	(field=Name,query=六小龄童,fuzzy=1,searchType=SR)	1	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-210	(field=Number,query=150,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-185	(field=Number,query=150,fuzzy=1,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-211	(field=Number,query=13,fuzzy=0,searchType=KEYBOARD)	50	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-186	(field=Number,query=13,fuzzy=1,searchType=SR)	50	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-212	(field=Number,query=13,fuzzy=0,searchType=KEYBOARD)	51	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-187	(field=Number,query=13,fuzzy=1,searchType=SR)	51	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-01	(field=电台核心名称,query=安庆交通音乐广播,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-02	(field=电台核心名称,query=安庆交通音乐电台;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-03	(field=电台核心名称,query=安庆交通音乐频道;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-04	(field=电台核心名称,query=安庆交通音乐台;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-05	(field=电台核心名称,query=安庆交通音乐广播电台;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-06	(field=电台核心名称,query=合肥故事广播;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-07	(field=电台核心名称,query=合肥故事台;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-08	(field=电台核心名称,query=合肥故事电台;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-09	(field=电台核心名称,query=合肥故事广播电台;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-10	(field=电台核心名称,query=合肥故事频率;,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-11	(field=电台核心名称,query=美国广播,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+score-12	(field=电台核心名称,query=厦门人民广播,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-223	(field=Name,query=11,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-224	(field=Name,query=11,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-225	(field=Name,query=11,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-226	(field=Name,query=11,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-227	(field=Name,query=11,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-228	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST
+OGIE-229	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bat;INDEX;FIRST
+OGIE-230	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name_destroyed.bin;INDEX;FIRST
+OGIE-231	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.txt;INDEX;FIRST
+OGIE-232	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.txt;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.wav;PY_FUZZY;SECOND|RECORDFILE_20141101_11_00002.V3;ALIAS;SECOND
+OGIE-233	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.txt;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.wav;PY_FUZZY;SECOND|RECORDFILE_20141101_11_00002.V3;ALIAS;SECOND
+OGIE-234	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	bin_name.txt;INDEX;FIRST
+OGIE-235	(field=Title,query=我爱的人和爱我的人,fuzzy=0,searchType=KEYBOARD)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-236	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name_5000.bin;INDEX;FIRST|music_5000.bin;INDEX;FIRST|radio_5000.bin;INDEX;FIRST|app_5000.bin;INDEX;FIRST
+OGIE-237	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	0KB.bin;INDEX;FIRST
+OGIE-238	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name_5000.bin;INDEX;FIRST|music_5000.bin;INDEX;FIRST|radio_5000.bin;INDEX;FIRST|app_5000.bin;INDEX;FIRST
+OGIE-239	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-240	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;thesaurus;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-241	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;1;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;0;SECOND|alias.bin;-1;SECOND
+OGIE-242	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;|'1=1';FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE-243	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;"restype" : "\PY_FUZZY";SECOND|alias.bin;ALIAS;SECOND
+OGIE-244	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;<restype>"PY_FUZZY"<\restype>;SECOND|alias.bin;ALIAS;SECOND
+OGIE-245	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;FIRST
+OGIE-246	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;SECOND
+OGIE-247	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;THREE
+OGIE-248	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;-1
+OGIE-249	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;|'1=1'
+OGIE-250	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;"reslevel" : "FIRST"
+OGIE-251	(field=Name,query=园园花店,fuzzy=0,searchType=KEYBOARD)	5	name.bin;INDEX;<reslevel>FIRST<\reslevel>
+OGIE-0001	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri1.bin;INDEX;FIRST|yellowPage_pri1.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri1.bin;ALIAS;SECOND
+New-188	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri1.bin;INDEX;FIRST|yellowPage_pri1.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri1.bin;ALIAS;SECOND
+OGIE-0002	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri2.bin;INDEX;FIRST|yellowPage_pri2.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri2.bin;ALIAS;SECOND
+New-189	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri2.bin;INDEX;FIRST|yellowPage_pri2.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri2.bin;ALIAS;SECOND
+OGIE-0003	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri3.bin;INDEX;FIRST|yellowPage_pri3.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri3.bin;ALIAS;SECOND
+New-190	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri3.bin;INDEX;FIRST|yellowPage_pri3.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri3.bin;ALIAS;SECOND
+OGIE-0004	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri4.bin;INDEX;FIRST|yellowPage_pri4.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri4.bin;ALIAS;SECOND
+New-191	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri4.bin;INDEX;FIRST|yellowPage_pri4.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri4.bin;ALIAS;SECOND
+OGIE-0014	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+New-192	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri1.bin;INDEX;FIRST|yellowPage_pri1.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;FIRST|alias_pri1.bin;ALIAS;FIRST
+OGIE-0005	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri1.bin;INDEX|yellowPage_pri1.bin;INDEX|pingyin_fuzzy.bin;PY_FUZZY|alias_pri1.bin;ALIAS
+New-193	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri1.bin;INDEX|yellowPage_pri1.bin;INDEX|pingyin_fuzzy.bin;PY_FUZZY|alias_pri1.bin;ALIAS
+OGIE-0006	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri1.bin;INDEX;SECOND|yellowPage_pri1.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri1.bin;ALIAS;FIRST
+New-194	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri1.bin;INDEX;SECOND|yellowPage_pri1.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri2.bin;ALIAS;FIRST
+OGIE-0007	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri1.bin;INDEX;SECOND|yellowPage_pri1.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;FIRST|alias_pri1.bin;ALIAS;SECOND
+New-195	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri1.bin;INDEX;SECOND|yellowPage_pri1.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;FIRST|alias_pri2.bin;ALIAS;SECOND
+OGIE-0008	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_pri1.bin;INDEX;SECOND|yellowPage_pri1.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri1.bin;ALIAS;SECOND
+New-196	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_pri1.bin;INDEX;SECOND|yellowPage_pri1.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_pri1.bin;ALIAS;SECOND
+OGIE-0009	(field=Name,query=中国移动通信,fuzzy=0,searchType=SR)	5	name_resload.bin;INDEX;FIRST|yellowPage_resload.bin;INDEX;SECOND
+New-197	(field=Name,query=中国移动通信,fuzzy=1,searchType=SR)	5	name_resload.bin;INDEX;FIRST|yellowPage_resload.bin;INDEX;SECOND
+OGIE-0010	(field=Name,query=中国移动通信,fuzzy=0,searchType=SR)	5	name_resload.bin;INDEX;FIRST|yellowPage_resload.bin;INDEX;SECOND
+New-198	(field=Name,query=中国移动通信,fuzzy=1,searchType=SR)	5	name_resload.bin;INDEX;FIRST|yellowPage_resload.bin;INDEX;SECOND
+OGIE-0011	(field=Name,query=中国移动通信,fuzzy=0,searchType=SR)	5	name_resload.bin;INDEX;FIRST|alias_resload.bin;ALIAS;SECOND
+New-199	(field=Name,query=中国移动通信,fuzzy=1,searchType=SR)	5	name_resload.bin;INDEX;FIRST|alias_resload.bin;ALIAS;SECOND
+OGIE-0012	(field=Name,query=中国移动通信,fuzzy=0,searchType=SR)	5	name_resload.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND
+New-200	(field=Name,query=中国移动通信,fuzzy=1,searchType=SR)	5	name_resload.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND
+OGIE-0013	(field=Name,query=中国移动,fuzzy=0,searchType=SR)	5	name_resload.bin;INDEX;FIRST|yellowPage_resload.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_resload.bin;ALIAS;SECOND
+New-201	(field=Name,query=中国移动,fuzzy=1,searchType=SR)	5	name_resload.bin;INDEX;FIRST|yellowPage_resload.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_resload.bin;ALIAS;SECOND
+bug-001	(field=Title,query=十年,fuzzy=1,searchType=SR)	5	music2000.bin;INDEX;FIRST|yellowPage_resload.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias_resload.bin;ALIAS;SECOND
+bug_1000	(field=Title,query=2013,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND
+bug_1001	(field=Title,query=两千零十三,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND
+bug_1002	(field=Title,query=今天是2013年,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND
+bug_1003	(field=Title,query=今天是两千零十三年,fuzzy=1,searchType=SR)	5	music.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND
+OGIE_0014	(field=电台核心名称,query=科大讯飞电台,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE_0015	(field=电台核心名称,query=科大讯飞台,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE_0016	(field=电台核心名称,query=科大讯飞广播,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE_0017	(field=电台核心名称,query=科大讯飞广播电台,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+OGIE_0018	(field=电台核心名称,query=科大讯飞频率,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-206	(field=电台核心名称,query=南京市的广播,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-207	(field=电台核心名称,query=南京市,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-208	(field=电台核心名称,query=南京交通频率,fuzzy=1,searchType=SR)	5	radio.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-209	(field=Name,query=2,fuzzy=0,searchType=T9)|(field=Number,query=2,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-210	(field=Name,query=22,fuzzy=0,searchType=T9)|(field=Number,query=22,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-211	(field=Name,query=222,fuzzy=0,searchType=T9)|(field=Number,query=222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-212	(field=Name,query=2222,fuzzy=0,searchType=T9)|(field=Number,query=2222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-213	(field=Name,query=22222,fuzzy=0,searchType=T9)|(field=Number,query=22222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-214	(field=Name,query=222222,fuzzy=0,searchType=T9)|(field=Number,query=222222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-215	(field=Name,query=2222222,fuzzy=0,searchType=T9)|(field=Number,query=2222222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-216	(field=Name,query=22222222,fuzzy=0,searchType=T9)|(field=Number,query=22222222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-217	(field=Name,query=222222222,fuzzy=0,searchType=T9)|(field=Number,query=222222222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-218	(field=Name,query=2222222222,fuzzy=0,searchType=T9)|(field=Number,query=2222222222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-219	(field=Name,query=22222222222,fuzzy=0,searchType=T9)|(field=Number,query=22222222222,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-220	(field=Name,query=222222222223,fuzzy=0,searchType=T9)|(field=Number,query=222222222223,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-221	(field=Name,query=2222222222233,fuzzy=0,searchType=T9)|(field=Number,query=2222222222233,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-222	(field=Name,query=22222222222333,fuzzy=0,searchType=T9)|(field=Number,query=22222222222333,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-223	(field=Name,query=222222222223333,fuzzy=0,searchType=T9)|(field=Number,query=222222222223333,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-224	(field=Name,query=2222222222233333,fuzzy=0,searchType=T9)|(field=Number,query=2222222222233333,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-225	(field=Name,query=22222222222333333,fuzzy=0,searchType=T9)|(field=Number,query=22222222222333333,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-226	(field=Name,query=222222222223333333,fuzzy=0,searchType=T9)|(field=Number,query=222222222223333333,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-227	(field=Name,query=2222222222233333333,fuzzy=0,searchType=T9)|(field=Number,query=2222222222233333333,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-228	(field=Name,query=22222222222333333334,fuzzy=0,searchType=T9)|(field=Number,query=22222222222333333334,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-229	(field=Name,query=22222222222333333334,fuzzy=0,searchType=T9)|(field=Number,query=22222222222333333334,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-230	(field=name,query=2,fuzzy=0,searchType=T9)|(field=code,query=2,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-231	(field=name,query=22,fuzzy=0,searchType=T9)|(field=code,query=22,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-232	(field=name,query=222,fuzzy=0,searchType=T9)|(field=code,query=222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-233	(field=name,query=2222,fuzzy=0,searchType=T9)|(field=code,query=2222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-234	(field=name,query=22222,fuzzy=0,searchType=T9)|(field=code,query=22222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-235	(field=name,query=222222,fuzzy=0,searchType=T9)|(field=code,query=222222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-236	(field=name,query=2222222,fuzzy=0,searchType=T9)|(field=code,query=2222222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-237	(field=name,query=22222222,fuzzy=0,searchType=T9)|(field=code,query=22222222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-238	(field=name,query=222222222,fuzzy=0,searchType=T9)|(field=code,query=222222222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-239	(field=name,query=2222222222,fuzzy=0,searchType=T9)|(field=code,query=2222222222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-240	(field=name,query=22222222222,fuzzy=0,searchType=T9)|(field=code,query=22222222222,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-241	(field=name,query=222222222223,fuzzy=0,searchType=T9)|(field=code,query=222222222223,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-242	(field=name,query=2222222222233,fuzzy=0,searchType=T9)|(field=code,query=2222222222233,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-243	(field=name,query=22222222222333,fuzzy=0,searchType=T9)|(field=code,query=22222222222333,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-244	(field=name,query=222222222223333,fuzzy=0,searchType=T9)|(field=code,query=222222222223333,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-245	(field=name,query=2222222222233333,fuzzy=0,searchType=T9)|(field=code,query=2222222222233333,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-246	(field=name,query=22222222222333333,fuzzy=0,searchType=T9)|(field=code,query=22222222222333333,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-247	(field=name,query=222222222223333333,fuzzy=0,searchType=T9)|(field=code,query=222222222223333333,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-248	(field=name,query=2222222222233333333,fuzzy=0,searchType=T9)|(field=code,query=2222222222233333333,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-249	(field=name,query=22222222222333333334,fuzzy=0,searchType=T9)|(field=code,query=22222222222333333334,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-250	(field=name,query=22222222222333333334,fuzzy=0,searchType=T9)|(field=code,query=22222222222333333334,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-251	(field=name,query=12345444444444444444444444444443,fuzzy=0,searchType=T9)|(field=code,query=12345444444444444444444444444443,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-252	(field=Name,query=12345444444444444444444444444443,fuzzy=0,searchType=T9)|(field=Number,query=12345444444444444444444444444443,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-253	(field=name,query=12345678901234567891234567890,fuzzy=0,searchType=T9)|(field=code,query=12345678901234567891234567890,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-254	(field=Name,query=12345678901234567891234567890,fuzzy=0,searchType=T9)|(field=Number,query=12345678901234567891234567890,fuzzy=0,searchType=T9)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-255	(field=name,query=5555555555555555555555555555555555,fuzzy=0,searchType=T9)|(field=code,query=5555555555555555555555555555555555,fuzzy=0,searchType=T9)	1000	cata.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-256	(field=Name,query=沈彤,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-257	(field=Name,query=郑凯,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-258	(field=Name,query=陈盛1,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-259	(field=Name,query=沈彤,fuzzy=1,searchType=SR)	1000	yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-260	(field=Name,query=沈彤,fuzzy=1,searchType=SR)	1000	yellowPage.bin;INDEX;FIRST|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-261	(field=Name,query=陈盛,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-262	(field=Name,query=陈盛,fuzzy=1,searchType=SR) | (field=alias_name,query=陈盛,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-263	(field=Name,query=沈彤,fuzzy=1,searchType=SR) | (field=alias_name,query=沈彤,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-264	(field=Name,query=陈盛,fuzzy=1,searchType=SR) | (field=alias_name,query=陈盛,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-264	(field=Name,query=测试345,fuzzy=1,searchType=SR) | (field=Number,query=测试345,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-265	(field=Name,query=测试三四五,fuzzy=1,searchType=SR) | (field=Number,query=测试三四五,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-266	(field=Name,query=测试三百四十五,fuzzy=1,searchType=SR) | (field=Number,query=测试三百四十五,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-267	(field=Name,query=开始测试三百四十五,fuzzy=1,searchType=SR) | (field=Number,query=开始测试三百四十五,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-268	(field=Name,query=讯飞~刘棨,fuzzy=1,searchType=SR) | (field=Number,query=讯飞~刘棨,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-269	(field=Name,query=刘棨,fuzzy=1,searchType=SR) | (field=Number,query=刘棨,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-270	(field=Name,query=舒正昇,fuzzy=1,searchType=SR) | (field=Number,query=舒正昇,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-271	(field=Name,query=舒正升,fuzzy=1,searchType=SR) | (field=Number,query=舒正升,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-272	(field=Name,query=舒正升中间空格,fuzzy=1,searchType=SR) | (field=Number,query=舒正升中间空格,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-273	(field=Name,query=舒正升前后空格,fuzzy=1,searchType=SR) | (field=Number,query=舒正升前后空格,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-274	(field=Name,query=舒正升前空格,fuzzy=1,searchType=SR) | (field=Number,query=舒正升前空格,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-275	(field=Name,query=舒正升后空格,fuzzy=1,searchType=SR) | (field=Number,query=舒正升后空格,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-276	(field=Name,query=舒正升(括号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升(括号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-277	(field=Name,query=舒正升,逗号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升,逗号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-278	(field=Name,query=舒正升.点号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升.点号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-279	(field=Name,query=舒正升=等号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升=等号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-280	(field=Name,query=舒正升括号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升括号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-281	(field=Name,query=舒正升逗号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升逗号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-282	(field=Name,query=舒正升点号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升点号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND
+bug-283	(field=Name,query=舒正升等号,fuzzy=1,searchType=SR) | (field=Number,query=舒正升等号,fuzzy=1,searchType=SR)	1000	name.bin;INDEX;FIRST|yellowPage.bin;INDEX;SECOND|pingyin_fuzzy.bin;PY_FUZZY;SECOND|alias.bin;ALIAS;SECOND

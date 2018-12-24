@@ -1,0 +1,4 @@
+Name|中国移动|1|1	Number|111111|1|1	add	name_resload.bin
+Name|总国移动通信|1|1	Number|222222|1|1	add	name_resload.bin
+Name|移动中国通信|1|1	Number|333333|1|1	add	name_resload.bin
+Name|中国移动通信|1|1	Number|444444|1|1	add	name_resload.bin

@@ -1,0 +1,387 @@
+{
+	"test_to_run_doc"							: "配置执行哪些测试",
+	"test_to_run":
+	{
+		"tts_api"								: 0,
+		"tts_api_doc"							: "是否执行合成接口测试。0：不执行，1：执行",
+		
+		"tts_proc_time"							: 0,
+		
+		"tts_api_random"						: 0,
+		
+		"mvw_api"								: 0,
+		
+		"mvw_batch_by_scene"					: 0,
+		
+		"mvw_batch_by_word"						: 0,
+		
+		"mvw_consistent"						: 0,
+		
+		"mvw_api_random"						: 0,
+		
+		"cata_api"								: 0,
+		
+		"cata_time"								: 0,
+		
+		"cata_consistent"						: 0,
+		
+		"cata_api_random"						: 0,
+		
+		"sr_api"								: 0,
+		
+		"sr_api_random"							: 0,
+		
+		"sr_batch"								: 0,
+		
+		"spword_consistent"						: 0,
+		
+		"search_api"							: 0,
+		
+		"sr_consistent"						    : 0,
+		
+		"uploaddict_batch"						: 0
+	},
+	
+	"temp_test_to_run_doc"						: "配置执行哪些测试, 这里都是一些临时测试",
+	"temp_test_to_run":
+	{
+		"tts_text"								: 0,
+		
+		"tts_text_by_list"						: 0,
+		
+		"cata_index_search"						: 0,
+		
+		"cata_search"							: 0,
+		
+		"sr_audio"								: 0
+	},
+	
+	"global_cfg_doc"							: "测试工具全局配置",
+	"global_cfg":
+	{
+		"log_level"								: "-1",
+		"log_level_doc"							: "日志输出等级，默认-1",
+		
+		"log_output"							: "3",
+		"log_output_doc"						: "日志输出方式，默认2",
+		
+		"run_in_subprocess"						: "0",
+		"run_in_subprocess_doc"					: "若开启，每个测试将运行在单独的进程中。只支持linux平台"
+	},
+	
+	"temp_tests_doc"							: "临时测试项配置",
+	"temp_tests": [
+		{
+			"name"								: "tts_text",
+			"name_doc"							: "合成一段文本",
+			
+			"text"								: "你好&好",
+			"text_doc"							: "需要合成的文本，多条文本以&分隔",
+			
+			"speaker_"							: "9",
+			"speaker_doc"						: "发音人，填写发音人编号，默认9（佳佳）",
+			
+			"tts_audio_path_"					: "tts/tts_text_audio/",
+			"tts_audio_path_text"				: "生成音频的路径，相对于TestRes目录"
+		},
+		{
+			"name"								: "tts_text_by_list",
+			"name_doc"							: "合成一段文本",
+			
+			"text_list_path"					: "tts/batch_list.txt",
+			"text_list_path_doc"				: "需要合成的文本列表文件路径，相对于TestRes目录",
+			
+			"speaker_"							: "9",
+			"speaker_doc"						: "发音人，填写发音人编号，默认是9（佳佳）",
+			
+			"tts_audio_path_"					: "tts/tts_text_audio/",
+			"tts_audio_path_text"				: "生成音频的路径，默认为TestRes/tts/tts_text_audio/"
+		},
+		{
+			"name"								: "cata_index_search",
+			"name_doc"							: "使用cata构建一条索引并搜索",
+			
+			"index_res"							: "test.bin",
+			"index_res_doc"						: "构建索引的资源",
+			
+			"index_text"						: "Name|汪小珍－新|1|1\tNumber|18246499687|1|1",
+			"index_text_doc"					: "构建索引的文本",
+			
+			"srh_res"							: "test.bin,yellowPage.bin,pinyin_fuzzy,alias",
+			"srh_res_doc"						: "搜索使用的资源",
+			
+			"srh_text"							: "(field=Name,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=182,fuzzy=0,searchType=KEYBOARD)",
+			"srh_text_doc"						: "搜索文本"
+		},
+		{
+			"name"								: "cata_search",
+			"name_doc"							: "使用cata并搜索",
+			
+			"srh_res"							: "pinyin_fuzzy,alias",
+			"srh_res_doc"						: "搜索使用的资源",
+			
+			"srh_text"							: "(field=Name,query=汪小珍,fuzzy=0,searchType=KEYBOARD)&(field=Number,query=182,fuzzy=0,searchType=KEYBOARD)",
+			"srh_text_doc"						: "搜索文本"
+		},
+		{
+			"name"								: "sr_audio",
+			"name_doc"							: "识别音频",
+			
+			"online"							: "0",
+			"online_doc"						: "是否使用在线模式",
+			
+			"audio_path"						: "\\\\192.168.28.101\\套件测试集\\识别\\400\\shiqu\\LSA\\C3\\hight_c3_0.5s_5.5s\\hight_c3_0.5s_5.5s_49_encode.pcm",
+			"audio_path_doc"					: "音频路径",
+			
+			"lang"								: "0",
+			"lang_doc"							: "识别语种，0：中文，1：英文，2：粤语",
+			
+			"scene"								: "all",
+			"scene_doc"							: "识别场景",
+			
+			"mode"								: "1",
+			"mode_doc"							: "识别模式",
+			
+			"szCmd"								: "",
+			"szCmd_doc"							: "命令词",
+			
+			"dict_path_"						: "E:/project/SE_ISS3.0/Branches/SE_ISS_AIUI/Development/UnitTest/TestISS-AIUI/TestISS-AIUI/TestRes/dict/dict_M-500.txt",
+			"dict_path_doc"						: "词典路径，不配置则不传词典",
+			
+			"ifOnlyUploadToCloud"				: "0",
+			"ifOnlyUploadToCloud"				: "词典是否只上传到云端"
+		}
+	],
+	
+	"tests_doc"									: "测试项配置",
+	"tests": [
+		{
+			"name"								: "tts_api",
+			"name_doc"							: "合成接口测试",
+			
+			"priority"							: 10,
+			"priority_doc"						: "优先级，较大数值的测试会先执行",
+			
+			"filter_"							: "*TTS*.*",
+			"filter_doc"						: "gtest参数，控制执行哪些测试，不要修改",
+			
+			"repeat_"							: "1",
+			"repeat_doc"						: "接口测试执行几遍，传-1可执行无限次",
+			
+			"break_on_failure"					: "0",
+			"break_on_failure_doc"				: "当出现错误时即中止测试，推荐和repeat参数配合使用，使用较大的repeat值，同时开启该配置"
+		},
+		{
+			"name"								: "tts_proc_time",
+			"priority"							: 8
+		},
+		{
+			"name"								: "tts_api_random",
+			"priority"							: 1,
+			"run_time"							: "4",
+			"run_time_doc"						: "运行时间，单位小时，数值可以为小数"
+		},
+		{
+			"name"								: "mvw_api",
+			"priority"							: 10,
+			
+			"filter_"							: "*MVW*.*",
+			"filter_doc"						: "gtest参数，控制执行哪些测试，不要修改",
+			
+			"repeat_"							: "1",
+			"repeat_doc"						: "接口测试执行几遍，传-1可执行无限次",
+			
+			"break_on_failure"					: "0",
+			"break_on_failure_doc"				: "当出现错误时即中止测试，推荐和repeat参数配合使用，使用较大的repeat值，同时开启该配置"
+		},
+		{
+			"name"								: "mvw_batch_by_scene",
+			"priority"							: 3,
+			
+			"scenes_"							: "1,2,4",
+			"scenes_doc"						: "唤醒场景，不配置的话默认唤醒所有场景"
+		},
+		{
+			"name"								: "mvw_batch_by_word",
+			"priority"							: 3
+		},
+		{
+			"name"								: "mvw_consistent",
+			"priority"							: 1
+		},
+		{
+			"name"								: "mvw_api_random",
+			"priority"							: 1,
+			"run_time"							: "4",
+			"run_time_doc"						: "运行时间，单位小时，数值可以为小数"
+		},
+		{
+			"name"								: "cata_api",
+			"priority"							: 10,
+			
+			"filter_"							: "*CATA*.*",
+			"filter_doc"						: "gtest参数，控制执行哪些测试，不要修改",
+			
+			"repeat_"							: "1",
+			"repeat_doc"						: "接口测试执行几遍，传-1可执行无限次",
+			
+			"break_on_failure"					: "0",
+			"break_on_failure_doc"				: "当出现错误时即中止测试，推荐和repeat参数配合使用，使用较大的repeat值，同时开启该配置"
+		},
+		{
+			"name"								: "cata_time",
+			"priority"							: 8
+		},
+		{
+			"name"								: "cata_consistent",
+			"name_doc"							: "cata一致性测试",
+			
+			"index_list_dir_"					: "cata/consistent/list/index_in_effect",
+			"index_list_dir_doc"				: "存放索引列表文件的目录，使用该目录下所有文件进行索引构建。相对于TestRes目录",
+			
+			"search_list_"						: "cata/consistent/list/srh_all.txt",
+			"search_list_doc"					: "搜索列表文件。相对于TestRes目录",
+			
+			"priority"							: 1
+		},
+		{
+			"name"								: "cata_api_random",
+			"priority"							: 1,
+			"run_time"							: "0.1",
+			"run_time_doc"						: "运行时间，单位小时，数值可以为小数"
+		},
+		{
+			"name"								: "sr_api",
+			"priority"							: 10,
+			
+			"filter_"							: "*SR*.*",
+			"filter_doc"						: "gtest参数，控制执行哪些测试，不要修改",
+			
+			"repeat_"							: "1",
+			"repeat_doc"						: "接口测试执行几遍，传-1可执行无限次",
+			
+			"break_on_failure"					: "0",
+			"break_on_failure_doc"				: "当出现错误时即中止测试，推荐和repeat参数配合使用，使用较大的repeat值，同时开启该配置"
+		},
+		{
+			"name"								: "sr_api_random",
+			"priority"							: 1,
+			"run_time"							: "4",
+			"run_time_doc"						: "运行时间，单位小时，数值可以为小数"
+		},
+		{
+			"name"								: "sr_batch",
+			"priority"							: 4,
+			
+			"ch_audio_list_path"				: "sr/batch/audio_list/isr_list_ch.txt",
+			"ch_audio_list_path_doc"			: "中文音频列表路径",
+			
+			"en_audio_list_path"				: "sr/batch/audio_list/isr_list_en.txt",
+			"en_audio_list_path_doc"			: "英文音频列表路径",
+			
+			"ch_time_audio_list_path"			: "sr/batch/audio_list/isr_list_time.txt",
+			"ch_time_audio_list_path_doc"		: "中文响应时间音频列表路径",
+			
+			"ch_dict_path"						: "",
+			"ch_dict_path_doc"					: "中文词典文件路径，不配置则不传词典sr/batch/dict_list/dict_list_ch.txt",
+			
+			"en_dict_path"						: "sr/batch/dict_list/dict_list_en.txt",
+			"en_dict_path_doc"					: "英文词典文件路径，不配置则不传词典",
+			
+			"mode"								: "1",
+			"mode_doc"							: "识别模式",
+			
+			"lang"								: "0",
+			"lang_doc"							: "识别语种，0：中文，1：英文，2：粤语",
+			
+			"ifOnlyUploadToCloud"				: "0",
+			"ifOnlyUploadToCloud_doc"			: "词典是否只上传到云端",
+			
+			"test_mode"							: "4",
+			"test_mode_doc"						: "测试类型，1：中文识别效果测试，2：英文识别效果测试，4：中文识别响应时间测试",
+			
+			"loop_num"							: "1",
+			"loop_num_doc"						: "测试循环次数，传-1测试无限次"
+		},
+		{
+			"name"								: "spword_consistent",
+			
+			"priority"							: 4,
+			
+			"test_text_list_path"				: "sr/spword/test_suite/new_input_sr.txt",
+			"test_text_list_path_doc"			: "测试集路径"
+		},
+		{
+			"name"								: "search_api",
+			"priority"							: 10,
+			
+			"filter_"							: "*Search*.*",
+			"filter_doc"						: "gtest参数，控制执行哪些测试，不要修改",
+			
+			"repeat_"							: "1",
+			"repeat_doc"						: "接口测试执行几遍，传-1可执行无限次",
+			
+			"break_on_failure"					: "0",
+			"break_on_failure_doc"				: "当出现错误时即中止测试，推荐和repeat参数配合使用，使用较大的repeat值，同时开启该配置"
+		},
+		{
+			"name"								: "sr_consistent",
+			"priority"							: 4,
+			
+			"ch_audio_list_path"				: "sr/consistent/audio_list/isr_list_ch.txt",
+			"ch_audio_list_path_doc"			: "中文音频列表路径",
+			
+			"en_audio_list_path"				: "sr/consistent/audio_list/isr_list_en.txt",
+			"en_audio_list_path_doc"			: "英文音频列表路径",
+			
+			"ch_dict_path"						: "sr/consistent/dict_list/dict_list_ch_contact.txt",
+			"ch_dict_path_doc"					: "中文词典文件路径，不配置则不传词典",
+			
+			"en_dict_path"						: "sr/consistent/dict_list/dict_list_en.txt",
+			"en_dict_path_doc"					: "英文词典文件路径，不配置则不传词典",
+			
+			"ch_user_data_path"					: "sr/consistent/user_data_list/ch_user_data_list.txt",
+			"ch_user_data_path_doc"				: "中文user_data路径",
+			
+			"en_user_data_path"					: "sr/consistent/user_data_list/en_user_data_list.txt",
+			"en_user_data_path_doc"				: "英文user_data路径",
+			
+			"mode"								: "1",
+			"mode_doc"							: "识别模式",
+			
+			"lang"								: "0",
+			"lang_doc"							: "识别语种，0：中文，1：英文，2：粤语",
+			
+			"ifOnlyUploadToCloud"				: "0",
+			"ifOnlyUploadToCloud_doc"			: "词典是否只上传到云端",
+			
+			"test_mode"							: "1",
+			"test_mode_doc"						: "测试类型，1：中文识别效果测试，2：英文识别效果测试",
+			
+			"loop_num"							: "100",
+			"loop_num_doc"						: "测试循环次数，传-1测试无限次"
+		},
+		{
+			"name"								: "uploaddict_batch",
+			"priority"							: 10,
+			
+			"lang"								: "0",
+			"lang_doc"							: "识别语种，0：中文，1：英文，2：粤语",
+			
+			"dict_path"							: "sr/consistent/dict_list/",
+			"dict_path_doc"						: "词典路径",
+			
+			"dict_name"							: "dict_list_ch_app.txt,dict_list_ch_contact.txt,dict_list_ch_music.txt",
+			"dict_name"							: "词典名字，以逗号分隔开",
+			
+			"ifOnlyUploadToCloud"				: "0",
+			"ifOnlyUploadToCloud_doc"			: "词典是否只上传到云端",
+			
+			"ifEveryTimeNeedCreate"				: "0",
+			"ifEveryTimeNeedCreate_doc"			: "是否每次上传词典都要create",
+			
+			"loop_num"							: "1",
+			"loop_num_doc"						: "测试循环次数，传-1测试无限次"
+		}
+	]
+}

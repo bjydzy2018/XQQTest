@@ -1,0 +1,40 @@
+500
+songs blank num: 0
+singers blank num: 0
+albums blank num: 2
+
+1000
+songs blank num: 0
+singers blank num: 0
+albums blank num: 7
+
+2000
+songs blank num: 0
+singers blank num: 0
+albums blank num: 19
+
+3000
+songs blank num: 0
+singers blank num: 0
+albums blank num: 35
+
+4000
+songs blank num: 0
+singers blank num: 0
+albums blank num: 43
+
+5000
+songs blank num: 0
+singers blank num: 0
+albums blank num: 63
+
+10000
+songs blank num: 0
+singers blank num: 0
+albums blank num: 159
+
+20000
+songs blank num: 0
+singers blank num: 0
+albums blank num: 410
+

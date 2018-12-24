@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{411F6462-676E-4A31-98F9-CC43BEF9FD72}</ProjectGuid>
+    <RootNamespace>TestISSAIUI</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>14.0.25431.1</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>..\..\..\..\Project\07.Release\win32\bin\Release\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>..\..\..\..\Project\07.Release\win32\bin\Release\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>gtest;..\..\..\Source\libSearchForNli;..\..\..\Source\VACommon\log;..\..\..\Source\VACommon;..\..\..\Source\ISS_API;.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>gtestd.lib;VACommon.lib;libissauth.lib;libissmvw.lib;libisstts.lib;libisscata.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>.\lib;..\Debug;..\..\..\..\Project\07.Release\win32\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+      <OutputFile>..\..\..\..\Project\07.Release\win32\bin\Release\$(ProjectName).exe</OutputFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>gtest;..\..\..\Source\libSearchForNli;..\..\..\Source\VACommon\log;..\..\..\Source\VACommon;..\..\..\Source\ISS_API;..\..\..\Source\libissseopt;.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>ISS_AIUI;WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>gtest.lib;VACommon.lib;libissauth.lib;libisstts.lib;libissmvw.lib;libisscata.lib;libissseopt.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>..\..\..\..\Project\07.Release\win32\bin\Release\$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>.\lib;..\Release;..\..\..\..\Project\07.Release\win32\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="CATASmoke.cpp" />
+    <ClCompile Include="CfgParse.cpp" />
+    <ClCompile Include="CommonFun.cpp" />
+    <ClCompile Include="DefCATA.cpp" />
+    <ClCompile Include="DefMVW.cpp" />
+    <ClCompile Include="DefSearchForNLI.cpp" />
+    <ClCompile Include="DefSeopt.cpp" />
+    <ClCompile Include="DefSR.cpp" />
+    <ClCompile Include="DefTTS.cpp" />
+    <ClCompile Include="ISSCATAAdapter.cpp" />
+    <ClCompile Include="ISSMVWAdapter.cpp" />
+    <ClCompile Include="ISSSeoptAdapter.cpp" />
+    <ClCompile Include="ISSSRAdapter.cpp" />
+    <ClCompile Include="ISSTTSAdapter.cpp" />
+    <ClCompile Include="JobCtrl.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MVWFlow.cpp" />
+    <ClCompile Include="MVWSmoke.cpp" />
+    <ClCompile Include="Record.cpp" />
+    <ClCompile Include="SearchInvalidPara.cpp" />
+    <ClCompile Include="SearchSmoke.cpp" />
+    <ClCompile Include="SearchStress.cpp" />
+    <ClCompile Include="SeoptFlow.cpp" />
+    <ClCompile Include="SeoptInvalidPara.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="TestSeoptBatch.cpp" />
+    <ClCompile Include="TestSRBatch.cpp" />
+    <ClCompile Include="SRFlow.cpp" />
+    <ClCompile Include="SRInvalidPara.cpp" />
+    <ClCompile Include="SRSmoke.cpp" />
+    <ClCompile Include="SRStress.cpp" />
+    <ClCompile Include="TestCATA.cpp" />
+    <ClCompile Include="TestCATAApiRandom.cpp" />
+    <ClCompile Include="TestCATAConsistent.cpp" />
+    <ClCompile Include="TestCATATime.cpp" />
+    <ClCompile Include="TestMVWApiRandom.cpp" />
+    <ClCompile Include="TestMVWBatch.cpp" />
+    <ClCompile Include="TestSR.cpp" />
+    <ClCompile Include="TestSRApiRandom.cpp" />
+    <ClCompile Include="TestSRBatch3.cpp" />
+    <ClCompile Include="TestSPWordConsistent.cpp" />
+    <ClCompile Include="TestSRConsistent.cpp" />
+    <ClCompile Include="TestTTSApiRandom.cpp" />
+    <ClCompile Include="TestTTSProcTime.cpp" />
+    <ClCompile Include="TestTTSText.cpp" />
+    <ClCompile Include="Thread.cpp" />
+    <ClCompile Include="TTSFlow.cpp" />
+    <ClCompile Include="TTSInvalidPara.cpp" />
+    <ClCompile Include="TTSMInst.cpp" />
+    <ClCompile Include="TTSSmoke.cpp" />
+    <ClCompile Include="TTSStress.cpp" />
+    <ClCompile Include="TestUpLoadDictBatch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CfgParse.h" />
+    <ClInclude Include="CommonFun.h" />
+    <ClInclude Include="Def.h" />
+    <ClInclude Include="DefCATA.h" />
+    <ClInclude Include="DefMVW.h" />
+    <ClInclude Include="DefSearchForNLI.h" />
+    <ClInclude Include="DefSeopt.h" />
+    <ClInclude Include="DefSR.h" />
+    <ClInclude Include="DefTTS.h" />
+    <ClInclude Include="ISSCATAAdapter.h" />
+    <ClInclude Include="ISSMVWAdapter.h" />
+    <ClInclude Include="ISSSeoptAdapter.h" />
+    <ClInclude Include="ISSSRAdapter.h" />
+    <ClInclude Include="ISSTTSAdapter.h" />
+    <ClInclude Include="JobCtrl.h" />
+    <ClInclude Include="Record.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TestApiSearch.h" />
+    <ClInclude Include="TestApiSeopt.h" />
+    <ClInclude Include="TestSeoptBatch.h" />
+    <ClInclude Include="TestSRBatch.h" />
+    <ClInclude Include="TestApiCATA.h" />
+    <ClInclude Include="TestApiMVW.h" />
+    <ClInclude Include="TestApiSR.h" />
+    <ClInclude Include="TestApiTTS.h" />
+    <ClInclude Include="TestCATA.h" />
+    <ClInclude Include="TestCATAApiRandom.h" />
+    <ClInclude Include="TestCATAConsistent.h" />
+    <ClInclude Include="TestCATATime.h" />
+    <ClInclude Include="TestMVWApiRandom.h" />
+    <ClInclude Include="TestMVWBatch.h" />
+    <ClInclude Include="TestSR.h" />
+    <ClInclude Include="TestSRApiRandom.h" />
+    <ClInclude Include="TestSPWordConsistent.h" />
+    <ClInclude Include="TestSRConsistent.h" />
+    <ClInclude Include="TestTTSProcTime.h" />
+    <ClInclude Include="TestTTSApiRandom.h" />
+    <ClInclude Include="TestTTSText.h" />
+    <ClInclude Include="Thread.h" />
+    <ClInclude Include="TestUpLoadDictBatch.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

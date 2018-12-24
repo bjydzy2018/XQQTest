@@ -1,0 +1,3 @@
+Name|中移动|1|1	Number|111111|1|1	add	name_pri3.bin
+Name|移动中国通信|1|1	Number|222222|1|1	add	name_pri3.bin
+Name|总国|1|1	Number|133333|1|1	add	name_pri3.bin

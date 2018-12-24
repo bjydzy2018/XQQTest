@@ -1,0 +1,40 @@
+telephonename|Duia_臺灣代購3全較×ａＡサービス???。％|0	telephoneNumber||1|1	add	namebuildtype0.bin
+telephonename|Duia_臺灣代購3全較×ａＡサービス???。％|0	telephoneNumber||1|1	add	namebuildtype0.bin
+telephonename|Duia_臺灣代購3全較×ａＡサービス???。％|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|Duia_臺灣代購3全較×ａＡサービス???。％|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|中医按摩|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|中医按摩|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|中国银行|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|的小不点|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|张的小不点|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|啊把此的额发个和已就看了吗你哦跑请日是条目率我下有在|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|QWERTYUIOPLKJHGFDSAZXCVBNM|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|qwertyuioplkjhgfdsazxcvbnm|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|1234567890|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|*#|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|111|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|abc|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|DEF|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|ggg|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|Jkl|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|mNo|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|QQQ|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|TVT|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|ZZZ|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|000|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|11111|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|2ab2c|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|dDEF3|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|gggHI|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|Jkl5L|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|mNo66|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|77QQQ|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|TVTUU|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|WXYZ9|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+telephonename|00000|1|1	telephoneNumber||1|1	add	namebuildtype1.bin
+歌曲|字段重复|0	歌曲|字段重复1|0	add	music.bin
+歌曲|内容重复|0	歌手|内容重复|0	telephoneNumber||1|1	add	music.bin
+歌曲|内容重复|0	歌手|内容重复|0	专辑|内容重复|0	流派|内容重复|0	文件名|内容重复|0	联系人姓名|内容重复|0	联系人号码|内容重复|0	地区|内容重复|0	发射地点|内容重复|0	名称|内容重复|0	频率|内容重复|0	类型|内容重复|0	调幅|内容重复|0	别名|内容重复|0	filght|内容重复|0	train|内容重复|0	music|内容重复|0	field1|内容重复|0	field2|内容重复|0	field3|内容重复|0	field4|内容重复|0	field5|内容重复|0	field6|内容重复|0	field7|内容重复|0	field8|内容重复|0	field9|内容重复|0	field10|内容重复|0	field11|内容重复|0	field12|内容重复|0	field13|内容重复|0	field14|内容重复|0	field15|内容重复|0	add	music.bin
+歌曲|内容重复|1|1	歌手|内容重复|1|1	专辑|内容重复|1|1	流派|内容重复|1|1	文件名|内容重复|1|1	联系人姓名|内容重复|1|1	联系人号码|内容重复|1|1	地区|内容重复|1|1	发射地点|内容重复|1|1	名称|内容重复|1|1	频率|内容重复|1|1	类型|内容重复|1|1	调幅|内容重复|1|1	别名|内容重复|1|1	filght|内容重复|1|1	train|内容重复|1|1	music|内容重复|1|1	field1|内容重复|1|1	field2|内容重复|1|1	field3|内容重复|1|1	field4|内容重复|1|1	field5|内容重复|1|1	field6|内容重复|1|1	field7|内容重复|1|1	field8|内容重复|1|1	field9|内容重复|1|1	field10|内容重复|1|1	field11|内容重复|1|1	field12|内容重复|1|1	field13|内容重复|1|1	field14|内容重复|1|1	field15|内容重复|1|1	add	music.bin
+歌曲|内容重复|0	歌手|内容重复|0	专辑|内容重复|0	流派|内容重复|0	文件名|内容重复|0	联系人姓名|内容重复|0	联系人号码|内容重复|0	地区|内容重复|0	发射地点|内容重复|0	名称|内容重复|0	频率|内容重复|0	类型|内容重复|0	调幅|内容重复|0	别名|内容重复|0	filght|内容重复|0	train|内容重复|0	music|内容重复|0	field1|内容重复|0	field2|内容重复|0	field3|内容重复|0	field4|内容重复|0	field5|内容重复|0	field6|内容重复|0	field7|内容重复|0	field8|内容重复|0	field9|内容重复|0	field10|内容重复|0	field11|内容重复|0	field12|内容重复|0	field13|内容重复|0	field14|内容重复|0	field15|内容重复|0	33个|内容重复|0	add	music.bin
+歌曲|内容重复|1|1	歌手|内容重复|1|1	专辑|内容重复|1|1	流派|内容重复|1|1	文件名|内容重复|1|1	联系人姓名|内容重复|1|1	联系人号码|内容重复|1|1	地区|内容重复|1|1	发射地点|内容重复|1|1	名称|内容重复|1|1	频率|内容重复|1|1	类型|内容重复|1|1	调幅|内容重复|1|1	别名|内容重复|1|1	filght|内容重复|1|1	train|内容重复|1|1	music|内容重复|1|1	field1|内容重复|1|1	field2|内容重复|1|1	field3|内容重复|1|1	field4|内容重复|1|1	field5|内容重复|1|1	field6|内容重复|1|1	field7|内容重复|1|1	field8|内容重复|1|1	field9|内容重复|1|1	field10|内容重复|1|1	field11|内容重复|1|1	field12|内容重复|1|1	field13|内容重复|1|1	field14|内容重复|1|1	field15|内容重复|1|1	33个|内容重复|1|1	add	music.bin
